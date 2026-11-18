@@ -2,7 +2,7 @@ Un método llamado Market Profile 511
 
 — 22 A
 TPO en el área de valor no son aplicables en días de tendencia, ya que
-€l mercado todavía está buscando el área de valor justo.
+el mercado todavía está buscando el área de valor justo.
 
 Después de identificar y evaluar correctamente la actividad del operador a
 más largo plazo en el gráfico de perfil de hoy, el usuario puede determi-

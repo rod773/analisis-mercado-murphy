@@ -79,7 +79,7 @@ piado de x. Si no ha habido cambio, no marque ninguna entrada.
 
 En el mismo día no pueden haber x y o, porque en el seguimiento diario
 sólo puede haber la continuación o la inversión de la columna actual. Si no
-€s así, no hay entradas a marcar.
+es así, no hay entradas a marcar.
 
 Figura 11.8 — Fuente: Cortesía de Chartcraft, Inc., New Rochelle, NY.
 

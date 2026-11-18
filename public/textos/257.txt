@@ -23,7 +23,7 @@ pero ¿qué se considera demasiado alto o demasiado bajo en la línea del
 momento? La forma más sencilla de solucionar este problema es con la
 inspección visual. Compruebe la historia anterior de la línea del momen-
 to en el gráfico y trace líneas horizontales a lo largo de sus límites superior
-€ inferior. Estas líneas se tendrán que ajustar periódicamente, en especial
+e inferior. Estas líneas se tendrán que ajustar periódicamente, en especial
 después de que hayan sucedido cambios, pero es la forma más sencilla y
 probablemente la más efectiva de identificar los límites extremos. (Ver fi-
 guras 10.3 y 10.4).

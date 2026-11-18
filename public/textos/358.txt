@@ -26,7 +26,7 @@ jetivos para los precios tanto en las ondas impulsoras como en las correc-
 toras. Otra forma de determinarlos es usando retrocesos porcentuales. En
 este tipo de análisis, los números usados más corrientemente son el 61,8
 por ciento (redondeado a 62 por ciento casi siempre), el 38 por ciento y
-€l 50 por ciento. Recuerde que en el capítulo 4 vimos que los mercados ge-
+el 50 por ciento. Recuerde que en el capítulo 4 vimos que los mercados ge-
 neralmente retroceden a posiciones anteriores en ciertos porcentajes es-
 perados, siendo los más conocidos el 33, el 50 y el 67 por ciento. La se-
 cuencia de Fibonacci ajusta esas cifras un poco más. En una tendencia

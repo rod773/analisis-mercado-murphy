@@ -27,6 +27,6 @@ lar, futuros de obligaciones y futuros de índices bursátiles, y todos ellos a
 menudo se mueven de forma sincronizada. La dirección que toman estos
 tres mercados frecuentemente se ve afectada por lo que sucede en las lon-
 jas de contratación. La contratación programada, que tiene lugar cuando
-€l precio del contrato de futuros del índice SaP 500 no está en línea con
+el precio del contrato de futuros del índice SaP 500 no está en línea con
 
 435

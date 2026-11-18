@@ -28,7 +28,7 @@ do, la distancia entre las dos bandas se contraerá. Hay una tendencia de
 las bandas a que se alternen entre expansión y contracción. Cuando las
 bandas están inusualmente separadas, es señal de que la tendencia actual
 puede estar cambiando, y cuando se han acercado mucho, es señal de que
-€l mercado puede estar iniciando una nueva tendencia. Las Bandas de Bo-
+el mercado puede estar iniciando una nueva tendencia. Las Bandas de Bo-
 llinger también se pueden aplicar a los gráficos de precios semanales y
 mensuales usando 20 semanas y 20 meses en lugar de 20 días. Las Bandas
 

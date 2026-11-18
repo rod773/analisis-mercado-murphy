@@ -11,7 +11,7 @@ de se adaptaron a los futuros. Casi todas las herramientas básicas, como
 por ejemplo gráficos de barras, de punto y figura, modelos de precios, vo-
 lumen, líneas de tendencia, media móviles y osciladores, se usan en las dos
 áreas, por lo que cualquier persona que hubiera aprendido estos concep-
-tos en un mercado u en otro no tendría demasiadas dificultados para
+tos en un mercado u en otro no tendría demasiadas dificultades para
 adaptarse al lado necesario. De todos modos, existen algunas áreas gene-
 rales de diferencias, pero están más relacionadas con la naturaleza diversa
 de los valores y futuros que con las herramientas en sí.

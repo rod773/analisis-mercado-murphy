@@ -1,6 +1,6 @@
-Filosofía del análisis técnico 93
+Filosofía del análisis técnico 33
 
-pued€ simplemente decidir mantener su posición con respecto a un de-
+puede simplemente decidir mantener su posición con respecto a un de-
 terminado valor y esperar a que se recupere en algún momento.
 
 Los operadores de futuros no se pueden dar ese lujo. La estrategia de

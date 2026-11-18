@@ -37,7 +37,7 @@ presenta las olas que forman la marea, y las tendencias menores se com-
 portan como las pequeñas ondas de las olas.
 
 Un observador puede determinar la dirección de la marea fijándose en
-€l punto más alto de la playa que alcanzan las olas sucesivas. Si cada ola su-
+el punto más alto de la playa que alcanzan las olas sucesivas. Si cada ola su-
 cesiva llega más adentro de la playa que la ola anterior, la marea está su-
 biendo. Cuando el punto alto de cada ola sucesiva retrocede, la marea está
 
