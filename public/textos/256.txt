@@ -1,0 +1,45 @@
+256 Capítulo 10
+
+móvil de 10 días también ha comenzado a bajar). A medida que el mo-
+mento sigue cayendo por debajo de la línea cero, la tendencia a la baja
+gana momento o impulso, y sólo cuando la línea comienza a avanzar otra
+vez, el analista sabe que la tendencia a la baja se está desacelerando.
+
+Es importante recordar que el momento mide las diferencias entre pre-
+cios en dos intervalos. Para que la línea avance, las ganancias del precio en
+el último día de cierre deben ser mayores que las ganancias de hace 10 días.
+Si los precios avanzan solamente la misma cantidad que hace 10 días, la línea
+de momento será plana. Si la última ganancia del precio es menor que la de
+hace 10 días, la línea de momento comienza a caer aunque los precios estén
+subiendo todavía. Así es como la línea del momento mide la aceleración o
+desaceleración del actual avance o retroceso en la tendencia de los precios.
+
+La línea del momento indica la dirección del precio
+
+Por la forma en que está construida, la línea del momento siempre está
+un paso por delante del movimiento del precio. Encabeza el avance o el
+retroceso de los precios, luego se estabiliza mientras la tendencia actual
+del precio está todavía en efecto, y finalmente comienza a moverse en la
+dirección opuesta cuando los precios comienzan a estabilizarse.
+
+El cruce de la línea cero como señal de operaciones
+
+El gráfico del momento tiene una línea cero, y muchos técnicos la uti-
+lizan para generar señales de compra y venta. Un cruce por encima de la
+línea cero sería una señal de compra, y un cruce por debajo de la línea
+cero sería una señal de venta. De todos modos, debemos insistir aquí, otra
+vez, que el análisis básico de la tendencia sigue siendo la consideración do-
+minante. El análisis del oscilador no debe usarse como excusa para operar
+en contra de la tendencia prevaleciente del mercado. Las posiciones de
+compra sólo se deben tomar cuando se dan cruces por encima de la línea
+cero si la tendencia del mercado es alcista. En cambio, cuando los cruces
+son por debajo de la línea cero se deben tomar posiciones cortas sólo si la
+tendencia del precio es bajista. (Ver figuras 10.2a y b).
+
+Necesidad de un límite superior y uno inferior
+
+Un problema con la línea del momento, tal cual queda descrita aquí, es
+la ausencia de un límite superior y otro inferior que sean fijos. Dijimos an-
+teriormente que uno de los valores principales del análisis del oscilador es
+
+256

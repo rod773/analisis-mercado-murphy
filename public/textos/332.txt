@@ -1,0 +1,100 @@
+Capítulo 12
+
+Patrones de velas
+
+Los patrones de velas que aparecen a continuación abarcan las denomi-
+naciones usadas para identificar señales en forma de velas. El número
+entre paréntesis al final de cada nombre representa el número de velas
+usadas para definir ese patrón en particular. Los patrones alcistas y bajis-
+tas están divididos en dos grupos que representan patrones de cambio o
+
+de continuidad.
+
+Cambios alcistas
+
+Largo cuerpo blanco (1)
+Martillo (1)
+
+Martillo invertido (1)
+Sujeción por cinturón (1)
+Patrón envolvente (2)
+Harami (2)
+
+Cruz harami (2)
+
+Línea penetrante (2)
+Estrella Doji (2)
+
+Líneas de encuentro (2)
+Tres soldados blancos (3)
+Estrella matutina (3)
+Estrella Doji matutina (3)
+Bebé abandonado (3)
+Tri-estrella (3)
+
+Escapada (5)
+
+Tres dentro arriba (3)
+Tres fuera arriba (3)
+Patadas (2)
+
+Inferior tres ríos único (3)
+Tres estrellas en el sur (3)
+Golondrina escondida (4)
+Sandwich de palo (3)
+Paloma mensajera (2)
+Peldaño inferior (5)
+Mínimo a juego (2)
+Líneas de separación (2)
+
+Tres métodos ascendentes (5)
+
+Hueco superior Tasuki (3)
+
+Cambios bajistas
+
+Largo cuerpo negro (1)
+
+El ahorcado (1)
+
+Estrella fugaz (1)
+
+Sujeción por cinturón (1)
+Patrón envolvente
+
+Harami (2)
+
+Cruz harami (2)
+
+Cubierta de nube oscura
+Estrella Doji (2)
+
+Líneas de encuentro (2)
+Tres cuervos negros (3)
+Estrella vespertina (3)
+Estrella Doji vespertina (3)
+Bebé abandonado (3)
+Tri-estrella (3)
+
+Escapada (5)
+
+Tres dentro abajo (3)
+
+Tres fuera abajo (3)
+Patadas (2)
+
+El último tope (5)
+Máximo a juego (2)
+
+Dos cuervos separados arriba (3)
+Tres cuervos idénticos (3)
+Deliberación (3)
+
+Bloque de avance (3)
+
+Dos cuervos (3)
+
+Líneas de separación (2)
+Tres métodos descendentes (5)
+Hueco inferior Tasuki (3)
+

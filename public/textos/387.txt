@@ -1,0 +1,23 @@
+Ciclos temporales 387
+
+positivo en forma de acordeón que se coloca encima del gráfico de precios
+para realizar la inspección visual. La distancia entre los puntos siempre es
+equidistante y se puede extender o contraer para que se ajuste a cualquier
+longitud de ciclo. Tomando la distancia entre dos mínimos cíclicos obvios
+se puede determinar rápidamente si existen otros mínimos de igual longi-
+tud. Actualmente existe una versión electrónica de dicho dispositivo, el lla-
+mado Ehrlich Cycle Forecaster, que se utiliza como técnica de análisis. Se
+puede obtener en Omega Research's Trade Station and Super Charts
+(fOmega Research, 8700 West Flagler Street, Suite 250, Miami, FL 33174,
+[305] 551-9991, www.omegaresearch.com). (Ver figuras 14.16-14.18).
+
+Los ordenadores pueden ayudar a encontrar ciclos por medio de la ins-
+pección visual. Primero, el usuario coloca un gráfico de precios en la pan-
+talla. El paso siguiente es elegir un mínimo destacado en el gráfico como
+punto de partida. Una vez hecho esto, aparecen líneas verticales (o arcos)
+
+Figura 14.16 El ciclo presidencial de 4 años se puede identificar claramente con
+el Ehrlich Cycle Forecaster (ver líneas verticales). Si el ciclo sigue en funciona-
+miento, el próximo mínimo importante debería suceder en 1998.
+
+387

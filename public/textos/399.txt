@@ -1,0 +1,32 @@
+15
+Ordenadores y sistemas
+de contratación
+
+Introducción
+
+El ordenador juega un papel cada vez más importante en el campo del
+análisis técnico. En este capítulo veremos que el ordenador puede facilitar
+mucho la tarea del analista técnico proporcionándole acceso fácil e inme-
+diato a todo un arsenal de herramientas técnicas y a estudios que, sólo
+hace unos años, habrían requerido una ingente cantidad de trabajo. Esta
+posición asume, por descontado, que el operador sabe usar estas herra-
+mientas, lo que nos enfrenta con una de las desventajas del ordenador.
+
+El operador que no esté al tanto de los conceptos incluidos en los dife-
+rentes indicadores, y que no se sienta cómodo con la interpretación que se
+da a cada indicador, puede verse apabullado por la enorme variedad de
+programas informáticos que hay actualmente en el mercado. Pero lo que
+es peor, la impresionante cantidad de información técnica al alcance de la
+mano, a veces estimula una falsa sensación de seguridad y competencia.
+Los operadores asumen, erróneamente, que son automáticamente mejo-
+res sólo porque tienen acceso a mucho poder a través del ordenador.
+
+El aspecto que quiere destacar este capítulo es que el ordenador es una
+herramienta extremadamente valiosa en manos de un operador con una
+formación básica completa y técnicamente orientado. Cuando repasemos
+muchas de las rutinas disponibles en un ordenador, veremos que muchos
+indicadores y herramientas son bastante básicos y que ya se han visto en an-
+teriores capítulos. Pero también hay herramientas más sofisticadas que re-
+quieren unos programas informáticos más avanzados para hacer gráficos.
+
+399

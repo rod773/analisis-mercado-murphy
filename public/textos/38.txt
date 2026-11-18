@@ -1,0 +1,42 @@
+38 Filosofía del análisis técnico
+
+Breve comparación del análisis técnico de valores y futuros
+
+Una pregunta corriente es si el análisis técnico que se aplica a los futu-
+ros es el mismo que se utiliza para el mercado de valores. La respuesta es
+al mismo tiempo sí y no. Los principios básicos son los mismos, pero exis-
+ten algunas diferencias significativas. Los principios del análisis técnico se
+aplicaron primero a las previsiones del mercado de valores y sólo más tar-
+de se adaptaron a los futuros. Casi todas las herramientas básicas, como
+por ejemplo gráficos de barras, de punto y figura, modelos de precios, vo-
+lumen, líneas de tendencia, media móviles y osciladores, se usan en las dos
+áreas, por lo que cualquier persona que hubiera aprendido estos concep-
+tos en un mercado u en otro no tendría demasiadas dificultados para
+adaptarse al lado necesario. De todos modos, existen algunas áreas gene-
+rales de diferencias, pero están más relacionadas con la naturaleza diversa
+de los valores y futuros que con las herramientas en sí.
+
+Estructura de precios
+
+La estructura de precios en los futuros es mucho más complicada que
+la de los valores. Cada producto se cotiza en diferentes unidades e incre-
+mentos. Los mercados de cereales en grano, por ejemplo, cotizan en cen-
+tavos por medida, los mercados de ganado, en centavos por libra de peso,
+el oro y la plata, en dólares por onza, y los tipos de interés, por una base
+de puntos. El operador tiene que aprender los detalles contractuales de
+cada mercado: en qué bolsa se puede contratar, cómo cotiza cada contra-
+to, cuáles son los incrementos mínimo y máximo del precio, y cuánto va-
+len estos incrementos de precios.
+
+Duración limitada
+
+A diferencia de los valores, los contratos de futuros tienen fecha de ca-
+ducidad. Un Bono del Tesoro de marzo de 1999, por ejemplo, caduca en
+marzo de 1999. El típico contrato de futuros tiene una vida útil de alrede-
+dor de un año y medio antes de su vencimiento, o sea que en un momen-
+to determinado, al menos media docena de diferentes meses contractua-
+les están operando con el mismo producto al mismo tiempo. El operador
+tiene que saber con qué contratos operar y cuáles debe evitar (algo que
+quedará explicado más adelante en este libro). Esta característica de vida
+
+38

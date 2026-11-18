@@ -1,0 +1,34 @@
+Construcción de gráficos 69
+
+una de las partes. El interés abierto se registra en el gráfico por medio de
+una línea continua a lo largo de la parte inferior, generalmente por enci-
+ma del volumen pero por debajo del precio. (Ver figura 3.8)
+
+Volumen total versus volumen individual y cantidades
+de interés abierto en los futuros
+
+Los servicios de gráficos de futuros, junto con la mayoría de los técni-
+cos en futuros, utilizan sólo el volumen total y las cifras de interés abierto.
+Aunque hay cifras para cada mes individual, las cifras totales para cada
+mercado de productos son las que se usan para hacer pronósticos, y existe
+una buena razón para ello.
+
+En las primeras etapas de la vigencia de un contrato de futuros, el vo-
+lumen y el interés abierto suelen ser bastante pequeños. Las cifras aumen-
+tan a medida que el contrato se acerca a su vencimiento. Un par de meses
+
+5/23/97 " . (T50698) Treasury Bonds 06198
+GRÁFICO DE LÍNEA
+
+INTERÉS ABIERTO
+
+VOLUMEN
+
+0Z -Tapm Printed uaino Trada Sislon 6 Omega:
+
+Figura 3.8 Un gráfico de línea diario de un contrato de futuros sobre Bonos del
+Tesoro. Las barras verticales de abajo miden el volumen diario total. La línea con-
+tinua en el medio representa el total de interés abierto en circulación del merca-
+do de futuros de Bonos del Tesoro.
+
+69

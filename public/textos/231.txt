@@ -1,0 +1,40 @@
+Medias móviles 231
+
+días desciende por debajo de 20. En la segunda combinación, el cruce de
+la media de 10 días por encima de 50 señala una tendencia al alza, y a la
+baja si es por debajo de 50. Esta técnica de usar dos media juntas retrasa
+un poco más el mercado que el uso de una sola, pero produce menos se-
+ñales falsas. (Ver figura 9.5 y 9.6).
+
+El uso de tres medias, o método del triple cruce
+
+El sistema de cruce triple usado más extensamente es la frecuente com-
+binación de las medias móviles de 4-9-18 días, que se usa principalmente
+en las operaciones con futuros. Se trata de un concepto expresado por
+primera vez por R. C. Allen en su libro How to Build a Fortune in Commo-
+dities, publicado en 1972 y nuevamente por el mismo autor en 1974, en
+su trabajo titulado How to Use the 4-Day, 9-Day and 18-Day Moving Averages
+to Earn Larger Profits from Commodities. El sistema de promediar 4-9-18 días
+
+D8/22/97 (LIO598) Crude Oil, Light 05/98 03/02/98
+
+¡ GRAFICO DE BARRAS DIARIO í21'5
+E
+
+21
+
+205
+
+20
+
+[ 'sep — 0d Nov Die__ — _8
+
+— Feb
+“SO n Prrnd ury Trl 6 O Msearo e 1007
+
+Figura 9.5 El método de doble cruce utiliza dos medias móviles. La combina-
+ción de 5 y 20 días es muy corriente entre los operadores de futuros. La media de
+5_ días cayó por debajo de la de 20 días en octubre (ver círculo) y alcanzó la tota-
+lidad de la tendencia a la baja en los precios del crudo.
+
+231

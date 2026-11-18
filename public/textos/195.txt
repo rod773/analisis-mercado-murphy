@@ -1,0 +1,45 @@
+Volumen e interés abierto 195
+
+dencia es más fuerte. En un día al alza, por ejemplo, el volumen se multi-
+plica por la cantidad que el precio ha ganado. Esta técnica sigue asignan-
+do valores positivos y negativos, pero le da un mayor peso a aquellos días
+con más movimientos de precios y reduce el impacto de aquellos otros
+días en los que el cambio de los precios es mínimo.
+
+Hay fórmulas más sofisticadas que mezclan volumen (e interés abierto)
+con movimiento de precios. El índice de demanda de James Sibbet, por
+ejemplo, combina precio y volumen para formar un indicador importante
+del mercado. El índice de rentabilidad de Herrick utiliza el interés abier-
+to para medir el flujo monetario. (Ver en el Apéndice A la explicación de
+ambos indicadores).
+
+La información sobre volumen es mucho más útil en el mercado de va-
+lores que en el mercado de futuros. El volumen de las operaciones con va-
+lores se conoce de forma inmediata, mientras que en el caso de los futuros
+se conoce con un día de demora. También se dispone de los niveles al alza
+y a la baja para los valores, pero no para los futuros. La disponibilidad de
+información sobre el volumen de los valores en cada cambio del precio a
+lo largo del día ha facilitado la existencia de un indicador aún más avan-
+zado, el llamado Flujo Monetario desarrollado por Laszlo Birinyi, Jr. Esta
+versión a tiempo real del VTA vigila el nivel de volumen en cada cambio
+de precio para determinar si el dinero entra o sale de un valor. Este cálcu-
+lo sofisticado, sin embargo, necesita mucha potencia informática y no está
+fácilmente al alcance de la mayoría de los operadores.
+
+Estas variaciones más sofisticadas del VTA tienen básicamente la misma
+intención, determinar si el mayor volumen se da en la tendencia ascen-
+dente (alcista) o en la descendente (bajista). A pesar de su sencillez, la lí-
+nea VTA resulta muy útil para vigilar el flujo del volumen de un mercado,
+sea el de futuros o el de valores. Casi todos los programas informáticos de
+gráficos, que se pueden conseguir con mucha facilidad, permiten incluso
+trazar la línea del VTA justo por encima de la información de los precios,
+facilitando así la comparación. (Ver figuras 7.7 y 7.8).
+
+Otras limitaciones de volumen en futuros
+
+Ya hemos hecho referencia al desfase de un día con respecto a la in-
+formación sobre el volumen de los futuros. También existe la relativa-
+mente extraña práctica de utilizar cifras de volumen total para analizar
+contratos individuales, en lugar de utilizar el volumen real de cada con-
+
+195

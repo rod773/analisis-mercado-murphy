@@ -1,0 +1,23 @@
+144 Capítulo 5
+
+|
+
+A
+
+|
+
+Figura 5.4a Un patrón superior triple. Es similar al patrón de cabeza y hombros
+excepto que todos los picos están al mismo nivel. Cada pico de subida debería
+darse en un volumen más ligero. El patrón queda completo cuando ambos valles
+se rompen por un volumen más fuerte. La técnica de medida es la altura del pa-
+
+trón proyectada hacia abajo a partir del punto de ruptura. Los movimientos de re-
+torno a la línea inferior no son infrecuentes.
+
+_ |
+
+Figura 5.4b  Un patrón inferior triple. Es similar al patrón de cabeza y hombros
+excepto que cada mínimo está al mismo nivel. Es una imagen reflejo de un patrón
+superior triple, excepto que el volumen es más importante en la apertura al alza.
+
+144

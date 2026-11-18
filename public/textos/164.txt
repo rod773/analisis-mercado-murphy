@@ -1,0 +1,33 @@
+164 Capítulo 6
+
+Figura 6.3a  Un triángulo ascendente. El patrón se completa con un cierre deci-
+sivo algo por encima de la línea superior. Esta salida fuera del límite debería ir
+acompañada de un fuerte incremento del volumen. Esa línea superior de resis-
+tencia debería servir de apoyo en las caídas subsiguientes después de la salida. El
+objetivo de precio mínimo se obtiene midiendo la altura del triángulo (AB) y pro-
+yectando esa distancia vertical a partir del punto de ruptura C.
+
+pronóstico. Por el contrario, debido a que el triángulo simétrico es un pa-
+trón de continuidad, el analista simplemente tiene que fijarse en qué di-
+rección iba la tendencia previa y a continuación asumir que continuará en
+esa misma dirección.
+
+Volvamos al triángulo ascendente. Como ya se ha indicado, la mayoría
+de las veces el triángulo ascendente es alcista. La salida alcista queda indi-
+cada por un cierre decisivo por encima de la línea de tendencia plana su-
+perior. Al igual que en todas las salidas válidas hacia la parte superior, el
+volumen debería tener un notable incremento. Un movimiento de retor-
+no a la línea de apoyo (la línea superior plana) no es infrecuente y debe-
+ría darse con poco volumen.
+
+Técnica de medida
+
+La técnica de medida para el triángulo ascendente es relativamente
+sencilla. Basta con medir la altura del patrón en su punto más ancho y
+proyectar esa distancia vertical desde el punto de salida. Sólo es otro ejem-
+plo del uso de la volatilidad de un patrón de precios para determinar un
+objetivo de precios mínimo.
+
+El triángulo ascendente como patrón inferior
+
+164

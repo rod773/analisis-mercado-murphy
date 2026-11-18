@@ -1,0 +1,57 @@
+Osciladores y opinión contraria 275
+
+P8/27£97 — (*SPX) SEP 500 Stock !£1dex 03/05/98
+
+M h L
+p U f
+
+I”ll »
+…M”¡N'I …'|lí H U ¡¡l'h“
+"p ll | [
+I I
+
+lhh
+Vh.][ hH!… "
+
+"i
+
+ESÉECES
+
+8
+
+8
+
+sobrevendido
+
+8
+
+ES
+
+%R de Williams - 20 días
+
+E* y T T T
+'Sep e”] N T ' Feb
+. . Dic mv'1í…m—…1—-—…ao-—…,míñ
+
+Figura 10.18 - El oscilador %R de Larry Williams se usa de la misma forma que los
+demás osciladores. Las lecturas por encima de 80 o por debajo de 20 identifican
+los extremos del mercado
+
+estocástico vuelto cabeza abajo, y para corregir esto, los paquetes informá-
+ticos para gráficos permiten representar una versión invertida del %R.
+
+Elección de períodos relacionados con los ciclos
+
+La duración del oscilador se puede relacionar con los ciclos del merca-
+do subyacente. Se usa un período de la mitad de la duración del ciclo. Pe-
+ríodos comunes son 5, 10 y 20 días, basados en períodos de días naturales
+de 14, 28 y 56 días. El IFR de Wilder utiliza 14 días, que es la mitad de 28.
+En el capítulo anterior ya vimos algunas razones por las que los números
+5, 10 y 20 aparecen continuamente en las fórmulas de medias móviles y os-
+ciladores, así que no las repetiremos ahora. Baste con decir que 28 días na-
+turales (20 días de contratación) representan un importante ciclo men-
+sual dominante de operaciones y que los otros números están
+armónicamente relacionados con ese ciclo mensual. La popularidad del
+momento de 10 días y las duraciones de 14 días del IFR se basan mayori-
+
+275

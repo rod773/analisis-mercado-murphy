@@ -1,0 +1,43 @@
+188 Capítulo 7
+
+En el primer caso, tanto el comprador como el vendedor están ini-
+ciando una nueva posición y se establece un nuevo contrato. En el caso
+2, el comprador está iniciando una nueva posición larga, pero el vende-
+dor está simplemente liquidando una vieja posición larga. Uno está en-
+trando en una operación y el otro está saliendo. El resultado es un em-
+pate en el que no hay cambios en el número de contratos. En el caso 3,
+sucede lo mismo excepto que en esta ocasión es el vendedor el que ini-
+cia una nueva posición corta y el comprador el que está sólo cubriendo
+una vieja posición corta. Como uno de los operadores entra y el otro sale,
+tampoco hay cambios. En el caso 4, ambos operadores están liquidando
+una vieja posición larga y por lo tanto el interés abierto disminuye de for-
+ma acorde.
+
+En resumen, si los dos participantes de una operación están iniciando
+una nueva posición, el interés abierto aumentará. Si ambos están liqui-
+dando una vieja posición, el interés abierto disminuirá. Pero si uno está
+iniciando una nueva operación mientras que el otro está liquidando una
+vieja, el interés abierto permanecerá sin cambios. Al finalizar el día, al
+chartista le basta con mirar a los cambios netos de la cantidad total del in-
+terés abierto para poder determinar si el dinero está entrando o saliendo
+del mercado. Es una información que le permite al analista extraer algu-
+nas conclusiones sobre la fuerza o la debilidad de la actual tendencia de
+precios.
+
+Normas generales para interpretar volumen e interés abierto
+
+El técnico de futuros incorpora la información sobre volumen e interés
+abierto al análisis del mercado. Las normas para interpretar ambas di-
+mensiones normalmente se combinan porque son muy similares. De todos
+modos, hay algunas distinciones a tener en cuenta. Comenzaremos indi-
+cando las normas generales para ambas dimensiones y una vez hecho esto,
+trataremos cada una de ellas por separado antes de volver a combinarlas
+otra vez al final.
+
+Precio Volumen Interés abierto Mercado
+En alza En alza En alza Fuerte
+En alza En descenso En descenso Débil
+En descenso En alza En alza Débil
+En descenso En descenso En descenso Fuerte
+
+188

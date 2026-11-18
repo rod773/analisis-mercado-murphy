@@ -1,0 +1,22 @@
+540 Glosario
+
+Triángulos: Patrones de precios laterales en los que los precios fluctúan
+entre líneas de tendencia convergentes. Hay tres tipos de triángulos: as-
+cendente, descendente y simétrico.
+
+Triple máximo: Patrón de precio con tres picos prominentes, similar al pa-
+trón superior de cabeza y hombros, excepto que los tres picos tienen
+aproximadamente el mismo nivel. El triple mínimo es una imagen re-
+flejada hacia abajo del triple máximo.
+
+Volumen: Nivel de operaciones de un valor, opción o contrato de futuros.
+Un volumen que se extiende en la dirección de la actual tendencia de
+precios confirma dicha tendencia. (Ver volumen equilibrado).
+
+Volumen equilibrado: Desarrollado por Joseph Granville, el volumen equi-
+librado es un total acumulativo del volumen al alza y a la baja. El volu-
+men se suma en los días al alza y se resta en los días a la baja. La línea
+del volumen equilibrado se representa con la línea del precio para ver
+si una confirma a la otra. (Ver volumen).
+
+540

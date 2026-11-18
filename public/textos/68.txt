@@ -1,0 +1,31 @@
+68 Capítulo 3
+
+(INTC) Intel Corp 02/03/98
+
+GRÁFICO DE BARRAS DIARIO
+
+*
+1%
+302 T.Tapm Priked ueng TradeSialon 6 Omega Research,
+
+Figura 3.7 Visión más detallada del gráfico de barras diario de Intel. Cada barra
+mide el alcance de la cotización del día. El precio de apertura lo indica la peque-
+ña marca a la izquierda de cada barra. La marca de cierre queda a la derecha. Las
+barras que aparecen en la parte inferior miden el volumen de cada día.
+
+munes que cambian de mano en un día concreto en el mercado de valores.
+El volumen se registra por medio de barras verticales en la parte inferior del
+gráfico, debajo de la barra de precios de ese día. Una barra de volumen más
+alta significa que el volumen de ese día fue mayor, y una barra más pequeña
+indica un volumen menor. Una escala vertical aparece en la parte inferior
+del gráfico para ayudar a registrar los datos, como indica la figura 3.7.
+
+Interés abierto de los futuros
+
+El interés abierto es la cantidad de contratos de futuros en circulación
+en poder de los operadores bursátiles al final del día, pero en posiciones
+largas o cortas, no el total de ambas. Debemos recordar que, debido a que
+estamos hablando de contratos de futuros, por cada posición larga debe
+también haber una corta, o sea que sólo tenemos que saber los totales de
+
+68

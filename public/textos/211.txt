@@ -1,0 +1,45 @@
+Gráficos a largo plazo 211
+
+operar, el contrato siguiente se transforma en el más próximo a vencer y
+es el que queda registrado.
+
+Otras formas de crear gráficos de continuidad
+
+La técnica de relacionar los precios de los contratos más próximos a vencer
+es relativamente sencilla y soluciona el problema de proporcionar continui-
+dad en el precio. No obstante, el método presenta algunos problemas. A ve-
+ces, puede ser que el contrato que vence esté operando por encima de la par
+o con descuento, y el cambio al nuevo contrato cause una repentina caída o
+subida del precio en el gráfico. Otra posible distorsión es la extrema volatili-
+dad que experimentan algunos contratos al contado justo antes de vencer.
+
+Los técnicos de futuros han inventado muchas formas de hacer frente
+a estas distorsiones ocasionales. Algunos dejan de representar gráficamen-
+te el contrato más próximo un mes o dos antes de que venza para evitar la
+volatilidad en el mes spot o al contado; otros prefieren ignorar el contrato
+siguiente y usar el segundo o el tercer contrato para sus gráficos, y final-
+mente, otro método es reflejar el contrato con el interés abierto más alto,
+sobre la teoría de que el mes de entrega es la representación más verda-
+dera del valor del mercado.
+
+Los gráficos de continuidad también se pueden construir uniendo me-
+ses naturales específicos. Por ejemplo, un gráfico de continuidad de la soja
+en noviembre combinaría sólo los datos históricos proporcionados por los
+contratos de soja de noviembre de cada año sucesivo. (Esta técnica de li-
+gar meses de entrega específicos contaba con el apoyo de W. D. Gann).
+Algunos chartistas van incluso más allá y promedian los precios de varios
+contratos, o construyen índices que intentan suavizar el cambio mediante
+ajustes de la prima o el descuento del precio.
+
+El Contrato Perpetuoy
+
+Se trata de una innovadora solución al problema de la continuidad del
+precio, desarrollada por Robert Pelletier, presidente de Commodity Sys-
+tems, Inc., una empresa de servicios de información sobre bienes y valores
+(CSI. 200 W. Palmetto Park Road, Bovca Raton, FL 33422). “Perpetual
+Contractyr” es una marca registrada de dicha empresa.
+
+El propósito del Contrato Perpetuoyz es proporcionar años de historia
+de precios de futuros en una serie temporal continua, lo que se logra cons-
+
+211

@@ -1,0 +1,35 @@
+Apéndice B: Un método
+llamado Market Profile (*)
+
+Introducción
+
+El propósito de este artículo es ilustrar lo que es Market Profile y definir
+sus principios fundamentales. Antes de principios de los años ochenta, las
+únicas herramientas técnicas disponibles eran el gráfico de barras y el de
+puntos y figuras, pero en aquel entonces apareció Market Profile! para ex-
+tender dichas herramientas. Market Profile es esencialmente un enfoque es-
+tadístico del análisis de la información sobre precios.? Para quien no tenga
+una formación estadística, el siguiente ejemplo puede resultar útil. Consi-
+dere un grupo de estudiantes que han hecho un examen. Lo normal es que
+algunos obtengan una puntuación muy alta (por ejemplo, 90 o más), otros
+una puntuación muy baja (60 o menos), pero la mayoría de las puntuacio-
+nes se concentrarán alrededor de un resultado medio (por ejemplo, 75). Se
+puede usar un histograma para representar la distribución de la frecuencia
+de esas puntuaciones y obtener una “imagen estadística”. (Figura B.1).
+
+Como se puede ver, el resultado más frecuente, o resultado modal, es
+75 (6 estudiantes) mientras que la amplitud de los resultados queda defi-
+
+(*) Este apéndice fue preparado por Dennis C. Hynes.
+
+1. Market ProfileO es una marca registrada del Chicago Board of Trade (CBOT),
+en adelante mencionada como Market Profile o “el perfil”. El concepto fue desa-
+rrollado por J. Peter Steidlmayer, quien anteriormente pertenecía al CBOT. Para
+mayor información sobre el tema, póngase en contacto con el CBOT 0 lea el últi-
+mo libro del Sr. Steidlmayer, titulado 141 West Jackson y publicado en 1.996.
+
+2. Creado en principio para los precios de futuros de bienes, el formato se puede
+usar para cualquier serie de datos en la que la actividad de transacciones conti-
+nuas sea posible.
+
+497

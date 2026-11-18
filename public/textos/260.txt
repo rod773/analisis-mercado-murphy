@@ -1,0 +1,42 @@
+260 Capítulo 10
+
+10/15/93 —(TR1600) Treasury Bonds 1600 03/06/98
+
+" m
+
+t
+l1 10304
+
+E Momento de 13 semanas
+
+sobrecomprado
+
+sobrevendido
+
+' 5 E
+
+Y7 _ E
+_ —08 Ti Zhies Pc ua Tradedalon 6 Óra Resaarh Tr 1597
+
+Figura 10.4_ Línea de momento de 13 semanas en un gráfico semanal de bonos
+del tesoro. Las flechas marcan los puntos de inflexión en los extremos del mo-
+mento. La línea de momento cambió de dirección antes que el precio en cada
+cambio principal (puntos 1, 2 y 3).
+
+3. Señalar con precisión los cruces de las dos medias móviles, que ocurren
+cuando el oscilador cruza la línea cero.
+
+La media más corta se divide por la más larga. En ambos casos, sin em-
+bargo, la media más corta oscila alrededor de la media más larga, que es
+en efecto la línea cero. Si la media más corta está por encima de la más lar-
+ga, el oscilador será positivo, pero la lectura será negativa si la media más
+corta está por debajo de la más larga. (Ver figuras 10.5-10.7).
+
+Cuando las líneas de ambas medias móviles se separan demasiado, se
+crea una situación extrema del mercado que requiere una pausa en la ten-
+dencia. (Ver figuras 10.6a y b). Ésta a menudo permanece inmóvil hasta
+que la línea de la media más corta vuelve a acercarse a la línea de la media
+más larga. Cuando el acercamiento se produce, se alcanza un punto críti-
+co. En una tendencia al alza, por ejemplo, la línea más corta baja hasta la
+
+260

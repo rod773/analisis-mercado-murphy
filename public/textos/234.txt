@@ -1,0 +1,43 @@
+34 Capítulo 9
+
+hor15/97 _ (JYO398) Japanese Yen 03/98 03/02/98]
+_ as
+
+". Media de 18 días
+
+Media de 9 días
+Media de 4 días
+78
+
+Las barras de precios se han
+omitido para mayor claridad
+
+|
+
+L 'Nov Die_— E
+
+m -
+Tusing Tr o Te A
+
+Figura 9.7b  La combinación de las medias móviles de 4-9-18 días también es po-
+pular entre los operadores de futuros. En un mercado bajo, la media de 4 días (Ií-
+nea continua) es la primera en dirigirse hacia arriba y cruzar las otras dos líneas.
+Luego la media de 9 días cruza la de 18 días (ver círculo), indicando el momento
+más bajo.
+
+Cuando la tendencia al alza se invierte y comienza a ir a la baja, lo pri-
+mero que debería suceder es que la media más corta (y más sensible), que
+es la de 4 días, cayera por debajo de las de 9 y 18 días. Sólo se trata de una
+alerta de venta, pero algunos operadores, no obstante, podrían usar ese cru-
+ce original como pretexto suficiente para comenzar a liquidar posiciones
+largas. Entonces, si la media siguiente más larga (la de 9 días) cae por de-
+bajo de la media de 18 días, se confirma la señal de venta en descubierto.
+
+Sobres para la media móvil
+
+La utilidad de una sola media móvil se puede acentuar rodeándola de
+sobres. Los sobres porcentuales se pueden usar para ayudar a determinar
+cuándo un mercado se ha sobreextendido en alguna dirección. En otras
+palabras, los sobres nos dicen cuándo los precios se han alejado demasia-
+
+234

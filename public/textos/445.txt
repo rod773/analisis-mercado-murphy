@@ -1,0 +1,49 @@
+Relación entre valores y futuros: análisis entre mercados 445
+
+la línea del coeficiente es ascendente, el precio del numerador es más fuer-
+te que el denominador. Cuando la línea del coeficiente es descendente, el
+mercado del denominador es más fuerte. Considere algunos ejemplos de
+lo que se puede hacer con este sencillo indicador. Divida un índice de mer-
+cancías (como por ejemplo, el de futuros del CRB) entre los precios de fu-
+turos de bonos del tesoro. (Ver figura 17.7). Cuando la línea del coeficien-
+te es ascendente, los precios de las mercancías son mejores que los de las
+obligaciones. En una situación así, los operadores de futuros comprarían
+mercancías y venderían obligaciones. Al mismo tiempo, los operadores de
+valores estarían comprando valores sensibles a la inflación y vendiendo va-
+lores sensibles a los tipos de interés. Cuando la línea del coeficiente es des-
+cendente, harían exactamente lo contrario, o sea, venderían mercancías y
+comprarían obligaciones. Los inversores en acciones, a su vez, estarían ven-
+diendo oro, crudo y cíclicos, y comprando empresas públicas, financieros y
+productos de consumo. (Ver figura 17.8).
+
+b6/26/92 — “CRB) Commodity Research Bureau 03/20/98
+Indice CRB (semanal) "
+240
+225
+r210
+Bonos del tesoro (semanal) - - _ - E
+
+118124
+112116
+10608
+100
+- _ - 245
+| Coeficiente CRB/bonos P
+del tesoro
+2.25
+!2.l5
++2.05
+1.95
+1.85
+
+l . 93 _ — 55 — — 7
+
+d
+377 TZS0m Priad uaiy TradoSiaion 6 Oraga Reasarch e. 1097
+
+Figura 17.7 - El coeficiente índice CRB/bonos del tesoro nos indica qué tipo de
+activo es más fuerte. El año 1994 fue bueno para los bienes, mientras que 1995 fa-
+voreció a las obligaciones. El coeficiente tuvo una fuerte caída a mediados de
+1997 debido a la crisis asiática y a los temores de deflación.
+
+445

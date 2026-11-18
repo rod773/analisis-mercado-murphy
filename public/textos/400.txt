@@ -1,0 +1,43 @@
+400 Capítulo 15
+
+Gran parte del trabajo involucrado en el análisis técnico se puede rea-
+lizar sin un ordenador, y de hecho, algunas funciones se pueden cumplir
+más fácilmente con un simple gráfico y una regla que con una máquina.
+Algunos tipos de análisis de mayor alcance no necesitan la ayuda de un or-
+denador, que aún siendo muy útil, no deja de ser una simple herramienta.
+Un ordenador puede ayudar a que un buen analista técnico sea incluso
+mejor, pero no puede transformar a un mal técnico en uno bueno.
+
+Programas informáticos para hacer gráficos
+
+Varias de las rutinas técnicas disponibles a través de programas infor-
+máticos ya han sido cubiertas en capítulos anteriores, y en esta ocasión re-
+visaremos algunas herramientas e indicadores a los que se puede acceder
+actualmente, para proceder luego a tratar características adicionales como
+la capacidad de automatizar las distintas funciones elegidas por el usuario.
+Además de proporcionarnos diversos estudios técnicos, el ordenador tam-
+bién nos permite valorarlos desde el punto de vista de su rendimiento, que
+puede ser la característica más valiosa del programa. En algunos casos, los
+programas permiten que un usuario con poco o ningún conocimiento de
+programación pueda construir indicadores y sistemas.
+
+Sistemas de movimiento direccional y parabólico
+de Welles Wilder
+
+Veremos de cerca un par de los sistemas más conocidos de Welles Wil-
+der, el sistema de movimiento direccional y el sistema parabólico, como
+parte de nuestro estudio de los méritos relativos de los sistemas mecánicos
+de contratación. Demostraremos que los medios mecánicos para seguir las
+tendencias sólo funcionan bien en ciertos tipos de situaciones de merca-
+do. También indicaremos cómo incorporar un sistema mecánico a nuestro
+propio análisis de mercado y usarlo simplemente como un indicador téc-
+nico de confirmación.
+
+Demasiado de lo mismo
+
+Tal vez le parezca que hay demasiados indicadores entre los que ele-
+gir. En lugar de simplificar nuestras vidas, ¿el ordenador nos la ha com-
+plicado presentándonos tantos elementos más a consideración? Los pro-
+gramas informáticos de gráficos ponen 80 estudios diferentes a
+
+400

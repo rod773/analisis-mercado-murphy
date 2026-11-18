@@ -1,0 +1,47 @@
+202 Capítulo 7
+
+4. Un interés abierto creciente al final de un patrón de precios se consi-
+dera una confirmación añadida de una señal confiable de tendencia.
+La ruptura de la base del cuello, por ejemplo, en un patrón inferior de
+cabeza y hombros, resulta más convincente si el cambio se da con un in-
+terés abierto creciente y un volumen mayor. El analista debe ir con cui-
+dado aquí. Dado que el ímpetu posterior a la señal inicial de tendencia
+lo provocan a menudo los que están en el lado equivocado del merca-
+do, a veces el interés abierto cae un poco al principio de una nueva ten-
+dencia. Esta bajada inicial del interés abierto puede confundir a un
+intérprete de gráficos no alertado y da argumentos en contra de con-
+centrar demasiada atención en los cambios del interés abierto en perío-
+dos de muy corta duración.
+
+Resumen de las normas de volumen e interés abierto
+
+Veamos de forma resumida algunos de los más importantes elementos
+del precio, el volumen y el interés abierto.
+
+1. El volumen se usa en todos los mercados y el interés abierto se utili-
+za principalmente en el de futuros.
+
+2. Para los futuros se usan sólo el volumen y el interés abierto totales.
+
+3. El volumen (y el interés abierto) creciente indica que la actual ten-
+dencia de precios probablemente continuará.
+
+4. El volumen (y el interés abierto) decreciente sugiere que la tenden-
+cia de precios puede estar cambiando.
+
+5. El volumen precede al precio. Los cambios en la presión vendedora
+o compradora a menudo se detectan antes en el volumen que en el
+precio.
+
+6. El volumen total acumulativo (VTA), o una variación del mismo, se
+puede utilizar para medir con mayor exactitud la dirección de la
+presión de volumen.
+
+7. Dentro de una tendencia al alza, una repentina estabilización o dis-
+minución del interés abierto frecuentemente es una advertencia de
+un cambio de tendencia. (Aplicable sólo a futuros).
+
+8. Un interés abierto muy alto en máximos del mercado es peligroso y
+puede intensificar la presión a la baja. (Aplicable sólo a futuros)
+
+202

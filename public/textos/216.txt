@@ -1,0 +1,29 @@
+216 Capítulo 8
+
+Ejemplos de gráficos a largo plazo
+
+Las páginas siguientes contienen ejemplos de gráficos semanales y men-
+suales a largo plazo (Figuras 8.2 a 8.12). Los dibujos que aparecen en los
+gráficos se limitan a niveles de apoyo y resistencia a largo plazo, líneas de
+tendencia, retrocesos porcentuales, cambios semanales y, ocasionalmente,
+un patrón de precios. Tenga en cuenta, de todos modos, que lo que se pue-
+de hacer en un gráfico diario, también se puede hacer en uno semanal o
+mensual. Más adelante le mostraremos la aplicación de varios indicadores
+técnicos a estos gráficos a largo plazo, y también que las señales en los grá-
+ficos semanales son valiosos filtros para las decisiones temporales a corto
+plazo. Recuerdo, asimismo, que el gráfico semilogarítmico es más valioso
+cuando se estudian las tendencias de precios de largo alcance.
+
+D5117/96 _ (*SOX) Phix Semiconductor Index __ 02/27/98 —!
+
+GRÁFICO DE BARRAS DIARIO t ' l
+
+N b F
+370 16372 Piriad ving Tradodiston 6 Omaga Masearh be 1907
+
+Figura 8.2 Este gráfico de valores de semiconductores muestra la valiosa pers-
+pectiva de un gráfico semanal. La caída del precio a finales de 1997 se detuvo
+exactamente en el nivel de retroceso del 62 por ciento, y volvió a subir a partir del
+apoyo gráfico formado la primavera anterior (ver círculo).
+
+216

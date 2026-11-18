@@ -1,0 +1,85 @@
+10
+
+Análisis técnico de los Mercados Financieros
+
+Conclusión .........ee.eresererererecarecorcoreacere.
+
+Gráficos a largo plazo.......................eeeee.e.eoc.
+Introducción ............e..eee0ecerorierec e eA
+La importancia de una perspectiva de mayor alcance ......
+Creación de gráficos de continuidad para los futuros ......
+El Contrato Perpetuo TM....................ee000m00.
+Las tendencias a largo plazo hacen frente a la aleatoriedad .
+Modelos en los gráficos: cambios semanales y mensuales ...
+De los gráficos a largo plazo a los de corto plazo ..........
+
+¿Por qué se han de ajustar los gráficos de largo alcance
+
+a la inflación? ..............._e—e—-ees00rerirrece0..
+Gráficos a largo plazo no pensados para contratar.........
+Ejemplos de gráficos'a largo plazo......................
+
+Medias móviles ................eeeeocreododeceoreca..
+Introducción .............e0ese0s0rarorereraro 0e0c
+
+La media móvil: una forma de suavizar con un desfase
+
+cronológico ............ee.eeecccrrccorrecee.
+Sobres para la media móvil.................eeeoreeecce.
+Bandas de Bollinger. ...................—..000000......
+Las bandas de Bollinger usadas como metas..............
+El ancho de la banda mide la volatilidad. ................
+Medias móviles unidas a ciclos .............._.eeeeeee...
+Números de Fibonacci usados como medias móviles.......
+Medias móviles aplicadas a los gráficos a largo plazo.......
+La regla semanal ....................e.e00c0rreree..
+Optimizar 0 nO...........ñereeeccroorerocecererace..
+Resumen........ñ..oeeeée0ereroeroroderarercarcaroroc.o.
+La media móvil adaptable....................ee__...e.
+Alternativas a la media móvil .............eeeeeeeco00..
+
+Uso del oscilador en conjunción con la tendencia.........
+El momento como medida ................e.... ...
+La tasa de cambio (TDC) como medida .................
+Construcción de un oscilador usando dos medias móviles ..
+Índice del canal de mercancías ........................
+
+222
+
+223
+223
+224
+224
+226
+226
+227
+228
+
+228
+229
+230
+
+237
+237
+
+239
+249
+250
+251
+252
+254
+255
+255
+258
+263
+264
+265
+266
+
+267
+267
+268
+269
+275
+277
+279

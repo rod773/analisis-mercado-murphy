@@ -1,0 +1,52 @@
+408 . Capítulo 15
+
+significa que las señales aparecen antes y son más frecuentes. De todos mo-
+dos, usando el movimiento direccional como filtro, se podrían evitar mu-
+chas de las malas señales del sistema parabólico siguiendo sólo aquellas se-
+ñales que vayan en la misma dirección que las líneas del movimiento
+direccional. Parece, entonces, que los sistemas parabólico y de movimien-
+to direccional deberían usarse de forma conjunta, éste último como filtro
+del parabólico, que es más sensible.
+
+El momento más adecuado para usar un sistema que siga las tendencias
+es cuando la línea ADX sea ascendente. (Ver figuras 15.7 y 15.8). La ad-
+vertencia previa, no obstante, es que cuando la línea ADX empieza a caer
+desde más arriba del nivel 40, es señal de que la tendencia se está debili-
+tando. Si vuelve a subir y traspasa el nivel 20, es frecuente que la señal in-
+dique el comienzo de una nueva tendencia. (La línea ADX es, en esencia,
+una diferencia suavizada entre las líneas +DI y -DI).
+
+D3/17/95 (*DWU) Dow Utilities 03/20/08]
+
+GRÁFICO DE BARRAS SEMANAL í .-
+
+uuy o
+N
+¡¡Hh4¡h …¡|1"HIIIÍJIIM¡¡… |1…¡h¡……" |
+I""""'" l…. a af lan
+…Í|…mhum" ya -
+"…( 190
+
+H
+
+ADX de 14 semanas
+
+>
+e
+Le]
+Éq
+»
+-
+o
+Es
+
+o de
+A6 T:Adpm Priried uelrg Tradeiaion 6 Ómaga Reeeerch, Ino. 1697
+
+Figura 15.7 La línea ADX de 14 semanas alcanzó un pico a principios de 1996
+partiendo desde bastante más arriba de 40, iniciando una banda de fluctuación
+de 18 meses en utilidades. La subida ADX durante el verano de 1997 desde más
+abajo de 20 indicó que las utilidades estaban comenzando a mostrar una ten-
+dencia.
+
+408

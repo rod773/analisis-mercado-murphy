@@ -1,0 +1,40 @@
+Indicadores técnicos avanzados 491
+
+Manning Stoller, un conocido experto en las operaciones con bienes,
+desarrolló los Stoller Average Range Channels (canales de alcance medio
+de Stoller) o bandas cams. En su fórmula, la fluctuación real media se do-
+bla y luego se suma o se resta de una media móvil de 6 períodos. La ban-
+da superior es cams+, y la inferior es cams—. Los movimientos fuera de es-
+tas bandas son poco frecuentes e indican una situación extrema, y de esta
+forma se pueden usar como filtros para operar. Cuando los precios están
+cerca o por encima de la banda cams+, es un momento de alto riesgo para
+comprar y de bajo riesgo para vender. Por el contrario, si los precios están
+al mismo nivel o por debajo de la banda cams-, se trata de una zona de
+alto riesgo para vender y de un punto más favorable para comprar.
+
+El gráfico semanal de continuidad de futuros del oro (Figura A.5) pre-
+senta ambas bandas, la cams+ y la cams—. En febrero de 1997, en el punto
+1, los precios del oro traspasaron ligeramente la banda cams-. Aunque el
+
+»| mov_avg starct starc- PRECIO SEMANAL
+DEL ORO CON
+BANDAS CAMS
+
+Línea superior =
+cams+
+
+. 4 y —l 41412089000 Línea media =
+PA uv - - media de 6 semanas
+r
+
+Línea inferior =
+cams—
+
+ÍDic Ene Feb Mar ¡Abr May [Jun |¡Jul¡Ago ¡SeplOctiNov Dic lEne ¡Feb|Mar — EE
+
+Figura A.5 Bandas cams representadas alrededor de una media móvil de 6 se-
+manas de precios semanales del oro. Los puntos 1 y 3 muestran precios ascen-
+dentes después de haber caído por debajo de la banda inferior. El punto 2 mues-
+tra precios descendentes después de haber traspasado la banda superior.
+
+491

@@ -1,0 +1,45 @@
+160 Capítulo 6
+
+El triángulo simétrico
+
+El triángulo simétrico (o espiral) normalmente es un patrón de conti-
+nuidad. Representa una pausa en la tendencia actual, que luego retoma la
+dirección original. En el ejemplo de la figura 6.1a, la tendencia anterior era
+ascendente, por lo que los porcentajes favorecen la resolución de la conso-
+lidación triangular en la parte superior. Si la tendencia hubiera sido a la
+baja, entonces el triángulo simétrico habría tenido implicaciones bajistas.
+
+El requisito mínimo para que haya un triángulo es que haya cuatro pun-
+tos de cambio. Recuerde que siempre se necesitan dos puntos para trazar
+una línea de tendencia, por lo tanto, para trazar dos líneas de tendencia
+convergentes, cada línea debe ser tocada al menos dos veces. En la figura
+6.1a, el triángulo en realidad comienza en el punto 1, que es donde co-
+mienza la consolidación de la tendencia al alza. Los precios retroceden has-
+ta el punto 2 y a continuación suben hasta el punto 3. El punto 3, sin em-
+bargo, queda más bajo que el punto 1. La línea de tendencia superior sólo
+se puede trazar una vez que los precios han bajado a partir del punto 3.
+
+Obsérvese que el punto 4 es más alto que el punto 2. Una vez que los
+precios han subido a partir del punto 4, se puede trazar la línea inferior in-
+clinada hacia arriba. Es en este momento cuando el analista comienza a
+sospechar que se trata de un triángulo simétrico, porque ahora hay cuatro
+puntos de cambio (1, 2, 3 y 4) y dos líneas de tendencia convergentes.
+
+Aunque el requisito mínimo es que haya cuatro puntos de cambio, mu-
+chos triángulos tienen seis, como muestra la figura 6.1a. Esto significa que
+en realidad hay tres picos y tres valles que se combinan para formar cinco
+ondas dentro del triángulo antes de que la tendencia ascendente se reini-
+cie. (Cuando lleguemos a la Teoría de las Ondas de Elliott, diremos algu-
+na cosa más sobre la tendencia de cinco ondas dentro de los triángulos).
+
+Límite temporal para la resolución del triángulo
+
+Hay un límite temporal para la resolución del patrón, y es el punto don-
+de ambas líneas se encuentran, en el vértice. Como regla general, los pre-
+cios deberían tomar la dirección de la tendencia anterior aproximada-
+mente entre los dos tercios y los tres cuartos del ancho horizontal del
+triángulo, o sea, la distancia desde la base vertical a la izquierda del patrón
+hasta el vértice en el extremo derecho. Dado que las dos líneas deben en-
+contrarse en un punto, esa distancia temporal se puede medir una vez que
+
+160

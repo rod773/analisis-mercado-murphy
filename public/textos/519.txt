@@ -1,0 +1,47 @@
+Aspectos fundamentales de la creación de un sistema de contratación 519
+
+con una parte de la información y luego probarlo con el resto que no se ha
+visto). Muchos expertos no estarían de acuerdo con este enfoque, pero yo
+creo que es el mejor para mi metodología, que descansa sobre conceptos
+firmes, prácticamente ninguna optimización y un procedimiento de prue-
+ba que cubre una amplia gama de parámetros y mercados. Yo empiezo con
+una metodología que creo que es buena y la pongo a prueba para confirmar
+o desestimar mi teoría, pero he descubierto que casi todos los demás hacen
+lo contrario, es decir, ponen a prueba una serie de datos para llegar a un sis-
+tema de contratación.
+
+Cuando pruebo sistemas no considero los costes de transacción (por
+ejemplo, comisiones) pero los incluyo como factores al final. Pienso que
+así el proceso de evaluación es más puro y mis resultados seguirán siendo
+útiles en caso de que algunos supuestos cambien en el futuro.
+
+Mis sistemas tienen que funcionar:
+
+* Con diferentes parámetros. Si considero el uso de un sistema de cruce
+de medias móviles de 5/20, también espero que funcione razonable-
+mente bien la proporción 6/18, 6/23, 4/21 y 5/19. Si no es así, miro los
+resultados de 5/20 con escepticismo.
+
+* En diferentes períodos (por ejemplo, 1990-95 y 1981-86). Un sistema
+que funciona bien con el yen japonés en un período reciente de cinco
+años, también debería funcionar razonablemente bien en cualquier
+otro intervalo igual. Se trata de otra de las áreas en las que parece que
+estoy en minoría.
+
+* En muchos mercados diferentes. Un sistema que ha funcionado bien
+en el crudo también debería funcionar bien en el gasoil para calefac-
+ción y en la gasolina sin plomo durante el mismo período. Si no es así,
+buscaré una explicación y generalmente descartaré el sistema. Yo voy
+incluso más allá, y pongo a prueba el mismo sistema en todos los mer-
+cados de mi base de datos, esperando que funcione bien en la mayoría
+de ellos.
+
+Una vez finalizadas nuestras pruebas, inspeccionemos visualmente las
+señales para operar generadas por el ordenador en un gráfico de precios,
+para asegurarnos de que el sistema hace lo que nosotros queríamos. Tra-
+deStation facilita este proceso colocando flechas de compra y venta direc-
+tamente en el gráfico. Si el sistema no hace lo que se espera de él, tendre-
+mos que hacer las correcciones necesarias en el código y volver a probarlo.
+Recuerde que muy pocas ideas se transformarán en beneficios, general-
+
+519

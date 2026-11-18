@@ -1,0 +1,31 @@
+Conceptos básicos de tendencia 115
+
+concepto de retroceso porcentual es que las líneas de resistencia a la velo-
+cidad (o líneas de velocidad) miden el ritmo de ascenso o descenso de
+una tendencia (o en otras palabras, su velocidad).
+
+Para confeccionar una línea de velocidad alcista, busque el punto más
+alto de la tendencia alcista actual (ver figura 4.21a). Desde ese punto alto
+en el gráfico, se traza una línea vertical hacia la parte inferior del gráfico
+hasta donde comenzó la tendencia. A continuación, se divide la línea ver-
+tical en tercios y se traza una línea de tendencia desde el comienzo de la
+tendencia hasta cada uno de los dos puntos marcados en la línea vertical y
+que representan un tercio y dos tercios. En una tendencia a la baja, basta
+con invertir el proceso. Mida la distancia vertical desde el punto inferior
+en la tendencia bajista hasta el comienzo de la tendencia y trace dos líne-
+as desde dicho comienzo hasta cada uno de los puntos en la línea vertical
+que marcan un tercio y dos tercios (ver figura 4.21a y b).
+
+Línea de velocidad de 2/3
+
+Línea de velocidad de 1/3
+
+Figura 4.21la Ejemplos de líneas de resistencia a la velocidad en una tendencia
+al alza. La distancia vertical desde el pico hasta el comienzo de la tendencia se di-
+vide en tercios. Se trazan entonces dos líneas de tendencia desde el punto 1 has-
+ta los puntos 2 y 3. La línea superior es la línea de velocidad de 2/3 y la inferior
+de 1/3. Las líneas deben actuar como apoyo durante las correcciones del merca-
+do. Cuando se rompen, vuelven a ser líneas de resistencia en los saltos. A veces, es-
+tas líneas de velocidad cortan el movimiento del precio.
+
+115

@@ -1,0 +1,45 @@
+Ciclos temporales 375
+
+longitud de la onda A. La onda A incluye dos repeticiones de la onda más
+pequeña B, mostrando la armonía entre las dos ondas. Obsérvese también
+que cuando la onda A llega a la parte inferior, la onda B tiende a hacer lo
+mismo, demostrando la sincronización entre ambas. La sincronización
+también significa que ciclos de longitud similar en diferentes mercados
+tendrán la tendencia a cambiar juntos.
+
+El principio de la proporcionalidad describe la relación entre el perío-
+do y la amplitud del ciclo. Los ciclos con períodos más largos (longitudes),
+deberían tener proporcionalmente amplitudes mayores. La amplitud, o al-
+tura, de un ciclo de 40 días, por ejemplo, debería ser aproximadamente el
+doble que la de un ciclo de 20 días.
+
+Los principios de variación y nominación
+
+Existen otros dos principios que describen el comportamiento cíclico
+en un sentido más general, los principios de variación y nominación.
+
+El principio de variación, como el nombre implica, es un reconoci-
+miento del hecho de que todos los otros principios que se aplican a los ci-
+clos y que ya se han mencionado (acumulación, armonía, sincronización y
+proporcionalidad) son simplemente tendencias fuertes y no reglas puras y
+duras. En el mundo real pueden ocurrir variaciones, y de hecho, ocurren.
+
+El principio de nominación se basa en la premisa que, a pesar de las di-
+ferencias existentes entre los diferentes mercados y aceptando algo de va-
+riación en la implementación de los principios cíclicos, parece haber un
+grupo nominal de ciclos relacionados armónicamente que afectan a todos
+los mercados. Y ese modelo nominal de longitudes de los ciclos se puede
+usar como punto de partida para el análisis de cualquier mercado. La fi-
+gura 14.10 muestra una versión simplificada de dicho modelo nominal. El
+modelo comienza con un ciclo de 18 años y sigue con cada ciclo sucesivo
+que, a su vez, tiene la mitad de longitud. La única excepción es la relación
+entre 54 y 18 meses, que es un tercio en lugar de la mitad.
+
+Cuando presentemos las distintas longitudes de los ciclos en los merca-
+dos individuales, veremos que este modelo nominal explica la mayor par-
+te de actividades cíclicas. Por el momento, miremos la columna de “Días”.
+Observe los 40, 20, 10 y 5 días. Reconocerá inmediatamente que estos nú-
+meros explican casi todas las longitudes de medias móviles. Incluso la co-
+nocida técnica de las medias móviles de 4, 9 y 18 días es una variación de
+
+375

@@ -1,0 +1,34 @@
+274 Capítulo 10
+
+Una forma de combinar osciladores estocásticos diarios y semanales es
+utilizar señales semanales para determinar la dirección del mercado, y se-
+ñales diarias para determinar el tiempo. También es una buena idea com-
+binar estocástica con IFR. (Ver figura 10.17).
+
+Larry Williams %R
+
+Larry Williams %R se basa en un concepto similar a medir el último cie-
+rre en relación con su banda de precios de un cierto número de días. El
+cierre de hoy se resta del precio máximo de la banda durante un cierto nú-
+mero de días y la diferencia se divide entre la banda total para el mismo
+período. Los conceptos que ya se han visto sobre interpretación del osci-
+lador también se aplican a %R, en los que los factores principales son la
+presencia de divergencias en áreas sobrecompradas o sobrevendidas. (Ver
+figura 10.18). Como el %R se resta del máximo, parece como un oscilador
+
+p9/22/05 (TR1600) Treasury Bonds 1600 03/13/98)
+Gráfico de barras semanal 1234
+
+IFR - 14 semanas
+
+Estocástico - 14 semanas
+
+de
+2A 1T:am Prnimd uelng TradeSeaion 6 Omaga Reeserch, nc 1887
+
+Figura 10.17 Comparación entre el IFR de 14 semanas y el estocástico. La línea
+IFR es menos volátil y alcanza extremos con menos frecuencia que en el gráfico
+estocástico. Las mejores señales aparecen cuando ambos osciladores están en te-
+rritorio sobrecomprado o sobrevendido.
+
+274

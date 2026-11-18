@@ -1,0 +1,34 @@
+458 Capítulo 18
+
+La línea avance-declive
+
+Es el más conocido de los indicadores de amplitud. La construcción de
+la línea de avance declive es extremadamente sencilla. Las transacciones de
+cada día del MVNY contienen un cierto número de valores que han avan-
+zado, otros que han retrocedido y una cierta cantidad de valores que han
+permanecido invariables. Estas cifras aparecen publicadas cada día en The
+Wall Street Journal y en Investor's Business Daily, y se usan para construir
+una línea de avance-declive (AD). La forma más corriente de calcular la lí-
+nea AD es obtener la diferencia entre el número de valores que avanzan y
+el número de valores que retroceden. Si los que avanzan son más que los
+que retroceden, la cifra AD resultante de aquel día es positiva, y si hay más
+retrocesos que avances, la línea AD es negativa. Esa cifra diaria, positiva o
+negativa, se suma entonces a la línea AD acumulativa. La línea AD muestra
+una tendencia propia, y la idea es asegurarse de que la línea AD y los índi-
+ces bursátiles tienden en la misma dirección. (Ver figura 18.1).
+
+ÍNDICE INDUSTRIAL DOW o .
+7500
+LÍNEA AVANCE-DECLIVE se000
+45000
+40000 |
+35000
+30000
+25000|
+NNN — "- DN - -- MA 20 AA CA 7 A 5 |
+
+Figura 18.1 - Línea avance-declive del MVNY y línea del índice industrial Dow. En
+un mercado sano, ambas líneas deben seguir una tendencia ascendente, tal como
+hacen aquí.
+
+458

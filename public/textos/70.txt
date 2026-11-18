@@ -1,0 +1,44 @@
+70 Capítulo 3
+
+antes de que venza, sin embargo, las cantidades comienzan a disminuir
+otra vez. Obviamente, los operadores tienen que liquidar posiciones abier-
+tas a medida que el contrato llega a su vencimiento, y por lo tanto, el in-
+cremento en las cantidades en los primeros meses y el declive hacia el fi-
+nal no tienen nada que ver con la dirección del mercado y son sólo una
+función de la característica de duración limitada de un contrato de futu-
+ros. Para proporcionar la continuidad necesaria en volumen y en cantida-
+des de interés abierto, y para proveerlos de valor de pronóstico, general-
+mente se utilizan las cifras totales. (Los gráficos de valores reflejan cifras
+de volumen total, pero no incluyen el interés abierto).
+
+Volumen e interés abierto informados
+un día después en los futuros
+
+El volumen de los futuros y las cantidades de interés abierto se infor-
+man con un día de retraso, o sea que el chartista debe conformarse con el
+desfase de un día para obtener e interpretar las cifras. Las cantidades ge-
+neralmente se informan durante las horas de contratación del día poste-
+rior, pero demasiado tarde para ser publicadas en los periódicos financie-
+ros del día. Las cifras de volumen estimadas, en cambio, están disponibles
+después de que los mercados cierran y se incluyen en los periódicos ma-
+tutinos del día siguiente. Las cantidades de volumen estimadas son exac-
+tamente eso, pero al menos sí que indican si las operaciones del día ante-
+rior han sido muchas o pocas. En el diario de la mañana, entonces, lo que
+el lector ve es el precio de los futuros del último día junto con una esti-
+mación de las cifras de volumen. Los datos oficiales sobre volumen e inte-
+rés abierto corresponden al día anterior. Los chartistas de valores no tie-
+nen ese problema, porque los totales del volumen de acciones negociadas
+están disponibles inmediatamente.
+
+Valor del volumen individual y de las cantidades
+de interés abierto en los futuros
+
+Las cantidades de interés abierto individual en los futuros proporcio-
+nan una valiosa información. Nos dicen cuáles son los contratos más lí-
+quidos para operar. Como regla general, las operaciones deben limitarse a
+aquellos meses de entrega que tengan el interés abierto más alto. Los me-
+ses con cantidades bajas de interés abierto deben evitarse. Como la expre-
+sión indica, interés abierto más alto significa que hay más interés en de-
+terminados meses de entrega.
+
+70

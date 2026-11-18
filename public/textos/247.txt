@@ -1,0 +1,38 @@
+Medias móviles 247
+
+I 12/31/93 _ ('SP)() SEP 500 Stock Index 03/31/98
+
+Gráfico de barras mensual
+
+Canales de precios de 4 meses
+
+— !
+
+u 5 de
+
+:
+
+'7 e
+3005 Z TGpm Printed using TradeSalion 6 Omega Ressarch, inc. 1097
+
+Figura 9.12 Canal de precios de 4 meses aplicado al índice S8cP 500. Los precios
+cruzaron el canal superior a principios de 1995 (ver círculo) para dar una señal
+de compra que permanece vigente 3 años más tarde. Para que haya una señal de
+venta hace falta un cierre por debajo de la línea inferior.
+
+pruebas de diferentes parámetros de medias móviles y ruptura de canales
+para encontrar las mejores combinaciones posibles para cada mercado de
+futuros. Los investigadores de Merrill Lynch lograron un conjunto dife-
+rente de valores de indicadores optimizados para cada mercado.
+
+La mayoría de los paquetes de gráficos le permiten optimizar sistemas
+e indicadores. En vez de usar la misma media móvil en todos los mercados,
+por ejemplo, usted puede pedirle al ordenador que encuentre la media
+móvil o las combinaciones de medias móviles que mejor han funcionado
+en el pasado para determinado mercado. Se trata de algo que se puede ha-
+cer también con los sistemas diarios y semanales, y prácticamente con to-
+dos los indicadores técnicos incluidos en este libro. La optimización per-
+mite que los parámetros técnicos se adapten a las cambiantes condiciones
+del mercado.
+
+247

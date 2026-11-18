@@ -1,0 +1,38 @@
+Indicadores bursátiles 457
+
+sitivo. Más adelante explicaremos por qué. Todas estas lecturas internas
+del mercado tienen un solo propósito: proporcionarnos una lectura más
+exacta de la salud del mercado en general, algo que no siempre queda re-
+flejado en el movimiento del índice Dow.
+
+Comparar los promedios
+
+Otra manera de estudiar la amplitud del mercado es comparar el re-
+sultado de los índices bursátiles en sí. Utilizando la misma sesión como
+ejemplo, los siguientes datos reflejan los resultados relativos de los princi-
+pales índices de valores:
+
+Índice industrial Dow +12,20 (+0,16%)
+SP 500 -0,64 (-0,07%)
+Compuesto Nasdaq +14,47 (-0,92%)
+Russell 2000 -3,80 (-0,89%)
+
+Lo primero que queda claro es que el índice industrial Dow fue el úni-
+co que ganó aquel día. Todos los servicios informativos televisados de
+aquella noche informaron a los inversores de que el mercado (represen-
+tado por el índice Dow) había subido, pero en realidad todas las otras
+medidas decían que había bajado. Obsérvese también que cuanto más
+amplio era el promedio (cuantos más valores incluía), peor había fun-
+cionado. Comparemos los cambios porcentuales. El índice Dow de 30 va-
+lores ganó el 0,16 por ciento y el S4P 500 perdió el 0,07 por ciento. El
+índice compuesto Nasdag, que incluye más de 5.000 valores, fue el peor
+de todos, perdiendo el 0,92 por ciento, y casi igual de mal que éste fue
+el Russell 2000 (perdió el 0,89 por ciento), que mide 2.000 pequeños ca-
+pitales accionariales. El mensaje de esta breve comparación es que aun-
+que el índice Dow ganara aquel día, el mercado en general perdió fuer-
+za según los índices bursátiles de base más amplia. Luego volveremos a la
+idea de comparar índices bursátiles, pero antes veamos las diferentes ma-
+neras que pueden usar los técnicos para analizar los datos de amplitud
+del mercado.
+
+457

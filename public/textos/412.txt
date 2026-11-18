@@ -1,0 +1,41 @@
+412 Capítulo 15
+
+dencia las traza, y el Indicador de Patrones de Velas interpreta los patro-
+nes de gráficos de velas más corrientes.
+
+Compruebe los sistemas o cree los suyos propios
+
+Omega Research también incluye una biblioteca de los sistemas de
+transacción más habituales entre los operadores. Se pueden probar, cam-
+biar o crear los suyos propios. Todos los productos de Omega, como las
+herramientas para hacer gráficos, los indicadores y los sistemas de contra-
+tación, están explicados en un lenguaje relativamente sencillo llamado
+EasyLanguage. Este lenguaje recibe las ideas que el cliente ha descrito en
+lenguaje corriente y las convierte en el código máquina que se necesita
+para utilizar el programa. Es difícil sobrestimar el valor de ser capaz de de-
+sarrollar, probar, incluso optimizar, y luego automatizar nuestras propias
+ideas sobre operaciones sin ser programador. El ordenador incluso creará
+las órdenes de transacciones adecuadas que usted necesita, y por vía de su
+avisador alfanumérico, le alertará cuando las señales se disparen. (En el
+Apéndice C, usaremos el EasyLanguage y la TradeStation de Omega Rese-
+arch para demostrarle cómo crear un sistema propio de transacciones).
+
+Conclusión
+
+Este capítulo le ha presentado un par de los sistemas de Welles Wilder,
+el parabólico y el movimiento direccional (DMI). El sistema parabólico
+puede generar útiles señales de contratación, pero probablemente no de-
+bería usarse solo. Las dos líneas D pueden usarse como filtro del sistema
+parabólico o de cualquier sistema sensible de contratación que siga las
+tendencias. La línea ADX, que forma parte del sistema DMI, proporciona
+una manera de determinar qué tipo de mercado es el que tenemos delan-
+te, con o sin tendencias. Una línea ADX ascendente sugiere la presencia
+de una tendencia y favorece las medias móviles, mientras que si es descen-
+dente sugiere una banda de fluctuación y favorece los osciladores. Tam-
+bién hemos usado los ejemplos parabólicos para mostrar los lados buenos
+y malos de la mayoría de sistemas que sigue tendencias. Funcionan bien
+cuando existe una tendencia, pero resultan inútiles durante una banda de
+fluctuación, o sea que es importante que usted sepa diferenciarlos. Otro
+de los temas que hemos visto tiene que ver con los méritos de los sistemas
+
+412

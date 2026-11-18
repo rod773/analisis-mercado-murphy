@@ -1,0 +1,33 @@
+Apéndice A: Indicadores
+técnicos avanzados*
+
+Este apéndice presenta algunos de los métodos técnicos más avanzados
+que se pueden utilizar solos o con otros estudios especializados. Como en
+cualquier enfoque técnico, se recomienda que los inversores siempre rea-
+licen sus pruebas e investigaciones independientes antes de invertir.
+
+Índice de la demanda (ID)
+
+La mayoría de los técnicos estará de acuerdo en que el análisis del vo-
+lumen es un ingrediente importante para determinar la dirección de un
+mercado. El índice de la demanda (ID) es uno de los primeros indicado-
+res de volumen desarrollado en la década de los años setenta por James
+Sibbett. La fórmula es bastante compleja (ver parte final de este apéndi-
+ce). El índice de la demanda es el coeficiente de presión compradora en-
+tre presión vendedora. Cuando la presión compradora es mayor que la
+presión vendedora, el ID está por encima de la línea cero y eso es positivo.
+Una presión vendedora mayor significa que el ID está por debajo de cero,
+lo que quiere decir que los precios bajarán. La mayoría de los técnicos
+también busca las divergencias entre el ID y los precios.
+
+La figura A.1 es un gráfico semanal de futuros de bonos del tesoro, des-
+de principios de 1994 hasta finales de 1997. De abril a noviembre de 1994,
+el ID estuvo casi siempre por debajo de la línea cero mientras las obliga-
+ciones bajaban de la zona del 104 hasta la del 96. Mientras que los precios
+alcanzaban mínimos más bajos (línea A), el ID formaba mínimos más al-
+tos (línea B). Esta es una divergencia clásica o alcista que indicaba que los
+precios de las obligaciones estaban alcanzando mínimos. La divergencia
+
+* Apéndice preparado por Thomas E. Aspray
+
+485

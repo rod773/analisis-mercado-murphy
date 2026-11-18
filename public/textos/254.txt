@@ -1,0 +1,28 @@
+254 Capítulo 10
+
+Si el último precio de cierre es mayor que el de hace 10 días (en otras
+palabras, los precios se han movido al alza), entonces se representaría un
+valor positivo por encima de la línea cero. Si el último cierre está por de-
+bajo del cierre de hace 10 días (los precios han bajado), la representación
+sería de un valor negativo por debajo de la línea cero.
+
+Aunque el momento de 10 días sea un período usado corrientemente
+por razones que veremos más adelante, se puede emplear cualquier perí-
+odo diferente. (Ver figura 10.1a). Un período más corto (por ejemplo, de
+5 días) produce una línea más sensible con oscilaciones más pronuncia-
+das. Un mayor número de días (por ejemplo, 40 días) da como resultado
+una línea mucho más suave en la que las fluctuaciones del oscilador son
+menos volátiles. (Ver figura 10.1b).
+
+(TR1600) Treasury Bonds 1600
+
+Momento de 10 días Sobrecomprado
+
+Sobrevendido
+
+Figura 10.la La línea de momento de 10 días fluctúa alrededor de una línea
+cero. Las lecturas muy por encima de la línea cero indican valores sobrecompra-
+dos, mientras que los valores muy por debajo de la línea son sobrevendidos. El
+momento debe usarse en conjunción con la tendencia del mercado.
+
+254

@@ -1,0 +1,42 @@
+316 Capítulo 11
+
+10801) por el desarrollo de estos innovadores indicadores de p£rf disponi-
+bles en el mencionado servicio de gráficos.
+
+Gráficos de p£cf por ordenador
+
+Los ordenadores han eliminado la ardua tarea de realizar gráficos de
+puntos y figuras. Los días de laboriosa construcción de columnas de x y de
+o ya no existen. Casi todos los paquetes informáticos para gráficos se en-
+cargan de hacer la faena, y además, basta apretar una tecla para variar los
+tamaños de los registros y las inversiones para ajustar el gráfico a los análi-
+sis a más corto o a más largo plazo. Se pueden construir gráficos de pafa
+partir de datos de tiempo real (intradía) y de final del día, y se pueden
+aplicar a cualquier mercado que uno quiera. Pero se puede hacer mucho
+más con un ordenador.
+
+Kenneth Tower, analista técnico de la empresa UST Securities Corpo-
+ration, (5 Vaughn Drive, CN5209, Princeton, N.J. 08543), utiliza un méto-
+do logarítmico para hacer gráficos de puntos y figuras. Un proceso de se-
+lección que mide la volatilidad de un valor en los últimos 3 años
+determina el tamaño adecuado del registro porcentual de cada valor. Las
+figuras 11.19 y 11.20 muestran ejemplos de los gráficos de pácf logarítmi-
+cos de Tower aplicados a AmericaOnline e Intel. El tamaño del registro
+para AOL en la figura 11.19 es 3,6 por ciento. Una inversión de 1 registro,
+por lo tanto, requeriría un retroceso de 3,6 por ciento. Como resulta que
+eso es un gráfico de inversión de 2 registros, los precios tendrían que vol-
+ver atrás un 7,2 por ciento para poder comenzar una nueva columna. El
+tamaño de cada registro en el gráfico de Intel que aparece en la figura
+11.20 equivale al 3,2 por ciento.
+
+Los arcos que se observan en ambos gráficos son ejemplos de la utiliza-
+ción de la cuenta horizontal de precios a lo largo de una base para llegar
+a los objetivos de precios a corto y largo plazo. El gráfico de Intel, por
+ejemplo, muestra un objetivo a corto plazo de 33, al que se llega midien-
+do hasta la mitad de la base de precio (arco inferior). Al arco más grande,
+cuya medida alcanza hasta 87,6, se llega midiendo la totalidad de la base
+de precios y proyectando esa distancia hacia arriba. Mirando con atención
+las figuras 11.19 y 11.20 se pueden observar puntos de precios que siguen
+el movimiento. Esos puntos son medias móviles.
+
+316

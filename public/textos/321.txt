@@ -1,0 +1,34 @@
+12
+
+Velas japonesas*
+
+Introducción
+
+Aunque los japoneses han estado utilizando esta técnica de gráficos y
+análisis desde hace siglos, en el mundo occidental se ha hecho conocida
+en años recientes. La expresión, “velas”, se refiere a dos temas diferentes,
+pero relacionados. El primero, y probablemente el más conocido, es el
+método de exponer información sobre valores y futuros para realizar el
+análisis del gráfico. El segundo es el arte de identificar ciertas combina-
+ciones de velas conocidas y probadas. Por suerte, ambas técnicas se pue-
+den usar combinadas o por separado.
+
+Gráficos de velas
+
+La información utilizada para reflejar la situación de un mercado me-
+diante un gráfico de velas es la que se utiliza habitualmente para los gráfi-
+cos de barras, o sea, los precios de apertura, máximo, mínimo y de cierre.
+Aunque utilizan exactamente la misma información, los gráficos de velas
+resultan visualmente mucho más atractivos, y la información parece saltar
+de la página (o de la pantalla del ordenador), facilitando su interpreta-
+ción y análisis. La figura 12.2 compara todos los precios de un solo día re-
+presentados primero por barras y luego por velas, siguiendo las equivalen-
+cias entre unas y otras que ilustra la figura 12.1.
+
+Es fácil adivinar de dónde proviene el nombre. Se parecen a una vela
+con un trocito de pabilo. El rectángulo representa la diferencia entre el
+precio de apertura y el de cierre del mismo día, y se le llama cuerpo. Ob-
+
+(*) Este capítulo fue preparado por Gregory L. Morris.
+
+321

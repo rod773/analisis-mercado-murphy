@@ -1,0 +1,44 @@
+Conceptos básicos de tendencia 121
+
+Huecos de precios
+
+Los huecos de precios son simplemente áreas del gráfico de barras en las
+que no ha habido operaciones. En una tendencia alcista, por ejemplo, los
+precios abren por encima del precio más alto del día anterior, dejando
+un hueco o un espacio abierto en el gráfico que no se rellena durante el
+día. En una tendencia bajista, el precio más alto del día está por debajo
+del mínimo del día anterior. Los huecos en el lado superior son indicati-
+vos de la fuerza del mercado, mientras que los huecos en el lado inferior
+generalmente son señal de debilidad. Los huecos pueden aparecer en los
+gráficos semanales y mensuales a largo plazo, y cuando aparecen son ge-
+neralmente muy significativos, pero son más comunes en los gráficos de
+barras diarios.
+
+Existen varios mitos sobre la interpretación de los huecos. Una de las má-
+ximas que se escucha con frecuencia es que “los huecos siempre se lle-
+nan”, pero esto no es así. Algunos huecos deberían llenarse, pero otros no.
+También veremos que los huecos tienen implicaciones de previsión, según
+de qué tipo sean y en qué momento aparezcan.
+
+Tres tipos de huecos
+
+Hay tres tipos generales de huecos, el de separación (breakaway), el de es-
+cape (runaway) o medida, y el de agotamiento (exhaustion).
+
+El hueco de separación. Generalmente aparece cuando se ha completado
+un modelo de precios importante e indica el comienzo de un movimiento
+del mercado significativo. Cuando un mercado ha completado un modelo
+de base principal, la ruptura de la resistencia a menudo se da en el hueco
+de separación. Las mayores salidas de las áreas de base o de cotizaciones
+máximas son suelos fértiles para este tipo de hueco. La ruptura de una
+tendencia principal, indicando el cambio a contrario de la tendencia, tam-
+bién puede dar un hueco de separación.
+
+Los huecos de separación suelen aparecer cuando hay mucho volumen,
+y lo más frecuente es que no se rellenen. Los precios pueden volver al ex-
+tremo superior del hueco (en el caso de una salida a la baja), o incluso
+cerrar una parte del hueco, aunque siempre quedará otra parte sin relle-
+nar. Como regla, cuanto más volumen haya después de la aparición de un
+hueco así, menos posibilidades hay de que se llene. Los huecos de la par-
+
+121

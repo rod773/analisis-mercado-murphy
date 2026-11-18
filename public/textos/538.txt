@@ -1,0 +1,47 @@
+538 Glosario
+
+Patrones de cambio: Patrones de precios en un gráfico de precios que ge-
+neralmente indican que se está llevando a cabo un cambio en la ten-
+dencia. Los patrones de cambio más conocidos son el de cabeza y hom-
+bros, y los dobles y triples máximos y mínimos.
+
+Patrones de continuidad: Formaciones de precios que implican una pausa
+o consolidación en la tendencia prevaleciente. Los tipos más comunes
+son los triángulos, banderas y banderines.
+
+Patrones de precios: Patrones que aparecen en los gráficos de precios y
+que tienen valor de predicción. Se dividen en patrones de cambio y de
+continuidad.
+
+Porcentaje de inversión de los consejeros favorables al alza: Esta medida
+del sentimiento alcista del mercado de valores se publica semanalmen-
+te por la empresa Investor's Intelligence de New Rochelle, Nueva York.
+Cuando sólo el 35 por ciento de los profesionales son favorables al alza,
+el mercado se considera sobrevendido. Una lectura del 55 por ciento se
+considera como sobrecomprada.
+
+Resistencia: Lo opuesto de apoyo. La resistencia está marcada por un pico
+previo de los precios y proporciona una barrera suficiente por encima
+del mercado para detener el avance de los precios. (Ver apoyo).
+
+Retrocesos: Los precios normalmente vuelven a seguir la tendencia ante-
+rior en un determinado porcentaje antes de reanudar la tendencia ori-
+ginal. El ejemplo más conocido es el retroceso del 50 por ciento. Los re-
+trocesos máximo y mínimo normalmente son un tercio y dos tercios,
+respectivamente. El análisis de las ondas de Elliott utiliza retrocesos de
+Fibonacci del 38 y 62 por ciento.
+
+Sobrecomprado: Expresión generalmente usada en referencia a un oscila-
+dor. Cuando un oscilador alcanza un extremo superior, se cree que el
+mercado ha subido demasiado y se expone a una bajada repentina.
+
+Sobrevendido: Expresión generalmente usada en referencia a un oscila-
+dor. Cuando un oscilador alcanza un extremo inferior, se cree que el
+mercado ha bajado demasiado y está a punto de reaccionar al alza.
+
+Sobres: Líneas colocadas en porcentajes fijos por encima y por debajo de
+una línea de media móvil. Los sobres ayudan a determinar cuándo un
+mercado se ha alejado demasiado de su media móvil y está sobreexten-
+dido.
+
+538

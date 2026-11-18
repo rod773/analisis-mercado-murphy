@@ -1,0 +1,33 @@
+Apéndice C: Aspectos
+fundamentales de la
+creación de un sistema
+de contratación (*)
+
+El desarrollo de un sistema de contratación es en parte arte, en parte
+ciencia y en parte sentido común. Nuestra meta no Es desarrollar un siste-
+ma que logre los rendimientos más altos usando datos históricos, sino for-
+mular un concepto fundado que haya funcionado razonablemente bien
+en el pasado y que pueda seguir haciéndolo en el futuro.
+
+Lo ideal sería un enfoque que fuera 100 por cien mecánico, porque se in-
+crementaría la posibilidad de que el funcionamiento del pasado pudiera repe-
+tirse en el futuro. Mecánico significa objetivo: si 10 personas siguen las mismas
+reglas y alcanzan los mismos resultados, se dice que esas reglas son objetivas.
+No importa que el sistema mecánico esté en papel o en soporte digital.
+
+Aquí, no obstante, asumiremos que estamos usando un ordenador y em-
+plearemos las expresiones “mecánico” y “informatizado” de forma intercam-
+biable, pero esto no significa que el ordenador sea indispensable para el de-
+sarrollo de un sistema de contratación, aunque ciertamente resulta muy útil.
+
+El enfoque mecánico nos ofrece tres beneficios principales:
+
+* Podemos hacer pruebas con las ideas antes de ponerlas en práctica. Un or-
+denador nos permite probar las ideas con datos históricos antes de hacer-
+lo con el dinero que tanto cuesta ganar. Al ayudarnos a ver cómo habría
+funcionado un determinado sistema en el pasado, nos permite tomar me-
+jores decisiones cuando verdaderamente cuenta, o sea, en el presente.
+
+(*) Este apéndice fue preparado por Fred G. Schutzman.
+
+513

@@ -1,0 +1,45 @@
+Un método llamado Market Profile 499
+
+HISTOGRAMA DE PRECIOS
+VERTICAL
+
+HISTOGRAMA DE PRECIOS
+HORIZONTAL
+
+10 11 12 13 14 19 16 17 18 20 21 22 23
+
+Precio
+
+Frecuencia
+
+Figura B.2a Tradicional Figura B.2b Apoyado sobre un costado
+
+la media, mientras que el 70 por ciento (el 68,3 por ciento, para ser exac-
+tos) están dentro de una (ver figura B.3).
+
+Market Profiles proporciona una imagen
+de lo que está sucediendo aquí y ahora en el
+mercado. En su búsqueda de promover el co-
+mercio, el mercado está en equilibrio o mo-
+viéndose en dirección a él. La tendencia natu-
+ral del perfil hacia la simetría define, de forma
+simple, el grado de equilibrio o desequilibrio
+que existe entre compradores y vendedores.
+Como el mercado es dinámico, el gráfico del
+perfil presenta el equilibrio como períodos de
+equilibrio del mercado (cuando las distribu-
+
+g'eng¡ r?¿21 a E(:llu egr¿ñ;(;ú%(á ciones de precios son simétricas) y representa
+
+dad del mercado general- el desequilibrio como períodos de desequili-
+mente tiene una distribu- — brio del mercado (cuando las distribuciones
+
+ción normal. de precios no son simétricas o están sesgadas).
+
+Market Profile no es un sistema de contratación ni proporciona recomen-
+daciones para operar. La meta del gráfico de perfil es permitirle al usuario
+ser testigo de la repetición de precios en el tiempo, por lo cual es una he-
+rramienta de apoyo a la decisión que requiere que el usuario aplique su
+opinión personal en el proceso de contratación.
+
+499

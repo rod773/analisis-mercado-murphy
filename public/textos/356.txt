@@ -1,0 +1,45 @@
+356 Capítulo 13
+
+Onda 4 como área de apoyo
+
+Para finalizar nuestra presentación de las guías y formaciones de ondas,
+falta mencionar un punto importante, y es la relevancia de la onda 4 como
+área de apoyo en mercados bajistas subsiguientes. Cuando se han completa-
+do 4 ondas ascendentes y ha comenzado una tendencia bajista, ese mercado
+a la baja generalmente no descenderá más allá de la cuarta onda anterior de
+un grado menos, o sea, la última cuarta onda formada durante el anterior
+avance alcista. Hay excepciones a la regla, pero generalmente la parte baja de
+la cuarta onda contiene el mercado bajista. Esta información puede resultar
+muy útil a la hora de llegar a un objetivo de precio a la baja máximo.
+
+Los números de Fibonacci como base del principio
+de las ondas
+
+Elliott estableció en su libro Nature's Law que la base matemática para
+su Principio de las Ondas era una secuencia numérica descubierta por Le-
+onardo Fibonacci en el siglo XIII. Dicha secuencia numérica ha quedado
+identificada con su descubridor y generalmente se la conoce como los nú-
+meros de Fibonacci. La secuencia numérica es 1, 1, 2, 3, 5, 8, 13, 21, 34, 55,
+89, 144, y así hasta el infinito.
+
+La secuencia tiene una serie de propiedades interesantes, de las cuales no
+es la menos importante la relación casi constante entre los números.
+
+1. La suma de dos números cualesquiera consecutivos es igual al núme-
+ro siguiente. Por ejemplo, 3 y 5 suman 8, 5 y 8 suman 13, y así sucesi-
+vamente.
+
+2. La ratio o coeficiente de cualquier número con respecto al número
+más alto que le sigue se acerca a 0,618 después de los cuatro primeros
+números. Por ejemplo, 1/1 es 1,00, 1/2 es 0,50, 2/3 es 0,67, 3/5 es
+0,60, 5/8 es 0,625, 8/13 es 0,615, 13/21 es 0,619, etcétera. Obsérvese
+cómo fluctúan estos primeros coeficientes por encima y por debajo de
+0,618 en una amplitud que se va estrechando, y préstese también aten-
+ción a los valores 1,00, 0,50, y 0,67. Volveremos a ellos cuando veamos
+con más detalle el análisis de los coeficientes y los retrocesos porcen-
+tuales.
+
+3. Laratio o coeficiente de cualquier número con respecto al número más
+bajo que le precede es aproximadamente 1,618, o el inverso de 0,618.
+
+356

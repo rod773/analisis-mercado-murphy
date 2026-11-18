@@ -1,0 +1,52 @@
+Un método llamado Market Profile 503
+
+cado se da en todos los tipos de marcos
+
+PARÁMETROS . . A ,
+DE LA ACTIVIDAD temporales: sesiones intradía, sesiones de
+un solo día, o las sesiones agregadas o
+Área alta de precio consolidadas que forman la subasta a más
+
+injusto largo plazo.
+
+Marcos temporales y comportamiento
+del mercado: El concepto de marcos tempo-
+rales diferentes fue introducido para explicar
+los patrones de comportamiento de los partici-
+pantes del mercado. Las actividades de un mer-
+cado se dividen en dos categorías de marco
+temporal, el corto plazo y el plazo más largo.
+La actividad a corto plazo se define como la
+que ocurre en un marco diurno, en el que los
+operadores se ven obligados a realizar las ope-
+raciones hoy (por ejemplo, los locales, los ope-
+radores del día, y los operadores de opciones el
+día de su vencimiento están todos dentro de
+esta categoría). Como su tiempo para actuar es
+limitado, el operador a corto plazo busca un
+Figura B.4 precio justo. Los compradores y vendedores a
+
+corto plazo operan los unos con los otros al
+mismo tiempo y al mismo precio. La actividad a más largo plazo se defi-
+ne como la que ocurre dentro de todos los otros tipos de marcos tempo-
+rales, y en esta categoría están los comerciales, los que operan con osci-
+laciones y todo el resto de operadores de otras posiciones. No están
+obligados a operar hoy y tienen al tiempo de aliado, por lo tanto estos
+operadores pueden buscar un precio más ventajoso. En aras de su inte-
+rés, los compradores a más largo plazo buscan precios más bajos y los
+vendedores a más largo plazo buscan precios más altos. Debido a que su
+objetivo de precios no coincide, los compradores y vendedores a más lar-
+go plazo no operan los unos con los otros al mismo precio y al mismo
+tiempo. La interacción de comportamiento entre estos dos tipos diferen-
+tes de marco temporal es lo que hace que el perfil se desarrolle como lo
+hace.
+
+i
+
+Área baja de precio injusto'
+
+El operador a corto plazo y el operador a más largo plazo juegan pape-
+les diferentes: el papel de ambos es clave para facilitar las operaciones,
+pero es diferente. El equilibrio inicial de un mercado (un lugar donde
+
+503

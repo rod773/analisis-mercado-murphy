@@ -1,0 +1,35 @@
+Contratos de futuros continuos 529
+
+Usaremos otra vez bonos del tesoro porque tienen un ciclo de venci-
+miento uniforme cada tres meses. Supongamos que un operador quiere
+un contrato continuo de bonos del tesoro usando los dos meses más cer-
+canos y considerando 12 semanas en el futuro (símbolo = TRCF212). Hoy
+es 1 de diciembre. Una representación gráfica (ver figura D.1) facilita la
+comprensión. El eje vertical es el precio y el eje horizontal es el tiempo. La
+fecha de hoy está marcada en el eje horizontal, al igual que las dos fechas
+de vencimiento de los dos contratos más cercanos (diciembre y marzo). El
+operador quiere considerar 12 semanas en el futuro, así que se marcan
+doce semanas a partir de hoy, o sea alrededor del 25 de febrero. El precio
+de cierre del contrato de diciembre fue de 88,25 y el de marzo fue de
+87,75. Estos puntos se marcan entonces encima de sus fechas de venci-
+miento en los precios correspondientes y a continuación se hace una ex-
+trapolación lineal simplemente trazando una línea entre los dos puntos.
+La inclinación de esta línea variará hacia arriba y hacia abajo según la
+perspectiva de los tipos de interés a largo plazo (en este ejemplo con bo-
+nos del tesoro). En ese ejemplo en concreto, la perspectiva es de tipos más
+altos, porque el precio de los futuros de marzo es más bajo que el precio
+de diciembre.
+
+Para encontrar el valor del precio de cierre del TRCF212 de hoy, tene-
+mos que encontrar el punto sobre el eje horizontal que está a 12 semanas
+de hoy (25 de febrero) y subir hasta la línea trazada en el gráfico. Desde la
+línea entonces vamos hacia la derecha y ése es el precio de cierre para este
+contrato continuo a plazo constante (alrededor de 87,91). En el gráfico
+también se puede observar visualmente que el contrato de marzo lleva
+más peso que el de diciembre, porque el punto de intersección está más
+cerca de marzo. Este método se puede aplicar a los precios de apertura,
+máximo, mínimo y de cierre de manera exacta. Por supuesto, un ordena-
+dor lo hace matemáticamente, pero esto es sólo una explicación visual de
+cómo se construye un Contrato Perpetuo.
+
+529

@@ -1,0 +1,34 @@
+11
+Los gráficos de puntos
+
+y figuras
+
+Introducción
+
+La primera técnica de gráficos utilizada por los operadores bursátiles a
+finales del siglo pasado fue la llamada de puntos y figuras. El nombre se
+atribuye a Victor deVilliers, quien en 1933 publicó su clásico, The Point and
+Figure Method of Anticipating Stock Price Movements. Esta técnica ha recibido
+varios nombres en el paso del tiempo, y entre los años 1880 y 1890, por
+ejemplo, se conocía como “el método del libro”. Éste también es el nom-
+bre que Charles Dow le dio en uno de sus editoriales del Wall Street Jour-
+nal, fechado el 20 de julio de 1901.
+
+Decía Dow que el método del libro venía siendo usado desde 1886, y el
+nombre “gráfico de figuras” se usó desde los años 20 hasta 1933, cuando
+se adoptó la expresión “puntos y figuras” para designar esta técnica. A
+principios de los años 30, R. D. Wyckoff también publicó varios trabajos re-
+lacionados con el método de puntos y figuras.
+
+En 1896 el diario The Wall Street Journal comenzó a publicar diaria-
+mente los precios máximo, mínimo y de cierre de los valores, primera refe-
+rencia al más conocido gráfico de barras. Aparentemente, entonces, el mé-
+todo de puntos y figuras es al menos 15 años anterior al gráfico de barras.
+
+Veremos los gráficos de puntos y figuras en dos etapas. Primero vere-
+mos el método original que se basa en los movimientos de precios intra-
+día, y luego veremos una versión más sencilla de los gráficos de puntos y fi-
+guras que se puede construir usando solamente los precios máximos y
+mínimos de cualquier mercado.
+
+289

@@ -1,0 +1,43 @@
+Volumen e interés abierto 203
+
+9. Un crecimiento del interés abierto durante períodos de consolida-
+ción intensifica la ruptura posterior. (Aplicable sólo a futuros)
+
+10. Los aumentos del volumen (y del interés abierto) ayudan a confir-
+mar la resolución de los patrones de precios o cualquier otro desa-
+rrollo gráfico significativo que anuncian el comienzo de una nueva
+tendencia.
+
+Descargas y clímax de ventas
+
+Una última situación no vista hasta ahora pero que merece mencionar-
+se es un tipo de extremo movimiento del mercado que a menudo sucede
+durante máximos y mínimos del mismo, las llamadas descargas y clímax de
+ventas. Las descargas ocurren en los grandes máximos del mercado y los
+clímax de venta en los mínimos. En los futuros, las descargas van acompa-
+ñadas con frecuencia por un descenso del interés abierto durante la últi-
+ma subida. En el caso de una descarga en un máximo del mercado, los
+precios de pronto comienzan a subir de forma destacada después de un
+largo avance, acompañados por un gran salto de operaciones y entonces
+alcanzan su máximo de forma abrupta. (Ver figura 7.12). En un clímax de
+ventas con mínimos, los precios caen mucho de forma repentina durante
+un momento de fuertes operaciones y vuelven a subir de forma igualmen-
+te rápida. (Volver a la figura 4.22c).
+
+Informe de los compromisos de los operadores
+
+Nuestro estudio del interés abierto no estaría completo sin mencionar
+el Informe de los Compromisos de los Operadores (ICO) y cómo lo usan
+los técnicos en futuros como herramienta de pronósticos. El informe lo
+publica la Commodity Futures Trading Commission (CFTC) dos veces al
+mes, una a mitad de mes y otra al final. El informe desglosa los números
+relacionados con el interés abierto en tres categorías: grandes coberturas,
+grandes especulaciones y pequeñas operaciones. Los que buscan grandes
+coberturas, llamados también comerciales, utilizan los mercados de futu-
+ros principalmente con propósitos de cobertura. Los grandes especulado-
+res incluyen los grandes fondos de bienes y se basan fundamentalmente
+En los sistemas mecánicos de seguimiento de tendencias. En la última ca-
+tegoría están los pequeños operadores o público en general, que operan
+En cantidades mucho más pequeñas.
+
+203

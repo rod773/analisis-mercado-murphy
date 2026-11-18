@@ -1,0 +1,55 @@
+Los gráficos de puntos y figuras 295
+
+4/29 4875 4880 4860 4865 4850 4860 4855
+
+5/2 4870 4860 4865 4855 4860 4855 4860 4855 4860 4855 4865 4855
+
+5/3 4870 4865 4870 4860 4865 4860 4870 4865
+
+5/4 4885 4880 4890 4885 4890 4875
+
+5/5 4905 4900 4905 4900 4905
+
+5/6 4885 4900 4890 4930 4920 4930 4925 4930 4925
+
+5/9 4950 4925 4930 4925 4930 4925 4935 4925 4930 4925 4935 4930 4940 4935
+
+5/10 4940 4915 4920 4905 4925 4920 4930 4925 4935 4930 4940 4935 4940
+
+5/11 4935 4950 4945 4950 4935 4940 4935 4945 4940 4965 4960 4965 4955 4960 4955 4965 4960 4970
+
+La figura 11.5a representa cómo se verían en el gráfico los números lis-
+tados previamente. Comencemos por el lado izquierdo del gráfico. Prime-
+ro, se escala el gráfico para reflejar un incremento de 5 puntos para cada
+registro.
+
+Columna 1: Ponga un punto en 4875. Como el número siguiente, 4880, es
+más alto, rellene el próximo registro hasta llegar a 4880.
+
+Columna 2: El siguiente número es 4860. Muévase una columna a la dere-
+cha, baje 1 registro o caja, y rellene todas las o hasta llegar a
+4860.
+
+Columna 3: El número que viene a continuación es 4865. Muévase una co-
+lumna a la derecha, suba un registro y ponga una x en 4865.
+Deténgase aquí. Hasta ahora usted sólo tiene 1 x marcada en
+la columna 3, porque los precios sólo se han movido hacia
+arriba 1 registro. En un gráfico de inversión de 1 registro
+siempre debe haber al menos 2 registros rellenados en cada
+columna. Observe que el número siguiente es 4850, que re-
+quiere poner las o que hagan falta hasta llegar a ese número.
+¿Se pasa usted a la columna siguiente para registrar las o des-
+cendientes? La respuesta es no, porque sólo quedaría 1 mar-
+ca, la x, en la columna 3. Por lo tanto, en la columna con la
+única x (la columna 3), marque las o necesarias para bajar
+hasta 4850.
+
+Columna 4: El próximo número es 4860. Pase a la siguiente columna,
+suba 1 registro y marque las x hacia arriba hasta llegar a 4860.
+
+Columna 5: El número siguiente es 4855. Como se trata de un movimien-
+to hacia abajo, vaya a la siguiente columna, baje un registro y
+marque la o en 4860. Verá que en la tabla éste es el último
+precio del día. Hagamos uno más.
+
+295

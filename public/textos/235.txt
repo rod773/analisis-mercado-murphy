@@ -1,0 +1,42 @@
+Medias móviles 235
+
+do de su línea de media móvil. Para lograrlo, los sobres se colocan en por-
+centajes fijos por encima y por debajo de la media. Los operadores a más
+corto plazo, por ejemplo, usan con frecuencia sobres del 3 por ciento para
+una media móvil simple de 21 días. Cuando los precios llegan a uno de los
+sobres (3 por ciento hacia un lado o hacia otro de la media), se considera
+que la tenencia a corto plazo está sobreextendida. Para el análisis a largo
+plazo, algunas combinaciones posibles incluyen sobres del 5 por ciento
+para una media de 10 semanas o un sobre del 10 por ciento para una me-
+dia de 40 semanas. (Ver figuras 9.8a-b).
+
+Bandas de Bollinger
+
+Se trata de una técnica desarrollada por John Bollinger. Se colocan dos
+bandas de fluctuación alrededor de una media móvil, de forma parecida a
+la técnica de los sobres, excepto que las Bandas de Bollinger se colocan
+dos desviaciones típicas por encima y por debajo de la media móvil, que
+generalmente es de 20 días. La desviación típica es un concepto estadísti-
+co que describe cómo se dispersan los precios alrededor de un valor pro-
+
+b6/04/97 (-DWI X) Dow Industrials _ - 03/02/98]
+
+GRÁFICO DE BARRAS DIARIO peeoo
+
+N Sobre del 3 por ciento i
+É | |
+| | N N |
+
+|
+Media de 21 días |¡ 7400
+
+Sobre del 3 por ciento
+
+¿re = T — T
+d o Se -- a -- e. iº'¡mr%=¡v¡£ºrm—……m
+
+Figura 9.8a Sobres del 3 por ciento colocados alrededor de una media móvil de
+21 días del índice Dow. Los movimientos fuera de los sobres sugieren un merca-
+do de valores sobreextendido.
+
+235

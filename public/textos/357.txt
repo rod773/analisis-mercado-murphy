@@ -1,0 +1,46 @@
+Teoría de las ondas de Elliott 357
+
+Por ejemplo, 13/8 es 1,625, 21/13 es 1,615, 34/21 es 1,619. Cuanto más
+altos son los números, más se acercan a los valores de 0,618 y 1,618.
+
+4. Las ratios de los números alternos se aproximan a 2,618 o su inverso,
+0,382. Por ejemplo, 13/34 es 0,382, 34/13 es 2,615.
+
+Ratios y retrocesos de Fibonacci
+
+Ya ha quedado dicho que la teoría de las ondas está formada por tres
+aspectos: la forma, la ratio y el tiempo de la onda. Hemos visto ya la for-
+ma de la onda, que es el aspecto más importante de los tres. Veamos aho-
+ra la aplicación de las ratios y retrocesos de Fibonacci. Estas relaciones se
+pueden aplicar tanto al precio como al momento, aunque se considera
+que la primera es más de confiar. Al aspecto del tiempo volveremos más
+adelante.
+
+En primer lugar, si volvemos a las figuras 13.1 y 13.3, veremos que
+muestran que la forma básica de la onda siempre se divide en números de
+Fibonacci. Un ciclo completo tiene ocho ondas, cinco hacia arriba y tres
+hacia abajo, y todos son números de Fibonacci. Dos subdivisiones más pro-
+porcionarán 34 y 144 ondas, números que también pertenecen a la se-
+cuencia de Fibonacci. Sin embargo, la base matemática de la teoría de las
+ondas en dicha secuencia va más allá de la simple cuenta de ondas. Tam-
+bién está la cuestión de las relaciones proporcionales entre las diferentes
+ondas. A continuación veremos algunas que están entre las ratios de Fibo-
+nacci usados más corrientemente:
+
+1. Una de las tres ondas impulsoras a veces se extiende. Las otras dos son
+iguales en tiempo y magnitud. Si la onda 5 se extiende, las ondas 1 y 3
+deben ser más o menos iguales. Si se extiende la onda 3, las ondas 1 y
+5 tienden a la igualdad.
+
+2. Se puede obtener un objetivo mínimo para el tope de la onda 3 multi-
+plicando la extensión de la onda 1 por 1,618 y sumando ese total a la
+parte inferior de la onda 2.
+
+3. Nos podemos aproximar al tope de la onda 5 multiplicando la onda 1
+por 3,236 (2x1,618) y sumando ese valor al máximo o a la parte supe-
+rior o inferior de la onda 1 para alcanzar objetivos máximos y míni-
+mos.
+
+4. Cuando las ondas 1 y 3 son aproximadamente iguales, y se espera que
+
+357

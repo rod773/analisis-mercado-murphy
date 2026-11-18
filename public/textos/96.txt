@@ -1,0 +1,34 @@
+96 Capítulo 4
+
+ve días. Cuanto más significativa sea una línea de tendencia, más confian-
+za inspira y más importante es su penetración.
+
+Las líneas de tendencia deberían incluir todos
+los movimientos de precios
+
+Las líneas de tendencia en los gráficos de barras deberían trazarse por
+encima o por debajo del alcance de los precios de todo el día. Algunos
+chartistas prefieren trazar la línea de tendencia conectando tan sólo los
+precios de cierre, pero no es el procedimiento más habitual. El precio de
+cierre puede ser muy bien el precio más importante del día, pero aún así,
+sólo representa una pequeña muestra de la actividad de ese día. La técni-
+ca de incluir el alcance de los precios del día toma en consideración la to-
+talidad de la actividad y es la de uso más común. (Ver figura 4.8).
+
+Cómo tratar las pequeñas penetraciones de la línea
+de tendencia
+
+A veces, los precios violan una línea de tendencia sobre una base intra-
+día, pero luego cierran en la dirección de la tendencia original, dejando
+la duda en el analista de si la línea de tendencia se ha roto o no. (Ver fi-
+gura 4.9). La figura 4.9 muestra una posible imagen de una situación tal.
+Los precios en realidad bajaron durante el día, pero volvieron a cerrar por
+encima de la línea de tendencia. ¿Se debería trazar una línea de tenden-
+cia diferente?
+
+Figura 4.8 El trazado correc-
+to de una línea de tendencia
+debería incluir el alcance
+operativo de todo el día.
+
+9%6

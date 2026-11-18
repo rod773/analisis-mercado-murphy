@@ -1,0 +1,45 @@
+150 Capítulo 5
+
+terminar siendo parte del proceso de máximos. Para ayudar en la resolu-
+ción de este dilema algunos criterios de filtros ya mencionados pueden re-
+sultar útiles.
+
+Filtros
+
+La mayoría de los chartistas requiere un cierre más allá de un pico de
+resistencia anterior en lugar de una simple penetración intradía. En se-
+gundo lugar, se podría usar un filtro de precios de algún tipo, como por
+ejemplo, un criterio de penetración porcentual del 1 0 3 por ciento. En
+tercer lugar, la regla de penetración de dos días se podría usar como ejem-
+plo de filtro de tiempo, o dicho en otras palabras, los precios tendrían que
+cerrar muy poco por encima del máximo del primer pico durante dos días
+consecutivos para tomarlo como señal de una penetración válida. Otro
+tipo de filtro de tiempo podría ser un cierre un viernes algo por encima
+del pico anterior. El volumen en la apertura al alza también podría pro-
+porcionar una pauta sobre su fiabilidad.
+
+Estos filtros no son ciertamente infalibles, pero sí sirven para reducir el
+número de señales falsas (también llamadas whipsaws) que se dan con fre-
+cuencia. A veces estos filtros son útiles y otras no. El analista debe darse
+cuenta de que está tratando con porcentajes y probabilidades, y que habrá
+momentos en que se den malas señales, algo que simplemente correspon-
+de a la realidad de las operaciones.
+
+No es tan infrecuente que la pata u onda final de un mercado alcista
+marque un nuevo máximo antes de cambiar de dirección. En tal caso, la
+salida final al alza sería una “trampa alcista”. (Ver figuras 5.6a y b). Más
+adelante le mostraremos algunos indicadores que le podrán ayudar a de-
+tectar estas salidas falsas.
+
+Abuso de la expresión “superior doble”
+
+En los mercados financieros se abusa de las referencias a los patrones
+superiores e inferiores dobles, que la mayoría de los casos acaban siendo
+otra cosa diferente. La razón es que los precios tienen una fuerte tenden-
+cia a volver atrás desde un pico previo o a saltar desde un mínimo previo.
+Estos cambios de los precios son una reacción natural y en sí mismos no
+constituyen un patrón de cambio. Recuerde que en un patrón superior,
+los precios deben verdaderamente violar el mínimo de reacción anterior
+antes de que exista un patrón superior doble.
+
+150

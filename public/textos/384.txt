@@ -1,0 +1,43 @@
+384 Capítulo 14
+
+El ciclo de transacción de 28 días en las mercancías
+
+Hay un ciclo de corta duración que tiende a influir sobre la mayoría de
+los mercados de productos, el ciclo de transacción de 28 días. Dicho de
+otro modo, casi todos los mercados tienen la tendencia a alcanzar un mí-
+nimo en el ciclo de transacciones cada 4 semanas. Una explicación posible
+de esta fuerte tendencia cíclica, común a todos los mercados de produc-
+tos, es el ciclo lunar. Burton Pugh estudió el ciclo de 28 días en el merca-
+do del trigo en los años 30 (Science and Secrets of Wheat Trading, Lambert-
+Gann, Pomeroy, WA, 1978, original 1933) y llegó a la conclusión de que la
+luna tenía alguna influencia sobre los puntos de inflexión del mercado. Su
+teoría decía que el trigo debía comprarse con luna llena y venderse con
+luna nueva. De todos modos, Pugh reconocía que los efectos lunares eran
+débiles y que podían quedar anulados por los efectos de ciclos más largos
+o por sucesos e informaciones importantes.
+
+Tenga o no tenga algo que ver la luna, el ciclo de 28 días existe y ex-
+plica muchos de los números usados en el desarrollo de indicadores de
+más corta duración y de sistemas de operaciones. En primer lugar, el ci-
+clo de 28 días se basa en días naturales, que traducidos a días reales de
+transacciones, son 20. Ya hemos comentado que hay muchas medias mó-
+viles, osciladores y reglas semanales que se basan en el número 20 y sus
+ciclos más cortos armónicamente relacionados, los de 10 y 5 días. Las me-
+dias móviles de 5, 10 y 20 días son usadas ampliamente, junto con sus de-
+rivados 4, 9 y 18 días. Muchos operadores utilizan medias móviles de 10
+y 40 días, y 40 es el número armónicamente relacionado del ciclo si
+guiente, el doble de 20.
+
+En el capítulo 9 vimos la rentabilidad de la regla de las 4 semanas de-
+sarrollada por Richard Donchian. Las señales de compra se generaban
+cuando un mercado alcanzaba nuevos máximos de 4 semanas, y las de
+venta cuando se establecía un mínimo de 4 semanas. El conocimiento de
+la existencia de un ciclo de transacciones de 4 semanas proporciona una
+mejor visión de la significación de dicho número, y ayuda a comprender
+por qué la regla de las 4 semanas ha funcionado tan bien durante tantos
+años. Cuando un mercado sobrepasa el máximo de las 4 semanas ante-
+riores, la lógica de los ciclos nos dice que, como mínimo, el siguiente ci-
+clo más largo (el de 8 semanas) ha llegado al mínimo y ha comenzado a
+subir.
+
+384

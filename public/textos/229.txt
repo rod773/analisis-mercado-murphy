@@ -1,0 +1,31 @@
+Medias móviles 229
+
+(INTC) Intel Corp
+
+GRÁFICO DE BARRAS DIARIO
+
+Media de 50 días
+
+Figura 9.3 | Los precios cayeron en octubre por debajo de la media de 50 días
+(ver círculo a la izquierda). La señal de venta es más fuerte cuando la media mó-
+vil también baja (ver flecha a la izquierda). La señal de compra en enero quedó
+confirmada cuando la misma media comenzó a subir.
+
+movimiento aleatorio del precio a corto plazo (o “ruido”) activa malas se-
+ñales de tendencia.
+
+Aunque la media más corta genera más señales falsas, tiene la ventaja
+de dar las señales de tendencia antes, y es lógico que cuanto más sensible
+sea la media, antes aparezcan las señales. Aquí hay una correspondencia
+en marcha, y el truco está en encontrar la media que sea lo bastante sen-
+sible como para generar señales tempranas, pero lo bastante insensible
+como para evitar la mayor parte del “ruido” aleatorio. (Ver figura 9.4).
+
+Llevemos la anterior comparación un paso más allá. Aunque la media
+más larga funciona mejor mientras la tendencia permanece en movimien-
+to, da mucho más cuando la tendencia cambia. La propia insensibilidad
+de la media más larga (el hecho de que siguiera a la tendencia desde una
+distancia mayor), que le impedía atascarse en correcciones de corta dura-
+ción durante la tendencia, se vuelve en contra del operador cuando la ten-
+
+229

@@ -1,0 +1,41 @@
+Indicadores bursátiles 467
+
+Trin versus Tick
+
+El índice Arms (en inglés The Arms Index, TRIN) se puede usar junto
+con el indicador TICK para las operaciones intradía. TICK mide la dife-
+rencia entre el número de valores que operan en una fluctuación al alza y
+el de los que operan en una fluctuación a la baja. El TICK es una versión
+minuto a minuto de la línea diaria de avance-declive y se usa con el mismo
+fin. Cuando se combinan ambos durante el día, un indicador TICK ascen-
+dente y un índice Arms (TRIN) descendente son positivos, mientras que
+un indicador TICK descendente y un índice Arms (TRIN) ascendente son
+negativos. El índice Arms, no obstante, también se puede usar para reali-
+zar análisis de mayor alcance.
+
+Suavizando el índice Arms
+
+Aunque el índice Arms se cita durante la sesión del día y tiene un cier-
+to valor de pronóstico a corto plazo, la mayoría de los operadores utiliza
+una media móvil de 10 días de sus valores. Según el propio Richard
+Arms, una media de 10 días del índice Arms por encima de 1,20 se con-
+sidera sobrevendida, mientras que un valor Arms de 10 días por debajo
+de 0,70 está sobrecomprado, aunque son cifras que pueden variar según
+la tendencia general del mercado. Arms expresa su preferencia por los
+números de Fibonacci, y sugiere el uso de un índice Arms de 21 días ade-
+más de la versión de 10 días. También utiliza cruces de medias móviles de
+21 y 55 días para generar buenas operaciones a medio plazo. Para una in-
+formación más detallada, lea The Arms Index (TRIN) de Richard W.
+Arms, Jr.
+
+Versión “abierta” del índice Arms
+
+En el cálculo del índice Arms de 10 días, el valor al cierre de cada día
+se determina usando los cuatro datos fundamentales y el valor final se sua-
+viza con una media móvil de 10 días. En la versión “abierta” del índice de
+Arms, cada uno de los cuatro componentes de la fórmula se promedia por
+separado por un período de 10 días, y el índice Arms abierto se calcula en-
+tonces a partir de esos cuatro promedios diferentes. Muchos analistas pre-
+fieren la versión abierta del índice Arms a la versión original. A la versión
+
+467

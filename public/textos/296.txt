@@ -1,0 +1,36 @@
+296 Capítulo 11
+
+C 1n 1Y
+
+aX 11 MXIDIÓ 107 |
+
+al TO aa * T
+ya —
+
+L
+
+Figura 11.5a Gráfico de puntos y figuras de 5x1 para un contrato de marcos
+alemanes. Los registros en negro indican el final de las operaciones del día. La
+figura 11.5b muestra la misma información de precios con una inversión de 3 re-
+gistros. Obsérvese la compresión. La figura 11.5c muestra una inversión de 5 re-
+gistros.
+
+Columna 6: El primer número el 2 del 5 es 4870. Hasta ahora, usted sólo
+tiene una o en la columna 5, y al menos debe tener dos mar-
+cas en cada columna. Por lo tanto, ponga las x que hagan fal-
+ta (porque los precios están avanzando) hasta alcanzar el nú-
+mero 4870. Fíjese que el último precio del día anterior está
+marcado con un registro totalmente negro: es para ayudarle
+a tener constancia del tiempo. Al rellenar con negro el re-
+gistro correspondiente al último precio de cada día, resulta
+más fácil tener presente las operaciones de cada día indivi-
+dual.
+
+Puede continuar con el resto del gráfico para afianzar su comprensión
+del proceso de construcción del gráfico. Fíjese que este gráfico tiene varias
+columnas de x y o. Se trata de una situación que sólo se dará en un gráfi-
+co de inversión de 1 punto, causada por la necesidad de tener como mí-
+nimo 2 registros marcados en cada columna. Algunos puristas disentirán
+de la combinación de x y o, pero la experiencia demostrará, sin embargo,
+
+296

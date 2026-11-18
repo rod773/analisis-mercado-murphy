@@ -1,0 +1,41 @@
+468 Capítulo 18
+
+abierta también se le pueden aplicar medias móviles de diferente longi-
+tud, por ejemplo 21 y 55 días. (Ver figura 18.8).
+
+Gráficos de equivolumen
+
+Richard Arms es muy conocido por haber creado el índice Arms, pero
+también ha destacado en otras formas de combinar el análisis de precio y
+volumen, especialmente al crear una forma completamente nueva de ha-
+cer gráficos llamada equivolumen. En el gráfico de barras tradicional, la
+banda de fluctuación del día aparece en la barra del precio y el volumen
+aparece representado en la parte inferior del gráfico. Dado que los analis-
+tas técnicos combinan el análisis de precio y volumen, tienen que mirar
+ambas partes del gráfico al mismo tiempo. En el gráfico de equivolumen,
+
+28
+
+ÍNDICE COMPUESTO DE NUEVA YORK
+
+SSECSRIARE
+
+=
+3
+
+SESUEIOES
+
+TT TT
+
+media de 10 días
+
+Versión abierta del índice Arms - 10 días
+
+bey — Tn a* Mgo”— Rep - loa Ne le" ee7 ee e be ey lan ha — P— lee
+
+Figura 18.8  La versión abierta del índice Arms de 10 días suaviza mucho a este
+indicador, pero continúa su tendencia en la dirección opuesta del mercado. El
+cruce de su media móvil de 10 días (línea más oscura) a menudo indica los pun-
+tos de inflexión.
+
+468

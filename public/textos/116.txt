@@ -1,0 +1,33 @@
+116 Capítulo 4
+
+l 2 Línea de
+C )velocidad de 2/3
+
+Figura 4.21b - Líneas de velocidad en una tendencia bajista.
+
+Cada vez que se establece un nuevo máximo en una tendencia al alza o
+un nuevo mínimo en una tendencia a la baja, se debe trazar otro conjun-
+to de líneas (porque habrá un punto nuevo de máximo y un punto nuevo
+de mínimo). Como las líneas de velocidad van desde el comienzo de la
+tendencia hasta los puntos que marcan un tercio y dos tercios, esas líneas
+de tendencia a veces pueden atravesar el movimiento del precio. Se trata
+de un caso en el que las líneas de tendencia no se trazan por debajo de los
+mínimos ni por encima de los máximos, sino directamente a través del
+movimiento del precio.
+
+Si una tendencia alcista está en proceso de autocorregirse, la correc-
+ción a la baja normalmente se detendrá en la línea de velocidad más alta
+(la de 2/3). Si no es así, los precios bajarán hasta la línea de velocidad más
+baja (1a de 1/3). Si la línea más baja se rompe, los precios probablemente
+seguirán el camino hasta llegar al comienzo de la tendencia anterior. En
+una tendencia a la baja, la rotura de la línea más baja indica una probable
+subida hasta la línea superior. Si ésta se rompe, la indicación sería de una
+subida hasta la parte más alta de la tendencia anterior.
+
+Al igual que todas las líneas de tendencia, las líneas de velocidad adop-
+tan el papel contrario una vez que han quedado rotas. Por lo tanto, du-
+rante la corrección de una tendencia al alza, si la línea superior (la de
+2/3) se rompe y los precios bajan hasta la línea de 1/3 y comienzan a su-
+bir desde allí, esa línea superior se transforma en una barrera de resisten-
+
+116

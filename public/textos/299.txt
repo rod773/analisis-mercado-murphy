@@ -1,0 +1,46 @@
+Los gráficos de puntos y figuras 299
+
+guientes áreas de congestión para obtener cuentas adicionales que se pue-
+den utilizar para confirmar las cuentas originales a partir de la base. (Ver
+figura 11.6).
+
+La intención es medir el ancho del patrón. Recuerde que estamos ha-
+blando de gráficos de inversión intradía de 1 registro. La técnica requiere
+algunas modificaciones para otros tipos de gráficos que veremos más ade-
+lante. Una vez identificada el área que sirve de base, simplemente cuente
+el número de columnas en esa base. Si hay 20 columnas, por ejemplo, la
+meta hacia el lado superior o inferior estaría en 20 registros a partir del
+punto de medición. La clave está en determinar cuál es la línea a partir de
+la cual se ha de medir, algo que a veces es fácil y otras, más difícil.
+
+En general, la línea horizontal a partir de la cual se comienza a medir
+está cerca del medio de la zona de congestión. Una regla más precisa es
+usar la línea que contenga el menor número de registros vacíos, o dicho
+de otro modo, la línea que tenga la mayor cantidad de x y de o. Una vez
+encontrada la línea correcta para hacer la cuenta horizontal, es importan-
+te incluir todas las columnas al contar, incluso las que están vacías. Cuen-
+te el número de columnas en la zona de congestión y luego proyecte ese
+número hacia arriba o hacia abajo a partir de la línea usada para contar.
+
+Modelos de precios
+
+La identificación de modelos o patrones también es posible en los grá-
+ficos de puntos y figuras, y la figura 11.7 muestra los tipos más comunes.
+
+Como se puede apreciar, no son muy diferentes de los ya vistos al tratar
+los gráficos de barras. La mayor parte de ellos son variaciones de los patro-
+nes dobles y triples superiores e inferiores, de cabeza y hombros, en V y en
+V invertida, y de platillo. La expresión “punto de apoyo” aparece bastante al
+trabajar con gráficos de puntos y figuras, y esencialmente es un área de con-
+gestión bien definida que aparece después de un avance o un retroceso im-
+portante y que forma una base de acumulación o un tope de distribución.
+En una base, por ejemplo, la parte inferior del área está sujeta a repetidas
+pruebas, interrumpidas por intermitentes intentos de subidas. Es frecuente
+que el punto de apoyo tome la apariencia de un patrón doble o triple infe-
+rior. El patrón que sirve de base queda completo cuando hay una ruptura
+(catapulta) por encima de la parte superior de la zona de congestión.
+
+Esos patrones de inversión, con alcances horizontales muy pronuncia-
+dos, obviamente se prestan muy bien para medir mediante cuentas. La
+
+299

@@ -1,0 +1,44 @@
+506 Apéndice B
+Desarrollo de la actividad y patrones del perfil
+
+Dado que la actividad del mercado no es arbitraria, tampoco es sor-
+prendente que los patrones de precios reconociblesse revelen con el
+tiempo. Un operador hábil capaz de anticipar el desarrollo de dichos pa-
+trones en su comienzo también puede ser capaz de capitalizarlo a su fa-
+vor. El Sr. Steidelmayer identifica los siguientes patrones diarios de la ac-
+tividad:
+
+1. Un día normal ocurre cuando el operador a más largo plazo está relati-
+vamente inactivo. La banda del día se establece en la banda pionera (de-
+finida como la primera columna de precios) durante la primera media
+hora de operaciones de la sesión. El operador a corto plazo establece el
+equilibrio inicial, el máximo y mínimo injusto, y entonces los precios ro-
+tan entre estos parámetros buscando el equilibrio del día (ver figura B.6:
+Panel 4 1 - zumo de naranja).
+
+2. Un día normal con variación ocurre cuando el operador a más largo pla-
+zo está más activo y extiende la banda más allá del equilibrio inicial. En
+este caso, los parámetros de equilibrio inicial de los operadores a corto
+plazo no se sostienen y hay un movimiento direccional que extiende la
+banda de precios y establece un nuevo parámetro máximo o mínimo. En
+general, la extensión de la banda más allá del equilibrio inicial puede ir
+desde un par de fluctuaciones mínimas hasta el doble del equilibrio ini-
+cial. Este tipo de perfil es probablemente el más corriente (ver figura
+B.6: Panel 4 2 - Índice industrial Dow Jones).
+
+3. Un día de tendencia ocurre cuando el operador a más largo plazo ex-
+tiende la banda de precios cada vez más. En este caso, la actividad es más
+del doble del equilibrio inicial, y el operador a más largo plazo controla
+la dirección mientras que el mercado continúa su búsqueda de un pre-
+cio justo. El mercado aquí se mueve un una dirección y cierra en el ex-
+tremo direccional, o muy cerca de éste (ver figura B.6: Panel 4 3 — el yen
+japonés).
+
+4. Un día neutral ocurre cuando el operador a más largo plazo extiende la
+actividad más allá del equilibrio inicial en una dirección, luego da mar-
+cha atrás y extiende la dirección en la dirección opuesta. Los días neu-
+trales indican la incertidumbre del operador y aparecen cuando el mer-
+cado hace pruebas para confirmar la continuación o el cambio de la
+tendencia de los precios (ver figura B.6: Panel 4 4 — Ganado).
+
+506

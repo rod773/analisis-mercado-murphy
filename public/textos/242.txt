@@ -1,0 +1,46 @@
+242 Capítulo 9
+
+La media móvil aplicada a otras informaciones técnicas
+
+La media móvil se puede aplicar prácticamente a cualquier informa-
+ción o indicador técnico. Se puede usar con cifras de interés abierto y de
+volumen, incluyendo los valores totales acumulativos, y se puede aplicar a
+varios indicadores y ratios, incluso a osciladores.
+
+La regla semanal
+
+Existen otras alternativas a la media móvil como instrumento para se-
+guir una tendencia, y una de las más conocidas y que más éxito tiene es la
+técnica llamada el canal del precio semanal o, simplemente, la regla se-
+manal. Esta técnica tiene muchas de las ventajas de la media móvil, pero
+requiere menos tiempo y es más fácil de usar.
+
+Con los adelantos tecnológicos alcanzados en el tratamiento de la in-
+formación computerizada en la última década, se ha podido realizar una
+considerable cantidad de investigación sobre los sistemas técnicos de con-
+tratación. Dichos sistemas son mecánicos por naturaleza, con lo que que-
+remos decir que de ellos se eliminan las emociones humanas y los juicios
+personales, y se han hecho cada vez más sofisticados. Al principio, se usa-
+ban sólo medias móviles simples; luego se agregaron los dobles y triples
+cruces de las medias, que entonces se ponderaban linealmente y se suavi-
+zaban exponencialmente. Estos sistemas básicamente siguen las tenden-
+cias, lo que significa que su propósito es identificar la tendencia existente
+y luego operar en la dirección que ella indique.
+
+Debido al interés por sistemas e indicadores más complejos y refinados
+apareció la tendencia a pasar por alto algunas de las técnicas más sencillas,
+que sin embargo siguen funcionando bastante bien y han resistido la
+prueba del tiempo. Ahora vamos a ver una de las técnicas más sencillas, la
+de la regla semanal.
+
+En 1970, los Servicios Financieros de Dunn 8c Hargitt, en Lafayette, In-
+diana, publicaron un librillo titulado Trader's Notebook, en el que los sistemas
+más conocidos de contratación se ponían a prueba y se comparaban por or-
+denador. La conclusión final de toda aquella investigación fue que el sistema
+de más éxito de todos los probados era el de la regla de 4 semanas, desarro-
+llado por Richard Donchian. El Sr. Donchian ha sido reconocido como pio-
+nero en el campo de las operaciones con mercancías usando sistemas mecá-
+nicos. (En 1983, Managed Account Reports escogió a Donchian como primer
+destinatario del Premio al Operador Más Valioso, por sus destacadas contri-
+
+242

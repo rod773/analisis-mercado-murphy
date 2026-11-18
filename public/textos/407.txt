@@ -1,0 +1,35 @@
+Ordenadores y sistemas de contratación 407
+
+con las calificaciones de tendencias más altas. Los sistemas sin tendencias
+(los osciladores, por ejemplo) se podrían utilizar para mercados de movi-
+miento direccional lento.
+
+El movimiento direccional se puede usar cómo sistema en sí mismo o
+como filtro del sistema parabólico o de cualquiér otro basado en seguir las
+tendencias. En el estudio del movimiento direccional se generan dos líne-
+as, +DI y -DI. La primera línea mide los movimientos positivos (ascenden-
+tes) y la segunda, los negativos (descendentes). En la figura 15.6 se ven
+ambas líneas; la más oscura es la +DI y la más clara la -DI. Cuando la línea
++DI cruza la línea -DI por encima, hay una señal de compra, y si la cruza
+por debajo, hay una señal de venta.
+
+La figura 15.6 también muestra los sistemas parabólico y de movimien-
+to direccional. El parabólico es un sistema claramente más sensible, lo que
+
+p4/21/97 - (*SPX) SEP 500 Stock Index
+GRÁFICO DE BARRAS DIARIO
+
+SRedóLiZ E DEE
+
+a
+
+De — M
+36 Taa ss ur Tradadiaon 6 Orvage Researo . 1007
+
+Figura 15.6 Las líneas del movimiento direccional que aparecen en la parte in-
+ferior del gráfico se pueden usar como filtro del sistema parabólico (gráfico su-
+perior). Cuando la línea +DI está por encima de la línea -DI (extremo izquierdo
+y extremo derecho del gráfico), todas las señales parabólicas de venta se pueden
+1gnorar, eliminando así varias distorsiones durante las fases de subida.
+
+407

@@ -1,0 +1,42 @@
+512 Apéndice B
+
+Conclusión
+
+El método Market Profile se puede usar para analizar cualquier serie
+de datos sobre precios de transacciones continuas, entre las que se inclu-
+yen los valores que cotizan en bolsa y los que no, los bonos y obligacio-
+nes del estado (precios o rendimientos) y los futuros y opciones sobre
+bienes, en los casos que corresponda. El gráfico de perfil presenta el mo-
+vimiento de los precios, por unidad de tiempo y en dos dimensiones (ver-
+tical o direccional y horizontal o frecuencial). Cuando la acción del pre-
+cio se mira desde este punto de vista, se logra un descubrimiento del
+precio que no es posible obtener en el tradicional gráfico de barras uni-
+dimensional (vertical).
+
+El gráfico de perfil ofrece ventajas únicas con respecto al gráfico de ba-
+rras normal:
+
+* El atributo de simetría del gráfico de perfil permite que el operador va-
+lore el estado de equilibrio (o desequilibrio) del mercado en cualquier
+momento. Cuando un mercado es simétrico, existe una condición de
+equilibrio entre compradores y vendedores. El desequilibrio de un mer-
+cado implica la continuidad de la tendencia de los precios, dado que el
+mercado trabaja para lograr un nuevo equilibrio. Éste, sin embargo, es
+fugaz e implica un cambio en el mercado o un movimiento direccional
+(hacia arriba o hacia abajo), señal que avisa a los operadores que consi-
+deren el empleo de metodologías que estudian las tendencias.
+
+* Todos los cambios de tendencia ocurren en un momento cualquiera y
+no cuando específicamente acaba una hora, un día, una semana o un
+mes. El gráfico de perfil se puede usar para identificar con mayor exac-
+titud el momento concreto en que el control ha cambiado de manos en-
+tre compradores y vendedores. Al restringir esos cambios de control, el
+gráfico de perfil permite que el operador identifique los niveles clave de
+apoyo y resistencia.
+
+En resumen, el gráfico de perfil proporciona una importante cantidad
+de información sobre el precio por unidad de tiempo y permite que el
+operador descubra patrones y dinámicas que no se verían tan fácilmente
+usando otros métodos.
+
+512

@@ -1,0 +1,38 @@
+64 Capítulo 3
+
+074797 — (INTC) Intel Corp _ 02/ié/53¡
+, 100
+GRÁFICO DE PUNTOS Y FIGURAS ,
+974
+¡
+a!
+- ¡
+|
+1
+!
+|
+| " '
+1997 729 '8n2 822 9no 928 1010 1028 1103 1111 M24 1205 1216 1998 109 —
+L 202 1 120m Prrded usng TradeStadon € Omega Reseerch e. 1907
+
+Figura 3.3  Un gráfico de puntos y figuras de Intel. Cabe destacar las columnas
+alternas de x y de o. Las columnas de x indican precios al alza. Las columnas de o
+muestran precios a la baja. Las señales de compra y venta son más exactas en este
+tipo de gráfico.
+
+la apertura y el cierre. Si el cierre es más alto que la apertura, el cuer-
+po real o verdadero es blanco (positivo). Si el cierre es más bajo que el
+precio de apertura, el cuerpo verdadero es negro (negativo). (Ver figu-
+ra 3.4)
+
+La clave de los gráficos de velas está en la relación entre la apertura y el
+cierre. Tal vez a raíz de la creciente popularidad de los gráficos de velas,
+los chartistas occidentales prestan actualmente más atención al tic de aper-
+tura en sus gráficos de barras. Con un gráfico de velas se puede hacer
+exactamente lo mismo que con uno de barras. En otras palabras, todas las
+herramientas técnicas e indicadores que mostraremos para los gráficos de
+barras, serán válidos también para los gráficos de velas. Un poco más ade-
+lante en este mismo capítulo indicaremos cómo construir gráficos de ba-
+rras para períodos semanales y mensuales; con los gráficos de velas se pue-
+
+64

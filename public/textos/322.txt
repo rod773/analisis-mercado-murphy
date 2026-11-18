@@ -1,0 +1,40 @@
+322 Capítulo 12
+
+Alto
+Cerrado —y
+Abierto N
+Bajo
+Figura 12.1
+
+sérvese que el cuerpo puede ser blanco o negro. Un cuerpo blanco significa
+que el precio de cierre fue mayor (más alto) que el de apertura. En reali-
+dad, el cuerpo no es blanco, sino abierto (o sea que no está relleno), lo
+que facilita su uso por ordenador. Se trata de una de las adaptaciones que
+han aparecido en el mundo occidental, porque los japoneses usan el color
+rojo para el cuerpo abierto. El cuerpo negro significa que el precio de cierre
+fue más bajo que el de apertura. Los precios de apertura y cierre tienen
+mucha importancia en la velas japonesas. Las pequeñas rayas o líneas en la
+parte de arriba y de abajo del cuerpo se conocen como pabilos, pelos o som-
+bras. La literatura japonesa de referencia utiliza muchos nombres diferen-
+tes para estas pequeñas líneas, lo cual resulta extraño, ya que representan
+los precios máximos y mínimos del día y en general, es una información
+que los japoneses no consideran vital (Ver figura 12.2).
+
+La figura 12.2 muestra la misma información representada en las co-
+nocidas barras y en el formato japonés de velas. Rápidamente se aprecia
+que la información que no es fácil de ver en el gráfico de barras parece sal-
+tar de la página (o de la pantalla) en el gráfico de velas. Al principio cues-
+ta un poco acostumbrarse, pero después es posible que usted lo prefiera.
+
+Las diferentes formas de las velas tienen significados distintos, y los ja-
+poneses han definido velas primarias diferentes basándose en la relación
+de los precios de apertura, máximo, mínimo y de cierre. La comprensión
+de estas velas básicas es el comienzo del análisis de este tipo de gráfico.
+
+Velas básicas
+
+Las diferentes combinaciones de cuerpos/sombras tienen diferentes
+significados. Los días en los que la diferencia entre los precios de apertu-
+ra y cierre es grande se llaman Días Largos, y del mismo modo, los días en
+
+322

@@ -1,0 +1,32 @@
+16
+Gestión monetaria
+y tácticas de contratación
+
+Introducción
+
+Los capítulos anteriores han tratado los métodos técnicos principales
+que se usan para hacer pronósticos de los mercados financieros y operar
+en ellos. En este capítulo, acabaremos de ver el proceso de contratación
+añadiéndole a la tarea de pronosticar el mercado dos elementos cruciales:
+las tácticas de contratación (o cálculo de los momentos adecuados) y un
+elemento a menudo descuidado, la gestión monetaria. Ningún programa
+de contratación puede estar completo sin estos tres elementos.
+
+Los tres elementos de la buena contratación
+
+Cualquier programa de contratación debe tener en cuenta tres factores
+importantes: el pronóstico del precio, el cálculo del tiempo, y la gestión
+del dinero.
+
+1. El pronóstico del precio indica qué dirección se espera que tenga la
+tendencia del mercado. Es el primer paso crucial en la decisión de rea-
+lizar operaciones. El proceso del pronóstico determina si el operador
+es alcista o bajista, y responde a la pregunta básica de si se debe entrar
+al mercado desde el lado largo o corto. Si el pronóstico del precio es
+equivocado, todo lo que siga no será válido.
+
+2. Las tácticas de contratación, o cálculo del momento apropiado para
+operar, determinan los puntos específicos de entrada y salida. En las
+operaciones con futuros, el cálculo del tiempo es especialmente cru-
+
+415

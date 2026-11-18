@@ -1,0 +1,47 @@
+Glosario 537
+
+— —55!!._ *
+plean dos medias, hay una señal de compra cuando la media más corta
+cruza por encima de la media más larga. Hay tres tipos de medias: sim-
+ple, ponderada y exponencialmente suavizada.
+
+Media ponderada: Media móvil que usa una extensión de tiempo selec-
+cionada, pero que da mayor peso a los datos más reciente sobre los pre-
+cios. (Ver media móvil).
+
+Media simple: Media móvil que asigna un peso igual a la información so-
+bre precios de cada día. (Ver suavidad exponencial y media pondera-
+da).
+
+Momento: Técnica utilizada para construir un oscilador sobrecomprado-
+sobrevendido. El momento mide las diferencias de precios en un perío-
+do determinado. Para construir una línea de momento de 10 días, el
+precio de cierre de 10 días antes se resta del último precio. El valor po-
+sitivo o negativo que resulta se representa por encima o por debajo de
+una línea cero. (Ver osciladores).
+
+Números de Fibonacci: La secuencia numérica de Fibonacci (1, 2,3, 5, 8,
+13, 21, 34, 55, 89, 144...) se construye sumando los primeros dos núme-
+ros para llegar al tercero. El coeficiente de cualquier número con res-
+pecto al siguiente número mayor es del 62 por ciento, que es un núme-
+ro de Fibonacci muy conocido en los retrocesos. El inverso de 62 por
+ciento, que es 38 por ciento, también se usa como número de retroceso
+de Fibonacci. La ratio de cualquier número con respecto al siguiente
+número menor es del 1,62 por ciento, que se usa para llegar a los obje-
+tivos de precio de Fibonacci. (Ver análisis de las ondas de Elliott).
+
+Oscilador de McClellan: Desarrollado por Sherman McClellan, este osci-
+lador es la diferencia entre las medias exponencialmente suavizadas de
+19 días (10 por ciento de la tendencia) y de 39 días (5 por ciento de la
+tendencia) de las cifras diarias netas de avance-declive. Los cruces por
+encima de la línea cero son positivos y por debajo de cero son negativos.
+Las lecturas por encima de +100 son sobrecompradas y por debajo de
+-100 son sobrevendidas.
+
+Osciladores: Indicadores que determinan cuándo un mercado está en
+condición sobrecomprada o sobrevendida. Cuando el oscilador alcanza
+el extremo superior, el mercado está sobrecomprado. Cuando la línea
+del oscilador llega al extremo inferior, el mercado está sobrevendido.
+(Ver momento, tasa de cambio, índice de fuerza relativa y estocástico).
+
+537

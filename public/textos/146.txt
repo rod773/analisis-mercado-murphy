@@ -1,0 +1,17 @@
+146 Capítulo 5
+
+L ]
+
+Figura 5.5a Ejemplo de un patrón superior doble. Este modelo tiene dos picos
+(A y C) aproximadamente al mismo nivel. El patrón se completa cuando el valle
+del medio en el punto B se rompe en una base de cierre. El volumen es general-
+mente más débil en el segundo pico (C) y se incrementa en la caída (D). Un mo-
+vimiento de retorno a la línea inferior no es infrecuente. El objetivo mínimo a
+medir es la altura del máximo proyectada hacia abajo a partir del punto de caída.
+
+Figura 5.5b  Ejemplo de un patrón inferior doble. Es una imagen reflejada del
+patrón superior doble. El volumen es más importante en la apertura al alza. Los
+movimientos de retorno al punto de caída son más comunes en los patrones in-
+feriores.
+
+146

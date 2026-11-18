@@ -1,0 +1,44 @@
+136 Capítulo 5
+
+La importancia del volumen
+
+El patrón de volumen que acompaña tiene un importante papel en el
+desarrollo del patrón de cabeza y hombros, así como en todos los patrones
+de precios. Por regla general, el segundo pico (la cabeza) debería darse
+con un volumen menor que el del hombro izquierdo. No se trata de un re-
+quisito, sino una tendencia fuerte y una advertencia anticipada de una de-
+creciente presión compradora. La señal de volumen más importante apa-
+rece durante el tercer pico (el hombro derecho). El volumen debería ser
+notoriamente menor que en los dos picos anteriores. El volumen debería
+entonces expandirse en la ruptura de la base del cuello, bajar durante el
+movimiento de retorno y luego volver a expandirse cuando el movimiento
+de retorno acabe.
+
+Como se ha dicho anteriormente, el volumen es menos fundamental
+durante la finalización de los máximos del mercado, pero en algún punto
+debería comenzar a incrementarse si la nueva tendencia a la baja ha de
+continuar. El volumen tiene un papel mucho más decisivo en los mínimos
+del mercado, un tema que se verá más adelante. Antes, sin embargo, vea-
+mos las implicaciones de medida del patrón de cabeza y hombros.
+
+Encontrar un objetivo de precios
+
+El método para llegar a un objetivo de precios se basa en la altura del
+patrón. Tome la distancia vertical desde la cabeza (punto C) hasta la base
+del cuello. A continuación proyecte esa distancia a partir del punto donde
+la base del cuello queda rota. Asuma, por ejemplo, que la parte superior
+de la cabeza está en 100 y la base del cuello en 80. La distancia vertical, por
+lo tanto, sería la diferencia, o sea 20. Esos 20 puntos se medirían hacia aba-
+jo a partir del nivel en el que la base del cuello queda rota. Si la base del
+cuello en la figura 5.1a está en 82 al romperse, un objetivo hacia abajo se
+proyectaría hasta el nivel 62 (82 - 20 = 62).
+
+Otra técnica que logra prácticamente lo mismo, pero es un poco más
+fácil, consiste simplemente en medir la longitud de la primera onda del
+descenso (puntos C a D) y luego doblarla. En cualquier caso, cuanto ma-
+yor sea la altura o la volatilidad del patrón, mayor será el objetivo. En el ca-
+pítulo 4 se decía que la medida tomada a partir de la penetración de una
+línea de tendencia era similar a la utilizada en el patrón de cabeza y hom-
+bros, y ahora deberíamos poder verlo. Los precios se desplazan aproxima-
+
+136

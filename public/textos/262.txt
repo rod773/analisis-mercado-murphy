@@ -1,0 +1,45 @@
+262 Capítulo 10
+
+b3/10/95 — (*50X) Phix Semiconductor Index __ - 03/13/98]
+
+GRÁFICO DE BARRAS SEMANAL * …¡
+
+Media de 10 semanas
+
+;()brecomprado
+Diferencia de las medias
+
+n…,……_*…… _ m
+
+8oBsal
+
+…F'||
+
+N
+
+A 6 6 h a
+
+Figura 10.7  Este histograma registra la diferencia entre 2 medias semanales. El
+histograma cambió en la dirección de la nueva tendencia de precios semanas an-
+tes de los cruces de la línea cero en el mismo histograma. Obsérvese con cuánta
+facilidad se ven los niveles sobrecomprados y sobrevendidos.
+
+media más larga, pero salta a partir de ella, lo que representa un área de
+compra ideal. Es muy parecido a la prueba de una línea de tendencia al
+alza. No obstante, si la media más corta cruza por debajo de la media más
+larga indica que hay un cambio de tendencia.
+
+En una tendencia a la baja, una subida de la media más corta hasta la
+más larga generalmente representa un área de venta ideal a no ser que
+cruce la línea más larga, en cuyo caso se registraría una señal de cambio
+de tendencia. Las relaciones entre las dos medias se pueden usar, por lo
+tanto, no sólo como un excelente sistema para seguir tendencias, sino tam-
+bién para ayudar a identificar condiciones sobrecompradas y sobrevendi-
+das a corto plazo.
+
+Índice del canal de mercancías
+
+Es posible normalizar un oscilador dividiendo los valores entre un divi-
+sor constante. En la construcción de su Índice del Canal de Mercancías
+
+262

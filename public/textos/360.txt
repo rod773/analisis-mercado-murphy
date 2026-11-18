@@ -1,0 +1,40 @@
+360 Capítulo 13
+
+Metas temporales de Fibonacci
+
+No hemos dicho demasiado sobre el tema del tiempo en el análisis de
+las ondas, pero las relaciones temporales de Fibonacci existen. Son más di-
+fíciles de predecir y algunos seguidores de Elliott consideran al elemento
+tiempo como el menos importante de los tres aspectos de la teoría. Las
+metas temporales de Fibonacci se encuentran contando hacia adelante a
+partir de máximos o mínimos significativos. En un gráfico diario, el ana-
+lista cuenta hacia adelante el número de días de operaciones a partir de
+un punto de inflexión importante, con la expectativa de que los máximos
+o mínimos futuros aparecerán en días de operaciones de Fibonacci, es de-
+cir, los días números 13, 21, 34, 55 u 89. La misma técnica se puede usar
+para los gráficos semanales, mensuales o incluso anuales. En el gráfico se-
+manal, el analista elige un máximo o mínimo significativo y busca metas
+temporales semanales que coincidan con los números de Fibonacci. (Ver
+figuras 13.27 y 13.28)
+
+La combinación de los tres aspectos de la teoría de las ondas
+
+La situación ideal se da cuando concurren la forma de la onda, el aná-
+lisis de las ratios y las metas temporales. Supongamos que un estudio de las
+ondas revela que se ha completado una quinta onda, que la onda 5 ha
+multiplicado por 1,618 la distancia entre la parte inferior de la onda 1 y la
+parte superior de la onda 3, y que el tiempo transcurrido desde el co-
+mienzo de la tendencia ha sido de 13 semanas a partir de un mínimo an-
+terior y de 34 semanas a partir de un máximo anterior. Las probabilidades
+de que un máximo importante estuviera cerca serían muy altas.
+
+El estudio de los gráficos de precios tanto para el mercado de valores
+como para el de futuros revela una cierta cantidad de relaciones tempora-
+les de Fibonacci, aunque parte del problema está en la variedad de las po-
+sibles relaciones. Las metas temporales de Fibonacci se pueden medir de
+máximo a máximo, de máximo a mínimo, de mínimo a mínimo y de mí-
+nimo a máximo. Son relaciones que siempre se pueden encontrar después
+del hecho y no siempre está claro cuáles de las posibles relaciones son re-
+levantes para la tendencia actual.
+
+360

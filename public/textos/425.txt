@@ -1,0 +1,44 @@
+Gestión monetaria y tácticas de contratación 425
+
+tección sobre la totalidad de la posición se deben colocar de tal modo
+que no se pierda una cantidad mayor a 5.000 dólares si la operación fra-
+casa.
+
+Un límite de protección más cercano permitiría tomar posiciones más
+largas, y uno no tan estricto reduciría el tamaño de la posición. Algunos
+operadores sólo usan factores de gestión monetaria para decidir dónde
+deben colocar los límites de protección. Es de vital importancia, no obs-
+tante, que el límite de protección se coloque por encima de un punto de
+resistencia válido para una posición corta o por debajo de un punto de
+apoyo válido para una posición larga. El uso de gráficos intradía puede ser
+especialmente eficaz para localizar niveles de apoyo o resistencia más ajus-
+tados que tengan validez.
+
+Tipos de órdenes de contratación
+
+Elegir el tipo de orden de contratación adecuado es uno de los ingre-
+dientes necesarios del proceso táctico. Nos ocuparemos sólo de algunos de
+los tipos más comunes: orden al mercado, limitada, stop, stop limitada y orden
+por lo mejor si toca (en inglés, market-if-touched o M.I.T.)
+
+1. La orden al mercado, también llamada orden por lo mejor, simple-
+mente instruye al corredor de bolsa a comprar o vender al precio actual
+del mercado. Esta orden es más adecuada en condiciones de mercado
+rápidas, o cuando el operador quiere asegurarse de que se toma una
+cierta posición para evitar su ausencia en un movimiento del mercado
+potencialmente dinámico.
+
+2. La orden limitada especifica un precio que el operador está dispuesto
+a pagar o aceptar. Una orden limitada de compra se ejecuta por deba-
+Jo del precio actual del mercado e indica el precio máximo que el ope-
+rador está dispuesto a pagar por una compra. Una orden limitada de
+venta se ejecuta por encima del precio actual del mercado y es el pre-
+cio mínimo que el vendedor está dispuesto a aceptar. Este tipo de or-
+den se usa, por ejemplo, después de una ruptura alcista cuando el com-
+prador quiere comprar una reacción por el lado inferior más cercana
+al apoyo.
+
+3. Una orden stop sirve para establecer una posición nueva, limitar las
+pérdidas de una posición existente, o proteger un beneficio. Una or-
+
+425

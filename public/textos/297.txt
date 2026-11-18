@@ -1,0 +1,23 @@
+Los gráficos de puntos y figuras 297
+
+Figura 11.5b Figura 11.5c
+
+que este método de registrar los precios es mucho más fácil para seguir el
+orden de las transacciones.
+
+La figura 11.5b toma los mismos datos de la figura 11.5a y los trans-
+forma en un gráfico de inversión de 3 registros. Obsérvese que el gráfico
+está condensado y se pierden muchos datos. La figura 11.5c muestra un
+cambio de 5 registros, y éstos son los 3 criterios de cambio o inversión
+que se han usado tradicionalmente: el cambio de 1, 3 y 5 registros. La in-
+versión de 1 registro se usa generalmente para actividades a muy corto
+plazo y el de 3 registros para el estudio de la tendencia intermedia. El
+cambio de 5 registros, debido a su gran condensación, generalmente se
+usa para el estudio de tendencias a largo plazo. El orden correcto de uso
+es el que se muestra aquí, o sea, comenzando por el gráfico de inversión
+de 1 registro. Las inversiones de 3 y 5 registros, entonces, se pueden cons-
+truir enseguida partiendo del primer gráfico. Por razones obvias, no se
+podría construir un gráfico de inversión de 1 registro partiendo de los de
+3 y 5 registros.
+
+297

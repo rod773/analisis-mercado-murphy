@@ -1,0 +1,44 @@
+Conceptos básicos de tendencia 105
+
+En la figura 4.14a, la línea de tendencia original (línea 1) es demasiado
+plana y se debe volver a trazar a un ángulo más inclinado (línea 2). La ten-
+dencia al alza se acelera y requiere una línea más inclinada. Una línea de
+tendencia que está demasiado alejada del movimiento del precio, obvia-
+mente tiene poca utilidad para seguir los pasos de la tendencia.
+
+En el caso de una tendencia que se acelera, a veces se tienen que trazar
+varias líneas de tendencia en ángulos cada vez más agudos. En mi expe-
+riencia, sin embargo, cuando se necesitan líneas de tendencia más incli-
+nadas, es mejor recurrir a otra herramienta, la media móvil, que es lo mis-
+mo que una línea de tendencia curvilínea. Una de las ventajas de tener
+acceso a varios tipos diferentes de indicadores técnicos es la capacidad de
+elegir el que resulte más apropiado para una situación concreta. Todas las
+técnicas descritas en este libro funcionan bien en ciertas situaciones, pero
+no tan bien en otras. Cuando el técnico cuenta con un arsenal de herra-
+mientas con el cual respaldarse, rápidamente puede cambiar de una he-
+rramienta a otra que funcione mejor en una situación dada. Una tenden-
+cia acelerada es uno de esos casos en los que la media móvil sería más útil
+que una serie de líneas de tendencia cada vez más inclinadas.
+
+Del mismo modo que hay varios grados diferentes de tendencia vigen-
+tes en un determinado momento, también hay una necesidad de que las
+diferentes líneas de tendencia midan dichas tendencias diferentes. Una lí-
+nea de tendencia al alza mayor, por ejemplo, conectaría los puntos bajos
+
+Figura 4.14a Ejemplo
+de una línea de tenden-
+cia ascendente que es
+demasiado plana (línea
+
+1 1). La línea 1 resultó de-
+masiado lenta a medida
+que la tendencia al alza
+se aceleraba. En este
+caso, debería trazarse
+una segunda línea de
+tendencia, más empina-
+da, para vigilar más de
+cerca la tendencia as-
+cendente.
+
+105

@@ -1,0 +1,35 @@
+258 Capítulo 10
+
+ha/27/97 — — (TR1600) Treasury Bonds 1600 03/06/98
+H 123114
+"
+I ll[ ll“ Í]¡¡l l[lnv¡l 12128
+]1¡¡l…… I …II "' 12044
+U l……"" Ii N l…hw—u
+anI|…lt l““'l…“ Media móvil de 80 días 192
+'l 11402
+Lí 1
+…… .
+l5;217777' — = … bb Y4Hgº m1a—.v.m£:ñ_'ní—a—mebn—mm.um
+
+Figura 10.2b — Algunos operadores consideran que un cruce por encima de la línea
+cero es una señal de compra y que un cruce por debajo de dicha línea es una señal
+de venta (ver círculos). Una media móvil es útil para confirmar los cambios de ten-
+dencia. La línea de momento alcanzó el pico antes que el precio (ver flechas).
+
+vide el último precio de cierre por el cierre de hace 10 días. La fórmula es
+la siguiente:
+Tasa de cambio = 100 (V/Vx)
+
+en la que V es el último cierre y Vx es el precio de cierre hace x días.
+
+En este caso, la línea del 100 es la línea media. Si el último precio es
+más alto que el precio de hace 10 días (los precios están subiendo), la
+tasa de cambio resultante estará por encima de 100. Si el último cierre
+está por debajo del cierre hace 10 días, el coeficiente estará por debajo
+de 100. (Los programas informáticos para gráficos a veces usan variacio-
+nes de las fórmulas precedentes para calcular el momento y la tasa de
+cambio, pero aunque las técnicas pueden variar, la interpretación sigue
+siendo la misma).
+
+258

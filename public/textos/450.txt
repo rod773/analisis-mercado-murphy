@@ -1,0 +1,43 @@
+450 Capítulo 17
+
+hay deflación, y cuando la haya, las relaciones entre mercados seguirán pre-
+sentes, pero de modo diferente. La desinflación es mala para las mercancí-
+as, pero buena para las obligaciones y los valores. La deflación es buena
+para las obligaciones y mala para las mercancías, pero también puede ser
+mala para los valores.
+
+La tendencia deflacionaria que comenzó en Asia a mediados de 1997,
+se extendió a Rusia y América Latina y a mediados de 1998 comenzó a
+afectar a todos los mercados de capitales. Una gran bajada en los precios
+de las mercancías tuvo un impacto especialmente pernicioso en países ex-
+portadores de productos como Australia, Canadá, Méjico y Rusia. El im-
+pacto deflacionario de la caída de los precios de bienes y valores tuvo un
+efecto positivo sobre los precios de los bonos del tesoro, que alcanzaron
+máximos históricos. Los sucesos de 1998 fueron un duro ejemplo de la
+existencia de conexiones globales entre mercados y demostraron que las
+obligaciones y los valores se pueden separar en un mundo deflacionario.
+
+Correlación entre mercados
+
+Dos mercados que normalmente tienen tendencias en la misma direc-
+ción, como el de obligaciones y el de valores, están correlacionados positi-
+vamente. Los mercados cuyas tendencias van en direcciones opuestas,
+como el de obligaciones y el de bienes, están correlacionados negativa-
+mente. Los programas informáticos para hacer gráficos permiten medir el
+grado de correlación entre diferentes mercados. Una lectura positiva alta
+sugiere una fuerte correlación positiva, y una lectura negativa alta sugiere
+una fuerte correlación negativa. La lectura alrededor de cero sugiere poca
+o ninguna correlación entre dos mercados. Midiendo el grado de correla-
+ción, el operador puede establecer cuánto énfasis debe poner en una de-
+terminada relación entre mercados. Se debería poner más en aquéllos que
+tengan las correlaciones más altas, y menos en los mercados con una co-
+rrelación cercana a cero. (Ver figura 17.11)
+
+En su libro titulado Cybernetic Trading Strategies, Murray Ruggiero, Jr.
+presenta un trabajo creativo sobre el tema de las correlaciones entre mer-
+cados y muestra cómo usar los filtros entre mercados en los sistemas de
+contratación. Por ejemplo, demuestra cómo se puede usar un sistema de
+cruce de medias móviles como filtro de las operaciones con índices de va-
+lores. Ruggiero explora la aplicación de los más modernos métodos de in-
+
+450

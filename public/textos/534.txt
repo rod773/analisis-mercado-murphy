@@ -1,0 +1,46 @@
+534 Glosario
+
+del día hasta el más bajo (la banda). Una pequeña marca a la izquierda
+de la barra indica el precio de apertura, y otra pequeña marca a la de-
+recha de la barra indica el precio de cierre. Los gráficos de barras se
+pueden crear para un período temporal cualquiera, incluyendo perío-
+dos mensuales, semanales, de horas o minutos.
+
+Gráficos de líneas: Gráficos de precios que conectan los precios de cierre
+de un mercado determinado y cubren una cierta extensión de tiempo.
+El resultado es una línea curva en el gráfico. Este tipo de gráfico es muy
+útil en los gráficos de superposición o comparación comúnmente em-
+pleados en el análisis entre mercados. También se usa para el análisis vi-
+sual de la tendencia de los fondos de inversión variables.
+
+Histograma CDMM: Variación del sistema de CDMM que representa la di-
+ferencia entre la señal y las líneas de CDMM. Los cambios en el spread
+entre ambas líneas se pueden detectar con mayor rapidez y dan lugar a
+señales más tempranas.
+
+Hueco de agotamiento: Hueco en los precios que ocurre al final de una
+tendencia importante y que señala que la tendencia se está agotando.
+(Ver huecos).
+
+Hueco de fuga: Hueco en los precios que normalmente ocurre a medio
+camino de una importante tendencia del mercado. Por tal razón tam-
+bién se le llama hueco de medida. (Ver huecos).
+
+Hueco de ruptura: Hueco en los precios que se forma cuando se comple-
+ta un patrón de precios importante. Un hueco de ruptura generalmen-
+te señala el comienzo de un importante movimiento de los precios. (Ver
+huecos).
+
+Huecos: Son espacios que quedan en el gráfico de barras y que indican
+que no ha habido transacciones. Se forma un hueco ascendente cuando
+el precio más bajo de un día de contratación es más alto que el máximo
+más alto del día anterior. Se forma un hueco descendente cuando el
+precio más alto de un día es más bajo que el precio mínimo del día an-
+terior. Un hueco ascendente normalmente indica fortaleza en el mer-
+cado, mientras que un hueco descendente es señal de debilidad. Los
+tres tipos de huecos son: de ruptura, de fuga (también llamado de me-
+dida) y de agotamiento.
+
+Indicadores de opinión: Indicadores psicológicos que tratan de medir el
+
+534

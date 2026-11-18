@@ -1,0 +1,32 @@
+Conceptos básicos de tendencia 113
+
+í
+
+Retroceso de 33 por ciento
+
+Figura 4.20a — Los precios con frecuencia vuelven atrás más o menos la mitad de
+la tendencia previa antes de retomar la dirección original. Este ejemplo muestra
+una vuelta atrás de un 50 por ciento. El retroceso mínimo es de un tercio, y el má-
+ximo de dos tercios de la tendencia anterior.
+
+El parámetro máximo de retroceso es el 66 por ciento, un área que se
+vuelve especialmente crítica. Para que se mantenga la tendencia anterior,
+la corrección debe detenerse en el punto de los dos tercios, que entonces
+se transforma en un área de compra con riesgo relativamente bajo en una
+tendencia alcista o en un área de venta en una tendencia bajista. Si los pre-
+cios exceden el punto de los dos tercios, hay más posibilidades entonces
+de un cambio de tendencia que de un simple retroceso. El movimiento
+entonces generalmente vuelve atrás el 100 por ciento de la tendencia an-
+terior.
+
+Usted se habrá dado cuenta de que los tres parámetros de retrocesos
+porcentuales que hemos mencionado hasta ahora —50 por ciento, 33 por
+ciento y 66 por ciento— salen directamente de la Teoría de Dow. Cuando
+lleguemos a la Teoría de las ondas de Elliott y a las ratios de Fibonacci, ve-
+remos que los seguidores de dicho enfoque usan retrocesos porcentuales
+del 38 y el 62 por ciento. Yo prefiero combinar ambos enfoques para una
+zona de retroceso mínimo entre el 33 y el 38 por ciento y para una zona
+máxima de 62 - 68 por ciento. Algunos técnicos redondean estas cifras aún
+más y llegan a una zona de retroceso entre el 40 y el 60 por ciento.
+
+113

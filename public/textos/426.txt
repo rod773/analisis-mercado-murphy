@@ -1,0 +1,44 @@
+426 Capítulo 16
+
+den stop especifica el precio al que se debe ejecutar la orden. Una or-
+den stop de compra se ejecuta por encima del mercado y una orden
+stop de venta por debajo (o sea, lo contrario de una orden limitada).
+Cuando se alcanza el precio, la orden se transforma en una orden al
+mercado y se ejecuta al mejor precio posible. En una posición larga,
+una orden stop de venta se ejecuta por debajo del mercado para limi-
+tar las pérdidas. Después de que el mercado se mueva al alza, el precio
+stop se puede subir para proteger el beneficio. Una orden stop de com-
+pra se ejecuta por encima de la resistencia para iniciar una posición lar-
+ga en una ruptura alcista. Dado que la orden stop se transforma en or-
+den por lo mejor, el precio real puede estar más allá del precio stop,
+especialmente en un mercado rápido.
+
+4. Una orden stop limitada combina una orden stop con una limitada.
+Este tipo de orden especifica tanto el precio al que la operación se eje-
+cuta como un precio limitado. Una vez elegido el precio stop, la orden
+se transforma en una orden limitada. Se trata de un tipo de orden útil
+cuando el operador quiere comprar o vender una ruptura pero quiere
+controlar el precio pagado o recibido.
+
+5. La orden por lo mejor si toca es parecida a una orden limitada, excep-
+to que se transforma en una orden al mercado cuando se alcanza el
+precio límite. Una orden MIT para comprar se ejecuta por debajo del
+mercado, como una orden limitada. Cuando se alcanza el precio lími-
+te, la operación se ejecuta al precio del mercado. Este tipo de opera-
+ción tiene una ventaja principal sobre la orden limitada, y es que la or-
+den limitada de compra ejecutada por debajo del mercado no
+garantiza su cumplimiento aunque se haya alcanzado el precio límite.
+Los precios pueden saltar exageradamente a partir del precio límite,
+dejando la orden sin ejecutar. Una orden por lo mejor resulta muy útil
+cuando el operador quiere comprar la caída, pero no quiere arriesgar
+estar ausente del mercado después de que se alcance el precio límite.
+
+Cada una de estas órdenes es adecuada en un momento determinado,
+y todas ellas tienen puntos fuertes y débiles. Las órdenes al mercado ga-
+rantizan una posición, pero pueden acabar “persiguiendo” al mercado.
+Las órdenes limitadas proporcionan más control y mejores precios, pero
+corren el riesgo de perder el mercado. Las órdenes stop limitadas también
+corren el riesgo de no estar presentes en el mercado si los precios saltan
+más allá del precio límite. Los precios limitados se recomiendan para evi-
+
+426

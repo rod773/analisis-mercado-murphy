@@ -1,0 +1,45 @@
+536 Glosario
+
+neralmente se compara con un índice bursátil conocido, como por
+ejemplo el índice industrial Dow Jones. Su tendencia debe ir en la mis-
+ma dirección. Cuando la línea avance-declive comienza a divergir del
+índice bursátil, hay una temprana indicación de un posible cambio de
+tendencia.
+
+Línea de canal: Líneas rectas trazadas paralelas a la línea de tendencia bá-
+sica. En una tendencia ascendente, la línea de canal se inclina hacia
+arriba y hacia la derecha, y se traza por encima de los picos que indican
+subidas. En una tendencia descendente, la línea de canal se traza por
+debajo de los valles de los precios e inclinada hacia abajo y hacia la de-
+recha. Los precios a menudo encuentran resistencia en las líneas de ca-
+nal ascendentes y apoyo en las líneas de canal descendentes.
+
+Línea de tendencia ascendente: Línea recta trazada hacia arriba y hacia la
+derecha por debajo de los mínimos de reacción. Cuanto más tiempo
+haya estado en efecto la línea de tendencia ascendente, y cuantas más
+veces se haya probado, más importante será. La violación de la línea de
+tendencia normalmente señala que la tendencia al alza puede estar
+cambiando de dirección. (Ver línea de tendencia descendente).
+
+Línea de tendencia descendente: Línea recta trazada hacia abajo y hacia la
+derecha por encima de picos sucesivos de subidas. La violación de la lí-
+nea de tendencia descendente generalmente señala un cambio de la
+tendencia a la baja. (Ver líneas de tendencia). y
+
+Líneas de tendencia: Líneas rectas trazadas en un gráfico por debajo de los
+mínimos de reacción en una tendencia al alza, o por encima de los pi-
+cos de subidas en una tendencia a la baja, que determinan el grado de
+inclinación de la tendencia actual. La ruptura de una línea de tenden-
+cia generalmente señala un cambio en la tendencia.
+
+Media móvil: Un indicador de seguimiento de tendencias que funciona
+mejor en un entorno con tendencias. Las medias móviles suavizan la ac-
+ción de los precios pero operan con un desfase temporal. Una simple
+media móvil de 10 días de un valor, por ejemplo, suma los precios de
+cierre de los últimos 10 días y divide el total entre 10. Ese procedimien-
+to se repite cada día. Se puede emplear cualquier número de medias
+móviles, con diferentes extensiones de tiempo, para generar señales de
+compra y venta. Cuando se emplea sólo una media, hay una señal de
+compra cuando el precio cierra por encima de la media. Cuando se em-
+
+536

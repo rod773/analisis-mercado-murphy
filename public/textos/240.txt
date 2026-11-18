@@ -1,0 +1,44 @@
+240 Capítulo 9
+
+prestarse bastante bien al análisis de las medias móviles. Es algo que suce-
+de no sólo con los gráficos diarios, sino también con los semanales. La
+media móvil de 21 días es un número de Fibonacci. En los gráficos sema-
+nales, el promedio de 13 semanas ha demostrado valer tanto para valores
+como para mercancías, pero esperaremos al capítulo 13 para entrar en
+una discusión más detallada de estos números.
+
+Medias móviles aplicadas a los gráficos a largo plazo
+
+El lector no debe pasar por alto la aplicación de esta técnica en el aná-
+lisis de tendencias a largo plazo. Las medias móviles de mayor alcance,
+como las de 10 o 13 semanas, en conjunción con la media de 30 o 40 se-
+manas, se han usado desde hace mucho tiempo en el análisis del mercado
+de valores, pero no han recibido tanta atención en los mercados de futu-
+ros. Las medias móviles de 10 y 40 semanas se pueden usar para ayudar a
+detectar la tendencia principal en los gráficos semanales para futuros y va-
+lores. (Ver figura 9.10).
+
+Algunos pros y contras de las medias móviles
+
+Una de las grandes ventajas de usar medias móviles, y una de las razo-
+nes por las que son tan aceptadas como sistemas para seguir las tenden-
+cias, es que personifican algunas de las máximas más antiguas de las bue-
+nas operaciones. Se mueven en la dirección de la tendencia, permiten que
+los beneficios avancen y frenan las pérdidas. El sistema de las medias mó-
+viles obliga al usuario a obedecer dichas reglas proporcionando señales es-
+pecíficas de compra y venta basadas en dichos principios.
+
+Debido a que, por naturaleza, siguen la tendencia, las medias móviles
+funcionan mejor cuando los mercados están en un período con tenden-
+cia. En cambio, no funcionan bien cuando el mercado está agitado y ope-
+ra lateralmente durante un cierto período, cosa que puede suceder entre
+un tercio y la mitad del tiempo.
+
+El mismo hecho de que no funcionen tan bien durante períodos signi-
+ficativos es una razón poderosa para no apoyarse demasiado en la técnica
+de las medias móviles. En ciertos mercados con tendencia, la media móvil
+no tiene competidor, y basta con poner el programa en automático. En
+cambio, en otros momentos, un método que no siga a la tendencia, como
+el del oscilador sobrecomprado-sobrevendido, resulta más apropiado. (En
+
+240

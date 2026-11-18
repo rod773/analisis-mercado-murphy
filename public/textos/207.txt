@@ -1,0 +1,44 @@
+Volumen e interés abierto 207
+
+Ratios put/call (opción de venta/opción de compra)
+
+Las cifras de volumen para los mercados de opciones se usan esen-
+cialmente del mismo modo que en los mercados de futuros y valores, o
+sea, nos indican el grado de presión compradora o vendedora en un mer-
+cado dado. Las cifras de volumen en las opciones se desglosan en volu-
+men de compras (alcista) y volumen de ventas (bajista). Controlando el
+volumen de las opciones de compra en contraste con el de las opciones
+de venta, podemos determinar el grado de tendencia al alza o a la baja
+de un mercado. Uno de los usos principales de la información sobre vo-
+lúmenes de operaciones con opciones es la construcción de las ratios
+put/call (opción de venta/opción de compra). Cuando los que operan
+con opciones son alcistas, el volumen de las opciones de compra excede
+al volumen de las opciones de venta, y la ratio put/call cae. Una actitud
+bajista queda reflejada en un mayor volumen de opciones de venta y una
+ratio put/call más alta. Dicho ratio se considera generalmente un indica-
+dor contrario. Una proporción muy alta indica un mercado sobrevendi-
+do, y una proporción muy baja es una advertencia negativa de un mer-
+cado sobrecomprado.
+
+Combinar criterios personales sobre opciones con datos
+técnicos
+
+Los operadores de opciones utilizan el interés abierto y las cifras del vo-
+lumen de las opciones put/call para determinar la extensión de los crite-
+rios alcistas o bajistas. Las interpretaciones de estos criterios funcionan
+mejor cuando se combinan con medidas técnicas como apoyo, resistencia
+y la tendencia del mercado subyacente. Dada la importancia crucial del
+cálculo del tiempo en las opciones, la mayoría de los operadores con op-
+ciones siguen una orientación técnica.
+
+Conclusión
+
+Esto concluye, al menos por ahora, nuestra cobertura del volumen y el
+interés abierto..El análisis del volumen se usa en todos los mercados fi-
+nancieros: de futuros, de opciones y de valores. El interés abierto se aplica
+solamente a los futuros y opciones, pero como se opera con ellos en tan-
+tos aspectos del mercado de valores, vale la pena tener una cierta com-
+prensión del funcionamiento del interés abierto en las tres áreas financie-
+ras. En la mayor parte de nuestras discusiones hasta el momento nos
+
+207

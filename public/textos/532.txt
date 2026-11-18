@@ -1,0 +1,46 @@
+532 Glosario
+
+Apoyo: Un precio, o una zona de precios, por debajo del actual precio del
+mercado, en la que el.poder adquisitivo es suficiente para detener una
+bajada de precios. Un mínimo de reacción anterior generalmente for-
+ma un nivel de apoyo.
+
+Bandas de Bollinger: Desarrollado por John Bolllinger, este indicador re-
+presenta bandas de fluctuación dos desviaciones típicas por encima y
+por debajo de una media móvil de 20 días. Los precios generalmente
+encuentran resistencia en la banda superior y apoyo en la banda infe-
+rior.
+
+Bandera: Patrón de precios de continuidad que generalmente dura me-
+nos de tres semanas y que se parece a un paralelograma que se inclina
+en dirección contraria a la tendencia prevaleciente. La bandera repre-
+senta una pausa menor en una tendencia dinámica de precios. (Ver
+banderín).
+
+Banderín: Este patrón de continuidad es similar a la bandera, excepto que
+es más horizontal y parece un pequeño triángulo simétrico. Como la
+bandera, el banderín generalmente dura entre una y tres semanas y ha-
+bitualmente va seguido de una reanudación de la tendencia anterior.
+
+Cabeza y hombros: El más conocido de los patrones de cambio. En el me-
+jor momento del mercado se forman tres picos prominentes, con el del
+medio (o cabeza) ligeramente más alto que los otros dos (hombros).
+Cuando la línea de tendencia (base del cuello) que conecta los dos va-
+lles interpuestos se rompe, el patrón queda completo. Un patrón en el
+momento más bajo del mercado es una imagen reflejada del anterior y
+se conoce como patrón inverso de cabeza y hombros.
+
+Cambio semanal: Hay un cambio semanal al alza cuando los precios abren
+a un nivel más bajo el lunes y el viernes cierran por encima del cierre de
+la semana anterior. Un cambio semanal a la baja abre la semana a un ni-
+vel más alto pero cierra a la baja el viernes. (Ver día clave del cambio).
+
+Cambio tipo isla: Combinación de un hueco de agotamiento en una di-
+rección y un hueco de ruptura en la otra en el plazo de pocos días. Ha-
+cia el final de una tendencia al alza, por ejemplo, los precios forman
+huecos al alza y luego a la baja en un plazo de pocos días. El resultado
+suele ser dos o tres días de operaciones aislados con huecos a los costa-
+dos. El cambio tipo isla generalmente anuncia un cambio en la tenden-
+cia. (Ver huecos).
+
+532

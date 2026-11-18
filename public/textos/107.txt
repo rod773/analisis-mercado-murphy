@@ -1,0 +1,22 @@
+Conceptos básicos de tendencia 107
+
+7
+
+Figura 4.15 Se utilizan diferentes líneas de tendencia para definir los distintos
+grados de tendencia. La línea 1 del ejemplo de arriba es la línea de tendencia as-
+cendente principal que define la tendencia al alza principal. Las líneas 2, 3 y 4 de-
+finen las tendencias intermedias. Finalmente, la línea 5 define un avance de más
+corta duración dentro de la última tendencia al alza intermedia. Los técnicos uti-
+lizan muchas líneas de tendencia diferentes en el mismo gráfico.
+
+una línea de puntos desde el primer pico prominente (punto 2) paralela
+a la línea de tendencia ascendente básica. Ambas líneas se mueven hacia
+la derecha, formando un canal. Si la siguiente subida alcanza la línea de
+canal y vuelve a moverse a partir de ella (en el punto 4), es probable en-
+tonces que exista un canal. Si a continuación los precios vuelven a caer
+hasta alcanzar la línea de tendencia original (en el punto 5), entonces es
+Casi seguro de que existe un canal. Lo mismo se puede afirmar para una
+tendencia a la baja (figura 4.16b), aunque por supuesto en la dirección
+contraria.
+
+107

@@ -1,0 +1,9 @@
+208 Capítulo 7
+
+hemos concentrado en los gráficos de barras diarios, pero el siguiente
+paso es ampliar nuestro horizonte temporal y aprender a aplicar las he-
+rramientas que ya conocemos a los gráficos semanales y mensuales para
+poder así realizar un análisis de tendencia de más largo alcance. Esto es lo
+que lograremos en el siguiente capítulo.
+
+208

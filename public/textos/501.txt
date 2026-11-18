@@ -1,0 +1,42 @@
+Un método llamado Market Profile 501
+E— — ___—__——_—————————
+
+Cada letra representa una TPO o Time Price Opportunity, que es el pre-
+cio específico al que operó un mercado en un período concreto (por ejem-
+plo, en el período B los precios fluctuaron entre 163 y 166). Estas TPO son
+las unidades básicas para analizar la actividad del día, o dicho de otra for-
+ma, cada TPO es una oportunidad creada por el mercado en un momento
+determinado a un precio determinado. Las distribuciones que hace Mar-
+ket Profile se basan en las TPO. El Chicago Board of Trade (CBOT) asigna
+una letra a cada período de transacción de media hora de duración, las 24
+horas del día. Las letras mayúsculas, desde la A a la X, representan los pe-
+ríodos de media hora desde la medianoche hasta el mediodía, mientras
+que las letras minúsculas, de la a a la x, representan los períodos de media
+hora desde el mediodía hasta la media noche*.
+
+Estructura del mercado
+
+Al visitar una lonja de contratación de bienes en un día con mucha ac-
+tividad, se observa lo que se puede definir como “caos controlado”. Bajo
+los gritos y los gestos de los locales y otros operadores hay un proceso que
+se puede describir. Piense en el mercado como un lugar en el que los par-
+ticipantes tienen diferentes necesidades de precio y apremios de tiempo y
+compiten entre ellos para cerrar las operaciones. Las emociones pueden
+alcanzar altos niveles a medida que se disparan los niveles de ansiedad.
+
+El concepto de Market Profile fue introducido por el Sr. Steidlmayer en
+un intento de ayudar a describir este proceso. Como agente de bolsa del
+CBOT o local y estudioso del comportamiento del mercado, observó pa-
+trones repetidos de actividad que le proporcionaron los cimientos de su
+comprensión del mercado. Dado que las sesiones en el parquet del CBOT
+se realizan como si fuera una subasta, definió los principios del Market
+Profile en términos propios de dicha actividad. Por ejemplo, un operador
+ajeno describiría un mercado que avanza como uno que está subiendo u
+operando al alza, mientras que el Sr. Steidlmayer diría en cambio algo
+como que “el mercado sigue subastando al alza, avisando a los operadores
+que aparezcan para detener las compras”.
+
+3. La asignación de letras puede variar entre los distintos vendedores. Por ejem-
+plo, COG asigna mayúsculas, de la A a la Z, a partir de las 8 de la mañana de la
+zona central de Estados Unidos, y minúsculas, de la a a la 7, a partir de las diez de
+la noche de la misma zona.

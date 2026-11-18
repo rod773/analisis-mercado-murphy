@@ -1,0 +1,44 @@
+Osciladores y opinión contraria 283
+
+aplicar los principios de Neill a las operaciones de futuros mediante la cre-
+ación de un servicio de consultoría llamado Market Vane, que incluye los
+números del Consenso Alcista (Market Vane, P.O. Box 90490, Pasadena,
+CA 91109). Cada semana se hace un sondeo de las crónicas bursátiles para
+determinar el grado de tendencia alcista o bajista entre los profesionales
+del sector. El propósito del sondeo es cuantificar el sentimiento del mer-
+cado otorgándole unos números que se pueden analizar y usar en el pro-
+ceso de pronosticar el mercado. El razonamiento que hay detrás de este
+enfoque es que casi todos los operadores de futuros están muy influidos
+por los servicios de asesoramiento sobre el mercado. Por lo tanto, con el
+seguimiento de las opiniones de las crónicas bursátiles profesionales se
+puede obtener una medida razonablemente exacta de las actitudes del pú-
+blico operador.
+
+Otro servicio que proporciona una indicación del sentimiento del mer-
+cado es el «Consensus Index of Bullish Market Opinion», publicado por
+Consensus National Commodity Futures Weekly (Consensus, Inc., 1735
+McGee Street, Kansas City, MO 64108). Estos datos se publican cada vier-
+nes y utilizan el 75 por ciento como medida de sobrecomprado y el 25 por
+ciento como medida de sobrevendido.
+
+Interpretación de los números de Consenso Alcista
+
+La mayoría de los operadores parece emplear un método bastante sen-
+cillo para analizar estos números semanales. Si los números están por en-
+cima del 75 por ciento, se considera que el mercado está sobrecomprado
+y significa que puede haber un máximo cercano. Una lectura por debajo
+del 25 por ciento se interpreta como una advertencia de una condición so-
+brevendida y de la posibilidad incrementada de que un mínimo de mer-
+cado se esté aproximando.
+
+La Opinión Contraria mide el poder de compra o venta restante
+
+Considere el caso de un especulador individual. Asuma que el especu-
+lador lee su crónica bursátil favorita y se convence de que el mercado está
+a punto de subir de modo sustancial. Cuanto más alcista sea el pronóstico,
+más agresiva será la aproximación que el operador haga al mercado. Pero
+cuando los fondos de ese especulador individual estén completamente
+comprometidos con ese mercado particular, estará sobrevendido, lo que
+significa que no habrá más fondos para dedicar al mercado.
+
+283

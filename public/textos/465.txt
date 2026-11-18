@@ -1,0 +1,34 @@
+Indicadores bursátiles 465
+
+men al alza con el volumen a la baja para medir cuál es el dominante en
+un momento dado. (Ver figura 18.6). El volumen al alza y el volumen a la
+baja se pueden representar como dos líneas separadas (como hicimos con
+las cifras de nuevos máximos y nuevos mínimos), o se puede mostrar la di-
+ferencia entre ellos con una sola línea. En todo caso, la interpretación es
+siempre la misma. Cuando el volumen al alza es dominante, el mercado es
+fuerte, y cuando el volumen a la baja es el más grande, el mercado es dé-
+bil. Es posible combinar el número de valores que avanzan y retroceden
+con los volúmenes al alza y a la baja. Es lo que hizo Richard Arms para cre-
+ar el índice Arms.
+
+El índice Arms
+
+Este índice, que recibe el nombre de su creador, Richard Arms, es el
+coeficiente de un coeficiente. El numerador es el coeficiente del núme-
+
+Volumen al alza (media de 10 días) E 3700
+
+* | É 200
+
+Volumen a la baja (media de 10 días)
+
+T
+
+' le|1rI 7?JAa'v' "bun " VLI¡¡I1_ lAg9 Bep” " ba ___hovfj blcrv—vji9'98, "— Feb War
+
+J
+
+Figura 18.6  Media de 10 días de volumen al alza (línea oscura) comparado con
+volumen a la baja. Un mercado fuerte debe tener más volumen al alza que a la baja.
+
+465

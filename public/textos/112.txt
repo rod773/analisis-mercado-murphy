@@ -1,0 +1,43 @@
+112 Capítulo 4
+
+usuario simplemente tiene que medir el ancho del canal y luego proyectar
+esa cantidad a partir del punto en que una de las líneas de tendencia se
+rompe.
+
+Siempre hay que mantener presente, sin embargo, que de las dos líne-
+as, la línea de tendencia básica es, de largo, la más importante y la más
+confiable. La línea de canal es un uso secundario de la técnica de la línea
+de tendencia, pero es un uso cuya inclusión en la caja de herramientas del
+chartista queda justificada con mucha frecuencia.
+
+Retrocesos porcentuales
+
+En todos los ejemplos previos de tendencias al alza y a la baja, sin duda
+el lector habrá notado que después de un determinado movimiento del
+mercado, los precios vuelven a recorrer una parte de la tendencia previa
+antes de continuar moviéndose en la dirección original. Estos movimien-
+tos a contra tendencia suelen caer dentro de unos parámetros porcentua-
+les pronosticables. La aplicación más conocida del fenómeno es el retro-
+ceso del 50 por ciento. Digamos, por ejemplo, que un mercado tiene una
+tendencia cada vez más ascendente y pasa del nivel 100 al nivel 200. Con
+frecuencia, la reacción que sigue es volver atrás alrededor de la mitad del
+movimiento anterior, al nivel 150 aproximadamente, antes de volver a ga-
+nar el impulso ascendente. Se trata de una tendencia del mercado muy co-
+nocida, que se da con mucha frecuencia. Asimismo, estos retrocesos por-
+centuales se aplican a cualquier grado de tendencia, mayor, secundaria o
+de corta duración.
+
+Además del retroceso del 50 por ciento, hay parámetros porcentuales
+de mínimos y máximos también ampliamente conocidos, como los retro-
+cesos de un tercio y de dos tercios. Dicho de otro modo, la tendencia del
+precio se puede dividir en dos tercios. En general, un retroceso mínimo es
+de aproximadamente un 33 por ciento y uno máximo está alrededor de
+un 66 por ciento, lo que quiere decir que, en la corrección de una ten-
+dencia fuerte, el mercado generalmente vuelve atrás un tercio del movi-
+miento previo. Esta información es muy útil por varias razones. Si un ope-
+rador está buscando un área de compra por debajo del mercado, sólo
+puede computar una zona del gráfico entre el 33 y el 50 por ciento y utili-
+zar esa zona del precio como marco general de referencia para las opor-
+tunidades de compra. (Ver figuras 4.20a y b).
+
+112

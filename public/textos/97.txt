@@ -1,0 +1,31 @@
+Conceptos básicos de tendencia 97
+
+Figura 4.9 A veces, la violación intradía de una línea de tendencia hará que el
+chartista dude si la línea de tendencia original sigue siendo válida o si debe tra-
+zar una nueva. Una solución de compromiso es mantener la línea de tendencia
+original y trazar una línea nueva, pero de puntos, hasta que se pueda determinar
+cuál es la línea más verdadera.
+
+Lamentablemente, no hay una regla única a seguir en cada situación. A ve-
+ces es preferible ignorar esa pequeña infracción, especialmente si los mo-
+vimientos posteriores del mercado demuestran que la línea original sigue
+siendo válida.
+
+¿Qué constituye una ruptura válida
+de una línea de tendencia?
+
+Como regla general, un cierre más allá de la línea de tendencia es más
+significativo que una simple penetración intradía. Y aún más, a veces inclu-
+so una penetración al cierre no es suficiente. La mayoría de los técnicos
+emplea una variedad de filtros de tiempo y precio en un intento de aislar
+penetraciones válidas de la tendencia y eliminar señales malas o “whip-
+saws”. Un ejemplo de filtro de precios es el criterio de penetración del 3
+por ciento. Es un filtro que se usa básicamente para romper líneas de ten-
+dencia de mayor duración, pero requiere que la tendencia se rompa al ce-
+rrar al menos en un 3 por ciento. (La regla del 3 por ciento no se aplica a
+algunos futuros financieros, tales como los mercados de tipos de interés).
+
+Si, por ejemplo, los precios del oro rompieran una línea de tendencia
+al alza en los 400 dólares, los precios tendrían que cerrar un 3 por ciento
+
+97

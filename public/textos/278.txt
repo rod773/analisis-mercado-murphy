@@ -1,0 +1,43 @@
+278 Capítulo 10
+
+principios del oscilador que ya hemos explicado con un entrecruzamiento
+de dos medias móviles. En la pantalla de su ordenador usted verá sólo dos
+líneas, aunque en el cálculo intervengan tres líneas en realidad. La línea
+más rápida (conocida como línea CDMM) es la diferencia entre dos me-
+dias móviles suavizadas de precios de cierre (normalmente, los últimos 12
+y 26 días o semanas). La línea más lenta (conocida como la línea de la se-
+ñal) es generalmente una media exponencialmente suavizada de la línea
+CDMM de 9 períodos. La mayoría de los operadores, sin embargo, utiliza
+los valores de 12, 26 y 9 en todos los casos, ya que eso incluiría los valores
+diarios y semanales. (Ver figura 10.19a).
+
+Las señales de compra y venta aparecen cuando las dos líneas se cru-
+zan. Un cruce de la línea CDMM, que es más rápida, por encima de la lí-
+nea de señal, que es más lenta, se entiende como una señal de compra. Un
+cruce de la línea más rápida por debajo de la línea más lenta se considera
+una señal de venta. En ese sentido, la CDMM se parece al método de cru-
+
+p8/21/97 (“OTC) Nasdaq Composite Index 02/27/98
+[l[»11so
+JI¡H¡¡ , ]l ….]¡"í
+1 | 1700
+lm*“**"' u N
+| ¡I] U N | 1650
+NA MA ..
+¡*…t H 1 l a h H¡t 1 !
+i Eay Il'
+| lre ! 1500
+Convergencia divergencía media móvil…(CDMM) 40
+30
+x/ ÍZ
+ro
+10
+Línea de CDMM -20 |
+—v——'sºp oe _ - Nov _ : 'Diº - E 124|m…_.7:5:?&nº&—… nc 1
+
+Figura 10.19 — El sistema de Convergencia-Divergencia de la Media Móvil muestra
+dos líneas. La señal aparece cuando la línea de CDMM, más rápida, cruza la línea
+más lenta de la señal. Las flechas indican cinco señales de operaciones en este grá-
+fico del índice compuesto Nasdag.
+
+278

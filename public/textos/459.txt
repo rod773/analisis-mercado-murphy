@@ -1,0 +1,41 @@
+Indicadores bursátiles 459
+
+Divergencia AD
+
+¿Qué mide la línea avance-declive? La línea AD nos dice si el universo
+más amplio de 3.500 valores del MVNY avanza o no en línea con los índices
+bursátiles seguidos más ampliamente, que incluyen sólo los 30 valores del
+índice industrial Dow y los 500 del índice S8cP 500. Parafraseando una má-
+xima de Wall Street: la línea AD nos dice si las “tropas” se mantienen al ni-
+vel de los “generales”. Mientras la línea AD avance con el índice industrial
+Dow, por ejemplo, la amplitud o salud del mercado es buena. El peligro
+aparece cuando la línea AD comienza a divergir del índice Dow. En otras
+palabras, cuando tenemos una situación en la que el índice industrial Dow
+está alcanzando nuevos máximos mientras que el mercado más amplio
+(medido por la línea AD) no lo sigue, los técnicos empiezan a preocupar-
+se por la “inadecuada amplitud del mercado” o divergencia AD. Histórica-
+mente, la línea AD alcanza picos muy por delante de los índices bursátiles,
+motivo por el que es seguida tan de cerca.
+
+Líneas AD diarias y semanales
+
+La línea AD diaria, que acabamos de describir, tiene más utilidad para
+las comparaciones cortas a intermedias con los principales índices bursáti-
+les, y resulta menos útil para las comparaciones que se remontan a varios
+años atrás. Una línea AD semanal mide el número de valores que suben y
+los compara con los que bajan durante toda la semana. Estas cifras se pu-
+blican en Barron's cada fin de semana. La línea AD semanal se considera
+más útil para comparar tendencias que cubren varios años. Mientras que
+una divergencia negativa en la línea AD diaria puede ser una advertencia
+de problemas en el mercado a corto plazo o intermedio, también tiene
+que haber una divergencia similar en la línea AD semanal para confirmar
+la presencia de un problema más serio.
+
+Variaciones de la línea AD
+
+Dado que el número de valores negociados en el mercado de valores
+de Nueva York ha crecido con los años, algunos analistas creen que el mé-
+todo de restar el número de valores descendentes del número de valores
+ascendentes le da más peso a los datos más recientes. Para combatir dicho
+
+459

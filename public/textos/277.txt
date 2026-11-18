@@ -1,0 +1,44 @@
+Osciladores y opinión contraria 277
+
+Momentos de mayor utilidad de los osciladores
+
+En algunos momentos los osciladores resultan más útiles que en otros.
+En períodos de mercado variable, cuando los precios se mueven lateral-
+mente durante semanas o meses, los osciladores siguen esos movimientos
+muy de cerca. Los picos y los valles en el gráfico de precios coinciden casi
+exactamente con los picos y valles en el oscilador. Dado que tanto el pre-
+cio como el oscilador se mueven lateralmente, se parecen mucho, pero en
+algún momento ocurre una ruptura de precios y comienza una nueva ten-
+dencia alcista o bajista. Por su propia naturaleza, el oscilador ya se en-
+cuentra en una posición extrema en el mismo momento en que la ruptu-
+ra tiene lugar. Si es hacia arriba, el oscilador ya está sobrecomprado, y una
+lectura sobrevendida generalmente acompaña a una ruptura hacia abajo.
+El operador se encuentra con un dilema: ¿debe comprar la ruptura alcista
+delante de un oscilador sobrecomprado? ¿O la ruptura a la baja debe ven-
+derse en un mercado sobrevendido?
+
+En tales casos, es mejor ignorar el oscilador por el momento y tomar
+la posición. La justificación está en que en las primeras etapas de una
+nueva tendencia, después de una ruptura importante, los osciladores a
+menudo alcanzan extremos muy rápidamente y allí se quedan durante
+un tiempo. El análisis básico de la tendencia debe ser la consideración
+principal en tales casos, dando a los osciladores un papel de menor rele-
+vancia. Más adelante, a medida que la tendencia comience a madurar, el
+oscilador cobrará mayor peso. (En el capítulo 13 veremos que la quinta y
+última onda en el análisis de las ondas de Elliott a menudo se confirma
+con divergencias del oscilador bajista). Los operadores han perdido mu-
+chos movimientos alcistas dinámicos porque viendo la señal de la ten-
+dencia principal, decidieron esperar a que sus osciladores pasaran a una
+posición sobrevendida antes de comprar. En resumen, preste menos aten-
+ción al oscilador en las primeras etapas de un movimiento importante,
+pero preste mucha atención a las señales que hace a medida que los mo-
+vimientos alcanzan la madurez.
+
+Convergencia/divergencia de la media móvil (CDMM)
+
+En el capítulo anterior mencionamos una técnica de oscilador que uti-
+liza 2 medias móviles exponenciales. El indicador de convergencia/diver-
+gencia de la media móvil, o CDMM, fue desarrollado por Gerald Appel.
+Lo que hace que este indicador sea tan útil es que combina algunos de los
+
+277

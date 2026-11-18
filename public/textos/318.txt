@@ -1,0 +1,42 @@
+318 Capítulo 11
+
+Medias móviles de p¿cf
+
+Las medias móviles generalmente se aplican a los gráficos de barras,
+pero aquí aparecen en los de puntos y figuras por cortesía de Ken Tower y
+UST Securities. Tower utiliza dos medias móviles en sus gráficos, una de 10
+columnas y otra de 20 columnas. Los puntos que se observan en las figu-
+ras 11.19 y 11.20 son medias de 10 columnas. Estas medias móviles se cons-
+truyen encontrando primero un precio promedio para cada columna,
+para lo que simplemente se suman los precios de cada columna y se divi-
+de el total entre el número de x o de o de dicha columna. Las cifras que
+resultan se promedian entonces para 10 y 20 columnas. Las medias móvi-
+les se usan del mismo modo que en los gráficos de barras.
+
+La figura 11.21 muestra dos gráficos de puntos y figuras para el mismo
+valor con medias de 10 columnas (puntos) y medias de 20 columnas (guio-
+nes). El gráfico inferior corresponde a un gráfico logarítmico de inversión
+del 2,7 por ciento de la empresa Royal Dutch Petroleum que se remonta a
+1992. Obsérvese que la media móvil más rápida se mantuvo por encima de
+la media móvil más lenta desde 1993 hasta 1997 durante los cuatro años
+de tendencia alcista. Se puede observar que las dos medias móviles se jun-
+tan durante la segunda mitad de 1997 en lo que resultó ser un año de con-
+solidación para aquel valor. En el extremo derecho se puede ver que Ro-
+yal Dutch puede estar a punto de reanudar su tendencia principal. En el
+gráfico superior de la figura 11.21 se puede observar más claramente esa
+posible ruptura al alza.
+
+Dicho gráfico superior es un gráfico tradicional lineal de inversión de
+un punto para el mismo valor. El marco temporal del gráfico lineal es mu-
+cho más corto que en el gráfico largo, pero ofrece una visión más detalla-
+da del movimiento de los precios a finales de 1997 y principios de 1998 y
+también de la ruptura alcista a corto plazo de comienzos de 1998. El valor
+todavía necesita cerrar a 60 para confirmar esa ruptura alcista. Las medias
+móviles no han sido muy útiles durante la banda de fluctuación (nunca lo
+son), pero deberían comenzar a subir otra vez si se materializa la ruptura
+alcista. Al añadir las medias móviles a los gráficos de puntos y figuras, Ken
+Tower aporta otro valioso indicador técnico a este tipo de gráficos. El uso
+de gráficos logarítmicos también aporta un toque moderno a este antiguo
+método de realización de gráficos.
+
+318

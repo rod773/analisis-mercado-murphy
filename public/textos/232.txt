@@ -1,0 +1,34 @@
+232 Capítulo 9
+
+ber25'97 — — (INTC) IntelCom
+
+GRÁFICO DE BARRAS DIARIO
+
+de compra
+
+— — —
+_s - - T e Feb a
+_ - 305 Za Prrisd uai TradaSiatón 6 Omega Rieeserch, inc.
+
+Figura 9.6 Los operadores de valores usan medias móviles de 10 y 50 días. La
+media de 10 días cayó por debajo de la de 50 días en octubre (círculo a la iz-
+quierda), dando una oportuna señal de venta. El cruce alcista en la otra dirección
+tuvo lugar en enero (círculo inferior).
+
+es una variación de la media móvil basada en 5, 10 y 20 días, extensa-
+mente utilizada en los mercados de mercancías. Hay muchos servicios co-
+merciales que publican las medias móviles de 49-18 días. (Muchos pro-
+gramas informáticos usan la combinación de 4-9-18 días cuando incluyen
+tres medias).
+
+Cómo usar el sistema de media móvil de 4-9-18 días
+
+Ya se ha dicho que cuanto más corta sea la media móvil, más se aproxi-
+mará a la tendencia del precio. Resulta lógico decir, entonces, que la me-
+dia más corta de las tres (la de 4 días) será la que esté más cerca de la ten-
+dencia, seguida por la media de 9 días y luego por la de 18 días. Esto
+quiere decir que en una tendencia al alza la alineación correcta sería que
+la media de 4 días estuviera por encima de la de 9 días, que a su vez esta-
+ría por encima de la media de 18 días. En una tendencia a la baja el orden
+
+232

@@ -1,0 +1,41 @@
+Contratos de futuros continuos 527
+
+Los símbolos de teletipo para los contratos siguientes son TRNXT1 y
+TRNXT?, aunque obviamente para los futuros reales se usarán las letras
+correspondientes en lugar de la TR de estos ejemplos.
+
+El contrato Gann
+
+Los contratos Gann se refieren al uso de un mes específico de un con-
+trato que se renueva al año siguiente. Por ejemplo, trigo de julio se usaría
+hasta el vencimiento del contrato de julio, momento en el que el contrato
+Gann comenzaría a usar datos del contrato de trigo de julio del año si-
+guiente.
+
+Algunos ejemplos de símbolos para los contratos Gann son: WO7GN,
+GCO04GN, JY12GN, etc., que representan trigo de julio, oro de abril y yen
+japonés de diciembre.
+
+Contratos continuos
+
+Los contratos continuos se desarrollaron para ayudar a los analistas a
+superar el problema de la desaparición de la liquidez y los huecos en la
+prima (o descuento) en la información sobre futuros. Este problema apa-
+rece cuando un analista está probando un modelo o sistema de contrata-
+ción con información correspondiente a muchos años. Los contratos con-
+tinuos permiten una corriente ininterrumpida de datos en la que se
+compensa los saltos por renovación en las tendencias de los precios.
+
+Contratos continuos a plazos constantes
+
+Un contrato continuo a plazo constante se refiere a un período cons-
+tante hacia el futuro, y usa más de un contrato para lograrlo. Un método
+común es usar los dos contratos más cercanos y hacer una extrapolación
+lineal de los datos. (Ver figura D.1).
+
+Una posibilidad es darle al operador de futuros (al igual que en el
+caso de los contratos más cercanos) la capacidad de crear su propio con-
+trato continuo a plazo constante. Para hacerlo, se necesitan tres cosas: el
+símbolo que representa la mercancía, el número de contratos que quie-
+
+527

@@ -1,0 +1,45 @@
+Glosario 539
+
+Suavidad exponencial: Media móvil que usa todos los aspectos de la infor-
+mación, pero dando mayor peso a los datos sobre precios más recientes.
+(Ver media móvil).
+
+Tasa de cambio: Técnica usada para construir un oscilador sobrecompra-
+do-sobrevendido. La tasa de cambio emplea un coeficiente de precios
+durante un determinado período. Para construir un oscilador de tasa
+de cambio de 10 días, el último precio de cierre se divide entre el pre-
+cio de cierre de hace 10 días. El valor que resulta se representa por en-
+cima o por debajo de un valor de 100.
+
+Tendencia: Se refiere a la dirección de los precios. Los picos y valles as-
+cendentes constituyen una tendencia al alza; los picos y valles descen-
+dentes constituyen una tendencia a la baja. Una banda de fluctuación se
+caracteriza por picos y valles horizontales. Las tendencias generalmente
+se clasifican en principales (más de un año), intermedias (de uno a seis
+meses) o menores (menos de un mes).
+
+Teoría de Dow: Una de las teorías técnicas más viejas y más reconocidas.
+Según la Teoría de Dow, hay una señal de compra cuando el índice in-
+dustrial Dow y los índices de transporte Dow cierran por encima de un
+pico de subida anterior. Hay una señal de venta cuando ambos índices
+cierran por debajo de un mínimo de reacción anterior.
+
+Triángulo ascendente: Patrón de precios lateral entre dos líneas de ten-
+dencia convergentes, en el que la línea inferior es ascendente mientras
+que la superior es plana. Generalmente se trata de un patrón alcista.
+(Ver triángulos).
+
+Triángulo descendente: Patrón de precios lateral entre dos líneas de ten-
+dencia convergentes, en el que la línea superior es descendente mien-
+tras que la línea inferior es plana. Generalmente se trata de un patrón
+bajista. (Ver triángulos).
+
+Triángulo simétrico: Patrón de precios lateral entre dos líneas de tenden-
+cia convergentes, en el que la línea de tendencia superior es descen-
+dente y la línea de tendencia inferior es ascendente. Este patrón repre-
+senta un equilibrio entre compradores y vendedores, aunque la
+tendencia previa suele reanudarse. La ruptura de cualquier de las líne-
+as de tendencia señala la dirección de la tendencia de los precios. (Ver
+triángulo ascendente y descendente).
+
+539

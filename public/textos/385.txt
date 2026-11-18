@@ -1,0 +1,43 @@
+Ciclos temporales 385
+
+Traslación a la izquierda o la derecha
+
+El concepto de traslación tal vez sea el aspecto más útil del análisis de
+los ciclos. Las traslaciones a la izquierda o a la derecha se refieren a los
+movimientos de los picos cíclicos hacia la izquierda o hacia la derecha del
+punto medio ideal. Por ejemplo, un ciclo de transacciones de 20 días se
+mide de mínimo a mínimo. El pico ideal debería aparecer a los 10 días de
+haberse iniciado el ciclo, o sea, a mitad camino. Tal situación permitiría
+un avanc¿ñ&días seguido de un descenso de 10 días. Pero los picos ide-
+ales de los ciclos raramente se dan. Casi todas las variaciones de los ciclos
+ocurren enlas crestas y no en los valles, motivo por el que los valles se con-
+sideran más fiables y se usan para medir la longitud de los ciclos.
+
+Las crestas de los ciclos actúan de forma diferente según la tendencia
+del siguiente ciclo más largo. Si la tendencia es ascendente, la cresta del ci-
+clo se desplaza hacia la derecha del punto medio ideal, causando una tras-
+lación derecha. Si la tendencia más larga es descendente, la cresta del ci-
+clo se desplaza hacia la izquierda del punto medio, causando una
+traslación izquierda. Por lo tanto, la traslación derecha es alcista y la iz-
+quierda es bajista. Deténgase un momento a pensar en esto. Lo único que
+estamos diciendo aquí es que en una tendencia al alza, los precios pasarán
+más tiempo subiendo que bajando. En una tendencia a la baja, los precios
+pasan más tiempo bajando que subiendo. ¿No es ésta la definición de ten-
+dencia? Sólo que en este caso estamos hablando del tiempo en lugar del
+precio. (Ver figura 14.15)
+
+Cómo aislar ciclos
+
+Para poder estudiar los diferentes ciclos que afectan un mercado dado,
+primero es necesario aislar cada uno de los ciclos dominantes. Hay varias
+maneras de lograrlo, y la más sencilla es por medio de la inspección visual.
+Estudiando los gráficos de barras diarios, por ejemplo, es posible identifi-
+car los máximos y mínimos obvios de un mercado. Calculando los lapsos
+medios entre esos máximos y mínimos cíclicos, se pueden encontrar cier-
+tas longitudes medias.
+
+Existen herramientas disponibles para facilitar la tarea. Una de ellas es
+el Ehrlich Cycle Finder, llamado así por su inventor, Stan Ehrlich (ECF, 112
+Vida Court, Novato, CA 94947 [415] 892-1183). El Cycle Finder es un dis-
+
+385

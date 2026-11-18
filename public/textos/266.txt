@@ -1,0 +1,62 @@
+266 Capítulo 10
+
+yor que en los 14 días originales. Aunque los lapsos de 9 y 14 días son los
+valores usados más comunes, los técnicos también experimentan con otros
+períodos. Algunos usan períodos más cortos, de 5 0 7 días, para incre-
+mentar la volatilidad de la línea IFR. Otros usan 21 o 28 días para suavizar
+las señales del IFR. (Ver figuras 10.10 y 10.11).
+
+Interpretación del IFR
+
+El IFR se representa sobre una escala vertical de 0 a 100. Los movi-
+mientos por encima de 70 se consideran sobrecomprados, mientras que
+un movimiento por debajo de 30 sería una condición sobrevendida. Debi-
+do al desplazamiento que tiene lugar en los mercados alcistas y bajistas, el
+nivel 80 generalmente se transforma en el nivel sobrecomprado en los
+mercados alcistas y el nivel 20 en el sobrevendido en los mercados bajistas.
+
+Las “oscilaciones del fracaso”, como Wilder las llama, ocurren cuando
+el IFR está por encima de 70 o por debajo de 30. Una oscilación de fraca-
+
+b8/27/97 ("OEX) SP 100 Stock Index 03/05/98J
+
+M)III'|
+
+| l 1H¡|
+
+¡l(hl“m**
+
+'…“h¡
+
+" M
+| ……I IIUHI
+
+i
+n 1u
+
+|
+yl
+
+1ul
+
+480
+
+[a70
+
+Índice de fuerza relativa (IFR) - 14 días
+
+sobrecomprado
+
+sobrevendido
+
+= T
+T T - — T
+3AT 10400 Printed using TradeStation O Omaga Reseerch, inc. f
+
+—
+
+Figura 10.10 El índice de fuerza relativa se transforma en sobrecomprado por
+encima de 70 y en sobrevendido por debajo de 30. Este gráfico muestra el índice
+SP 100 sobrevendido en octubre y sobrecomprado en febrero.
+
+266

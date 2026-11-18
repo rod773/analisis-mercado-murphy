@@ -1,0 +1,42 @@
+Relación entre valores y futuros: análisis entre mercados 439
+
+vos para las acciones. Desde el punto de vista de un técnico, es muy fácil
+comparar los gráficos de futuros de bonos del tesoro con los del índice en
+efectivo SP 500 o su contrato de futuros relacionado. En la figura 17.2 se
+verá que generalmente han seguido la misma tendencia. A corto plazo, los
+cambios repentinos de tendencia en el contrato de futuros S8:-P 500 a me-
+nudo sufren la influencia de cambios repentinos en el contrato de futuros
+de bonos del tesoro. A más largo plazo, los cambios en la tendencia del con-
+trato de bonos del tesoro frecuentemente son una advertencia de cambios
+similares en el índice al contado S8:P 500. En ese sentido, los futuros de
+obligaciones se pueden considerar como un importante indicador para el
+mercado de valores. A su vez, los futuros de obligaciones generalmente acu-
+san la influencia de las tendencias de los mercados de mercancías.
+
+(*) En un entorno deflacionario, las obligaciones y los valores general-
+mente se separan. Los precios de las obligaciones suben mientras que los
+precios de las acciones bajan.
+
+(TR1600) Treasury Bonds 1600 03/31/98
+125
+
+118124
+
+112116
+
+Bonos del tesoro
+
+Índice S4:P 500
+
+-
+
+% 61 62 6s 6. 6s ee 6r 6a 6 e el 62 s 6 b 06 r
+
+— —7 1Z i0pm Prineed eo TradeSiation 6 Omega Ressarch. Inc. 1097
+
+Figura 17.2 Los precios al alza de las obligaciones suelen ser buenos para el pre-
+cio de las acciones. Las caídas del mercado de obligaciones en 1981, 1984, 1988,
+1991 y 1995 anticiparon grandes subidas de las acciones. Los picos de las obliga-
+ciones en 1987, 1990 y 1994 advirtieron de años malos para el mercado de valores.
+
+439

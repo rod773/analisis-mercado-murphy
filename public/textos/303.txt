@@ -1,0 +1,86 @@
+Los gráficos de puntos y figuras
+
+303
+
+Comprar/cubrir
+descubierto
+
+Comprar/cubrir
+descubierto
+
+Vender/comprar descubierto
+Vender/comprar descubierto
+
+Comprar/cubrir
+descubierto
+
+Comprar/cubrir
+descubierto
+
+Vender/comprar descubierto,
+
+Vender/comprar descubierto.
+
+Señal de compra. Aparece cuando una columna de x supera en un registro la
+X más alta de la columna de x anterior. Dado que este punto se puede an-
+ticipar, también se puede colocar una orden stop para entrar a la posición
+en el punto de compra.
+
+Seral de venta. Aparece cuando una columna de o queda un registro por de-
+bajo de la o más baja de la columna de o anterior.
+
+Punto de cobertura de una posición corta. Exactamente el mismo punto que la
+señal de compra. Dado que este punto se puede determinar por adelanta-
+do, el mercado debería tener una orden stop-loss que limitara pérdidas y
+protegiera ganancias.
+
+Liquidación de una posición larga. Exactamente el mismo punto que la señal
+de venta.
+
+Ordenes. Dado que todos los puntos de entrada y salida se pueden determi-
+nar de antemano, las órdenes de entrada y liquidación del mercado tam-
+bién se pueden fijar con antelación. Pero recuerde que todos estos puntos
+que marcan señales cambian, o sea que todas las órdenes deben revisarse y
+ajustarse periódicamente.
+
+Señales de entrada tradicionales. Se trata de la primera señal de compra des-
+pués de una o más señales de venta en descubierto y de la primera señal de
+venta en descubierto después de una o más señales de compra.
+
+Alcista. Si la señal más reciente fue una señal de compra, la posición es al-
+cista y permanece alcista hasta que aparece una señal de venta en descu-
+bierto.
+
+Explicación de gráficos
+
+Técnicas de puntos y figuras
+
+Bajista. Si la señal más reciente fue una señal de venta en descubierto, la posi-
+ción es bajista y permanece bajista hasta que aparece una señal de compra.
+
+Reliradas. Mejor que realizar una entrada inmediata cuando aparece una
+señal, si se espera que haya un cambio o inversión posterior a la señal, una
+estrategia menos arriesgada es tomar la posición con posterioridad a la se-
+ñal pero a un precio más cercano al límite de protección.
+
+Actualización del gráfico diario
+Si la columna actual es una columna de x, busque el precio máximo del día. Si
+dicho máximo permite marcar una o más x, hágalo e ignore el precio mí-
+nimo del día. Sólo en el caso de que no se pueda marcar ninguna x nueva
+fíjese en el mínimo del día y determine si ha habido un cambio o inversión
+en la otra dirección. Si no ha habido cambio, no marque ninguna entrada.
+
+Si la columna actual es una columna de 0, busque primero el precio mínimo
+del día. Si dicho mínimo permite marcar una o más 0, hágalo e ignore el
+precio máximo. Sólo en el caso de que no se pueda marcar ninguna o nue-
+va fíjese en el máximo del día para confirmar si ha habido un cambio o in-
+versión en la otra dirección. Si ha habido cambio, marque el número apro-
+piado de x. Si no ha habido cambio, no marque ninguna entrada.
+
+En el mismo día no pueden haber x y o, porque en el seguimiento diario
+sólo puede haber la continuación o la inversión de la columna actual. Si no
+€s así, no hay entradas a marcar.
+
+Figura 11.8 — Fuente: Cortesía de Chartcraft, Inc., New Rochelle, NY.
+
+303

@@ -1,0 +1,34 @@
+Glosario
+
+Análisis de coeficientes: Uso de un coeficiente para comparar la fuerza re-
+lativa entre dos entidades. Un valor individual o grupo industrial dividi-
+do entre el índice SP 500 puede determinar si ese valor o grupo in-
+dustrial está funcionando bien o mal con respecto al mercado en
+general. El análisis de coeficientes se puede usar para comparar dos en-
+tidades cualesquiera. Un coeficiente ascendente indica que el numera-
+dor del coeficiente está funcionando mejor que el denominador. El
+análisis de tendencia se puede aplicar a la línea de coeficiente en sí para
+determinar los puntos de inflexión importantes.
+
+Análisis de las ondas de Elliott: Enfoque del análisis de mercado que se
+basa en patrones de ondas repetitivas y la secuencia numérica de Fibo-
+nacci. Un patrón de ondas de Elliott ideal tiene un avance de cinco on-
+das seguido por un declive de tres ondas. (Ver números de Fibonacci).
+
+Análisis entre mercados: Aspecto adicional del análisis de mercado que
+toma en consideración el movimiento de los precios de sectores rela-
+cionados del mercado. Los cuatro sectores son moneda, bienes, obliga-
+ciones y valores. Los mercados internacionales también se incluyen.
+Este enfoque se basa en la premisa de que todos los mercados están in-
+terrelacionados y tienen impacto los unos en los otros.
+
+Análisis fundamental: Lo opuesto del análisis técnico. El análisis funda-
+mental se basa en la información económica de la oferta y la demanda,
+en oposición a la actividad del mercado.
+
+Análisis técnico: Estudio de los movimientos del mercado, generalmente
+con gráficos de precios, que incluye patrones de volumen e interés
+abierto. También llamado análisis gráfico, análisis de mercado y más re-
+cientemente, análisis visual.
+
+531

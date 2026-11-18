@@ -1,0 +1,43 @@
+508 Apéndice B
+
+Observación de las actividades del mercado a más largo plazo
+
+Con excepción de los vendedores de opciones, que se benefician cuan-
+do los precios permanecen estáticos, la estrategia de beneficios de la ma-
+yoría de operadores requiere el movimiento direccional de los precios. El
+operador gana cuando acierta con la dirección del mercado y pierde cuan-
+do se equivoca. Como el operador a más largo plazo es responsable de de-
+terminar el movimiento direccional del mercado, vigilamos esta actividad
+para ayudar a detectar la evidencia de una tendencia en los precios. Des-
+pués de identificar y evaluar la actividad del operador a más largo plazo se
+puede alcanzar una conclusión fundamentada con respecto a la dirección
+del precio. Comenzamos el proceso identificando la influencia del opera-
+dor a más largo plazo en la sesión de hoy y luego considerando la forma
+en que dicha influencia se extiende hacia el futuro.
+
+* Influencia en el desarrollo de la actividad del día: El gráfico de perfil
+ayuda a identificar el comportamiento del operador a más largo plazo
+durante el desarrollo de la actividad diaria. Mediante el control de la
+actividad a más largo plazo, particularmente en los extremos, en la ex-
+tensión y en el área de valor, podemos determinar si los compradores
+o vendedores a más largo plazo están más activos, y por lo tanto, con-
+trolar la dirección del mercado. La actividad en los extremos propor-
+ciona la indicación más clara de la influencia del operador a más largo
+plazo, le sigue la extensión y finalmente, las compras y ventas en el área
+de valor.
+
+1. Los extremos se forman cuando el operador a más largo plazo compite
+con el operador a corto plazo por obtener oportunidades a un nivel de
+precios particular (que más tarde será el máximo o el mínimo de la se-
+sión). Se requiere un mínimo de dos señales individuales para estable-
+cer un extremo. Cuanto más ansioso sea el comportamiento del opera-
+dor a más largo plazo en esta competencia de precios, más se separan
+las señales. Cualquier cosa inferior a dos señales sugiere que el opera-
+dor a más largo plazo no está muy interesado en competir a ese precio.
+Se forma un máximo o mínimo local cuando sólo una señal individual
+define la parte más alta o la parte más baja de la banda. Esta condición
+implica que el mercado ha ofrecido una oportunidad a un precio que
+nadie ha querido (o sea, no hay evidencia de competencia; ver figura
+B.7: Panel 41 — Intel Corporation).
+
+508

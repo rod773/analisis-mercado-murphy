@@ -1,0 +1,36 @@
+Construcción de gráficos 71
+
+Gráficos de barras semanales y mensuales
+
+Hasta ahora nos hemos concentrado en el gráfico de barras diario,
+pero debemos tener presente que se puede confeccionar un gráfico de ba-
+rras para cualquier período. El gráfico de barra intradía mide los precios
+máximos, mínimos y últimos de períodos tan cortos como uno de cinco
+minutos. El gráfico de barras diario común cubre movimientos de precios
+de seis a nueve meses, pero para realizar un análisis de tendencias de ma-
+yor alcance hay que recurrir a gráficos de barras semanales y mensuales. El
+valor de utilizar estos gráficos de más largo alcance se refleja en el capítu-
+lo 8, pero el método para construir y actualizar los gráficos es esencial-
+mente el mismo. (Ver figuras 3.9 y 3.10).
+
+En el gráfico semanal, una barra representa la actividad de la cotiza-
+ción para toda la semana. En el gráfico mensual, cada barra muestra las ac-
+
+-102
+
+a
+
+068/05/92 — - (“UDX) US Dollar Index — - 02/27ng
+
+GRÁFICO DE BARRAS SEMANAL M
+
+— 94 95 ' 97 98 —
+302 1 16pm Preed vang TradeStaton O Omega Research, nc 1087
+
+Figura 3.9  Gráfico de barras semanal para el índice de dólares norteamericanos.
+Cada barra representa los datos sobre cotizaciones de una semana. Mediante la
+Compresión de la información sobre los precios, el gráfico semanal permite un
+análisis de los gráficos de tendencias de mayor alcance, normalmente alrededor
+de los cinco años.
+
+71

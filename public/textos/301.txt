@@ -1,0 +1,44 @@
+Los gráficos de puntos y figuras 301
+
+base en V, por el contrario, debido a la ausencia de una significativa área
+horizontal de precios, no es adecuada para la cuenta horizontal. Los re-
+gistros rellenados en negro en los ejemplos de gráficos de la figura 11.7 re-
+presentan los puntos sugeridos de compra y venta. Obsérvese que esos
+puntos de entrada generalmente coinciden con una nueva prueba de las
+áreas de apoyo de una base o de las áreas de resistencia de un tope, con
+los puntos de ruptura y con la ruptura de las líneas de tendencia.
+
+Análisis y líneas de tendencia
+
+Los patrones de precios de la figura 11.7 muestran líneas de tendencia
+trazadas como parte de esos mismos patrones. El análisis de las líneas de
+tendencia en los gráficos intradía es el mismo que se aplica a los gráficos
+de barras. Las líneas de tendencia al alza se trazan bajo mínimos sucesivos,
+y las de tendencia a la baja se trazan por encima de picos sucesivos. Sin em-
+bargo, no sucede así en el gráfico de puntos y figuras simplificado que ve-
+remos a continuación, ya que éste utiliza líneas de 45 grados y las repre-
+senta de forma diferente.
+
+Gráficos de inversión de puntos y figuras de 3 registros
+
+En 1947, A. W. Cohen escribió un libro sobre los gráficos de puntos y
+figuras titulado Stock Market Timing. Al año siguiente, cuando se creó el
+Charteraft Weekly Service, el título del libro pasó a ser The Chartcraft Met-
+hod of Point G Figure Trading. Desde entonces se han publicado varias edi-
+ciones revisadas para incluir mercancías y opciones. En 1990, Michael
+Burke escribió The All New Guide to the Three-Point reversal Method of Point
+E Figure Construction and Formations (Charteraft, New Rochelle, NY).
+
+El método original de inversión de 1 registro para representar merca-
+dos necesitaba precios intradía. La inversión de 3 registros era una con-
+densación del método de 1 registro y se usaba para analizar la tendencia
+intermedia. Cohen pensó que como había tan pocos cambios de 3 regis-
+tros en los valores durante el día, no era necesario usar precios intradía
+para construir el gráfico de inversión de 3 registros. De ahí parte la de-
+cisión de usar sólo los precios máximo y mínimo, una información fácil-
+mente localizable en la mayoría de los periódicos financieros. Esta técni-
+ca modificada, que es la base del servicio Chartcraft, simplificó enorme-
+mente la creación de gráficos de puntos y figuras, haciéndolos asequibles
+al operador medio.
+
+301

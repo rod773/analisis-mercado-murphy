@@ -1,0 +1,30 @@
+292 Capítulo 11
+
+De23/97 — — (*SPX) SEP 500 Stock Index 03/12/98
+
+GRÁFICO DE PUNTOS Y FIGURAS (5X3) 1080
+
+701 7117 5 1 912: 10/17 77 11724 12112 12/22 1998 3/04
+0s 821 as 3 —10n7 1028 —7 — D oee O
+
+Figura 11.2 Hay una señal de compra cuando una columna de x supera el tope
+de otra columna de x anterior (ver flechas hacia arriba). Hay una señal de venta
+cuando una columna de o cae por debajo de una columna de o anterior (ver fle-
+chas hacia abajo): En los gráficos de puntos y figuras, las señales son más precisas.
+
+la misma acción del precio, podemos hacer que los tres parezcan dife-
+rentes a efectos de servir a diferentes propósitos. Una forma de cambiar
+un gráfico de pád es variar los criterios de inversión (por ejemplo, pasar
+de una inversión de 3 registros a otra de 5). Cuanto mayor sea el núme-
+ro de registros necesarios para que haya una inversión o cambio comple-
+to, menos sensible será el gráfico. La segunda forma de variar el gráfico
+es cambiar el tamaño del registro. La figura 2 usa una caja o registro de
+5 puntos, pero la figura 11.3 cambia el tamaño de 5 a 10 puntos. En la fi-
+gura 11.2 el número de columnas es de 44 en el gráfico 5x3, pero en la
+figura 11.3 se ha visto reducido a 16 columnas. Al usar un tamaño de re-
+gistro más grande en la figura 11.3, hay menos señales, pero eso le per-
+mite al inversor concentrarse en la tendencia principal del mercado e ig-
+norar todas las señales de venta a corto plazo que se eliminan de un
+gráfico menos sensible.
+
+292

@@ -1,0 +1,36 @@
+Indicadores bursátiles 471
+
+Es
+
+GRÁFICO CANDLEPOWER (INTEL)
+
+83
+
+-
+=
+d—
+RALTIIILIAIIISLBRLERARESLV|HNLRVIS
+
+a a ia ia aa - s m
+
+Figura 18.10  Gráfico CandlePower (también llamado Candlevolume) que com-
+bina equivolumen y velas. El ancho de cada vela (barra diaria) lo determina el vo-
+lumen.
+
+Las divergencias más importantes aparecen con los índices Nasdaq y
+Russell 2000. El índice compuesto Nasdag es el que cuenta con mayor nú-
+mero de valores (5.000), pero como se trata de un índice de capitalización,
+generalmente está dominado por los valores tecnológicos más grandes,
+como Intel y Microsoft. Por tal motivo, el índice Nasdag mide más común-
+mente la dirección del sector tecnológico. El índice Russell 2000 es una
+medida más real del universo de los valores más pequeños. En todo caso,
+ambos índices deben tener una tendencia ascendente como la de los índi-
+ces Dow y S£cP 500 si es que la tendencia del mercado es realmente firme.
+
+El análisis de la fuerza relativa (FR) juega un papel muy útil aquí. El co-
+eficiente Nasdaq/S8:P 500 nos dice si los valores tecnológicos van a la ca-
+beza o a la cola, y para el mercado generalmente es mejor que vayan por
+delante y que la línea del coeficiente sea ascendente (Ver figura 18.11). La
+comparación entre el índice Russell 2000 y el S8:P 500 nos indica si las
+
+471

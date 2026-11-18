@@ -1,0 +1,53 @@
+186 Capítulo 7
+
+camente como indicadores de confirmación. De éstos, el volumen es el
+más importante de los dos.
+
+Volumen
+
+El volumen es el número de entidades que han sido objeto de operaciones
+durante el período en estudio. Dado que trabajaremos principalmente
+con gráficos de barras diarios, nuestro interés principal se centrará en el
+volumen diario. Dicho volumen diario se representa mediante una barra
+vertical en la parte inferior del gráfico, por debajo de los movimientos del
+precio de ese día. (Ver figura 7.1).
+
+El volumen se puede representar también en gráficos de barras semana-
+les, pero en tal caso, el volumen total de la semana simplemente se repre-
+sentaría debajo de la barra que indica el movimiento del precio de esa se-
+mana. Generalmente, el volumen no se usa en los gráficos de barras
+mensuales.
+
+[9/15/97 (BDK) Black 8 Decker Corp 02/27/98
+512
+
+loe
+TA
+
+GRÁFICO DE BARRAS DIARIO
+
+3
+
+haee
+l474
+
+hO
+l|y"'[ .
+
+¡ 1Il¡1 ]
+! NNO L D
+¡'¡"1H¡l¡"l“'l"il 1 i…|fl1¡…lt…W..;ll hul l1"'11! h -
+
+BARRAS DE VOLUMEN DIARIO
+
+hul …M……l|¡|n…
+
+302 6-1Zam Prinied ueing TradeSiuiion O Omega Reeearch, inc. 1987 J
+
+sa
+
+Figura 7.1 Obsérvese que las barras de volumen son notoriamente más largas a
+medida que los precios suben (ver círculos). Eso significa que el volumen confir-
+ma la subida del precio y es alcista.
+
+186

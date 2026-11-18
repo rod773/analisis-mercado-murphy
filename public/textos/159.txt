@@ -1,0 +1,24 @@
+Modelos de continuidad 159
+
+vergentes, la superior descendente y la inferior ascendente. La línea verti-
+cal a la izquierda, que mide la altura del patrón, se llama base. El punto de
+intersección a la derecha, donde se encuentran ambas líneas, se llama vér-
+tice. Por razones obvias, el triángulo simétrico también se conoce como es-
+piral.
+
+El triángulo ascendente tiene una línea inferior ascendente con una
+línea superior horizontal (ver figura 6.1b). El triángulo descendente (fi-
+gura 6.1c), por el contrario, tiene una línea superior descendente y una
+línea inferior horizontal o plana. Veamos cómo se interpreta cada uno de
+
+Figura 6.1b_ Ejemplo de un triángulo ascendente. Obsérvense la línea plana su-
+perior y la línea ascendente inferior. Generalmente se trata de un patrón alcista.
+
+—
+
+Figura 6.1c - Ejemplo de un triángulo descendente. Obsérvense la línea plana in-
+ferior y la línea descendente superior. Generalmente se trata de un patrón bajista.
+
+—
+
+159

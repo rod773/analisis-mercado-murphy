@@ -1,0 +1,45 @@
+Glosario 535
+
+grado de tendencia alcista o bajista de un mercado. Son indicadores
+contrarios y se usan de forma muy similar a los osciladores sobrecom-
+prados o sobrevendidos. Su mayor valor es cuando alcanzan los extre-
+mos superior o inferior.
+
+Índice acumulativo de McClellan: Suma acumulativa de todas las lecturas
+diarias del oscilador de McClellan que proporciona un análisis de ma-
+yor alcance de la amplitud del mercado. Se usa de la misma forma que
+la línea de avance-declive.
+
+Índice de Arms: Desarrollado por Richard Arms, este indicador contrario
+es un coeficiente del volumen medio de valores en descenso dividido
+entre el volumen medio de los valores en ascenso. Una lectura por de-
+bajo de 1,0 indica más volumen en valores ascendentes. Una lectura
+por encima de 1,0 refleja más volumen en valores descendentes. Una
+media de 10 días del índice de Arms por encima de 1,20 es sobreven-
+dida, mientras que una media de 10 días por debajo de 0,70 es sobre-
+comprada.
+
+Índice de fuerza relativa (IFR): Oscilador muy conocido desarrollado por
+Welles Wilder, Jr. y descrito en su libro New Concepts in Technical Trading
+Systems, autopublicado en 1978. El IFR se representa en una escala ver-
+tical de 0 a 100. Los valores por encima de 70 se consideran sobrecom-
+prados y por debajo de 30, sobrevendidos. Cuando los precios están por
+encima de 70 o por debajo de 30 y divergen del movimiento de los pre-
+cios, hay una advertencia de un posible cambio de tendencia. El IFR ge-
+neralmente emplea tiempos de 9 o 14 períodos.
+
+Interés abierto: Número de opciones o contratos de futuros que todavía
+están sin liquidar al cierre de un día de operaciones. Una subida o una
+bajada del interés abierto muestra que el dinero está entrando en los
+contratos de futuros u opciones o está saliendo de ellos, respectivamen-
+te. En los mercados de futuros, el interés abierto ascendente se consi-
+dera bueno para la tendencia actual. El interés abierto también mide la
+liquidez.
+
+Línea avance-declive: Uno de los indicadores usados más ampliamente
+para medir la amplitud del avance o declive de un mercado de valores.
+Cada día (o0 semana) se compara el número de valores que avanza con
+los que retroceden. Si los avances son mayores que los retrocesos, el to-
+tal neto se suma al total acumulativo previo. La línea avance-declive ge-
+
+535

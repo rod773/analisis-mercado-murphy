@@ -1,0 +1,55 @@
+194 Capítulo 7
+
+D5/19/97 (CPQ) Compaq Co_mp_¿ter0gp' — 12/31/97
+
+75
+
+GRÁFICO DE BARRAS DIARIO l(¡"¡u¡¡¡,lulm¡l]1 !
+1
+
+" |
+
+TA 1e onge
+
+“ ¡ …t U l¡p' y l|
+
+Ul]l¡tu…lez
+
+688
+
+Leza
+
+aP de " 4316
+TD
+
+VOLUMEN TOTAL
+ACUMULATIVO 1480000
+
+r TAgo — sep 0a
+
+— Dic WJ
+07 10 aa Pririo uaiy Vradediaion 6 Omega Ressare nc |
+
+Figura 7.6 La línea en la parte inferior muestra el volumen total acumulativo
+(VTA) para el mismo gráfico de la empresa Compaq. Obsérvese la mayor facilidad
+en detectar el cambio a la baja en octubre de 1997.
+
+misma dirección que los precios existe una divergencia que advierte de un
+posible cambio en la tendencia.
+
+Alternativas al VITA
+
+La línea VTA funciona razonablemente bien, pero tiene algunos in-
+convenientes. Por ejemplo, asigna un valor positivo o negativo al volumen
+de todo un día. Suponga que el mercado cierra un día al alza por una can-
+tidad mínima reflejada en una o dos marcas. ¿Es razonable asignar un va-
+lor positivo a la actividad de todo ese día? O considere una situación en la
+que el mercado está casi todo el día en posición ascendente pero que cie-
+rra ligeramente más abajo. ¿Debe darse un valor negativo al volumen de
+todo ese día? Para resolver estas preguntas, los técnicos han experimenta-
+do con muchas variaciones del VTA, en un intento de descubrir el verda-
+dero volumen al alza y a la baja.
+
+Una variación es darle mayor peso a aquellos días en los que la ten-
+
+194

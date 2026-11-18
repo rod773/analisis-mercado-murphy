@@ -1,0 +1,55 @@
+Osciladores y opinión contraria 267
+
+P8/27/97 (*OEX) SaP 100 Stock Index 03/05)
+—
+
+Índice de fuerza relativa (IFR) - 14 días ;:º
+
+sobrecomprado eo
+
+- 70
+
+80
+
+50
+
+40
+
+- 30
+
+sobrevendido la
+
+10
+
+Índice de fuerza relativa (IFR) - 7 días 100
+
+sobrecomprado
+
+sobrevendido
+
+'Sep —od Nov Dic e Feb u
+E T TOS0m Printad using TradeSiaiion 6 Omega Research, inc. 1997
+
+Figura 10.11 La amplitud de la línea del IFR se puede hacer mayor acortando el
+lapso de tiempo. Obsérvese que el IFR de 7 días alcanza los extremos exteriores
+con más frecuencia que el IFR de 14 días. Eso hace que el IFR de 7 días sea más
+útil para los operadores a corto plazo.
+
+so superior ocurre cuando un pico en el IFR (por encima de 70) no al-
+canza a sobrepasar al pico anterior en una tendencia alcista, seguido por
+una ruptura por abajo de un valle anterior. Una oscilación de fracaso in-
+ferior ocurre cuando el IFR está en una tendencia a la baja (por debajo de
+30), no llega a marcar un nuevo mínimo y luego procede a superar un
+pico anterior. (Ver figuras 10.12a-b).
+
+La divergencia entre el IFR y la línea del precio, cuando el IFR está por
+encima de 70 o por debajo de 30, es una seria advertencia que debería to-
+marse en cuenta. El propio Wilder considera que la divergencia es “la ca-
+racterística individual más indicativa del Índice de Fuerza Relativa” [Wil-
+der, página 70].
+
+El análisis de la línea de tendencia se puede emplear para detectar
+cambios en la tendencia del IFR, y las medias móviles también se pueden
+usar para el mismo fin. (Ver figura 10.13).
+
+267

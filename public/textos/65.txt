@@ -1,0 +1,28 @@
+Construcción de gráficos 65
+
+(INTC) Intel Corp 01/29/98
+
+GRÁFICO DE VELAS DIARIO
+
+Dic
+302 1:12pm Prirted vang TradeSiaion 6 Orege Reseerch, inc. f
+
+Figura 3.4 Un gráfico de velas de Intel. El color de la vela lo determina la rela-
+ción entre la apertura y el cierre. Las velas blancas son positivas, mientras que las
+velas negras son negativas.
+
+de hacer lo mismo. En el capítulo 12, “Velas japonesas”, se verá una expli-
+cación más detallada de los gráficos de velas.
+
+Escala aritmética versus escala logarítmica
+
+Los gráficos se pueden confeccionar usando escalas de precios aritmé-
+ticas o logarítmicas. Para algunos tipos de análisis, especialmente para los
+de tendencias de muy largo alcance, puede resultar ventajoso usar los grá-
+ficos logarítmicos. (Ver figuras 3.5 y 3.6). La figura 3.5 muestra cómo se ve-
+rían las diferentes escalas. En la aritmética, la escala de precios vertical in-
+dica que hay una distancia igual para cada unidad de cambio de precio.
+En este ejemplo, cada punto de la escala aritmética es equidistante del
+Otro. En la escala logarítmica, sin embargo, los aumentos de porcentajes se
+
+65

@@ -1,0 +1,46 @@
+Osciladores y opinión contraria 265
+
+banda constante a efectos comparativos. La fórmula del IFR no sólo pro-
+porciona la suavización necesaria, sino que también soluciona el último
+problema mediante la creación de una banda vertical constante que va de
+0a 100.
+
+La expresión “fuerza relativa”, por cierto, no es muy apropiada y fre-
+cuentemente causa confusión entre aquellos que están más familiarizados
+con ella tal como se usa en el análisis del mercado de valores. Fuerza rela-
+tiva, generalmente significa una línea de coeficiente que compara dos en-
+tidades diferentes. La relación entre un valor o grupo industrial y el Índice
+S8cP 500 es una forma de medir la fuerza relativa de los diferentes valores
+o grupos industriales comparándolos con una referencia objetiva. Más ade-
+lante le mostraremos lo útil que puede ser el análisis de la fuerza relativa o
+coeficiente. El índice de fuerza relativa de Wilder en realidad no mide la
+fuerza relativa entre diferentes entidades, y en ese sentido, el nombre se
+presta a confusión. El IFR, sin embargo, sí que resuelve el problema del
+movimiento errático y la necesidad de unos límites superior e inferior
+constantes. La fórmula se calcula de la siguiente manera:
+
+IFR = 100 - —19%_
+1+FR
+
+FR = Media de cierres al alza de x días
+Media de cierres a la baja de x días
+
+En este cálculo se usan catorce días; catorce semanas se usan para los
+gráficos semanales. Para encontrar el valor ascendente medio, sume el to-
+tal de puntos ganados en los días de subidas durante los 14 días y divida el
+total entre 14. Para encontrar el valor descendente medio, sume el total
+de puntos perdidos en los días de bajadas y divida el total entre 14. La
+fuerza relativa (FR) se determina entonces dividiendo la media ascenden-
+te por la media descendente. Ese valor de FR se inserta entonces en la fór-
+mula para encontrar el IFR. El número de días se puede variar cambiando
+simplemente el valor de x.
+
+Wilder empleó un período de 14 días. Cuanto más corto es el período,
+más sensible se vuelve el oscilador y más ancha su amplitud. El IFR fun-
+ciona mejor cuando sus fluctuaciones alcanzan los extremos superior e in-
+ferior. Por lo tanto, si el usuario está operando muy a corto plazo y quiere
+que las fluctuaciones del oscilador sean más pronunciadas, el período se
+puede acortar. El período se alarga para que el oscilador sea más suave y
+su amplitud menor, o sea que la amplitud en el oscilador de 9 días es ma-
+
+265

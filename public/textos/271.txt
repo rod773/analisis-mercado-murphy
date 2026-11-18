@@ -1,0 +1,36 @@
+Osciladores y opinión contraria 271
+
+pargor73 — — CDWU)DowUtities — 03/31/08
+
+| Gráfico de barras mensual
+
+Indice de fuerza relativa (IFR) - 9 meses 00|
+.
+… MN
+o
+- 20
+[ 74 7s Ye Y7 Ye 79 l0 eí e2 63 64 s s E7 6s Es 90 E"Á¡'%G_&'£|L&g£7__;m_…
+
+Figura 10.14 El oscilador IFR se puede usar en gráficos mensuales. Obsérvense
+las dos importantes señales sobrevendidas de compra en 1974 y 1994. Los picos
+sobrecomprados en la línea IFR fueron buenos indicadores de máximos impor-
+tantes en las utilidades.
+
+acercarse más al extremo superior de la banda de precios. Por el contra-
+rio, en las tendencias a la baja, el precio de cierre tiende a acercarse al ex-
+tremo inferior de la banda. En el proceso estocástico se usan dos líneas, la
+línea %K y la %D. Ésta última es la más importante y la que proporciona
+las señales principales.
+
+La intención es determinar dónde está el precio de cierre más reciente
+en relación con la banda de precios de un período dado. Catorce es el pe-
+ríodo usado más comúnmente para este oscilador. Para determinar la lí-
+nea K, que es la más sensible de las dos, la fórmula es:
+
+%K = 100 [(C -L14) / (H14-L14)]
+
+en la que C es el último cierre, L14 es el mínimo más bajo de los últimos
+14 períodos, y H14 es el máximo más alto de los mismos 14 períodos (14
+períodos que pueden ser días, semanas o meses).
+
+271

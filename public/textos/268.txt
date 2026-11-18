@@ -1,0 +1,32 @@
+parz6ro7 (*DWU) Dow Utilities
+
+Índice de fuerza relativa (IFR) - 9 días
+
+Línea 70
+
+I I I Oscilación fallida por abajo
+
+Figura 10.12a — Oscilación fallida por abajo en la línea del IFR. El segundo valle
+IFR (punto 2) es más alto que el primero (punto 1) mientras está por debajo de
+30 y los precios siguen cayendo. La penetración hacia arriba del pico IFR (punto
+3) indica un mínimo.
+
+En mi propia experiencia personal con el oscilador del IFR, su mayor
+valor radica en las oscilaciones de fracaso o divergencias que tienen lugar
+cuando el IFR está por encima de 70 o por debajo de 30. Aclaremos otro
+punto importante del uso de osciladores. Cualquier tendencia fuerte, al
+alza o a la baja, normalmente produce una lectura de oscilador extrema
+antes de que pase mucho tiempo. En tales casos, decir que un mercado
+está sobrecomprado o sobrevendido suele ser prematuro y puede llevar a
+una salida anticipada de una tendencia rentable. En tendencias al alza
+fuertes, los mercados sobrecomprados pueden permanecer así durante al-
+gún tiempo. El hecho de que el oscilador se haya trasladado a la región su-
+perior no es razón suficiente para liquidar una posición larga (0, lo que es
+peor, una corta en una fuerte tendencia al alza).
+
+El primer movimiento hacia la región sobrecomprada o sobrevendida
+suele ser una simple advertencia. La señal a la que hay que prestarle mu-
+cha atención es el segundo movimiento del oscilador hacia la zona de pe-
+ligro Si el segundo movimiento no puede confirmar el movimiento del
+
+268

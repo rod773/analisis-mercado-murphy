@@ -1,0 +1,43 @@
+252 Capítulo 10
+
+el valor de coordinar el análisis del oscilador con los ciclos subyacentes del
+mercado. Para finalizar, discutiremos la forma en que se deben usar los os-
+ciladores como parte del análisis técnico general de un mercado.
+
+Uso del oscilador en conjunción con la tendencia
+
+El oscilador es sólo un indicador secundario, en el sentido de que debe
+subordinarse al análisis básico de tendencias. A medida que pasemos por
+los distintos tipos de osciladores utilizados por los técnicos, se remarcará
+constantemente la importancia de operar en la dirección del mercado do-
+minante. El lector debe saber también que hay veces en las que los oscila-
+dores son más útiles que en otras. Por ejemplo, cerca del principio de mo-
+vimientos importantes, el análisis del oscilador no es muy útil y puede
+incluso llevarnos en la dirección equivocada. En cambio, hacia el final de
+los movimientos de un mercado, los osciladores se vuelven extremada-
+mente útiles. Trataremos estos aspectos a medida que avancemos. Final-
+mente, ningún estudio de situaciones extremas de un mercado estaría
+completo sin un estudio de la Opinión Contraria. Hablaremos del papel de
+la filosofía contraria y de cómo se puede incorporar al análisis y las opera-
+ciones del mercado.
+
+Interpretación de los osciladores
+
+Aunque hay muchas formas diferentes de construir osciladores de ím-
+petu, su interpretación difiere muy poco de una técnica a otra. Casi todos
+los osciladores se parecen mucho. Se representan en la parte inferior de
+un gráfico de precios y se parecen a una banda horizontal plana. La ban-
+da de un oscilador es básicamente plana mientras los precios operan al
+alza, a la baja, o lateralmente. Sin embargo, los picos y valles del oscilador
+coinciden con los picos y valles del gráfico de precios. Algunos osciladores
+tienen un valor a medio camino que divide la banda horizontal en dos mi-
+tades, una superior y una inferior. Según la fórmula utilizada, esta línea en
+el punto medio suele ser una línea cero. Algunos osciladores también tie-
+nen límites superiores e inferiores que van de 0 a 100.
+
+Normas generales para la interpretación
+
+Por norma general, cuando el oscilador alcanza un valor extremo tan-
+to en la parte alta como en la parte baja de la banda, sugiere que el actual
+
+252

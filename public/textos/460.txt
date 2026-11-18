@@ -1,0 +1,41 @@
+460 Capítulo 18
+
+problema, muchos técnicos prefieren usar un coeficiente avance/declive,
+que divide el número de valores en alza entre el número de valores a la
+baja. Algunos también creen que en el cálculo se debe incluir el número
+de valores que no han cambiado. Sea cual sea la forma de calcular la línea
+AD, su uso es siempre el mismo, o sea, medir la dirección del mercado
+más amplio y asegurarse de que se mueve en la misma dirección que los
+índices más estrictos pero más conocidos. También se pueden trazar líne-
+as AD para el American Stock Exchange y el mercado Nasdaq. A los técni-
+cos les gusta construir osciladores sobrecomprados/sobrevendidos en las
+líneas AD para medir extremos del mercado a corto plazo o intermedio en
+las cifras de amplitud. Uno de los ejemplos más conocidos es el oscilador
+de McClellan.
+
+Oscilador de McClellan
+
+Desarrollado por Sherman McClellan, este oscilador se construye obte-
+niendo la diferencia entre dos medias móviles exponenciales de las cifras
+diarias de avance-declive del MVNY. El oscilador de McClellan es la dife-
+rencia entre las medias móviles exponenciales de 19 días (tendencia 10
+por ciento) y de 39 días (tendencia 5 por ciento) de las cifras diarias netas
+de avance declive. El oscilador fluctúa alrededor de una línea cero y sus
+extremos superiores e inferiores van de +100 a -100. Una lectura del osci-
+lador de McClellan por encima de +100 es señal de un mercado de valores
+sobrecomprados. Una lectura por debajo de -100 se considera como un
+mercado de valores sobrevendido. Los cruces por encima y por debajo de
+la línea cero también se interpretan como señales de compra a corto pla-
+zo a intermedio, respectivamente. (Ver figura 18.2).
+
+Índice acumulativo de McClellan
+
+El índice acumulativo es simplemente una versión de mayor alcance
+del oscilador de McClellan. El índice acumulativo de McClellan es la suma
+acumulada de las lecturas diarias positivas o negativas del oscilador de Mc-
+Clellan. Mientras que el oscilador de McClellan se usa para operaciones a
+corto plazo o intermedio, el índice acumulativo proporciona una visión de
+más largo alcance de la amplitud del mercado y se usa para detectar los
+cambios importantes del mercado. (Ver figura 18.3)
+
+460

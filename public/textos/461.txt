@@ -1,0 +1,22 @@
+Indicadores bursátiles 461
+
+Figura 18.2 - El oscilador de McClellan en forma de histograma. Los cruces por
+encima de la línea cero son señales positivas. Las lecturas por encima de +100 son
+sobrecompradas, y por debajo de -100 son sobrevendidas. Obsérvese la extrema
+lectura sobrevendida de octubre de 1997.
+
+Nuevos máximos vs nuevos mínimos
+
+Además del número de valores que avanzan y retroceden, la prensa fi-
+nanciera también publica el número de valores que alcanzan los nuevos
+máximos o los nuevos mínimos de 52 semanas. Una vez más, se trata de ci-
+fras que están disponibles cada día y cada semana. Hay dos maneras de
+mostrar estas cifras. Una es representar las dos líneas por separado. Dado
+que los valores diarios a veces son erráticos, se representan medias móviles
+(generalmente de 10 días) para dar una imagen más suave de ambas líne-
+as. (Ver figura 18.4). En un mercado fuerte, el número de nuevos máxi-
+mos debe ser mucho mayor que el número de nuevos mínimos. Cuando el
+número de nuevos máximos comienza a declinar, o el número de nuevos
+mínimos comienza a crecer, aparece una señal de precaución. Cuando la
+
+461

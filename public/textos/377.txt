@@ -1,0 +1,28 @@
+Ciclos temporales 377
+
+Figura 14.10 El modelo nominal simplificado
+
+los números 5, 10 y 20. Muchos osciladores utilizan 5, 10 y 20 días, y las
+rupturas semanales habituales también utilizan los mismos números, pero
+transformados en 2, 4 y 8 semanas.
+
+Los conceptos cíclicos ayudan a explicar las técnicas
+de los gráficos
+
+El capítulo 3 del libro de Hurst explica con gran detalle cómo se pue-
+den entender mejor las técnicas normales de realización de gráficos (líne-
+as de tendencia y canales, patrones de gráficos y medias móviles) y cómo
+aprovecharlas cuando se coordinan con los principios cíclicos. La figura
+14.11 ayuda a explicar la existencia de líneas de tendencia y canales. La
+onda plana del ciclo que aparece en la parte inferior se transforma en un
+canal de precio ascendente cuando se une con una línea ascendente que
+representa la tendencia alcista a largo plazo. Obsérvese cuánto se parece a
+un oscilador el ciclo horizontal de la parte inferior del gráfico.
+
+La figura 14.12 del mismo capítulo muestra cómo se forma un patrón
+superior de cabeza y hombros mediante la combinación de dos longitudes
+cíclicas con una línea ascendente que representa la suma de todos los
+componentes de más larga duración. Hurst continúa explicando los topes
+dobles, triángulos, banderas y banderines a través de la aplicación de ci-
+
+377

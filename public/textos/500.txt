@@ -1,0 +1,39 @@
+500 Apéndice B
+
+Gráfico de perfil del mercado
+
+El formato Market Profile organiza el precio y el tiempo en una repre-
+sentación visual de lo que sucede en el curso de una sesión. Proporciona
+un marco lógico de observación del comportamiento del mercado en pre-
+sente presentando las distribuciones de precios en un período determina-
+do. La banda de precios evoluciona vertical y horizontalmente a lo largo
+de la sesión. ¿Cómo se construye un gráfico de perfil?
+
+Considere un gráfico de barras de 4 períodos (ver figura B.3a). Este
+gráfico de barras tradicional se puede convertir en un gráfico de perfil de
+la siguiente manera: (1) asigne
+una letra a cada precio dentro de
+la banda de precios de cada perí-
+odo, la A para el primer período,
+la B para el segundo, y así sucesi-
+vamente (ver figura B.3b) y luego
+(2) reúna todas las bandas de
+precios en la columna más a la iz-
+quierda (ver figura B.3c). El grá-
+fico de perfil completo refleja los
+precios a la izquierda y la fre-
+cuencia con que aparecen a la
+derecha, representado por las le-
+trass AaD.
+
+D
+B
+A
+A
+A
+A
+A
+
+Figura B.3b Figura B.3c
+
+500

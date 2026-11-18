@@ -1,0 +1,52 @@
+466 Capítulo 18
+
+ro de valores que avanzan dividido entre el número de valores que des-
+cienden. El denominador es el volumen que avanza dividido entre el vo-
+lumen que desciende. El propósito del índice Arms es medir si hay más
+volumen en los valores ascendentes que en los descendentes. Una lectu-
+ra por debajo de 1,0 indica más volumen en valores ascendentes y es po-
+sitiva, mientras que una lectura por encima de 1,0 refleja más volumen
+en los valores descendentes y es negativa. Sobre una base intradía, un ín-
+dice Arms muy alto es positivo, y uno muy bajo es negativo, o sea que se
+trata de un indicador contrario cuya tendencia va en la dirección opues-
+ta a la del mercado. Se puede utilizar para las contrataciones intradía si-
+guiendo su dirección y también para detectar extremos del mercado a
+corto plazo (Ver figura 18.7).
+
+" = C A< P s m * Eal En
+;:ÍNDIÁE COMPUESTO DE NUEVA YORK
+
+Sene
+Ll D idadabdidadade
+A —
+
+e
+E
+
+z Xopu| suuy
+z
+
+INDICE ARMS
+
+a
+
+E á
+
+[7
+
+08€
+
+bosd d
+
+besd a
+
+media de 10 días xspur aysoduo9 »J04 MON
+
+3RERITERIIAS
+
+Figura 18.7 El índice Arms (llamado también TRIN) tiende en la dirección con-
+traria a la del mercado. Los picos excepcionalmente altos generalmente indican
+mínimos de mercado. La media móvil de 10 días del índice Arms es una manera
+conocida de ver este indicador contrario.
+
+466

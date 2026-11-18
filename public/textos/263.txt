@@ -1,0 +1,34 @@
+Osciladores y opinión contraria 263
+
+(ICM), Donald R. Lambert compara el precio actual con una media móvil
+durante un período determinado, normalmente 20 días, y luego normaliza
+los valores del oscilador usando un divisor basado en una desviación media.
+Como resultado, el ICM fluctúa en una banda constante de +100 en la par-
+te superior hasta —100 en la parte inferior. Lambert recomendaba posicio-
+nes largas en aquellos mercados con valores superiores a +100. Los merca-
+dos con valores ICM por debajo de —100 eran candidatos a las ventas en
+descubierto.
+
+Parece, sin embargo, que la mayoría de los chartistas usa el ICM sim-
+plemente como un oscilador sobrecomprado/sobrevendido. Utilizado
+así, las lecturas por encima de +100 se consideran sobrecompradas y por
+debajo de -100 se consideran sobrevendidas, Aunque el ICM fue desa-
+rrollado en principio para las mercancías, también se usa para operar
+con futuros de índices de valores y opciones como el S8:P 100 (OEX).
+Aunque 20 días es el valor común de incumplimiento en el ICM, el usua-
+rio puede variar el número para ajustar su sensibilidad. (Ver figuras 10.8
+y 10.9).
+
+11/17/97 _ *(TR1600)Tmasury Bonds 1600 — oa?io¡333 ]
+M .
+… — ] "e
+l…|…|HIHI |(|| 1|¡ ||¡ll lo
+Ih ' E
+M/ — Índice del canal de mercancías 20 |
+_Dic — u — rr ea aaa a
+
+Figura 10.8 Índice del canal de mercancías de 20 días. La intención original de
+este indicador era comprar movimientos por encima de +100 y vender movimien-
+tos por debajo de -100, tal como se muestra aquí.
+
+263

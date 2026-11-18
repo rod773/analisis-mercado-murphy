@@ -1,0 +1,42 @@
+Gestión monetaria y tácticas de contratación 427
+
+tar las pérdidas y proteger las ganancias, pero el uso de límites de compra
+o venta para iniciar nuevas posiciones puede impedir la ejecución de las
+órdenes. La orden por lo mejor si toca es particularmente útil, pero algu-
+nos mercados de valores no la aceptan. Familiarícese con los distintos ti-
+pos de órdenes y conozca sus puntos fuertes y débiles. Cada una de ellas
+tiene un lugar en su plan de operaciones. Asegúrese de averiguar cuáles
+son los tipos de órdenes permitidos en los diferentes mercados financie-
+ros.
+
+De los gráficos diarios a los gráficos de precios intradía
+
+Debido a que el cálculo del momento adecuado se relaciona con una
+acción del mercado a muy corto plazo, los gráficos de precios intradía son
+especialmente útiles. Resultan imprescindibles para las operaciones dia-
+rias, aunque no nos centraremos en este aspecto. Nos interesa principal-
+mente cómo usar la actividad intradía para ayudar al operador a calcular
+el momento de compra y venta una vez que se ha tomado la decisión bási-
+ca de entrar o salir de un mercado.
+
+Vale la pena repetir que el proceso de contratación debe comenzar con
+una visión de largo alcance y pasar luego a un plazo más corto. El análisis
+comienza con gráficos mensuales y semanales para obtener una perspecti-
+va a largo plazo; luego se consulta el gráfico diario, que es la base de la de-
+cisión de operar en sí. El gráfico intradía es el último al que se recurre,
+para una precisión aún mayor. El gráfico a largo plazo da una visión teles-
+cópica del mercado, mientras que el gráfico intradía permite un estudio
+más microscópico. Los principios técnicos ya vistos son claramente visibles
+en estos gráficos tan sensibles (Ver figuras 16.1-16.3).
+
+Uso de los puntos pivotes intradía
+
+Para lograr entrar antes y tener unos límites de protección muy firmes,
+algunos operadores tratan de anticipar el nivel al que cerrará el mercado
+mediante el uso de puntos pivotes. Esta técnica combina siete niveles cla-
+ve de precios con cuatro períodos. Los siete puntos pivotes son los precios
+máximo, mínimo y de cierre del día anterior, y los precios de apertura, má-
+ximo, mínimo y de cierre del día actual. Los cuatro períodos se aplican a
+la sesión actual, y son la apertura, 30 minutos después de la apertura, a
+
+427

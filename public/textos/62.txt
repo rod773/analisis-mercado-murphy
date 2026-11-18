@@ -1,0 +1,33 @@
+62 Capítulo 3
+
+l l l MáúmºCierre ::.
+| -s0
+
+Ape 8774
+
+”n'l “a '… “
+IN
+
+1¡l l|l " -
+
+Figura 3.1 Un gráfico de barras diario de Intel. Cada barra vertical representa
+los movimientos de un día.
+
+máximo, mínimo y de cierre. El tic a la derecha de la barra vertical es el
+precio de cierre. El precio de apertura es el tic que aparece a la izquierda
+de la barra.
+
+La figura 3.2 muestra cómo se reflejaría el mismo mercado con un
+gráfico de línea, en el que sólo se indica el precio de cierre de cada día
+sucesivo. Muchos grafistas creen que como el precio de cierre es el pre-
+cio más crítico del período de transacciones, un gráfico de línea (tam-
+bién llamado sólo de cierre) es una medida más válida de la actividad de
+los precios.
+
+En la figura 3.3 aparece un tercer tipo de gráfico, el de puntos y figu-
+ras, que muestra los mismos movimientos de precios pero en un formato
+más comprimido. Fijémonos en las columnas alternas de x y de o. Las co-
+lumnas de x muestran precios al alza, y las columnas de o, precios a la
+baja. Las señales de comprar y vender son más precisas y más fáciles de ver
+
+62

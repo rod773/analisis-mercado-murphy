@@ -1,0 +1,43 @@
+Medias móviles 241
+
+b9/15/95 - (*DWI X) Dow Industrials — _ 03/06/98
+
+GRÁFICO DE BARRAS SEMANAL Íi|
+
+7500
+
+7000
+
+Hl e | ;
+H
+
+pa500
+
+o de A — y B6 B7
+
+>]
+
+y o '_h
+—305 Z iSpm Primed ueing TradaSiation 6 Omega Reeserch, Inc. 1907
+
+Figura 9.10 Las medias móviles son valiosas en los gráficos semanales. La media
+móvil de 40 semanas debería proporcionar apoyo durante las correcciones del
+mercado alcista, tal como sucedió aquí.
+
+el capítulo 15 le mostraremos un indicador llamado ADX que le dice
+cuándo un mercado sigue una tendencia y cuándo no, y si la situación del
+mercado favorece la técnica de la media móvil que sigue la tendencia o el
+enfoque del oscilador sin tendencia).
+
+Medias móviles como osciladores
+
+Una forma de construir un oscilador es comparar la diferencia entre
+dos medias móviles, por lo que el uso de dos medias móviles en el método
+del doble cruce adquiere mayor significación y resulta una técnica aún
+Mmás útil, como veremos en el capítulo 10. Un método compara dos medias
+Suavizadas exponencialmente, es el método llamado Convergencia/ Diver-
+gencia de la Media Móvil (CDMM), que se usa parcialmente como oscila-
+dor, pero pospondremos nuestra explicación de esa técnica hasta que vea-
+mos la totalidad del tema de los osciladores en el capítulo 10.
+
+241

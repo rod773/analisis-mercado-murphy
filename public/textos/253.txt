@@ -1,0 +1,46 @@
+Osciladores y opinión contraria 253
+
+movimiento del precio puede haber ido demasiado lejos con demasiada
+rapidez y le hace falta una corrección o consolidación de algún tipo.
+Como otra norma general, el operador debería comprar cuando la línea
+del oscilador está en la parte inferior de la banda y vender en la parte su-
+perior. El cruce de la línea media se usa a menudo para generar señales de
+compra y venta. A medida que veamos los diferentes tipos de osciladores,
+veremos cómo se aplican estas normas generales.
+
+Los tres usos más importantes del oscilador
+
+Hay tres situaciones en las que el oscilador es sumamente útil, y el lec-
+tor verá que estas tres situaciones son comunes a casi todos los tipos de os-
+ciladores que se usan.
+
+1. El oscilador es muy útil cuando su valor alcanza una lectura extrema
+cerca de su límite superior o inferior. Se dice que el mercado está so-
+brecomprado cuando es cerca del extremo superior y sobrevendido
+cuando es cerca del extremo inferior. Es una advertencia de que la ten-
+dencia del precio está sobreextendida y es vulnerable.
+
+2. Una divergencia entre el oscilador y el movimiento del precio cuando
+el oscilador está en una posición extrema, generalmente es una adver-
+tencia importante.
+
+3. El cruce de la línea cero (0 media) puede dar importantes señales para
+operar en la dirección de la tendencia de los precios.
+
+El momento como medida
+
+El concepto de momento es la aplicación más básica del análisis del os-
+cilador. El momento mide la velocidad del cambio de precios en oposición
+al nivel de precios en sí. El momento del mercado se mide tomando dife-
+rencias de precios continuamente durante un intervalo fijo. Para construir
+una línea de momento de 10 días, simplemente reste el precio de cierre
+de hace 10 días del último precio de cierre. Este valor positivo o negativo
+se representa entonces gráficamente alrededor de la línea cero. La fór-
+mula para calcular el momento es:
+
+M =V-Vx
+
+En la que V es el último precio de cierre y Vx es el precio de cierre hace x
+días.
+
+253

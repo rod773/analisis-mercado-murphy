@@ -1,0 +1,50 @@
+272 Capítulo 10
+
+La fórmula simplemente mide, en una base porcentual de 0 a 100,
+dónde está el precio de cierre en relación con la banda de precios total
+de un período seleccionado. Una lectura muy alta (por encima de 80)
+pondría al precio de cierre cerca de la parte más alta de la banda, mien-
+tras que una lectura baja (por debajo de 20) lo situaría cerca de la parte
+inferior.
+
+La segunda línea (%D) es una media móvil de 3 períodos de la línea
+%K. Esta fórmula produce una versión llamada estocástica rápida. Una me-
+dia de otros tres períodos de ambas líneas permite computar una versión
+más suave llamada estocástica lenta. Casi todos los operadores prefieren la
+estocástica lenta debido a que sus señales son de mayor confianza.
+
+Estas fórmulas producen dos líneas que oscilan entre una escala verti-
+cal de 0 a 100. La línea K es una línea más rápida, mientras que la D es más
+lenta. La señal principal que hay que vigilar es la divergencia entre la línea
+D y el precio del mercado subyacente cuando la línea D esté en una zona
+sobrecomprada o sobrevendida. Los extremos superior e inferior son los
+valores 80 y 20, respectivamente. (Ver figura 10.15).
+
+b2/07/87 - (TR1600) Treasury Bonds 1600 — 031398
+GRÁFICO DE BARRAS SEMANAL ¡ | 120
+
+l 12128
+
+| p E
+
+lll ll … e
+
+HI II¡I'! l|l…l 1126
+N M h
+
+. “|“lk | ! 10728
+
+%D
+Estocástico - 14 semanas
+
+War — Abr — May Jun __ Yu — “Ago 'Sep__ 0 Nov_ _Dic _6 a
+
+Feb __ Mar
+* p S1aDl u Td 6 Orvpa Researtk 1007
+
+Figura 10.15  Las flechas hacia abajo indican dos señales de venta que aparecen
+cuando la línea %K, más rápida, cruza por debajo de la línea %D, más lenta, ba-
+jando desde encima del nivel 80. Cuando la línea %K cruza por encima la línea
+%D por debajo de 20, hay una señal de compra (ver flecha hacia arriba).
+
+272

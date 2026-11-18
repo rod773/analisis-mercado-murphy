@@ -1,0 +1,45 @@
+Medias móviles 245
+
+acortar si conviene que el sistema sea más sensible. En un mercado de pre-
+cios relativamente altos que tienden a serlo cada vez más, un período más
+corto haría que el sistema fuera más sensible. Suponga, por ejemplo, que
+se toma una posición larga en una ruptura al alza de 4 semanas con un
+tope de protección colocado justo por debajo del mínimo de las últimas
+dos semanas. Si el mercado ha subido de forma destacada y el operador
+desea seguir la posición con un tope de protección más cercano, se podría
+usar un tope de una semana.
+
+En una situación con bandas de fluctuación, en la que el operador prefie-
+re quedarse al margen hasta que aparezca una señal de tendencia importante,
+el período podría extenderse a ocho semanas, lo que evitaría que se tomaran
+posiciones a plazos más cortos así como las prematuras señales de tendencia.
+
+La regla de 4 semanas y su relación con los ciclos
+
+Con anterioridad, en este mismo capítulo, se hizo referencia a la im-
+portancia del ciclo mensual en los mercados de mercancías. El ciclo de
+contratación de 4 semanas, o de 20 días, es un ciclo dominante que influ-
+ye en todos los mercados, lo que puede ayudar a explicar por qué el perí-
+odo de 4 semanas ha demostrado tener tanto éxito. Recuérdese que la
+mención era a las reglas de 1, 2 y 8 semanas. El principio de la armonía en
+€l análisis cíclico sostiene que cada ciclo está relacionado con sus círculos
+vecinos (el siguiente más largo y el siguiente más corto) por 2.
+
+En la discusión previa sobre las medias móviles, se indicó de qué ma-
+nera el ciclo mensual y la armonía explicaban la popularidad de las me-
+dias móviles de 5, 10, 20 y 40 días. Iguales conceptos se pueden aplicar a
+los mismos períodos en el campo de las reglas semanales. Esos números
+diarios, traducidos a períodos semanales, son l1, 2, 4 y 8 semanas. Por lo
+tanto, los ajustes a la regla de las 4 semanas parecen funcionar mejor cuan-
+do el número inicial (4) se divide o multiplica por 2. Para acortar el perí-
+odo, se puede pasar de 4 a 2 semanas, y si fuera necesario un período aún
+más corto, de 2 a 1 semana. Para extenderlo, pasar de 4 a 8. Dado que este
+método combina precio y tiempo, no hay razón para que el principio ciclo
+de la armonía no juegue un papel importante. La táctica de dividir un pa-
+rámetro semanal entre 2 para acortarlo, o de doblarlo para hacerlo más
+Extenso, tiene una lógica cíclica.
+
+La regla de 4 semanas es un sencillo sistema de ruptura. El sistema ori-
+ginal se puede modificar usando un período más corto —regla de l 02
+
+245

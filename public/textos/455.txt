@@ -1,0 +1,31 @@
+18
+Indicadores bursátiles
+
+Medir la amplitud del mercado
+
+En el capítulo anterior describíamos el enfoque vertical que se emplea
+comúnmente en el análisis del mercado de valores. Con ese enfoque, se
+comienza el análisis con un estudio de la salud del mercado en general,
+luego se pasa a los sectores bursátiles y los grupos industriales, para finali-
+zar con el estudio de los valores individuales. La meta es elegir los mejores
+valores de los mejores grupos en un entorno en el que el mercado bursá-
+til esté en buenas condiciones técnicas de salud. El estudio de los sectores
+del mercado y de los valores individuales se puede lograr con las herra-
+mientas técnicas empleadas en todo el libro, incluyendo patrones de grá-
+ficos, análisis de volumen, líneas de tendencia, medias móviles, oscilado-
+res, etc. Estos mismos indicadores se pueden aplicar también a las medias
+principales, pero hay otro tipo de indicador, ampliamente utilizado en el
+análisis del mercado bursátil, cuyo propósito es determinar la salud del
+conjunto del mercado midiendo su amplitud. Los datos que se usan en su
+construcción son los valores que avanzan en contraste con los que retro-
+ceden, los nuevos máximos y los nuevos mínimos, los volúmenes ascen-
+dentes y los descendentes.
+
+Ejemplos de datos
+Si mira usted la sección Banco de Datos de la Bolsa del diario The Wall
+Street Journal (Sección C, página 2) cada día, encontrará los siguientes da-
+
+tos correspondientes a la sesión anterior. Los números indicados se basan
+en resultados reales de un día de contratación.
+
+455

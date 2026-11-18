@@ -1,0 +1,32 @@
+10
+Osciladores
+y opinión contraria
+
+Introducción
+
+En este capítulo hablaremos de una alternativa a los enfoques que si-
+guen las tendencias, el oscilador. Se trata de un indicador extremadamente
+útil en mercados sin tendencias en los que los precios se mueven en una
+banda de fluctuación horizontal, creando una situación de mercado en la
+que la mayoría de los sistemas que siguen tendencias no funcionan tan
+bien. El oscilador le proporciona una herramienta al operador técnico que
+le permite beneficiarse de estos periódicos entornos laterales y sin ten-
+dencia.
+
+El valor del oscilador no está limitado a las bandas de fluctuación hori-
+zontales. Usado en conjunción con los gráficos de precios durante las fases
+con tendencias, el oscilador se transforma en un aliado extremadamente
+útil cuando alerta al operador ante extremos del mercado a corto plazo,
+conocidos comúnmente como condiciones sobrecompradas o sobrevendi-
+das. El oscilador también puede advertir de que una tendencia está per-
+diendo ímpetu antes de que dicha situación se haga evidente en las propias
+acciones de los precios. Los osciladores pueden indicar que una tendencia
+está a punto de finalizar mediante la indicación de ciertas divergencias.
+
+Comenzaremos explicando primero qué es un oscilador y la base para su
+construcción e interpretación. Luego discutiremos el significado de ¿mpe-
+tu y sus implicaciones para los pronósticos del mercado. Presentaremos al-
+gunas técnicas de osciladores, desde las más sencillas hasta las más com-
+plicadas. Veremos la importante cuestión de la divergencia. Introduciremos
+
+251

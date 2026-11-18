@@ -1,0 +1,42 @@
+Relación entre valores y futuros: análisis entre mercados 437
+
+sible tener una visión completa de lo que sucede en un mercado —como el
+mercado de valores- si no se conoce lo que sucede en los otros. Como los
+mercados están tan interrelacionados actualmente, el analista técnico dis-
+fruta de una enorme ventaja. Las herramientas técnicas descritas en este li-
+bro pueden aplicarse a todos los mercados, lo que facilita enormemente el
+análisis entre mercados. A continuación veremos por qué la capacidad de
+seguir los gráficos de tantos mercados es una gran ventaja en el complejo
+panorama de hoy en día.
+
+Operaciones programadas: el último eslabón
+
+En ningún lugar es más obvia la íntima conexión entre valores y futu-
+ros que en la relación entre el índice SP 500 en efectivo y el contrato de
+futuros del índice S£:P 500. Normalmente, el contrato de futuros opera so-
+bre la par con respecto al índice en efectivo. El tamaño de la prima viene
+determinado por aspectos tales como el nivel de los tipos de interés a cor-
+to plazo, el rendimiento del propio índice Sá:P 500, y el número de días
+que faltan para el vencimiento del contrato de futuros. La prima (o spread)
+entre los futuros del índice S8:P 500 con respecto al índice en efectivo dis-
+minuye a medida que el contrato de futuros se acerca a su fin. (Ver figura
+17.1). Cada día, las instituciones calculan cuál debería ser la prima real,
+llamada valor justo. Dicho valor justo permanece constante durante toda
+la sesión, pero cambia gradualmente con cada nuevo día. Cuando la pri-
+ma de futuros sobrepasa su valor justo con respecto al índice en efectivo
+en una cantidad predeterminada, se activa automáticamente una opera-
+ción de arbitraje llamada compra programada. Cuando los futuros son de-
+masiado altos con respecto al índice en efectivo, los operadores de pro-
+gramas venden el contrato de futuros y compran una cesta de valores en
+el índice SÉ:P 500 para que ambas entidades vuelvan a estar en línea. El re-
+sultado de la compra programada es positivo para el mercado de valores
+porque eleva el índice S8:P 500 al contado. La venta programada es justa-
+mente lo contrario y tiene lugar cuando la prima de los futuros con res-
+pecto al contado baja mucho de su valor justo. En tal caso, se activa la ven-
+ta programada, que da como resultado la compra de futuros del índice
+S8cP 500 y la venta de la cesta de valores. La venta programada es
+negativa para el mercado. La mayoría de los operadores compren-
+de esta conexión entre los dos mercados relacionados, pero no
+siempre comprende que los repentinos movimientos del contrato
+
+437
