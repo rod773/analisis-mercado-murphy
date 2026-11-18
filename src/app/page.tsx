@@ -31,24 +31,63 @@ export default function Home() {
   const [isReading, setIsReading] = useState(false);
   const total = 547;
   const autoReadRef = useRef(false);
-  const scrollTimerRef = useRef<ReturnType<typeof setInterval> | null>(null);
+  const scrollRafRef = useRef<number | null>(null);
+  const scrollPosRef = useRef(0);
+  const boundaryProgressRef = useRef(0);
+  const startTsRef = useRef(0);
+  const totalCharsRef = useRef(1);
+  const abortedRef = useRef(false);
+  const measuredCpsRef = useRef(0);
+
+  const CHARS_PER_SECOND = 13.5;
 
   const stopScroll = () => {
-    if (scrollTimerRef.current) {
-      clearInterval(scrollTimerRef.current);
-      scrollTimerRef.current = null;
+    if (scrollRafRef.current !== null) {
+      cancelAnimationFrame(scrollRafRef.current);
+      scrollRafRef.current = null;
     }
   };
 
-  const startScroll = () => {
+  const startScroll = (totalChars: number) => {
     stopScroll();
-    scrollTimerRef.current = setInterval(() => {
-      window.scrollBy({ top: 1, behavior: "auto" });
-    }, 30);
+    scrollPosRef.current = window.scrollY;
+    boundaryProgressRef.current = 0;
+    startTsRef.current = performance.now();
+    totalCharsRef.current = Math.max(1, totalChars);
+    const tick = () => {
+      const maxScroll = Math.max(0, document.documentElement.scrollHeight - window.innerHeight);
+      const elapsed = performance.now() - startTsRef.current;
+      const cps = measuredCpsRef.current || CHARS_PER_SECOND;
+      const estimated = Math.min(1, elapsed / ((totalCharsRef.current * 1000) / cps));
+      const progress = boundaryProgressRef.current > 0 ? boundaryProgressRef.current : estimated;
+      const target = progress * maxScroll;
+      scrollPosRef.current += (target - scrollPosRef.current) * 0.18;
+      window.scrollTo({ top: scrollPosRef.current, behavior: "auto" });
+      scrollRafRef.current = requestAnimationFrame(tick);
+    };
+    scrollRafRef.current = requestAnimationFrame(tick);
+  };
+
+  const finishScroll = () => {
+    stopScroll();
+    const step = () => {
+      const maxScroll = Math.max(0, document.documentElement.scrollHeight - window.innerHeight);
+      const diff = maxScroll - scrollPosRef.current;
+      if (diff <= 1) {
+        window.scrollTo({ top: maxScroll, behavior: "auto" });
+        scrollRafRef.current = null;
+        return;
+      }
+      scrollPosRef.current += Math.max(diff * 0.25, 2);
+      window.scrollTo({ top: scrollPosRef.current, behavior: "auto" });
+      scrollRafRef.current = requestAnimationFrame(step);
+    };
+    scrollRafRef.current = requestAnimationFrame(step);
   };
 
   const stopReading = () => {
     autoReadRef.current = false;
+    abortedRef.current = true;
     if (typeof window !== "undefined") {
       window.speechSynthesis.cancel();
     }
@@ -88,6 +127,7 @@ export default function Home() {
       return;
     }
     const synth = window.speechSynthesis;
+    abortedRef.current = false;
     synth.cancel();
     const u = new SpeechSynthesisUtterance(trimmed);
     const voice = pickSpanishMaleVoice();
@@ -95,10 +135,24 @@ export default function Home() {
     u.lang = voice?.lang || "es-ES";
     u.onstart = () => {
       setIsReading(true);
-      startScroll();
+      startScroll(trimmed.length);
+    };
+    u.onboundary = (e) => {
+      if (typeof e.charIndex === "number" && trimmed.length > 0) {
+        boundaryProgressRef.current = Math.min(1, e.charIndex / trimmed.length);
+      }
     };
     u.onend = () => {
-      stopScroll();
+      if (!abortedRef.current) {
+        const dur = (performance.now() - startTsRef.current) / 1000;
+        const cps = totalCharsRef.current / Math.max(1, dur);
+        if (cps > 6 && cps < 40) {
+          measuredCpsRef.current = measuredCpsRef.current ? measuredCpsRef.current * 0.5 + cps * 0.5 : cps;
+        }
+        finishScroll();
+      } else {
+        stopScroll();
+      }
       setIsReading(false);
       if (autoReadRef.current) {
         goToNextPageAuto();
