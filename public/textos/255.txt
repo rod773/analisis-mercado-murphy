@@ -1,49 +1,11 @@
-Osciladores y opinión contraria 255
+suave en la que las fluctuaciones del oscilador son menos volátiles. (Ver figura 10.1b).
 
-ñ
+Figura 10.1a La línea de momento de 10 días fluctúa alrededor de una línea cero. Las lecturas muy por encima de la línea cero indican valores sobrecomprados, mientras que los valores muy por debajo de la línea son sobrevendidos. El momento debe usarse en conjunción con la tendencia del mercado.
 
-D3/15/96 (TR1600) Treasury Bonds 1600 03/12/98
+Figura 10.1b Comparación entre líneas de momento de 10 y 40 días. La versión más larga es más útil para detectar los cambios importantes del mercado (ver círculos).
 
-123114
+El momento mide las tasas de ascenso y descenso *
 
-117508
-114502
-11013
+Hablemos un poco más sobre lo que mide este indicador del momento. Representando las diferencias de precios en un período dado, el chartista estudia las tasas de ascenso y descenso. Si los precios están subiendo y la línea de momento está por encima de la línea cero y es ascendente, significa que la tendencia al alza se está acelerando. Si la línea de momento inclinada hacia arriba comienza a aplanarse, significa que las nuevas ganancias adquiridas por los últimos cierres son los mismos que los de hace 10 días. Aunque los precios puedan seguir subiendo, la tasa de ascenso (o velocidad) se ha estabilizado. Cuando la línea de momento comienza a caer hacia la línea cero, la tendencia alcista de los precios está todavía vigente, pero su velocidad se está reduciendo. La tendencia al alza está perdiendo momento.
 
-Momento de 10 días Sobrecomprado
-
-Sobrevendido
-
-Sobrecomprado
-
-Momento de 40 días
-
-Sobrevendido
-
-*'EAUBDUIICEA — CU UUDAEADA” CU ERdS Saa| ECRO N EO ED N
-'7 Abr Oc
-. - 2— p d ial 6 eo sa 007
-
-Figura 10.1b Comparación entre líneas de momento de 10 y 40 días. La versión
-más larga es más útil para detectar los cambios importantes del mercado (ver
-círculos).
-
-El momento mide las tasas de ascenso y descenso
-
-Hablemos un poco más sobre lo que mide este indicador del momento.
-Representando las diferencias de precios en un período dado, el chartista
-estudia las tasas de ascenso y descenso. Si los precios están subiendo y la lí-
-nea de momento está por encima de la línea cero y es ascendente, significa
-que la tendencia al alza se está acelerando. Si la línea de momento inclina-
-da hacia arriba comienza a aplanarse, significa que las nuevas ganancias ad-
-quiridas por los últimos cierres son los mismos que los de hace 10 días. Aun-
-que los precios puedan seguir subiendo, la tasa de ascenso (o velocidad) se
-ha estabilizado. Cuando la línea de momento comienza a caer hacia la línea
-cero, la tendencia alcista de los precios está todavía vigente, pero su veloci-
-dad se está reduciendo. La tendencia al alza está perdiendo momento.
-
-Cuando la línea del momento pasa debajo de la línea cero, el último
-cierre de 10 días queda también por debajo del cierre de hace 10 días y en-
-tra en efecto una tendencia a la baja a corto plazo. (Por cierto, la media
-
-255
+Cuando la línea del momento pasa debajo de la línea cero, el último cierre de 10 días queda también por debajo del cierre de hace 10 días y entra en efecto una tendencia a la baja a corto

@@ -1,42 +1,19 @@
-410 Capítulo 15
+en la dirección de cada una de las tendencias importantes.
+
+Los beneficios pueden circular.
+
+Las pérdidas se minimizan.
 
 Desventajas de los sistemas mecánicos
-1. Casi todos los sistemas mecánicos se basan en seguir las tendencias.
 
-2. Los sistemas que siguen tendencias se apoyan en las tendencias princi-
-pales para ser rentables.
+Casi todos los sistemas mecánicos se basan en seguir las tendencias.
 
-3. Los sistemas que siguen tendencias generalmente no son rentables
-cuando los mercados no tienen tendencias.
+Los sistemas que siguen tendencias se apoyan en las tendencias principales para ser rentables.
 
-4. Hay largos períodos durante los que los mercados no tienen tenden-
-cias, y por lo tanto, no son adecuados para el enfoque que se basa en se-
-guirlas.
+Los sistemas que siguen tendencias generalmente no son rentables cuando los mercados no tienen tendencias.
 
-El problema mayor es la imposibilidad del sistema de reconocer cuán-
-do no hay tendencia en el mercado y su incapacidad para detenerse por sí
-mismo. La medida de un buen sistema es no sólo su capacidad de hacer
-dinero en mercados con tendencias, sino también su capacidad de con-
-servar el capital durante aquellos períodos en los que no hay tendencias.
-Esta incapacidad del sistema de autocontrolarse es su mayor debilidad, y
-es cuando un dispositivo de filtro como el sistema de movimiento direc-
-cional de Welles Wilder o la línea ADX le resulta más útil al operador, por-
-que le permite determinar qué mercados son los más adecuados para ope-
-rar siguiendo las tendencias.
+Hay largos períodos durante los que los mercados no tienen tendencias, y por lo tanto, no son adecuados para el enfoque que se basa en seguirlas.
 
-Otra desventaja es que generalmente no tiene en cuenta: los posibles
-cambios del mercado. Los sistemas que siguen tendencias funcionan con
-ellas hasta que hay un cambio. No reconocen cuándo un mercado ha al-
-canzado un nivel de apoyo o resistencia a largo plazo, cuándo se dan las di-
-vergencias del oscilador, ni un quinto patrón de ondas de Elliott, aunque
-sea claramente visible. La mayoría de los operadores se pondrían a la de-
-fensiva y comenzarían a realizar beneficios, y sin embargo, el sistema se
-mantendría con la posición hasta bastante después de que el mercado hu-
-biera cambiado de dirección. Por lo tanto, es el operador quien tiene que
-decidir cómo sacarle el mejor partido al sistema, como único instrumento
-o incorporándolo a un plan de operaciones con otros factores técnicos.
-Llegamos así a nuestra próxima sección, en la que veremos la forma en
-que un sistema mecánico se puede usar simplemente como otro insumo
-técnico en el proceso de pronósticos y operaciones.
+El problema mayor es la imposibilidad del sistema de reconocer cuándo no hay tendencia en el mercado y su incapacidad para detenerse por sí mismo. La medida de un buen sistema es no sólo su capacidad de hacer dinero en mercados con tendencias, sino también su capacidad de conservar el capital durante aquellos períodos en los que no hay tendencias. Esta incapacidad del sistema de autocontrolarse es su mayor debilidad, y es cuando un dispositivo de filtro como el sistema de movimiento direc- cional de Welles Wilder o la línea ADX le resulta más útil al operador, porque le permite determinar qué mercados son los más adecuados para operar siguiendo las tendencias.
 
-410
+Otra desventaja es que generalmente no tiene en cuenta los posibles cambios del mercado. Los sistemas que siguen tendencias funcionan con ellas hasta que hay un cambio. No reconocen cuándo un mercado ha alcanzado un nivel de apoyo o resistencia a largo plazo, cuándo se dan las divergencias del oscilador, ni un quinto patrón de ondas de Elliott, aunque sea claramente visible. La mayoría de los operadores se pondrían a la defensiva y comenzarían a realizar beneficios, y sin embargo, el sistema se mantendría con la posición hasta bastante después de que el mercado hubiera cambiado de dirección. Por lo tanto, es el operador quien tiene que decidir cómo sacarle el mejor partido al sistema, como único instrumento o incorporándolo a un plan de operaciones con otros factores técnicos. Llegamos así a nuestra próxima sección, en la que veremos la forma en. que un sistema mecánico se puede usar

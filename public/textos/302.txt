@@ -1,45 +1,11 @@
-302 Capítulo 11
+enormemente la creación de gráficos de puntos y figuras, haciéndolos asequibles al operador medio.
 
 Construcción del gráfico de inversión de 3 puntos
 
-La construcción del gráfico es relativamente sencilla. En primer lugar,
-al gráfico se le ha de proporcionar una escala del mismo modo que al grá-
-fico intradía. Se asigna un valor a cada registro, tarea que se realiza para
-los suscriptores del servicio Chartcraft porque los gráficos ya están cons-
-truidos y los valores de los registros asignados. El gráfico muestra una se-
-rie de columnas alternas de x, que representan los precios ascendentes, y
-de o, que representan los precios descendentes. (Ver figura 11.8).
+La construcción del gráfico es relativamente sencilla. En primer lugar, al gráfico se le ha de proporcionar una escala del mismo modo que al gráfico intradía. Se asigna un valor a cada registro, tarea que se realiza para los suscriptores del servicio Chartcraft porque los gráficos ya están construidos y los valores de los registros asignados. El gráfico muestra una serie de columnas alternas de x, que representan los precios ascendentes, y de o, que representan los precios descendentes. (Ver figura 11.8).
 
-La representación gráfica de las x y las o sólo requiere los precios máxi-
-mo y mínimo del día. Si la última columna es de x (indicando precios as-
-cendentes), busque entonces el precio máximo del día. Si dicho máximo
-permite marcar una o más x, entonces hágalo y deténgase. Es todo lo que
-necesita hacer ese día. Recuerde que se debe rellenar el valor total del re-
-gistro y que las fracciones o marcas parciales no cuentan. Al día siguiente
-repita el mismo proceso, prestando atención sólo al precio más alto. Mien-
-tras que los precios sigan subiendo y permitan la representación gráfica de
-al menos una x, siga rellenando los registros con x e ignorando el precio
-mínimo.
+La representación gráfica de las x y las o sólo requiere los precios máximo y mínimo del día. Si la última columna es de x (indicando precios ascendentes) , busque entonces el precio máximo del día. Si dicho máximo permite marcar una o más x, entonces hágalo y deténgase. Es todo lo que necesita hacer ese día. Recuerde que se debe rellenar el valor total del registro y que las fracciones o marcas parciales no cuentan. Al día siguiente repita el mismo proceso, prestando atención sólo al precio más alto. Mientras que los precios sigan subiendo y permitan la representación gráfica de al menos una x, siga rellenando los registros con x e ignorando el precio mínimo.
 
-Finalmente llega el día en el que el precio máximo no es suficiente
-para rellenar el siguiente registro x. En ese punto, busque el precio míni-
-mo para determinar si ha habido un cambio o inversión de 3 registros en
-la otra dirección. Si es así, desplácese una columna hacia la derecha, baje
-un registro y marque los 3 registros siguientes con o para indicar una nue-
-va columna hacia abajo. Como ahora usted está en una columna que se di-
-rige hacia abajo, al día siguiente consulte el precio mínimo para ver si pue-
-de continuar con esa columna de o. Si puede marcar una o más o, hágalo.
-Sólo cuando el mínimo diario no permita marcar más o busque el máxi-
-mo del día para ver si ha tenido lugar una inversión de 3 registros hacia el
-lado de arriba. Si es así, pase una columna a la derecha y comience una
-nueva columna de x.
+Finalmente llega el día en el que el precio máximo no es suficiente para rellenar el siguiente registro x. En ese punto, busque el precio mínimo para determinar si ha habido un cambio o inversión de 3 registros en la otra dirección. Si es así, desplácese una columna hacia la derecha, baje un registro y marque los 3 registros siguientes con o para indicar una nueva columna hacia abajo. Como ahora usted está en una columna que se dirige hacia abajo, al día siguiente consulte el precio mínimo para ver si puede continuar con esa columna de o. Si puede marcar una o más o, hágalo. Sólo cuando el mínimo diario no permita marcar más o busque el máximo del día para ver si ha tenido lugar una inversión de 3 registros hacia el lado de arriba. Si es así, pase una columna a la derecha y comience una nueva columna de x.
 
 Patrones de gráficos
-
-La figura 11.9 muestra 16 patrones muy comunes en este tipo de gráfi-
-co de puntos y figuras, 8 señales de compra y 8 de venta.
-
-Echémosles un vistazo. Dado que la columna 2, con las señales de ven-
-ta S-1 a S-8, es como la imagen reflejada de la columna 1, nos concentra-
-
-302

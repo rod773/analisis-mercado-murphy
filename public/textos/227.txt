@@ -1,43 +1,11 @@
-Medias móviles 227
-
-igual del 20 por ciento. Algunos analistas creen que a la acción más re-
-ciente de los precios debe dársele una carga más fuerte.
+por ciento. En una media de 5 días, cada día tendría una ponderación igual del 20 por ciento. Algunos analistas creen que a la acción más reciente de los precios debe dársele una carga más fuerte.
 
 La media móvil ponderada linealmente
 
-Para intentar corregir el problema de la carga, algunos analistas em-
-plean una media móvil ponderada linealmente. En este cálculo, el precio
-de cierre del décimo día (en caso de una media de 10 días) se multiplica
-por 10, el del noveno día por nueve, el del octavo por ocho, y así sucesiva-
-mente. Los cierres más recientes reciben así la carga mayor. El total se di-
-vide entonces por la suma de los multiplicadores (55 en el caso de la me-
-dia móvil de 10 días: 10 + 9 + 8 + ... + 1). De todos modos, la media
-ponderada linealmente no solventa el problema de incluir sólo los movi-
-mientos del precio cubiertos por la duración de la media misma.
+Para intentar corregir el problema de la carga, algunos analistas emplean una media móvil ponderada linealmente. En este cálculo, el precio de cierre del décimo día (en caso de una media de 10 días) se multiplica por 10, el del noveno día por nueve, el del octavo por ocho, y así sucesivamente. Los cierres más recientes reciben así la carga mayor. El total se divide entonces por la suma de los multiplicadores (55 en el caso de la media móvil de 10 días: 10 + 9 + 8 + ... De todos modos, la media ponderada linealmente no solventa el problema de incluir sólo los movimientos del precio cubiertos por la duración de la media misma.
 
 La media móvil suavizada exponencialmente
 
-Este tipo de media soluciona los dos problemas asociados a la media mó-
-vil simple. Primero, la media suavizada exponencialmente asigna una carga
-mayor a la información más reciente, o sea que es una media móvil ponde-
-rada. Pero aunque le asigne menor importancia a la información sobre pre-
-cios más antigua, de todos modos incluye en su cálculo toda la información
-de la vida del instrumento. Además, el usuario puede ajustar la carga para
-dar mayor o menor importancia al precio del día más reciente. Esto se logra
-asignando un valor porcentual al precio del último día, que se suma al por-
-centaje del valor del día anterior. La suma de ambos valores porcentuales
-suma 100. Por ejemplo, al precio del último día se le puede asignar un valor
-del 10 por ciento (0,10), que se suma al valor del día anterior de 90 por cien-
-to (0,90), lo que le da al último día un 10 por ciento de la carga total. Eso se-
-ría el equivalente a una media de 10 días. Al darle al precio del último día
-un valor menor de sólo el 5 por ciento (0,05), se le asigna menos carga a la
-información del último día y la media es menos sensible. Eso sería el equi-
-valente a una media móvil de 40 días. (Ver figura 9.2).
+Este tipo de media soluciona los dos problemas asociados a la media móvil simple. Primero, la media suavizada exponencialmente asigna una carga mayor a la información más reciente, o sea que es una media móvil ponderada. Pero aunque le asigne menor importancia a la información sobre precios más antigua, de todos modos incluye en su cálculo toda la información de la vida del instrumento. Además, el usuario puede ajustar la carga para dar mayor o menor importancia al precio del día más reciente. Esto se logra asignando un valor porcentual al precio del último día, que se suma al porcentaje del valor del día anterior. La suma de ambos valores porcentuales suma 100. Por ejemplo, al precio del último día se le puede asignar un valor del 10 por ciento (0,10), que se suma al valor del día anterior de 90 por ciento (0,90), lo que le da al último día un 10 por ciento de la carga total. Eso sería el equivalente a una media de 10 días. Al darle al precio del último día un valor menor de sólo el 5 por ciento (0,05), se le asigna menos carga a la información del último día y la media es menos sensible. Eso sería el equivalente a una media móvil de 40 días. (Ver figura 9.2).
 
-El ordenador hace que todo esto sea muy fácil para usted. Primero eli-
-ja el número de días que quiere en la media móvil —10, 20, 40, etc. Lue-
-0 seleccione el tipo de media que quiere —simple, ponderada, suavizada
-Exponencialmente. También puede seleccionar tantas medias como quie-
-ra —una, dos o tres.
-
-227
+El ordenador hace que todo esto sea muy fácil para usted. Primero elija el

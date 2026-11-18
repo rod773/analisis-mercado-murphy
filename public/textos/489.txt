@@ -1,63 +1,7 @@
-Indicadores técnicos avanzados 489
+en la información diaria, ya que cruzará la línea cero por encima y por debajo varias veces antes de que aparezca una señal de compra o de venta que dure más.
 
-Índice diario del café con indicador IRH.
-panam — (C 1088P) Comee-esoEo — — —
+El IRH, como el índice de la demanda, es más eficaz cuando se usa en la información semanal, porque hay menos señales falsas evidentes. El análisis de la divergencia también se puede usar para advertir al operador de un cambio en el flujo monetario, de positivo a negativo. Hay varios ejemplos buenos en los gráficos semanales de futuros de bonos del tesoro (Figura A.4) que cubren aproximadamente seis años de operaciones. El IRH fue positivo desde finales de 1992 hasta finales de 1993, alcanzó un
 
-46/00-Dally 01/23/06 C=167.690 +2.300 O=108.040 H=i67.900 L=105.020 V=8506 — —
+Figura A.3 El índice de rentabilidad de Herrick (IRH) representado en forma de histograma con precios del café. El IRH, usado en los mercados de futuros, utiliza precio, volumen e interés abierto para su cálculo. Los cruces por encima de cero son compras (B) y por debajo son ventas (S).
 
-N
-|” ! …
-
-|…l|¡'|
-
-¡IÍIW "
-
-“ I"'|"| 'III¡I',|”"III|II
-
-|"' I
-| 1 l |
-1||.I…f ha
-
-"|íl |l|ll"…|I L|)…||¡II
-
-)||¡1|… | |
-My [ T
-1“ "I'Lx.|ll¡llp uy |
-
-n|.||l|.ml I"|I|'I'|ll
-
-HH…
-
-I=
-
-— …………_………………Ww3_…_……¿r…
-'"¡f"¡…II…|||…¡¡…|¡¡…£"""-Íu'€" (ln'un-""'"|…|||¡|»M| ""[|…"'""……"|'“'I""'"'I' "o
-
-'F|¡l|||ll|…ll¡l,.|"…....,…, h…lh…l
-
-— AA — re
-
-Le]
-— 12411200 Prbiad using TredeBicilon 9 Osanga Researoh, ino. 199,
-
-Figura A.3 El índice de rentabilidad de Herrick (IRH) representado en forma
-de histograma con precios del café. El IRH, usado en los mercados de futuros,
-utiliza precio, volumen e interés abierto para su cálculo. Los cruces por encima
-de cero son compras (B) y por debajo son ventas (S).
-
-pico a principios de 1993 y cuando los bonos estaban casi 10 puntos más
-altos (línea A), formó un máximo más bajo (línea B). Esta divergencia ne-
-gativa advirtió a los operadores de bonos de la caída de los precios que
-tuvo lugar en 1994. El IRH violó la línea cero a finales de octubre de 1993,
-pero fue ligeramente positivo a principios de 1994, antes de volver a caer
-por debajo de la línea cero. El IRH alcanzó su nivel más bajo en el primer
-semestre de 1994, mucho antes que los precios. A medida que los precios
-alcanzaban mínimos más bajos (línea C), el IRH formaba mínimos más al-
-tos y, por lo tanto, una divergencia positiva (línea D). El IRH volvió a te-
-rritorio positivo en diciembre de 1994, cuando los bonos estaban muy cer-
-ca de sus mínimos. A finales de 1995 se formó una divergencia negativa
-(línea F), después de que los bonos hubieran subido 25 puntos con res-
-pecto a los mínimos de finales de 1994. La línea cero se cruzó varias veces
-en 1996 y principios de 1997, antes de que el IRH se desplazara con segu-
-
-489
+pico a principios de 1993 y cuando los bonos estaban casi 10 puntos más altos (línea A), formó un máximo más bajo (línea B). Esta divergencia negativa advirtió a los operadores de bonos de la caída de los precios que tuvo lugar en 1994. El IRH violó la línea cero a finales de octubre de 1993, pero fue ligeramente positivo a principios de 1994, antes de volver a caer por debajo de la línea cero. El IRH alcanzó su nivel más bajo en el primer semestre de 1994, mucho antes que los precios. A medida que los precios alcanzaban mínimos más bajos (línea C), el IRH formaba mínimos más altos y, por lo tanto, una divergencia positiva (línea D). El IRH volvió a territorio positivo

@@ -1,46 +1,13 @@
-330 Capítulo 12
+que usted piense que su programa no funciona.
 
 Patrones de velas filtrados
 
-Un concepto revolucionario desarrollado por Greg Morris en 1991, lla-
-mado filtro para patrones de velas, proporciona un método sencillo de mejo-
-rar la confianza global en los patrones de velas. Mientras que la tendencia
-a corto plazo del mercado debe quedar identificada antes de que pueda
-existir un patrón de velas, la determinación de mercados sobrecomprados
-y sobrevendidos usando el análisis técnico tradicional ampliará la capaci-
-dad de predicción de dicho patrón. Como consecuencia, esta técnica ayu-
-da a eliminar los patrones de velas malos o prematuros.
+Un concepto revolucionario desarrollado por Greg Morris en 1991, llamado filtro para patrones de velas, proporciona un método sencillo de mejorar la confianza global en los patrones de velas. Mientras que la tendencia a corto plazo del mercado debe quedar identificada antes de que pueda existir un patrón de velas, la determinación de mercados sobrecomprados y sobrevendidos usando el análisis técnico tradicional ampliará la capacidad de predicción de dicho patrón. Como consecuencia, esta técnica ayuda a eliminar los patrones de velas malos o prematuros.
 
-Primero hay que entender cómo responde un indicador técnico tradi-
-cional a la información sobre precios. En este ejemplo usaremos el estocás-
-tico %D. El indicador estocástico oscila entre 0 y 100, 20 es sobrevendido y
-80 es sobrecomprado. La interpretación básica de este indicador es que
-cuando %D se eleva por encima de 80 y luego cae por debajo de 80, se ha
-generado una señal de venta. Del mismo modo, cuando cae por debajo de
-20 y luego sube por encima de 20, se ha generado una señal de compra.
-(Ver el capítulo 10 para mayor información sobre indicadores estocásticos).
+Primero hay que entender cómo responde un indicador técnico tradicional a la información sobre precios. En este ejemplo usaremos el estocás- tico %D. El indicador estocástico oscila entre 0 y 100, 20 es sobrevendido y 80 es sobrecomprado. La interpretación básica de este indicador es que cuando %D se eleva por encima de 80 y luego cae por debajo de 80, se ha generado una señal de venta. Del mismo modo, cuando cae por debajo de 20 y luego sube por encima de 20, se ha generado una señal de compra. (Ver el capítulo 10 para mayor información sobre indicadores estocásticos).
 
-He aquí lo que sabemos sobre estocásticos %D: cuando entre en el área
-por encima de 80 o por debajo de 20, eventualmente generará una señal.
-En otras palabras, es sólo una cuestión de tiempo que aparezca una señal.
-La zona por encima de 80 y por debajo de 20 se llama zona pre-señal y re-
-presenta el área que %D debe alcanzar antes de que pueda crear una se-
-ñal propia. (Ver figura 12.12).
+He aquí lo que sabemos sobre estocásticos %D: cuando entre en el área por encima de 80 o por debajo de 20, eventualmente generará una señal. En otras palabras, es sólo una cuestión de tiempo que aparezca una señal. La zona por encima de 80 y por debajo de 20 se llama zona pre-señal y representa el área que %D debe alcanzar antes de que pueda crear una señal propia. (Ver figura 12.12).
 
-El concepto de patrón de velas filtrado utiliza esta área pre-señal. Los
-patrones de velas sólo se consideran cuando %D está en su área pre-señal.
-Si aparece un patrón de velas cuando el estocástico Z%D está en 65, por
-ejemplo, se ignora. También hay que decir que, usando este concepto,
-sólo se consideran los patrones de velas de cambio.
+El concepto de patrón de velas filtrado utiliza esta área pre-señal. Los patrones de velas sólo se consideran cuando %D está en su área pre-señal. Si aparece un patrón de velas cuando el estocástico %D está en 65, por ejemplo, se ignora. También hay que decir que, usando este concepto, sólo se consideran los patrones de velas de cambio.
 
-El filtro de los patrones de velas no se limita a usar %D estocásticos. Se
-puede usar cualquier oscilador técnico habitual en el análisis para filtrar
-patrones de velas. Algunos osciladores que funcionarán igual de bien son
-el IFR de Wilder, el ICM de Lambert y el %R de Williams. (Estos oscila-
-dores aparecen explicados en el capítulo 10).
-
-Conclusión
-
-Los gráficos de velas japoneses y el análisis de dichos patrones son he-
-
-330
+El filtro de los patrones de velas no se limita a usar %D estocásticos.

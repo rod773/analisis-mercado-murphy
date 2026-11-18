@@ -1,44 +1,11 @@
-212 Capítulo 8
-
-truyendo una serie temporal basada en un período constante hacia ade-
-lante. Por ejemplo, la serie determinaría un valor adentrándose tres o seis
-meses en el futuro. El período varía y el usuario lo puede elegir.
-El Contrato Perpetuoy se construye tomando la media ponderada de dos
-contratos de futuros que rodea el período escogido. El valor del Contrato
-Perpetuomg no es un precio real, sino una media ponderada de otros dos
-precios. La ventaja principal del Contrato Perpetuoyg es que elimina la
-necesidad de usar sólo el contrato más próximo a vencer y allana la serie
-de precios al eliminar las distorsiones que pueden aparecer durante la
-transición entre meses de entrega. A efectos del análisis de gráficos, los
-gráficos de continuidad del mes más cercano publicados por diferentes
-servicios gráficos son más que adecuados. Una serie continuada de pre-
-cios, sin embargo, es más útil para reexaminar sistemas de contratación e
-indicadores. En el Apéndice D, Greg Morris proporciona una explicación
-más completa sobre formas de crear contratos de futuros continuos.
+una serie temporal continua, lo que se logra construyendo una serie temporal basada en un período constante hacia adelante. Por ejemplo, la serie determinaría un valor adentrándose tres o seis meses en el futuro. El período varía y el usuario lo puede elegir. El Contrato Perpetuo MR se construye tomando la media ponderada de dos contratos de futuros que rodea el período escogido. El valor del Contrato Perpetuo MR no es un precio real, sino una media ponderada de otros dos precios. La ventaja principal del Contrato Perpetuo MR es que elimina la necesidad de usar sólo el contrato más próximo a vencer y allana la serie de precios al eliminar las distorsiones que pueden aparecer durante la transición entre meses de entrega. A efectos del análisis de gráficos, los gráficos de continuidad del mes más cercano publicados por diferentes servicios gráficos son más que adecuados. Una serie continuada de precios, sin embargo, es más útil para reexaminar sistemas de contratación e indicadores. En el Apéndice D, Greg Morris proporciona una explicación más completa sobre formas de crear contratos de futuros continuos.
 
 Las tendencias a largo plazo hacen frente a la aleatoriedad
 
-La característica más sorprendente de los gráficos de largo alcance es
-que no sólo están claramente definidas las tendencias, sino que las de lar-
-go alcance a menudo duran años. ¡Imagínese hacer un pronóstico basado
-en una de estas tendencias a largo plazo y no tener que cambiarlo duran-
-te varios años!
+La característica más sorprendente de los gráficos de largo alcance es que no sólo están claramente definidas las tendencias, sino que las de largo alcance a menudo duran años. ¡Imagínese hacer un pronóstico basado en una de estas tendencias a largo plazo y no tener que cambiarlo durante varios años!
 
-La persistencia de las tendencias a largo plazo aporta otra cuestión dig-
-na de mención, y es la cuestión de la aleatoriedad. Aunque los analistas téc-
-nicos no suscriben la teoría de que los movimientos del mercado son alea-
-torios e impredecibles, no parece arriesgado observar que la aleatoriedad
-que existe en los movimientos del precio probablemente es un fenómeno
-de muy corta duración. La persistencia de las tendencias existentes en lar-
-gos períodos, en muchos casos años, es un argumento contundente contra
-lo sostenido por los teóricos del Paseo Aleatorio, que dicen que los precios
-son serialmente independientes y que los movimientos históricos del precio
-no tienen efecto sobre los futuros movimientos del mismo.
+La persistencia de las tendencias a largo plazo aporta otra cuestión digna de mención, y es la cuestión de la aleatoriedad. Aunque los analistas técnicos no suscriben la teoría de que los movimientos del mercado son aleatorios e impredecibles, no parece arriesgado observar que la aleatoriedad que existe en los movimientos del precio probablemente es un fenómeno de muy corta duración. La persistencia de las tendencias existentes en largos períodos, en muchos casos años, es un argumento contundente contra lo sostenido por los teóricos del Paseo Aleatorio, que dicen que los precios son serialmente independientes y que los movimientos históricos del precio no tienen efecto sobre los futuros movimientos del mismo.
 
 Modelos en los gráficos: cambios semanales y mensuales
 
-Los modelos o patrones de precios también aparecen en los gráficos de
-largo alcance, y se interpretan del mismo modo que en los gráficos diarios.
-Los patrones superiores e inferiores dobles son muy prominentes en estos
-
-212
+Los modelos o patrones de precios también aparecen en los gráficos de largo alcance, y se interpretan del mismo modo que en los gráficos diarios. Los

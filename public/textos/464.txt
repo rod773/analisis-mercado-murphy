@@ -1,28 +1,9 @@
-464 Capítulo 18
+en el mercado en general. El Dr. Ale- xander Eider describe al índice nuevo máximo-nuevo mínimo como “probablemente el mejor indicador del mercado de valores” en Tradingfor a Li- ving, (Wiley).
 
-Índice compuestd de Nueva York
+Figura 18.5 Indice nuevo máximo-nuevo mínimo comparado con el índice compuesto del MVNY. Esta línea representa la diferencia entre el número de valores que alcanzan nuevos máximos y nuevos mínimos. Una línea ascendente es positiva. Obsérvese la fuerte caída en octubre de 1997.
 
-ndice de nuevos máximos-
-nuevos mínimos
-
-E83NUVvEeSSEESAS ULECTONESAJERUTHDEEAS
-
-Figura 18.5  Indice nuevo máximo-nuevo mínimo comparado con el índice com-
-puesto del MVNY. Esta línea representa la diferencia entre el número de valores
-que alcanzan nuevos máximos y nuevos mínimos. Una línea ascendente es positi-
-va. Obsérvese la fuerte caída en octubre de 1997.
-
-Elder sugiere representar el indicador como un histograma con un
-punto de referencia horizontal como línea cero, facilitando así la detec-
-ción de divergencias, y destaca que los cruces por encima y por debajo de
-la línea cero también reflejan movimientos alcistas y bajistas en la psicolo-
-gía del mercado.
+Eider sugiere representar el indicador como un histograma con un punto de referencia horizontal como línea cero, facilitando así la detección de divergencias, y destaca que los cruces por encima y por debajo de la línea cero también reflejan movimientos alcistas y bajistas en la psicología del mercado.
 
 Volumen al alza vs volumen a la baja
-Éste es el tercer y último dato que se usa para medir la amplitud del
-mercado. El MVNY también proporciona el nivel de volumen de los valo-
 
-res que avanzan y de los que retroceden, información que aparece al día
-siguiente en la prensa financiera. Es posible entonces comparar el volu-
-
-464
+Este es el tercer y último dato que se usa para medir la amplitud del mercado. El MVNY también proporciona el nivel de volumen de los valores que avanzan y de los que retroceden, información que aparece al día siguiente en

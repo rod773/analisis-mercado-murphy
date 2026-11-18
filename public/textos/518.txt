@@ -1,68 +1,59 @@
-(-n-t¡vn-'n¡o.vt.-'nvn.nn-c'wvmt.aag..ancn¡n.smt¡-'.tn¡¡.*0tatto&-*.g¡—-*.¡e¡oe'anga.e.
+debemos decidir cuánta información utilizar al construir nuestro sistema. Yo uso la totalidad de las series de datos, sin guardar nada para hacer la prueba fuera de la muestra (se trata de crear el sistema
 
-/ffileName: JJMBook.Four%Model
-/MWritten by Fred G. Schutzman, CMT
+I************************w***w*************«**********************************«*******
+
+//file Name: JJM Book. Four%Model
+
+//Written by Fred G. Schutzman, CMT
+
 //Logic by Ned Davis
-//see Zweig book: Martin Zweig's Winning with New IRAs, pages 117-128
-//Model was designed to be applied to a weekly chart of the Value Line Composite Index (VLCI)
-//Program uses the weekly (usually Friday) close of the VLCI to initiate trades
-//ouy if the weekly close of the VLCI rises 4% or more from its lowest close (since the last sell
-signal)
-//sell if the weekly close of the VLCI falls 4% or more from its highest close (since the last buy
-signal)
-//Date last changed: February 8, 1998
-res201**System Properties"""""""*
+
+//see Zweig book: Martin Zweig’s Winning with New IR As, pages 117-128
+
+//Modal was designed to be applied to a weekly chart of the Valué Line Composite Index (VLCI)
+
+//Program uses the weekly (usually Friday) cióse of the VLCI to initiate trades
+
+//buy if the weekly cióse of the VLCI rises 4% or more from its lowest cióse (since the last sell signal)
+
+//sell if the weekly cióse of the VLCI falls 4% or more from its highest cióse (since the last buy signal)
+
+//Date last changed: February 8,1998
+
+********System Properties********
+
 Properties tab:
-Pyramid Settings = Do not allow multiple entries in same direction
-Entry Settings = default values
+
+Entry Settings = default valúes
+
 Max number of bars system will reference = 1
 
-nn“."..nn-nnn-nnnn-nnnunn-n-nn.g..ng.nn.nnnnn.n.nnn-n)
+*************************************************************************************1
 
-Inputs: perOffLo(4.00), ( percent off lowest close )
-- perOffHi(4.00); 7 percent off highest close )
-Variables: LC(O), ( lowest close)
-HC(0), ( highest close )
-trend(0); ( 0 = notrades yet, +1 = up, -1 down )
-( initialize variables )
-If currentBar = 1 then begin
-LC = close;
-HC = close;
-trend = 0;
-end;
+Inputs: per Off Lo(4.00),per Off Hi(4.00); Variables: LC(O),HC(0), trend(O);{initialize variables}If current Bar = 1 then begin LC = cióse;HC = cióse;trend = 0; end; end;{ percent off lowest cióse }{ percent off highest cióse }{lowest cióse}{highest cióse}{0 = no trades yet, +1 = up, -1 down }{ }
 
-( update trend variable and place trading orders )
+{ update trend variable and place trading orders } if trend = 0 then begin if ((close-LC) / LC) > = (per Off Lo /100) then trend = +1;
 
-if trend = O then begin
-if ((close-LC) / LC) > = (perOffLo / 100) then trend = +1;
-if ((HC-close) / HC) > = (perOffHi / 100) then trend = —1;
+if ((HC-close) / HC) > = (per Off Hi /100) then trend = -1; end else if trend = +1 and ((HC-close) / HC) > = (per Off Hi /100) then begin sell on cióse;
 
-end
+trend = -1;
 
-else if trend = +1 and ((HC-close) / HC) > = (perOffHi / 100) then begin
-sell on close;
-trend = —1;
-LC = close;
+LC = cióse;
 
-end
+end else if trend = -1 and ((close-LC) / LC) > = (per Off Lo /100) then begin buy on cióse;
 
-else if trend = -1 and ((close-LC) / LC) > = (perOffLo / 100) then begin
-buy on close;
 trend = +1;
-HC = close;
+
+HC = cióse;
 
 end;
 
-( update LC 8 HC variables )
-If close < LC then LC = close;
-If close > HC then HC = close;
+{ update LC & HC variables }
 
-( End of Code )
+If cióse < LC then LC = cióse;
 
-Figura C.1 (Código EasyLanguage): Este código EasyLanguage fue escrito
-usando el Power EditorTM de TradeStation. Se parece a un lenguaje de pro-
-gramación completamente desarrollado, y tiene su misma fuerza. Ver Figuras
-C.2 y C.3 sobre los resultados de este sistema de seguimiento de tendencia
-descrito por Martin Zweig.
+If cióse > HC then HC = cióse;
 
-518
+{ End of Code }
+
+Figura C.1 (Código Easy Language): Este código Easy Language fue escrito usando el Power Editor TM de Trade Station. Se parece a un lenguaje de programación completamente desarrollado, y tiene su misma fuerza. Ver Figuras C.2 y C.3 sobre

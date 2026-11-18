@@ -1,44 +1,9 @@
-248 Capítulo 9
+y prácticamente con todos los indicadores técnicos incluidos en este libro. La optimización permite que los parámetros técnicos se adapten a las cambiantes condiciones del mercado.
 
-Hay quien dice que la optimización ayuda a mejorar los resultados de
-sus operaciones y quien dice lo contrario. El meollo de la cuestión está
-en cómo se optimiza la información. Los investigadores resaltan que el
-procedimiento correcto es usar sólo parte de la información sobre pre-
-cios para elegir los mejores parámetros, y otra parte para examinar los re-
-sultados. La prueba de los parámetros optimizados usando información
-sobre precios “fuera de muestra” ayuda a asegurar que los resultados fi-
-nales se acercarán más a lo que se podría experimentar con las opera-
-ciones reales.
+Hay quien dice que la optimización ayuda a mejorar los resultados de sus operaciones y quien dice lo contrario. El meollo de la cuestión está en cómo se optimiza la información. Los investigadores resaltan que el procedimiento correcto es usar sólo parte de la información sobre precios para elegir los mejores parámetros, y otra parte para examinar los resultados. La prueba de los parámetros optimizados usando información sobre precios “fuera de muestra” ayuda a asegurar que los resultados finales se acercarán más a lo que se podría experimentar con las operaciones reales.
 
-La decisión de optimizar o no es personal. La mayor parte de la evi-
-dencia sugiere, sin embargo, que la optimización no es el Santo Grial que
-algunos creen que es. Yo generalmente aconsejo a los operadores que si-
-guen sólo un puñado de mercados que experimenten con la optimiza-
-ción. ¿Qué razón hay para que los bonos del tesoro o el marco alemán ten-
-gan exactamente las mismas medias móviles que el maíz o el algodón? Los
-operadores del mercado de valores son otra historia, porque tener que se-
-guir miles de valores es un buen argumento en contra de la optimización.
-Si usted se especializa en un puñado de mercados, pruebe a utilizar la op-
-timización. Si usted es un generalista que sigue un gran número de mer-
-cados, use los mismos parámetros técnicos para todos ellos.
+La decisión de optimizar o no es personal. La mayor parte de la evidencia sugiere, sin embargo, que la optimización no es el Santo Grial que algunos creen que es. Yo generalmente aconsejo a los operadores que siguen sólo un puñado de mercados que experimenten con la optimización. ¿Qué razón hay para que los bonos del tesoro o el marco alemán tengan exactamente las mismas medias móviles que el maíz o el algodón? Los operadores del mercado de valores son otra historia, porque tener que seguir miles de valores es un buen argumento en contra de la optimización. Si usted se especializa en un puñado de mercados, pruebe a utilizar la optimización. Si usted es un generalista que sigue un gran número de mercados, use los mismos parámetros técnicos para todos ellos.
 
 Resumen
 
-Hemos presentado muchas variaciones del enfoque de las medias mó-
-viles, pero tratemos de simplificar un poco las cosas. Casi todos los técni-
-cos usan una combinación de dos medias móviles, que normalmente son
-promedios simples. Aunque las medias exponenciales se han hecho po-
-pulares, no hay evidencia real que demuestre que funcionan mejor que
-la media simple. Las combinaciones de medias móviles diarias usadas más
-corrientemente en los mercados de futuros son 4 y 9, 9 y 18, 5 y 20 y 10
-y 40. Los operadores de valores se apoyan mucho en una media móvil de
-50 días (0 10 semanas). Para un análisis del mercado de valores a más lar-
-go plazo, las medias móviles corrientes son 30 y 40 semanas (o 200 días).
-Las Bandas de Bollinger utilizan medias móviles de 20 días y 20 semanas.
-La media de 20 semanas se puede convertir en gráficos diarios utilizando
-una media de 100 días, que es otra media móvil de utilidad. Los sistemas
-de ruptura de canales funcionan extremadamente bien en los mercados
-con tendencias y se pueden usar en gráficos diarios, semanales y men-
-suales.
-
-248
+Hemos presentado muchas variaciones del enfoque de las medias móviles, pero tratemos de simplificar un poco las cosas. Casi todos los técnicos usan una combinación de dos medias móviles, que normalmente son promedios simples. Aunque las medias exponenciales se han hecho populares, no hay evidencia real que demuestre que funcionan mejor que la media simple. Las combinaciones de medias móviles diarias usadas más corrientemente en los mercados de futuros son 4y9, 9yl8, 5y20yl0 y 40. Los operadores de valores se apoyan mucho en una media móvil de 50 días (o 10 semanas). Para un análisis del mercado de valores a más largo plazo, las medias móviles corrientes son 80 y 40 semanas (o 200 días). Las Bandas de Bollinger utilizan medias móviles de 20 días y 20 semanas. La media de 20 semanas se puede convertir en gráficos diarios utilizando una media de 100 días, que es otra media móvil de utilidad. Los sistemas de ruptura de canales funcionan extremadamente bien en los mercados con tendencias y se pueden usar en gráficos diarios,

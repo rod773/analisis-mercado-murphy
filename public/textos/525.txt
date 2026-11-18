@@ -1,30 +1,11 @@
-Apéndice D: Contratos
-de futuros continuos (*)
+máxima intradía son todos excelentes.
 
-Con una base de datos limpia de información “bruta” sobre bienes, hay
-numerosos tipos de contratos que se pueden derivar, tales como el contra-
-to más cercano, el contrato siguiente, el contrato Gann y el contrato con-
-tinuo. A continuación hay algunas ideas para crear estos derivados de con-
-tratos de futuros. Los símbolos usados sólo tienen propósito ilustrativo.
-Estos contratos continuos se pueden crear a través de Dial Data Service
-(56 Pine Street, Nueva York, NY 10005, [212] 422-1600).
+Apéndice D: Contratos de futuros continuos ()
+
+Con una base de datos limpia de información “bruta” sobre bienes, hay numerosos tipos de contratos que se pueden derivar, tales como el contrato más cercano, el contrato siguiente, el contrato Gann y el contrato continuo. A continuación hay algunas ideas para crear estos derivados de contratos de futuros. Los símbolos usados sólo tienen propósito ilustrativo. Estos contratos continuos se pueden crear a través de Dial Data Service (56 Pine Street, Nueva York, NY 10005, [212] 422-1600).
 
 El contrato más cercano
 
-Este tipo de contrato lo usan principalmente los operadores que sólo
-quieren un gran archivo de datos continuos con los precios reales de tran-
-sacción. Se conforman con los datos que llegan al vencimiento y automá-
-ticamente difieren el pago.
+Este tipo de contrato lo usan principalmente los operadores que sólo quieren un gran archivo de datos continuos con los precios reales de transacción. Se conforman con los datos que llegan al vencimiento y automáticamente difieren el pago.
 
-Es bastante probable que nadie opere con el contrato más cercano en
-el plazo que va de los 15 a los 30 días previos al vencimiento, debido a que
-la liquidez se agota muy rápidamente en los últimos días de un contrato.
-El número de días antes del vencimiento que un individuo difiere al pró-
-ximo contrato es una función del bien objeto de la operación (el número
-de meses que faltan hasta el próximo contrato) y del sistema de contrata-
-ción del individuo. Es bastante probable que el mismo individuo renueve
-en diferentes momentos en el caso de bienes distintos.
-
-* Este apéndice fue preparado por Greg Morris.
-
-525
+Es bastante probable que nadie opere con el contrato más cercano en el plazo que va de los 15 a los 30 días previos al vencimiento, debido a que la liquidez se agota muy rápidamente en los últimos días de un contrato. El número de días antes del vencimiento que un individuo difiere al próximo contrato es una función del bien objeto de la operación (el número de meses que faltan hasta el próximo contrato) y del sistema de contratación del individuo. Es bastante probable que el mismo individuo renueve en diferentes momentos en

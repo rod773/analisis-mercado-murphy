@@ -1,36 +1,7 @@
-228 Capítulo 9
+número de días que quiere en la media móvil —10, 20, 40, etc. Luego seleccione el tipo de media que quiere —simple, ponderada, suavizada exponencialmente. También puede seleccionar tantas medias como quiera —una, dos o tres.
 
-11/14/97 (*SPX) SaP 500 Stock Index
+sible que la media móvil simple aritmética de 40 días (línea continua).sible que la media móvil simple aritmética de 40 días (línea continua). El uso de una El uso de unaediaediaovilovil
 
-GRÁFICO DE BARRAS DIARIO
-MEDIAS SIMPLE VERSUS EXPONENCIAL
+La media móvil simple es la usada más corrientemente por los técnicos, y es en la que nos concentraremos. Algunos operadores utilizan sólo una media móvil para generar señales de tendencia. La media móvil se representa en el gráfico de barras en el día de contratación pertinente, junto con el movimiento de los precios de ese día. Cuando el precio de cierre sobrepasa la media móvil, se genera una señal de compra. Para mayor confirmación, a algunos técnicos también les gusta ver la línea de la media móvil moviéndose en la dirección del cruce del precio. (Ver figura 9.3).
 
-Media móvil .
-de 40 días N
-
-lt…|l
-
-de 40 días
-
-Figura 9.2 La media móvil exponencial de 40 días (línea punteada) es más sen-
-sible que la media móvil simple aritmética de 40 días (línea continua).
-
-El uso de una media móvil
-
-La media móvil simple es la usada más corrientemente por los técni-
-cos, y es en la que nos concentraremos. Algunos operadores utilizan sólo
-una media móvil para generar señales de tendencia. La media móvil se
-representa en el gráfico de barras en el día de contratación pertinente,
-junto con el movimiento de los precios de ese día. Cuando el precio de
-cierre sobrepasa la media móvil, se genera una señal de compra. Para ma-
-yor confirmación, a algunos técnicos también les gusta ver la línea de la
-media móvil moviéndose en la dirección del cruce del precio. (Ver figu-
-ra 9.3).
-
-Si se utiliza una media a muy corto plazo (de 5 o 10 días), la media si-
-gue a los precios muy de cerca y suceden muchos cruces. Esta acción pue-
-de ser buena o mala. El uso de una media muy sensible produce más ope-
-raciones (con costes de comisión más altos) y da como resultado muchas
-señales falsas (whipsaus). Si la media es demasiado sensible, una parte del
-
-228
+Si se utiliza una media

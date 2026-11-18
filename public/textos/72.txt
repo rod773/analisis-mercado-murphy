@@ -1,42 +1,19 @@
-72 Capítulo 3
+En el gráfico semanal, una barra representa la actividad de la cotización para toda la semana. En el gráfico mensual, cada barra muestra las ac-
 
-Wm_2____y¿_ (UDX)US Dollar Index __ — — 02/27/86]
-¡ GRÁFICO DE BARRAS MENSUAL 1“ºº
-N
-Í ¡h¡!lil¡ll[ ll e
+06/05/92 (*UDX) US Dollar Index 02/27/98
 
-||Illlc|l Lºº !
-h L "
-]"u|'… ¡hl ll|) ll llh , … " l¡mq
-I||llll ] ; a m L D p
+I
 
-E lu|' aA
+. „_93 94 95 96 97 98
 
-80
-[ e s be 7 ss d 60 l e 6 M _ e e m T
-— 3/02 1.16pm Primed using TradeStation O Omega Ressarch, inc. 1997
+SJO2 1 16pm Prrted uwg Trade Stabon C Omega Rwewch. Inc 1997
 
-[1, [; 100
-ff¡lt' l"l| 1
+Figura 3.9 Gráfico de barras semanal para el índice de dólares norteamericanos. Cada barra representa los datos sobre cotizaciones de una semana. Mediante la compresión de la información sobre los precios, el gráfico semanal permite un análisis de los gráficos de tendencias de mayor alcance, normalmente alrededor de los cinco años.
 
-Figura 3.10  Gráfico de barras mensual para el índice de dólares norteamerica-
-nos. Cada barra representa los datos sobre cotizaciones de un mes. Mediante una
-compresión aún mayor de la información, el gráfico mensual permite un análisis
-de gráficos de períodos que pueden llegar a los veinte años.
+Figura 3.10 Gráfico de barras mensual para el índice de dólares norteamericanos. Cada barra representa los datos sobre cotizaciones de un mes. Mediante una compresión aún mayor de la información, el gráfico mensual permite un análisis de gráficos de períodos que pueden llegar a los veinte años.
 
-ciones de los precios de todo el mes. Resulta obvio que los gráficos sema-
-nales y mensuales comprimen la información para permitir el análisis de
-tendencias de mucho mayor alcance. Un gráfico semanal puede llegar a
-cubrir hasta cinco años atrás, y uno mensual hasta 20 años. Es una técnica
-sencilla que ayuda al chartista a estudiar los mercados con una perspecti-
-va de mayor alcance, una perspectiva valiosa que a menudo se pierde
-cuando el análisis se basa exclusivamente en los gráficos diarios.
+ciones de los precios de todo el mes. Resulta obvio que los gráficos semanales y mensuales comprimen la información para permitir el análisis de tendencias de mucho mayor alcance. Un gráfico semanal puede llegar a cubrir hasta cinco años atrás, y uno mensual hasta 20 años. Es una técnica sencilla que ayuda al charlista a estudiar los mercados con una perspectiva de mayor alcance, una perspectiva valiosa que a menudo se pierde cuando el análisis se basa exclusivamente en los gráficos diarios.
 
 Conclusión
 
-Ahora que sabemos cómo representar un gráfico de barras, y una vez
-presentadas las tres fuentes básicas de información —precio, volumen e
-interés abierto— estamos preparados para ver cómo se interpreta esa in-
-formación. Recordemos que el gráfico sólo registra los datos, pero en sí
-
-72
+Ahora que sabemos cómo representar un gráfico de barras, y una vez presentadas las tres fuentes básicas de información —precio, volumen e interés abierto— estamos preparados para ver cómo se interpreta esa información. Recordemos que el gráfico sólo registra los

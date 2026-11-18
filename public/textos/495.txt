@@ -1,25 +1,21 @@
-Indicadores técnicos avanzados 495
+ID es PC/PV. Hay algunas pequeñas variaciones a la fórmula; he aquí una versión:
+
+Si los precios suben:
 
 PC = V o Volumen
+
 PV = V/P, en el que P es el porcentaje de cambio en el precio
 
 Si los precios bajan:
 
-PC = V/P, en el que P es el porcentaje de cambio en el precio
-PV = V o Volumen
+PC = V/P, en el que P es el porcentaje de cambio en el precio PV = V o Volumen
 
-Como P es un decimal (menos que 1), se modifica multiplicándolo por la
-constante K.
+Como P es un decimal (menos que 1), se modifica multiplicándolo por la constante K.
 
 P = P(K)
-K = (3 x C)/VM
 
-en la que Cs el precio de cierre y VM (volatilidad media) es la media de
-10 días de una banda de precios de dos días (máximo más alto - mínimo
-más bajo)
+K = (3x C)/VM en la que C es el precio de cierre y VM (volatilidad media) es la media de 10 días de una banda de precios de dos días (máximo más alto - mínimo más bajo)
 
-Si PC > PY, entonces ID = PV/PC
+Si PC > PV, entonces ID = PV/PC
 
-El índice de demanda está incluido en el menú de gráficos MetaStock.
-
-495
+El índice de demanda está incluido en el menú de gráficos Meta Stock.

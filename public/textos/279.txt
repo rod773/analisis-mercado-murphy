@@ -1,42 +1,9 @@
-Osciladores y opinión contraria 279
+de operaciones en este gráfico del índice compuesto Nasdaq.
 
-ce de la media móvil doble, pero los valores de la CDMM también fluctú-
-an por encima y por debajo de una línea cero, y en eso comienza a pare-
-cerse a un oscilador. Existe una posición sobrecomprada cuando las líneas
-están muy por encima de la línea cero, y cuando están muy por debajo de
-la línea cero, existe una posición sobrevendida. Las mejores señales apa-
-recen cuando los precios están bien por debajo de la línea cero (sobre-
-vendidos). Los cruces por encima y por debajo de la línea cero son otra
-forma de generar señales de compra y venta, respectivamente, algo similar
-a la técnica del momento que hemos visto previamente.
+ce de la media móvil doble, pero los valores de la CDMM también fluctúan por encima y por debajo de una línea cero, y en eso comienza a parecerse a un oscilador. Existe una posición sobrecomprada cuando las líneas están muy por encima de la línea cero, y cuando están muy por debajo de la línea cero, existe una posición sobrevendida. Las mejores señales aparecen cuando los precios están bien por debajo de la línea cero (sobrevendidos) . Los cruces por encima y por debajo de la línea cero son otra forma de generar señales de compra y venta, respectivamente, algo similar a la técnica del momento que hemos visto previamente.
 
-Las divergencias aparecen entre la tendencia de las líneas CDMM y la
-línea del precio. Existe una divergencia negativa, o bajista, cuando las lí-
-neas CDMM están muy por encima de la línea cero (sobrecompradas) y
-comienzan a debilitarse mientras los precios continúan la tendencia al
-alza. Con frecuencia, se trata de una advertencia de un momento máximo
-del mercado. Existe una divergencia positiva, o alcista, cuando las líneas
-CDMM están muy por debajo de la línea cero (sobrevendidas) y comien-
-zan a subir por delante de la línea del precio. Con frecuencia, esto es una
-advertencia anticipada de un mínimo del mercado. En las líneas CDMM se
-pueden trazar líneas de tendencia sencillas que ayuden a identificar cam-
-bios importantes de tendencia. (Ver figura 10.19b).
+Las divergencias aparecen entre la tendencia de las líneas CDMM y la línea del precio. Existe una divergencia negativa, o bajista, cuando las líneas CDMM están muy por encima de la línea cero (sobrecompradas) y comienzan a debilitarse mientras los precios continúan la tendencia al alza. Con frecuencia, se trata de una advertencia de un momento máximo del mercado. Existe una divergencia positiva, o alcista, cuando las líneas CDMM están muy por debajo de la línea cero (sobrevendidas) y comienzan a subir por delante de la línea del precio. Con frecuencia, esto es una advertencia anticipada de un mínimo del mercado. En las líneas CDMM se pueden trazar líneas de tendencia sencillas que ayuden a identificar cambios importantes de tendencia. (Ver figura 10.19b).
 
 Histograma CDMM
 
-En este mismo capítulo ya hemos mostrado cómo se podía construir un
-histograma que represente la diferencia entre dos líneas de medias móviles.
-Usando la misma técnica, las dos líneas CDMM se pueden transformar en un
-histograma. El histograma consiste de barras verticales que muestran la dife-
-rencia entre las dos líneas CDMM. El histograma tiene una línea cero propia.
-Cuando las líneas CDMM están en una alineación positiva (la línea más rápi-
-da por encima de la más lenta), el histograma está por encima de la línea
-cero. Los cruces del histograma por encima y debajo de su línea cero coinci-
-den con las señales de compra y venta que provienen del cruce de la CDMM.
-
-El verdadero valor del histograma es detectar cuándo se estrecha o se
-amplía la diferencia entre las dos líneas. Cuando el histograma está por en-
-cima de su línea cero (positivo) pero comienza a caer hacia la línea cero, la
-tendencia alcista se está dehilitanda. Par el cantrario. cuando el histograma
-
-279
+En este mismo capítulo ya hemos mostrado cómo se podía construir un histograma que represente la diferencia entre dos líneas de medias móviles. Usando la misma técnica, las dos líneas CDMM

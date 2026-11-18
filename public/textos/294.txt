@@ -1,41 +1,7 @@
-294 Capítulo 11
+subida, desde 920 hasta 1060, produjo 6 señales de compra diferentes. Debajo de la columna más alta de o se pueden colocar límites de venta protectores (ver S1-S5).
 
-La figura 11.4 reduce el tamaño del registro de 5a 3, lo cual incre-
-menta la sensibilidad del gráfico. ¿Qué motivo hay para hacer tal cosa?
-Pues que es mejor para las operaciones a más corto plazo. Compare la úl-
-tima subida de 920 a 1060 en los tres gráficos. El gráfico 10x3 (figura
-11.3) muestra la última columna como una serie de x sin ninguna co-
-lumna de o. El gráfico 5x3 (figura 11.2) muestra la última subida en 5 co-
-lumnas, 3 columnas de x y 2 columnas de o. El gráfico 3x3 (figura 11.4)
-separa la última subida en 11 columnas, 6 columnas de x y 5 columnas
-de o. Al incrementar el número de correcciones durante la tendencia al-
-cista (mediante el aumento del número de columnas), aparecen repeti-
-das señales de compra, bien para entrar en el mercado más adelante o
-para añadir a posiciones ganadoras. También le permite al operador apli-
-car protectores límites de ventas por debajo de las últimas columnas de
-0. Lo esencial es que se puede alterar la apariencia del gráfico de puntos
-y figuras de modo que su sensibilidad se adecue a las propias necesidades
-que usted tenga.
+La figura 11.4 reduce el tamaño del registro de 5 a 3, lo cual incrementa la sensibilidad del gráfico. ¿Qué motivo hay para hacer tal cosa? Pues que es mejor para las operaciones a más corto plazo. Compare la última subida de 920 a 1060 en los tres gráficos. El gráfico 10x3 (figura 11.3) muestra la última columna como una serie de x sin ninguna columna de o. El gráfico 5x3 (figura 11.2) muestra la última subida en 5 columnas, 3 columnas de x y 2 columnas de o. El gráfico 3x3 (figura 11.4) separa la última subida en 11 columnas, 6 columnas de x y 5 columnas de o. Al incrementar el número de correcciones durante la tendencia alcista (mediante el aumento del número de columnas), aparecen repetidas señales de compra, bien para entrar en el mercado más adelante o para añadir a posiciones ganadoras. También le permite al operador aplicar protectores límites de ventas por debajo de las últimas columnas de o. Lo esencial es que se puede alterar la apariencia del gráfico de puntos y figuras de modo que su sensibilidad se adecúe a las propias necesidades que usted tenga.
 
 Construcción del gráfico de puntos y figuras intradía
 
-Ya hemos indicado que el gráfico intradía fue el tipo de gráfico original
-que usaron los chartistas de puntos y figuras. La técnica se utilizó al prin-
-cipio para seguir los movimientos del mercado de valores, y la intención
-era capturar y registrar en papel cada movimiento de un punto de los va-
-lores en consideración. Se creía que la acumulación (compra) y la distri-
-bución (venta) se podían detectar mejor de esta manera. Sólo se usaban
-números enteros, cada registro recibía el valor de un punto y se registraba
-cada movimiento de un punto en cualquier dirección. Las fracciones se ig-
-noraban. Cuando la técnica se adoptó más adelante para los mercados de
-productos, se tuvo que ajustar el valor del registro para adecuarlo a cada
-mercado individual. Construyamos un gráfico intradía usando informa-
-ción de precios reales.
-
-Los números siguientes describen 9 días reales de operaciones en un
-contrato de futuros de francos suizos. El tamaño del registro es de 5 pun-
-tos, o sea que se registra cualquier oscilación de 5 puntos en cualquier di-
-rección. Comenzaremos con un gráfico de inversión o cambio de 1 regis-
-tro.
-
-294
+Ya hemos indicado que el gráfico intradía fue el tipo de gráfico original que usaron los charlistas de puntos y figuras. La técnica se utilizó al principio para seguir los movimientos del mercado de valores, y la intención era capturar y registrar en papel cada movimiento de un punto de los valores en consideración. Se creía que la acumulación (compra) y la distribución

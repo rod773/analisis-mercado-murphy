@@ -1,44 +1,11 @@
-78 Capítulo 4
+sufren sus mayores pérdidas. Un sistema que sigue tendencias necesita, por su propia definición, una tendencia que le permita hacer su trabajo. El fallo aquí no está en el sistema, sino en el operador que trata de aplicar un sistema pensado para mercados con tendencias a un mercado que no las tiene.
 
-didas. Un sistema que sigue tendencias necesita, por su propia definición,
-una tendencia que le permita hacer su trabajo. El fallo aquí no está en el
-sistema, sino en el operador que trata de aplicar un sistema pensado para
-mercados con tendencias a un mercado que no las tiene.
-
-El operador hace frente a tres decisiones: comprar un mercado (tomar
-una posición larga), vender un mercado (tomar una posición corta) o no
-hacer nada (apartarse). Cuando el mercado está subiendo, es preferible la
-estrategia de compra. Cuando está bajando, el segundo enfoque sería el
-correcto, pero cuando el mercado se mueve lateralmente, la tercera op-
-ción —mantenerse fuera del mercado— es generalmente la más sensata.
+El operador hace frente a tres decisiones: comprar un mercado (tomar una posición larga), vender un mercado (tomar una posición corta) o no hacer nada (apartarse). Cuando el mercado está subiendo, es preferible la estrategia de compra. Cuando está bajando, el segundo enfoque sería el correcto, pero cuando el mercado se mueve lateralmente, la tercera opción —mantenerse fuera del mercado— es generalmente la más sensata.
 
 La tendencia tiene tres calificaciones
 
-Además de tener tres direcciones, la tendencia se desglosa en las tres
-categorías mencionadas en el capítulo anterior. Dichas categorías son la
-tendencia principal, la intermedia y la de corta duración. En realidad, hay
-un número casi infinito de tendencias que interactúan desde las tenden-
-cias de muy corta duración que cubren minutos y horas hasta las tenden-
-cias larguísimas que pueden durar 50 o 100 años. De todos modos, casi to-
-dos los técnicos limitan a tres las clasificaciones de la tendencia, aunque
-existe una cierta ambigúedad con respecto a la definición de cada ten-
-dencia que hacen los distintos analistas.
+Además de tener tres direcciones, la tendencia se desglosa en las tres categorías mencionadas en el capítulo anterior. Dichas categorías son la tendencia principal, la intermedia y la de corta duración. En realidad, hay un número casi infinito de tendencias que interactúan desde las tendencias de muy corta duración que cubren minutos y horas hasta las tendencias larguísimas que pueden durar 50 o 100 años. De todos modos, casi todos los técnicos limitan a tres las clasificaciones de la tendencia, aunque existe una cierta ambigüedad con respecto a la definición de cada tendencia que hacen los distintos analistas.
 
-La Teoría de Dow, por ejemplo, clasifica la tendencia principal dicien-
-do que está en vigor más de un año. Debido a que los operadores de futu-
-ros trabajan con una dimensión de tiempo más corta que los inversores
-bursátiles, me siento inclinado a acortar la tendencia principal a cualquier
-período mayor de seis meses en los mercados de productos. Dow definía
-la tendencia intermedia, o también llamada secundaria, limitándola entre
-tres semanas y tantos meses, algo que también es correcto para los merca-
-dos de futuros. La tendencia de corta duración generalmente se define
-como un período menor de dos o tres semanas.
+La Teoría de Dow, por ejemplo, clasifica la tendencia principal diciendo que está en vigor más de un año. Debido a que los operadores de futuros trabajan con una dimensión de tiempo más corta que los inversores bursátiles, me siento inclinado a acortar la tendencia principal a cualquier período mayor de seis meses en los mercados de productos. Dow definía la tendencia intermedia, o también llamada secundaria, limitándola entre tres semanas y tantos meses, algo que también es correcto para los mercados de futuros. La tendencia de corta duración generalmente se define como un período menor de dos o tres semanas.
 
-Cada tendencia se transforma en una porción de su próxima tendencia
-más larga. Por ejemplo, la tendencia intermedia sería una corrección de la
-tendencia principal. En una tendencia ascendente de larga duración, el
-mercado se detiene para autocorregirse durante un par de meses antes de
-continuar su camino hacia arriba. Dicha corrección secundaria consistiría
-en ondas más cortas que se identificarían como pequeñas caídas y recupe-
-
-78
+Cada tendencia se transforma en una porción de su próxima tendencia más larga. Por ejemplo, la tendencia intermedia sería una corrección de la tendencia principal. En una tendencia ascendente de larga duración, el mercado se detiene

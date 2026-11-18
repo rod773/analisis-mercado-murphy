@@ -1,37 +1,7 @@
-Osciladores y opinión contraria 257
+cero se deben tomar posiciones cortas sólo si la tendencia del precio es bajista. (Ver figuras 10.2a y b).
 
-rb3/11/96 — (TR1600) Treasury Bonds 1600 - 03/06/98
+Necesidad de un límite superior y uno inferior
 
-Tendencia bajista
+Un problema con la línea del momento, tal cual queda descrita aquí, es la ausencia de un límite superior y otro inferior que sean fijos. Dijimos anteriormente que uno de los valores principales del análisis del oscilador es que las del gráfico de precios. El valor del indicador del momento es que cambia antes que el mercado en sí, por lo que resulta un indicador de gran importancia.
 
-112116
-Tendencia alcista — -10
-109412 |
--107"268
-
-Momento de 40 días
-
-TY Tm "r T T RDl T T
-— , = 305 TO:Sam Prinied veig TradeSiaion O Omega Research, Ie 1907
-
-Figura 10.2a Las líneas de tendencia en el gráfico de momento se quiebran antes
-que las del gráfico de precios. El valor del indicador del momento es que cambia
-antes que el mercado en sí, por lo que resulta un indicador de gran importancia.
-
-su capacidad de determinar cuándo los mercados están en áreas extremas,
-pero ¿qué se considera demasiado alto o demasiado bajo en la línea del
-momento? La forma más sencilla de solucionar este problema es con la
-inspección visual. Compruebe la historia anterior de la línea del momen-
-to en el gráfico y trace líneas horizontales a lo largo de sus límites superior
-e inferior. Estas líneas se tendrán que ajustar periódicamente, en especial
-después de que hayan sucedido cambios, pero es la forma más sencilla y
-probablemente la más efectiva de identificar los límites extremos. (Ver fi-
-guras 10.3 y 10.4).
-
-La tasa de cambio como medida
-
-Para medir la tasa de cambio se construye un coeficiente con el precio
-de cierre más reciente y el precio de hace un cierto número de días en el
-pasado. Para construir un oscilador de la tasa de cambio de 10 días, se di-
-
-257
+su capacidad de determinar cuándo los mercados están en áreas extremas, pero ¿qué se considera demasiado alto o demasiado bajo en la línea del momento? La forma más sencilla de solucionar este problema es con la inspección visual. Compruebe la historia anterior de la línea del momento en el gráfico y trace líneas horizontales a lo largo de sus límites superior e inferior. Estas líneas se tendrán que ajustar periódicamente, en especial después de

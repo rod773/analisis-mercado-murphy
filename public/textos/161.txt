@@ -1,41 +1,5 @@
-Modelos de continuidad 161
+patrón, y es el punto donde ambas líneas se encuentran, en el vértice. Como regla general, los precios deberían tomar la dirección de la tendencia anterior aproximadamente entre los dos tercios y los tres cuartos del ancho horizontal del triángulo, o sea, la distancia desde la base vertical a la izquierda del patrón hasta el vértice en el extremo derecho. Dado que las dos líneas deben encontrarse en un punto, esa distancia temporal se puede medir una vez que se trazan las dos líneas convergentes. Una salida por el lado superior se indica mediante una penetración de la línea de tendencia superior. Si los precios permanecen dentro del triángulo más allá del punto de los tres cuartos, el triángulo comienza a perder su potencia y generalmente esto indica que los precios seguirán desplazándose hacia el vértice y más allá de él.
 
-se trazan las dos líneas convergentes. Una salida por el lado superior se in-
-dica mediante una penetración de la línea de tendencia superior. Si los
-precios permanecen dentro del triángulo más allá del punto de los tres
-cuartos, el triángulo comienza a perder su potencia y generalmente esto in-
-dica que los precios seguirán desplazándose hacia el vértice y más allá de él.
+El triángulo, entonces, proporciona una interesante combinación de precio y tiempo. Las líneas de tendencia convergentes marcan los límites del precio del patrón, e indican en qué punto el patrón ha quedado completo y la tendencia ha retomado su dirección mediante la penetración de la línea de tendencia superior (en el caso de una tendencia al alza). Pero estas líneas de tendencia también proporcionan un objetivo de tiempo midiendo el ancho del patrón. Si el ancho, por ejemplo, fuera de 20 semanas, entonces la salida tendría lugar entre la decimotercera y decimoquinta semana. (Ver figura 6.
 
-El triángulo, entonces, proporciona una interesante combinación de
-precio y tiempo. Las líneas de tendencia convergentes marcan los límites
-del precio del patrón, e indican en qué punto el patrón ha quedado com-
-pleto y la tendencia ha retomado su dirección mediante la penetración de
-la línea de tendencia superior (en el caso de una tendencia al alza). Pero
-estas líneas de tendencia también proporcionan un objetivo de tiempo mi-
-diendo el ancho del patrón. Si el ancho, por ejemplo, fuera de 20 sema-
-nas, entonces la salida tendría lugar entre la decimotercera y decimoquin-
-ta semana. (Ver figura 6.1d).
-
-b5/29/97 (DELL) Dell Qomguger Qgº _ ! 02/24/98
-GRÁFICO DE BARRAS DIARIO |¡I
-[ 1124
-…|l¡¡l
-| , !
-| lafl N -100
-A ¡:"¡| T ! |
-I | Hll l¡ll'l||1¡ H N Il n [|Il …… ha7
-A I Y Y
-1y | f |l[ .
-y 'u
-¡1l
-! …J UN TRIÁNGULO SIMÉTRICO ALCISTA
-| ¡l…l) 'í I-OZM |
-I.'vl'hl"Il h |
-= “ VJÁ_|_¿¡ VS.L - —0s — 'DI%;ÍJ…'…E%;" m;
-
-Figura 6.1d La empresa Dell formó un triángulo simétrico alcista durante el
-Cuarto trimestre de 1997. Medido de izquierda a derecha, el ancho del triángulo
-Es de 18 semanas. Los precios salieron del límite en la semana 13 (ver círculo),
-apenas más allá del punto de los dos tercios.
-
-161
+Figura 6. Id La empresa Dell formó un triángulo simétrico alcista durante el cuarto trimestre de 1997. Medido de izquierda a derecha, el ancho del triángulo es de 18 semanas. Los precios salieron del límite en la semana 13 (ver círculo), apenas más

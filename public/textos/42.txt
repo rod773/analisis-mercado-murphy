@@ -1,44 +1,15 @@
-42 Filosofía del análisis técnico
+mucha más importancia al análisis de la tendencia básica y a la aplicación de los indicadores técnicos tradicionales.
 
 Algunas críticas al enfoque técnico
 
-En cualquier discusión sobre el enfoque técnico aparecen algunas pre-
-guntas, una de las cuales está relacionada con la profecía del autocumpli-
-miento. Otra cuestión es si los datos sobre precios anteriores se pueden
-usar en realidad para pronosticar la futura dirección de los mismos. Los
-críticos generalmente dicen algo así: “Los gráficos nos dicen dónde ha es-
-tado el mercado, pero no nos pueden decir dónde va”. Por el momento,
-dejaremos de lado la respuesta obvia de que un gráfico no le dirá nada a
-quien no sepa interpretarlo. La Teoría del Paseo Aleatorio cuestiona que
-los precios presenten tendencias y duda que cualquier técnica de pronós-
-ticos pueda superar a una sencilla estrategia de comprar y retener. Todas
-estas preguntas merecen una respuesta.
+En cualquier discusión sobre el enfoque técnico aparecen algunas preguntas, una de las cuales está relacionada con la profecía del autocumpli- miento. Otra cuestión es si los datos sobre precios anteriores se pueden usar en realidad para pronosticar la futura dirección de los mismos. Los críticos generalmente dicen algo así: “Los gráficos nos dicen dónde ha estado el mercado, pero no nos pueden decir dónde va”. Por el momento, dejaremos de lado la respuesta obvia de que un gráfico no le dirá nada a quien no sepa interpretarlo. La Teoría del Paseo Aleatorio cuestiona que los precios presenten tendencias y duda que cualquier técnica de pronósticos pueda superar a una sencilla estrategia de comprar y retener. Todas estas preguntas merecen una respuesta.
 
 La profecía del autocumplimiento
 
-La cuestión de si funciona una profecía del autocumplimiento parece
-preocupar a mucha gente porque se plantea con frecuencia. Ciertamente
-se trata de una preocupación válida, pero de una importancia mucho me-
-nor de lo que la gente piensa. Tal vez la mejor forma de tratar esta cues-
-tión es citar un texto que discute algunas de las desventajas de utilizar pa-
-trones de gráficos:
+La cuestión de si funciona una profecía del autocumplimiento parece preocupar a mucha gente porque se plantea con frecuencia. Ciertamente se trata de una preocupación válida, pero de una importancia mucho menor de lo que la gente piensa. Tal vez la mejor forma de tratar esta cuestión es citar un texto que discute algunas de las desventajas de utilizar patrones de gráficos:
 
-a. El uso de la mayoría de patrones de gráficos ha sido ampliamente pu-
-blicado en los últimos años. Muchos operadores están familiarizados
-con dichos patrones y a menudo actúan sobre ellos de forma con-
-certada, lo que crea una “profecía del autocumplimiento”, del mis-
-mo modo que se crean olas de compras y ventas como respuesta a pa-
-trones “alcistas” o “bajistas”...
+El uso de la mayoría de patrones de gráficos ha sido ampliamente publicado en los últimos años. Muchos operadores están familiarizados con dichos patrones y a menudo actúan sobre ellos de forma concertada, lo que crea una “profecía del autocumplimiento”, del mismo modo que se crean olas de compras y ventas como respuesta a patrones “alcistas” o “bajistas”...
 
-b. Los patrones de gráficos son casi completamente subjetivos. No
-hay ningún estudio que haya podido cuantificarlos matemática-
-mente. Literalmente existen en la mente de quien los ve... (Tewe-
-les et al.)
+Los patrones de gráficos son casi completamente subjetivos. No hay ningún estudio que haya podido cuantificarlos matemáticamente. Literalmente existen en la mente de quien los ve... (Tewe- les et al.)
 
-Estas dos críticas se contradicen, y el segundo punto en realidad anula
-al primero. Si los modelos de gráficos son “completamente subjetivos” y
-existen “en la mente de quien los ve”, resulta difícil imaginar cómo todo
-el mundo podría ver lo mismo al mismo tiempo, que es la base de la pro-
-fecía del autocumplimiento. Los críticos de los gráficos no pueden pre-
-
-42
+Estas dos críticas se contradicen, y el segundo punto en realidad anula al primero. Si los modelos de gráficos son “completamente subjetivos” y existen “en la mente de quien los ve”, resulta difícil imaginar cómo todo el mundo podría ver lo mismo al mismo tiempo, que es la

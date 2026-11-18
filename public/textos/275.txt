@@ -1,57 +1,9 @@
-Osciladores y opinión contraria 275
+visto sobre interpretación del oscilador también se aplican a %R, en los que los factores principales son la presencia de divergencias en áreas sobrecompradas o sobrevendidas. (Ver figura 10.18). Como el %Rse resta del máximo, parece como un oscilador
 
-P8/27£97 — (*SPX) SEP 500 Stock !£1dex 03/05/98
+Figura 10.17 Comparación entre el IFR de 14 semanas y el estocástico. La línea IFR es menos volátil y alcanza extremos con menos frecuencia que en el gráfico estocástico. Las mejores señales aparecen cuando ambos osciladores están en territorio sobrecomprado o sobrevendido.
 
-M h L
-p U f
-
-I”ll »
-…M”¡N'I …'|lí H U ¡¡l'h“
-"p ll | [
-I I
-
-lhh
-Vh.][ hH!… "
-
-"i
-
-ESÉECES
-
-8
-
-8
-
-sobrevendido
-
-8
-
-ES
-
-%R de Williams - 20 días
-
-E* y T T T
-'Sep e”] N T ' Feb
-. . Dic mv'1í…m—…1—-—…ao-—…,míñ
-
-Figura 10.18 - El oscilador %R de Larry Williams se usa de la misma forma que los
-demás osciladores. Las lecturas por encima de 80 o por debajo de 20 identifican
-los extremos del mercado
-
-estocástico vuelto cabeza abajo, y para corregir esto, los paquetes informá-
-ticos para gráficos permiten representar una versión invertida del %R.
+Figura 10.18 El oscilador %R de Larry Williams se usa de la misma forma que los demás osciladores. Las lecturas por encima de 80 o por debajo de 20 identifican los extremos del mercado estocástico vuelto cabeza abajo, y para corregir esto, los paquetes informáticos para gráficos permiten representar una versión invertida del %R.
 
 Elección de períodos relacionados con los ciclos
 
-La duración del oscilador se puede relacionar con los ciclos del merca-
-do subyacente. Se usa un período de la mitad de la duración del ciclo. Pe-
-ríodos comunes son 5, 10 y 20 días, basados en períodos de días naturales
-de 14, 28 y 56 días. El IFR de Wilder utiliza 14 días, que es la mitad de 28.
-En el capítulo anterior ya vimos algunas razones por las que los números
-5, 10 y 20 aparecen continuamente en las fórmulas de medias móviles y os-
-ciladores, así que no las repetiremos ahora. Baste con decir que 28 días na-
-turales (20 días de contratación) representan un importante ciclo men-
-sual dominante de operaciones y que los otros números están
-armónicamente relacionados con ese ciclo mensual. La popularidad del
-momento de 10 días y las duraciones de 14 días del IFR se basan mayori-
-
-275
+La duración del oscilador se puede relacionar con los ciclos del mercado subyacente. Se usa un período de la mitad de la duración del ciclo. Períodos comunes son 5, 10 y 20 días, basados en períodos de días naturales de 14, 28 y 56 días. El IFR de Wilder utiliza 14 días, que es la mitad de 28. En el capítulo anterior ya vimos algunas razones por las que los números 5, 10 y 20 aparecen continuamente en las fórmulas de medias móviles y osciladores, así que no las repetiremos ahora. Baste con decir que 28 días naturales (20 días de contratación) representan un importante ciclo mensual dominante de operaciones y que los otros números están armónicamente relacionados con ese ciclo mensual. La popularidad del momento de 10

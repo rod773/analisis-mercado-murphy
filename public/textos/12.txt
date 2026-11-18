@@ -1,39 +1,85 @@
-12 Análisis técnico de los Mercados Financieros
-Fuerza relativa y valores individuales .................... 479
-Enfoque vertical del mercado.....................—._._... 480
-Escenario deflacionario..............._.e__eereeccececoo 480
-Correlación entre mercados.............eeeeeoeewreec0.. 481
+acciones 469
+
+Relación entre obligaciones y mercancías 471
+
+Relación entre mercancías y el dólar 471
+
+Sectores bursátiles y grupos industriales 473
+
+El dólar y los grandes capitales sociales 474
+
+Análisis entre mercados y fondos de inversión 475
+
+Análisis de la fuerza relativa 475
+
+Fuerza relativa v sectores 476
+
+Fuerza relativa y valores individuales 479
+
+Enfoque vertical del mercado 480
+
+Escenario deflacionario 480
+
+Correlación entre mercados 481
+
 Programas para establecer redes neurales entre mercados .. 483
-Conclusión ..............eee.00c00coro00c 0e oeooa.. 483
 
-18 Indicadores bursátiles .......................... . ... ... 485
-Medir la amplitud del mercado ........................ 485
-Ejemplos de datos .......................000000. ... 485
-Comparar los promedios. ................e.e.eeeeeev.. 487
-La línea avance/declive.......................... ... ... 488
-Divergencia AD ........................0.-_..K..eeeeeeee. 488
-Líneas AD diarias y semanales ...............ñññeeeee.. 489
-Variaciones de la línea AD .....................reeece. 490
-Oscilador de McClellan.......................ez—<oe.ee 490
-Índice acumulativo de McClellan....................... 492
-Nuevos máximos vs nuevos mínimos ............Ñññ..co. 493
-Índice nuevo máximo-nuevo mínimo ................... 493
-Volumen al alza vs volumen a la baja.................... 495
-El índice Arms ............eee.00000000xrearecedeceo. 496
-TRIN vs Tick. .............e...e00000000ei0cerece.o. 498
-Suavizando el índice Arms ...............e.—.eceeoccceoo 498
-Versión “abierta” del índice Arms ..............eeeeeoc.. 498
-Gráficos de equivolumen ...................eoeeeee.o0. 499
-Gráficos combinados con velas.................eeeeceo. 501
-Comparación de índices de mercado ................... 501
-Conclusión ...............e 2000000000c anoorocero. 504
+Conclusión 483
 
-19 Resumen de todos los aspectos. Lista de comprobación. ... 507
-Lista de comprobación técnica..................eeee.e.. 508
+18 Indicadores bursátiles 485
+
+Medir la amplitud del mercado 485
+
+Ejemplos de datos 485
+
+Comparar los promedios 487
+
+La línea avance/declive 488
+
+Divergencia AD 488
+
+Líneas AD diarias y semanales 489
+
+Variaciones de la línea AD 490
+
+Oscilador de Mc Clellan 490
+
+Indice acumulativo de Mc Clellan 492
+
+Nuevos máximos vs nuevos mínimos 493
+
+Indice nuevo máximo-nuevo mínimo 493
+
+Volumen al alza vs volumen a la baja 495
+
+El índice Arms 496
+
+TRIN vs Tick 498
+
+Suavizando el índice Arms 498
+
+Versión “abierta” del índice Arms 498
+
+Gráficos de equivolumen 499
+
+Gráficos combinados con velas 501
+
+Comparación de índices de mercado 501
+
+Conclusión 504
+
+19 Resumen de todos los aspectos. Lista de comprobación.... 507
+
+Lista de comprobación técnica 508
+
 Cómo coordinar el análisis técnico con el fundamental .... 509
-Técnico de mercados. ....................00 .. . . ..... 510
-Asociación de técnicos de mercados ..............ñ.ñ_e.... 511
-Alcance global del análisis técnico...................... 512
-Diferentes nombres del análisis técnico. ................. 512
-La Reserva Federal finalmente lo aprueba ............... 513
-Conclusión .............e...0000000000000aaoaoaa00, 514
+
+Técnico de mercados 510
+
+Asociación de técnicos de mercados 511
+
+Alcance global del análisis técnico 512
+
+Diferentes nombres del análisis técnico 512
+
+La

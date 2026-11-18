@@ -1,105 +1,71 @@
-El uso del precio de cierre y
+Algunas críticas a la Teoría de Dow 60
 
-Análisis técnico de los Mercados Financieros
+Los valores como indicadores económicos 61
 
-la presencia de líneas ........
+La Teoría de Dow aplicada a las operaciones con futuros ... 61
 
-Algunas críticas a la Teoría de Dow .....................
-Los valores como indicadores económicos ...............
-La Teoría de Dow aplicada a las operaciones con futuros ...
+Conclusión 62
 
-Conclusión ..............
+3 Construcción de gráficos 65
 
-Construcción de gráficos ..
-Introducción ............
+Introducción 65
 
-Tipos de gráficos disponibles ..........................
+Tipos de gráficos disponibles 65
 
-Gráficos de velas..........
+Gráficos de velas 67
 
-Escala aritmética versus escala logarítmica ...............
-Construcción del gráfico de barras diario ................
+Escala aritmética versus escala logarítmica 70
 
-Volumen ................
+Construcción del gráfico de barras diario 71
 
-Gráficos de barras semanales y mensuales. ...............
+Volumen 72
 
-Conclusión ..............
+Interés abierto de los futuros 73
 
-Conceptos básicos de tendencia........................
+Gráficos de barras semanales y mensuales 75
 
-Definición de tendencia ...
+Conclusión 77
 
-Apoyo y resistencia. .......
-Líneas de tendencia. ......
-El principio acordeón .....
+4 Conceptos básicos de tendencia 79
 
-La importancia del número tres........................
-La relativa inclinación de la línea de tendencia ...........
+Definición de tendencia 79
 
-La línea de canal .........
-Retrocesos porcentuales ...
+La tendencia tiene tres direcciones 80
 
-Líneas de resistencia a la velocidad .....................
-Las líneas de abanico de Gann y Fibonacci...............
-Líneas internas de tendencia ......................".....
+La tendencia tiene tres clasificaciones 82
 
-Días de cambio...........
-Huecos de precios ........
-Conclusión ..............
+Apoyo y resistencia 85
 
-Los modelos de cambio más importantes................
+Líneas de tendencia 96
 
-Introducción ............
-Modelos de precios .......
+El principio acordeón 106
 
-Dos tipos de modelos: de cambio y de continuidad........
-El patrón de cambio de cabeza y hombros ...............
+La importancia del número tres 109
 
-La importancia del volumen
+La relativa inclinación de la línea de tendencia 109
 
-60
-60
-61
-61
-62
+La línea de canal 114
 
-65
-65
-65
-67
-70
-71
-72
-73
-75
-77
+Retrocesos porcentuales 119
 
-79
+Líneas de resistencia a la velocidad 121
 
-79
+Las líneas de abanico de Gann y Fibonacci 124
 
-80
+Líneas internas de tendencia 124
 
-82
+Días de cambio 125
 
-85
+Huecos de precios 128
 
-96
-106
-109
-109
-114
-119
-121
-124
-124
-125
-128
-133
-135
-135
-136
-136
-140
-144
+Conclusión 133
+
+5 Los modelos de cambio más importantes 135
+
+Introducción 135
+
+Modelos de precios 136
+
+Dos tipos de modelos: de cambio y de continuidad 136
+
+El patrón de cambio de

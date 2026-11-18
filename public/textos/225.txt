@@ -1,45 +1,11 @@
-Medias móviles 225
+algunos de los usos más comunes de la media móvil.
 
-La media móvil: una forma de suavizar
-con un desfase cronológico
+La media móvil: una forma de suavizar con un desfase cronológico
 
-La media móvil es esencialmente una forma de seguir una tendencia.
-Su propósito es hacer saber o indicar que ha comenzado una tendencia
-nueva o que una vieja ha finalizado o ha cambiado de dirección. Su pro-
-pósito también es seguir los avances de la tendencia, y podría considerar-
-se como una línea de tendencia curva, pero no pronostica la acción del
-mercado en el mismo sentido que intenta hacerlo el análisis gráfico co-
-mún. La media móvil es un seguidor, no un líder. Nunca anticipa, sólo re-
-acciona. La media móvil sigue un mercado y nos dice que ha comenzado
-una tendencia, pero sólo después de producirse el hecho.
+La media móvil es esencialmente una forma de seguir una tendencia. Su propósito es hacer saber o indicar que ha comenzado una tendencia nueva o que una vieja ha finalizado o ha cambiado de dirección. Su propósito también es seguir los avances de la tendencia, y podría considerarse como una línea de tendencia curva, pero no pronostica la acción del mercado en el mismo sentido que intenta hacerlo el análisis gráfico común. La media móvil es un seguidor, no un líder. Nunca anticipa, sólo reacciona. La media móvil sigue un mercado y nos dice que ha comenzado una tendencia, pero sólo después de producirse el hecho.
 
-La media móvil es un mecanismo que suaviza. Haciendo un promedio
-de la información sobre precios, se produce una línea más suave, facili-
-tándose así la visión de la tendencia subyacente. Por su propia naturale-
-za, no obstante, la línea de la media móvil también va por detrás del mo-
-vimiento del mercado. Una media móvil más corta, como un promedio
-de 20 días, se acercaría más al movimiento del precio que un promedio
-de 200 días. El desfase cronológico se reduce con medias más cortas,
-pero nunca se puede eliminar del todo. Las medias a más corto plazo son
-más sensibles al movimiento de los precios, mientras que las que cubren
-períodos más largos son menos sensibles. En ciertos tipos de mercados
-resulta más ventajoso utilizar medias más cortas, y en otros momentos es
-
-más útil recurrir a una media más larga y menos sensible. (Ver figura
-9.1b).
+La media móvil es un mecanismo que suaviza. Haciendo un promedio de la información sobre precios, se produce una línea más suave, facilitándose así la visión de la tendencia subyacente. Por su propia naturaleza, no obstante, la línea de la media móvil también va por detrás del movimiento del mercado. Una media móvil más corta, como un promedio de 20 días, se acercaría más al movimiento del precio que un promedio de 200 días. El desfase cronológico se reduce con medias más cortas, pero nunca se puede eliminar del todo. Las medias a más corto plazo son más sensibles al movimiento de los precios, mientras que las que cubren períodos más largos son menos sensibles. En ciertos tipos de mercados resulta más ventajoso utilizar medias más cortas, y en otros momentos es más útil recurrir a una media más larga y menos sensible. (Ver figura 9.1b).
 
 Qué precios se deben promediar
 
-En todos nuestros ejemplos hasta ahora hemos estado utilizando el pre-
-cio de cierre, pero aunque se le considere el precio más importante de las
-operaciones del día y sea el precio usado más habitualmente en la crea-
-ción de una media móvil, el lector debe saber que algunos técnicos pre-
-fieren usar otros precios. Algunos prefieren el valor de medio punto, al que
-se llega dividiendo el alcance del día por dos.
-
-Otros incluyen el precio de cierre en sus cálculos sumando el precio
-máximo, el mínimo y el de cierre y dividiendo la suma entre tres. Otros,
-prefieren construir bandas de precios promediando los precios máximo y
-mínimo por separado. El resultado es dos líneas separadas de media móvil
-
-225
+En todos nuestros ejemplos hasta ahora hemos estado utilizando el precio de cierre, pero aunque se le considere el precio más importante de las operaciones del día y sea el precio usado más habitualmente en la creación de una media móvil, el lector debe saber que algunos técnicos prefieren usar otros precios. Algunos prefieren el valor de medio punto, al que se llega dividiendo

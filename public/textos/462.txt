@@ -1,31 +1,5 @@
-462 Capítulo 18
+declinar, o el número de nuevos mínimos comienza a crecer, aparece una señal de precaución. Cuando la
 
-ÍNDICE ACUMULATIVO DE MCCLELLAN |
+Figura 18.3 El índice acumulativo de Mc Clellan es simplemente una versión de mayor alcance del oscilador de Mc Clellan. El índice acumulativo se usa para el análisis de las tendencias importantes. Los cruces por debajo de cero son negativos. La señal de febrero de 1998 fue positiva.
 
-ECRCE EUN CEC AEE
-
-AEO
-s
-
-3
-
-Figura 18.3 El índice acumulativo de McClellan es simplemente una versión de
-mayor alcance del oscilador de McClellan. El índice acumulativo se usa para el
-análisis de las tendencias importantes. Los cruces por debajo de cero son negati-
-vos. La señal de febrero de 1998 fue positiva.
-
-media móvil de los nuevos mínimos cruza por encima de la media móvil
-de los nuevos máximos se activa una señal de mercado negativo. También
-se puede demostrar que cuando los nuevos máximos alcanzan un extre-
-mo, el mercado tiene una tendencia a estar alto, y por el contrario, cuan-
-do los nuevos mínimos llegan a un extremo, el mercado está cerca de su
-punto más bajo. Otra forma de comparar los nuevos máximos con los nue-
-vos mínimos es representar la diferencia entre las dos líneas.
-
-Índice nuevo máximo-nuevo mínimo
-La ventaja del índice nuevo máximo-nuevo mínimo es que se puede
-
-comparar directamente con uno de los principales índices bursátiles, y en
-ese caso, la línea máximo-mínimo se puede usar como una línea de avan-
-
-462
+media móvil de los nuevos mínimos cruza por encima de la media móvil de los nuevos máximos se activa una señal de mercado negativo. También se puede demostrar que cuando los nuevos máximos alcanzan un extremo, el mercado tiene una tendencia a estar alto, y por el contrario, cuando los nuevos mínimos llegan a un extremo, el mercado está cerca de su punto

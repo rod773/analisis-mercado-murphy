@@ -1,45 +1,13 @@
-244 Capítulo 9
+de la regla de una o dos sema- ñas— a efectos de liquidar. En otras palabras, sería necesaria una “ruptura” de 4 semanas para iniciar una posición nueva, pero una señal de una o dos semanas en la dirección opuesta garantizaría la liquidación de la posición. El operador permanecería entonces fuera del mercado hasta que se registrara una nueva ruptura de 4 semanas.
 
-nas— a efectos de liquidar. En otras palabras, sería necesaria una “ruptu-
-ra” de 4 semanas para iniciar una posición nueva, pero una señal de una o
-dos semanas en la dirección opuesta garantizaría la liquidación de la posi-
-ción. El operador permanecería entonces fuera del mercado hasta que se
-registrara una nueva ruptura de 4 semanas.
+La lógica de este sistema se basa en sólidos principios técnicos. Sus señales son mecánicas y muy definidas. Como sigue a una tendencia, prácticamente garantiza la participación desde el lado correcto de cualquier tendencia importante. También está estructurado para seguir la conocida máxima de las operaciones con éxito —“deje que los beneficios sigan, pero frene rápidamente las pérdidas”. Otra característica que no debe pasarse por alto es que este método tiende a operar con menor frecuencia, o sea que las comisiones son más bajas. Y otra ventaja es que el sistema se puede poner en marcha con o sin la ayuda de un ordenador.
 
-La lógica de este sistema se basa en sólidos principios técnicos. Sus se-
-ñales son mecánicas y muy definidas. Como sigue a una tendencia, prácti-
-camente garantiza la participación desde el lado correcto de cualquier
-tendencia importante. También está estructurado para seguir la conocida
-máxima de las operaciones con éxito —“deje que los beneficios sigan,
-pero frene rápidamente las pérdidas”. Otra característica que no debe pa-
-sarse por alto es que este método tiende a operar con menor frecuencia,
-o sea que las comisiones son más bajas. Y otra ventaja es que el sistema se
-puede poner en marcha con o sin la ayuda de un ordenador.
-
-La crítica principal a la regla semanal es la misma que se hace a todos
-los enfoques que siguen las tendencias, a saber, que no llega a los mo-
-mentos mejores o peores del mercado. Pero, ¿qué sistema lo hace? El as-
-pecto importante a tener en cuenta es que la regla de cuatro semanas fun-
-ciona como mínimo igual de bien que la mayoría de sistemas que siguen
-tendencias, y mejor que muchos de ellos, y además, tiene el beneficio aña-
-dido de su increíble sencillez.
+La crítica principal a la regla semanal es la misma que se hace a todos los enfoques que siguen las tendencias, a saber, que no llega a los momentos mejores o peores del mercado. Pero, ¿qué sistema lo hace? El aspecto importante a tener en cuenta es que la regla de cuatro semanas funciona como mínimo igual de bien que la mayoría de sistemas que siguen tendencias, y mejor que muchos de ellos, y además, tiene el beneficio añadido de su increíble sencillez.
 
 Ajustes a la regla de 4 semanas
 
-Aunque estamos viendo la regla de 4 semanas en su formato original,
-hay muchos ajustes y retoques que se pueden emplear. Por un lado, la re-
-gla no tiene por qué usarse como sistema de contratación. Las señales se-
-manales se pueden emplear simplemente como otro indicador técnico vá-
-lido para identificar rupturas y cambios de tendencia. Las rupturas
-semanales se pueden usar como un filtro que confirme otras técnicas,
-como la de los cruces de la media móvil. Las reglas de una o dos semanas
-funcionan como filtros excelentes. Una señal de cruce de la media móvil
-podría confirmarse mediante una ruptura de dos semanas en la misma di-
-rección para tomar una determinada posición en el mercado.
+Aunque estamos viendo la regla de 4 semanas en su formato original, hay muchos ajustes y retoques que se pueden emplear. Por un lado, la regla no tiene por qué usarse como sistema de contratación. Las señales semanales se pueden emplear simplemente como otro indicador técnico válido para identificar rupturas y cambios de tendencia. Las rupturas semanales se pueden usar como un filtro que confirme otras técnicas, como la de los cruces de la media móvil. Las reglas de una o dos semanas funcionan como filtros excelentes. Una señal de cruce de la media móvil podría confirmarse mediante una ruptura de dos semanas en la misma dirección para tomar una determinada posición en el mercado.
 
 Acortar o alargar períodos para obtener sensibilidad
 
-El período empleado se puede expandir o reducir en aras del interés
-de la gestión del riesgo y la sensibilidad. Por ejemplo, el período se puede
-
-244
+El período empleado se puede expandir o reducir en aras del interés de la gestión del riesgo y la sensibilidad. Por ejemplo,

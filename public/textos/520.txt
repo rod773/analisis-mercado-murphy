@@ -1,44 +1,17 @@
-520 Apéndice C
-
-mente menos del 5 por ciento, y por una u otra razón, la mayoría de las
-ideas “brillantes” ni siquiera podrá ser aplicable a una transacción.
+Recuerde que muy pocas ideas se transformarán en beneficios, generalmente menos del 5 por ciento, y por una u otra razón, la mayoría de las ideas “brillantes” ni siquiera podrá ser aplicable a una transacción.
 
 Paso 5: Evaluar resultados
 
-Intentemos comprender el concepto que hay detrás de nuestro sistema
-de contratación. ¿Tiene sentido o simplemente es una coincidencia? Ana-
-licemos la curva de valores. ¿Podemos superar las reducciones? Evaluemos
-el sistema operación por operación. ¿Qué pasa si una señal es mala? ¿Con
-cuánta rapidez sale el sistema de las operaciones perdedoras? ¿Cuánto
-tiempo permanece en las operaciones ganadoras? Asegurémonos de estar
-satisfechos con los resultados de la prueba, porque de otra forma no po-
-dremos operar con este sistema a tiempo real.
+Intentemos comprender el concepto que hay detrás de nuestro sistema de contratación. ¿Tiene sentido o simplemente es una coincidencia? Analicemos la curva de valores. ¿Podemos superar las reducciones? Evaluemos el sistema operación por operación. ¿Qué pasa si una señal es mala? ¿Con cuánta rapidez sale el sistema de las operaciones perdedoras? ¿Cuánto tiempo permanece en las operaciones ganadoras? Asegurémonos de estar satisfechos con los resultados de la prueba, porque de otra forma no podremos operar con este sistema a tiempo real.
 
-Tres estadísticas clave de TradeStation para analizar son:
+Tres estadísticas clave de Trade Station para analizar son:
 
-* Factor beneficio. Es igual al beneficio bruto en las operaciones con Ga-
-nancias/ Pérdida bruta en las operaciones con pérdidas. Esta estadística
-nos dice cuántos dólares ganó nuestro sistema por cada dólar que per-
-dió, y es una medida de riesgo. Los operadores a más largo plazo deben
-buscar factores de beneficio de 2,00 o más, pero los operadores a corto
-plazo pueden aceptar cifras ligeramente inferiores.
+Factor beneficio. Es igual al beneficio bruto en las operaciones con Ganancias/ Pérdida bruta en las operaciones con pérdidas. Esta estadística nos dice cuántos dólares ganó nuestro sistema por cada dólar que perdió, y es una medida de riesgo. Los operadores a más largo plazo deben buscar factores de beneficio de 2,00 o más, pero los operadores a corto plazo pueden aceptar cifras ligeramente inferiores.
 
-* Promedio de las operaciones (ganancia y pérdida). Es la expectativa ma-
-temática de nuestro sistema. Como mínimo debe ser suficiente para cu-
-brir los costes de la transacción (por ejemplo, comisiones), porque si
-no, perderemos dinero.
+Promedio de las operaciones (ganancia y pérdida). Es la expectativa matemática de nuestro sistema. Como mínimo debe ser suficiente para cubrir los costes de la transacción (por ejemplo, comisiones), porque si no, perderemos dinero.
 
-* Reducción máxima intradía. Se trata de la mayor caída de un valor, en
-términos de dinero, desde un pico hasta un valle. Yo prefiero hacer este
-cálculo en porcentajes. También distingo entre las reducciones a partir
-de un comienzo fijo (en las que pierdo dinero de mi propio bolsillo) y
-las reducciones a partir de un pico de valor (en las que devuelvo bene-
-ficios obtenidos de los mercados). Generalmente soy más comprensivo
-con la última.
+Reducción máxima intradía. Se trata de la mayor caída de un valor, en términos de dinero, desde un pico hasta un valle. Yo prefiero hacer este cálculo en porcentajes. También distingo entre las reducciones a partir de un comienzo fijo (en las que pierdo dinero de mi propio bolsillo) y las reducciones a partir de un pico de valor (en las que devuelvo beneficios obtenidos de los mercados). Generalmente soy más comprensivo con la última.
 
 Gestión monetaria
 
-Aunque la gestión monetaria se escapa del alcance de este apéndice, es
-un tema de extremada importancia. Es la clave de las operaciones renta-
-
-520
+Aunque la gestión monetaria se escapa del alcance

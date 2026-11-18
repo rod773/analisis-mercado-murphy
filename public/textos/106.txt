@@ -1,41 +1,13 @@
-106 Capítulo 4
+una necesidad de que las diferentes líneas de tendencia midan dichas tendencias diferentes. Una línea de tendencia al alza mayor, por ejemplo, conectaría los puntos bajos
 
-l8/05/94 (*SPX) SEP 500 Stock Index — 02/27/98
+Ejemplo de una línea de tendencia ascendente que es demasiado plana (línea 1). La línea 1 resultó demasiado lenta a medida que la tendencia al alza se aceleraba. En este caso, debería trazarse una segunda línea de tendencia, más empinada, para vigilar más de cerca la tendencia ascendente.
 
-GRÁFICO DE BARRAS SEMANAL ll' Liooo
+de tendencia más empinadas como muestra este gráfico. La línea de tendencia con la máxima inclinación será la más importante.
 
-"
-pta
-l|4[|wupn¡
-.|…"Vl
-1.
-LÍNEAS DE TENDENCIA
-QUE SE ACELERAN
-
-E
-
-e5 A y o De TA y o o A y o _e
-02 1:36pm Prried uelrg TradeSuiion 6 Omege Raeearch, I. 1907
-
-Figura 4.14b Una tendencia al alza que se acelera requiere el trazado de líneas
-de tendencia más empinadas como muestra este gráfico. La línea de tendencia
-con la máxima inclinación será la más importante.
-
-de la tendencia alcista, mientras que se podría usar una línea más corta y
-sensible para las fluctuaciones secundarias. Una línea aún más corta pue-
-de medir los movimientos de corta duración (Ver figura 4.15).
+de la tendencia alcista, mientras que se podría usar una línea más corta y sensible para las fluctuaciones secundarias. Una línea aún más corta puede medir los movimientos de corta duración (Ver figura 4.15).
 
 La línea de canal
 
-La línea de canal, o línea de retorno, como a veces se le llama, es otra
-útil variación de la técnica de las líneas de tendencia. A veces, los precios
-se mueven entro dos líneas paralelas, la línea de tendencia básica y la lí-
-nea de canal. Obviamente, cuando se da este caso y el analista reconoce
-la existencia de un canal, esta información se puede usar de forma pro-
-vechosa.
+La línea de canal, o línea de retorno, como a veces se le llama, es otra útil variación de la técnica de las líneas de tendencia. A veces, los precios se mueven entro dos líneas paralelas, la línea de tendencia básica y la línea de canal. Obviamente, cuando se da este caso y el analista reconoce la existencia de un canal, esta información se puede usar de forma provechosa.
 
-El trazado de la línea de canal es relativamente sencillo. En una ten-
-dencia alcista (ver figura 4.16a), primero hay que trazar la línea de ten-
-dencia ascendente básica siguiendo los mínimos. Después hay que dibujar
-
-106
+El trazado de la línea de canal es relativamente sencillo. En una tendencia alcista (ver figura 4.16a), primero hay que trazar

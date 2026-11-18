@@ -1,61 +1,7 @@
-Teoría de las ondas de Elliott 361
+partir de un máximo anterior. Las probabilidades de que un máximo importante estuviera cerca serían muy altas.
 
-p2728778 (TR1600) Treasury Bonds 1600 03/31/08
-D - T —
+El estudio de los gráficos de precios tanto para el mercado de valores como para el de futuros revela una cierta cantidad de relaciones temporales de Fibonacci, aunque parte del problema está en la variedad de las posibles relaciones. Las metas temporales de Fibonacci se pueden medir de máximo a máximo, de máximo a mínimo, de mínimo a mínimo y de mínimo a máximo. Son relaciones que siempre se pueden encontrar después del hecho y no siempre está claro cuáles de las posibles relaciones son relevantes para la tendencia actual.
 
-| GRAFICO DE BARRAS =
+Figura 13.27 Metas temporales de Fibonacci medidas por meses a partir del mínimo de 1981 en bonos del tesoro. Puede ser una coincidencia, pero las cuatro últimas metas temporales de Fibonacci (barras verticales) coincidieron con importantes cambios en el precio de los bonos.
 
-| MENSUAL W ha
-| iN m
-1
-
-| lm
-|
-
-| 100
-
-I
-
-| .“
-l
-
-| al
-y taros
-Y
-
-l
-
-| METAS TEMPORALES l
-
-y DE FIBONACCI hr
-1
-
-y b$ lze
-
-% _b w k M 6 lbe k be e m k k 5=¡ D _s v w _j
-
-S Ómaga Mesezr a-
-
-Figura 13.27 Metas temporales de Fibonacci medidas por meses a partir del mí-
-nimo de 1981 en bonos del tesoro. Puede ser una coincidencia, pero las cuatro úl-
-timas metas temporales de Fibonacci (barras verticales) coincidieron con impor-
-tantes cambios en el precio de los bonos.
-
-b2/28/79 (*DWI X) Dow industrials
-
-P
-GRÁFICO DE BARRAS
-MENSUAL
-
-METAS TEMPORALES
-DE FIBONACCI
-
-h4b.f»bnXv¡nh|*un'uhhbvi5¡i?j
-5A Ta la ry Visiliadon 6 Omega Ms Y
-
-Figura 13.28 Metas temporales de Fibonacci medidas por meses a partir del mí-
-nimo de 1982 del índice Dow. Las tres últimas barras verticales coinciden con
-años de mercado bajista en los valores, 1987, 1990 y 1994. El pico de 1987 tuvo lu-
-gar 13 años después del mínimo de 1982, un número de Fibonacci.
-
-361
+Figura 13.28 Metas temporales de Fibonacci medidas por meses a partir del mínimo de 1982 del índice Dow. Las tres últimas barras verticales coinciden con años de mercado bajista en los valores, 1987,1990 y 1994. El pico de 1987 tuvo lugar 13 años después del mínimo de 1982, un

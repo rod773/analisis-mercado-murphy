@@ -1,44 +1,13 @@
-Ordenadores y sistemas de contratación 403
+práctica. Para los sistemas mecánicos de contratación, los sistemas parabólico y de movimiento direccional de Wilder son especialmente dignos de atención.
 
-Sistemas de movimiento parabólico
-y direccional de Welles Wilder
+Sistemas de movimiento parabólico y direccional de Welles Wilder
 
-Dedicaremos un poco de tiempo a dos estudios-que resultan especial-
-mente útiles, ambos desarrollados por J. Welles Wilder Jr. e incluidos en su
-libro New Concepts in Technical Trading Systems. El mismo libro también
-cuenta con otros tres estudios realizados por Wilder e incluidos en el pro-
-grama, el índice de selección de mercancías, el índice de fuerza relativa y
-el índice de oscilación.
+Dedicaremos un poco de tiempo a dos estudios que resultan especialmente útiles, ambos desarrollados por J. Wellfes Wilder Jr. e incluidos en su libro New Concepts in Technical Trading Systems, El mismo libro también cuenta con otros tres estudios realizados por Wilder e incluidos en el programa, el índice de selección de mercancías, el índice de fuerza relativa y el índice de oscilación.
 
 Sistema parabólico (PYR)
 
-El sistema parabólico (PYR) de Wilder es un sistema del cambio tiem-
-po/precio siempre presente en el mercado. Las letras “PYR” significan
-“paro y retroceso”, que quiere decir que la posición se da la vuelta cuando
-se alcanza el límite de protección. Es un sistema que sigue la tendencia, y
-su nombre proviene de la forma que adoptan los límites en su tendencia a
-curvarse como una parábola. (Ver figuras 15.1-15.4) Obsérvese que a me-
-dida que los precios siguen la tendencia al alza, los puntos ascendentes de-
-bajo del movimiento del precio (los puntos de paro y retroceso) tienden a
-comenzar más lentamente y luego acelerar con la tendencia. En una ten-
-dencia a la baja ocurre lo mismo, pero en la dirección contraria (los pun-
-tos están por encima del movimiento del precio). Los números PYR se cal-
-culan y quedan a disposición del usuario para el día siguiente.
+El sistema parabólico (PYR) de Wilder es un sistema del cambio tiem- po/precio siempre presente en el mercado. Las letras “PYR” significan “paro y retroceso”, que quiere decir que la posición se da la vuelta cuando se alcanza el límite de protección. Es un sistema que sigue la tendencia, y su nombre proviene de la forma que adoptan los límites en su tendencia a curvarse como una parábola. (Ver figuras 15.1-15.4) Obsérvese que a medida que los precios siguen la tendencia al alza, los puntos ascendentes debajo del movimiento del precio (los puntos de paro y retroceso) tienden a comenzar más lentamente y luego acelerar con la tendencia. En una tendencia a la baja ocurre lo mismo, pero en la dirección contraria (los puntos están por encima del movimiento del precio). Los números PYR se calculan y quedan a disposición del usuario para el día siguiente.
 
-Wilder incorporó un factor de aceleración al sistema. La parada se des-
-plaza cada día en la dirección de la nueva tendencia. Al principio, el movi-
-miento de la parada es relativamente lento, para que la tendencia tenga tiem-
-po a establecerse, pero a medida que el factor aceleración se incrementa, el
-PYR comienza a moverse más rápido y en un momento dado alcanza el mo-
-vimiento del precio. Si la tendencia falla, o no se materializa, el resultado sue-
-le ser una señal de paro y retroceso. Como muestran los gráficos, el sistema
-parabólico funciona muy bien en mercados con una tendencia definida. Ob-
-sérvese que mientras las partes con tendencia se capturaban bien, el sistema
-no paraba de cambiar durante los períodos laterales o de no-tendencia.
+Wilder incorporó un factor de aceleración al sistema. La parada se desplaza cada día en la dirección de la nueva tendencia. Al principio, el movimiento de la parada es relativamente lento, para que la tendencia tenga tiempo a establecerse, pero a medida que el factor aceleración se incrementa, el PYR comienza a moverse más rápido y en un momento dado alcanza el movimiento del precio. Si la tendencia falla, o no se materializa, el resultado suele ser una señal de paro y retroceso. Como muestran los gráficos, el sistema parabólico funciona muy bien en mercados con una tendencia definida. Obsérvese que mientras las partes con tendencia se capturaban bien, el sistema no paraba de cambiar durante los períodos laterales o de no-tendencia.
 
-Esto demuestra la fuerza y la debilidad de la mayoría de los sistemas que
-siguen la tendencia. Funcionan bien cuando hay períodos de tendencia
-fuerte, algo que el propio Wilder estima que sucede sólo alrededor del 30
-por ciento de las veces. Si dicha estimación se acerca siquiera a la realidad,
-
-403
+Esto demuestra la fuerza y la debilidad de la mayoría de los

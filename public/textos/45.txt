@@ -1,44 +1,13 @@
-Filosofía del análisis técnico 45
+otra clase de datos hay para trabajar?
 
-El campo de la estadística distingue entre la estadística descriptiva y la
-inductiva. La estadística descriptiva se refiere a la representación gráfica
-de los datos, por ejemplo datos sobre precios en un gráfico de barras co-
-mún. La estadística inductiva se refiere a las generalizaciones, prediccio-
-nes o extrapolaciones que pueden resultar de los datos. Por lo tanto, el
-gráfico de precios aparece bajo el epígrafe de descriptivo, mientras que el
-análisis que realizan los técnicos de esos datos sobre precios pertenece al
-campo de lo inductivo.
+El campo de la estadística distingue entre la estadística descriptiva y la inductiva. La estadística descriptiva se refiere a la representación gráfica de los datos, por ejemplo datos sobre precios en un gráfico de barras común. La estadística inductiva se refiere a las generalizaciones, predicciones o extrapolaciones que pueden resultar de los datos. Por lo tanto, el gráfico de precios aparece bajo el epígrafe de descriptivo, mientras que el análisis que realizan los técnicos de esos datos sobre precios pertenece al campo de lo inductivo.
 
-Como dice un texto sobre estadística: “El primer paso en el pronóstico
-del futuro empresarial o económico consiste en recoger observaciones del
-pasado” (Freund and Williams). El análisis de gráficos es simplemente
-otra forma de análisis de series temporales basada en el estudio del pasa-
-do, que es exactamente lo que se hace en todos los tipos de series tempo-
-rales. El único tipo de información sobre el que alguien puede trabajar es
-información pasada, y sólo podemos hacer una estimación del futuro me-
-diante la proyección de experiencias pasadas hacia dicho futuro.
+Como dice un texto sobre estadística: “El primer paso en el pronóstico del futuro empresarial o económico consiste en recoger observaciones del pasado” (Freund and Williams). El análisis de gráficos es simplemente otra forma de análisis de series temporales basada en el estudio del pasado, que es exactamente lo que se hace en todos los tipos de series temporales. El único tipo de información sobre el que alguien puede trabajar es información pasada, y sólo podemos hacer una estimación del futuro mediante la proyección de experiencias pasadas hacia dicho futuro.
 
-Parece, entonces, que el uso de datos sobre precios antiguos para pre-
-decir el futuro en el análisis técnico se fundamenta en unos conceptos es-
-tadísticos sólidos. Si alguien quisiera cuestionar seriamente este aspecto
-del pronóstico técnico, tendría que cuestionar también la validez de todas
-las otras formas de hacer pronósticos que se basan en datos históricos,
-algo que incluye todos los análisis económicos y fundamentales.
+Parece, entonces, que el uso de datos sobre precios antiguos para predecir el futuro en el análisis técnico se fundamenta en unos conceptos estadísticos sólidos. Si alguien quisiera cuestionar seriamente este aspecto del pronóstico técnico, tendría que cuestionar también la validez de todas las otras formas de hacer pronósticos que se basan en datos históricos, algo que incluye todos los análisis económicos y fundamentales.
 
 La Teoría del Randon Walk (Paseo Aleatorio)
 
-La Teoría del Paseo Aleatorio, desarrollada y alimentada en la comuni-
-dad académica, dice que los cambios en los precios son “serialmente in-
-dependientes” y que la historia de los precios no es un indicador de con-
-fianza de la futura dirección de los mismos. En resumen, los precios se
-mueven de forma aleatoria e impredecible. La teoría se basa en la hipóte-
-sis del mercado eficiente, que dice que los precios fluctúan de forma alea-
-toria alrededor de su valor intrínseco. También mantiene que la mejor es-
-trategia de mercado a seguir sería una estrategia sencilla de “comprar y
-retener”, en oposición a cualquier intento de “vencer al mercado”.
+La Teoría del Paseo Aleatorio, desarrollada y alimentada en la comunidad académica, dice que los cambios en los precios son “serialmente independientes” y que la historia de los precios no es un indicador de confianza de la futura dirección de los mismos. En resumen, los precios se mueven de forma aleatoria e impredecible. La teoría se basa en la hipótesis del mercado eficiente, que dice que los precios fluctúan de forma aleatoria alrededor de su valor intrínseco. También mantiene que la mejor estrategia de mercado a seguir sería una estrategia sencilla de “comprar y retener”, en oposición a cualquier intento de “vencer al mercado”.
 
-Aunque hay pocas dudas de que existe una cierta cantidad de aleato-
-riedad o “ruido” en todos los mercados, simplemente no es realista creer
-que todos los movimientos de precios son aleatorios. Esta puede ser una
-
-45
+Aunque hay pocas dudas de que existe una cierta cantidad de aleato- riedad o “ruido” en todos los mercados, simplemente

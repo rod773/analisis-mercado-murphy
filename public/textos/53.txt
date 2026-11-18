@@ -1,41 +1,9 @@
-Teoría de Dow 53
+Elliott amplió el trabajo de Rhea sobre la Teoría de Dow y reconoció queun mercado alcista tiene tres movimientos ascendentes de importancia. En el capítulo 13, “La Teoría de las ondas de Elliott”, mostraremos las similitudes entre las tres fases de un mercado alcista descritas por Dow y las cinco ondas de la secuencia de Elliott.
 
-un mercado alcista tiene tres movimientos ascendentes de importancia.
-En el capítulo 13, “La Teoría de las ondas de Elliott”, mostraremos las si-
-militudes entre las tres fases de un mercado alcista descritas por Dow y las
-cinco ondas de la secuencia de Elliott.
+Las medias deben confirmarse entre ellas.
 
-4. Las medias deben confirmarse entre ellas.
+Al referirse a la media Industrial y a la de Ferrocarriles, Dow quería decir que no podía darse ninguna señal importante de un mercado alcista o bajista a no ser que ambas medias dieran la misma señal, confirmándose así una a la otra. Pensaba que ambas medias debían superar un pico secundario previo para confirmar el comienzo o la continuación de un mercado alcista. No creía que las señales tuvieran que darse simultáneamente, pero reconocía que un intervalo más corto entre señales proporcionaba una mayor confirmación. Cuando ambas medias divergían, Dow asumía que la tendencia anterior todavía se mantenía. (La Teoría de las Ondas de Elliott sólo requiere que las señales se generen en una media sola). El capítulo 6, “Modelos de continuación”, cubrirá los conceptos clave de confirmación y divergencia. (Ver figuras 2.1 y 2.2).
 
-Al referirse a la media Industrial y a la de Ferrocarriles, Dow quería de-
-cir que no podía darse ninguna señal importante de un mercado alcista o
-bajista a no ser que ambas medias dieran la misma señal, confirmándose
-así una a la otra. Pensaba que ambas medias debían superar un pico se-
-cundario previo para confirmar el comienzo o la continuación de un mer-
-cado alcista. No creía que las señales tuvieran que darse simultáneamente,
-pero reconocía que un intervalo más corto entre señales proporcionaba
-una mayor confirmación. Cuando ambas medias divergían, Dow asumía
-que la tendencia anterior todavía se mantenía. (La Teoría de las Ondas de
-Elliott sólo requiere que las señales se generen en una media sola). El ca-
-pítulo 6, “Modelos de continuación”, cubrirá los conceptos clave de con-
-firmación y divergencia. (Ver figuras 2.1 y 2.2).
+El volumen debe confir El volumen debe confirar la tendencia.ar la tendencia.
 
-5. El volumen debe confirmar la tendencia.
-
-Dow reconocía al volumen como un factor secundario pero importan-
-te para confirmar las señales de cotización. Dicho sencillamente, el volu-
-men debería expandirse o incrementarse en la dirección de la tendencia
-principal. En una tendencia ascendente de importancia, el volumen se in-
-crementaría a medida que las cotizaciones suben, y disminuiría a medida
-que los precios bajan. En una tendencia descendente, el volumen debería
-incrementarse a medida que los precios caen y disminuir a medida que su-
-ben. Dow consideraba que el volumen era un indicador secundario. Él ba-
-saba sus verdaderas señales de comprar y vender totalmente en los precios
-de cierre. En el capítulo 7, “Volumen e interés abierto”, cubriremos el
-tema del volumen y nos apoyaremos en las ideas de Dow. En la actualidad,
-hay sofisticados indicadores que ayudan a determinar si el volumen está
-creciendo o disminuyendo. Los operadores experimentados comparan
-Entonces dicha información con el movimiento de los precios para ver si
-ambos datos se confirman entre sí.
-
-53
+Dow reconocía al volumen como un factor secundario pero importante para confirmar las señales de cotización. Dicho sencillamente, el volumen debería expandirse o incrementarse en la dirección de la tendencia principal. En una tendencia ascendente de importancia, el volumen se incrementaría a medida que las cotizaciones suben, y disminuiría a medida que los precios bajan. En una tendencia descendente, el volumen debería incrementarse a medida que los precios caen y disminuir a medida que suben. Dow consideraba que el volumen era un indicador secundario. El basaba sus verdaderas señales de comprar y vender totalmente en los precios de cierre. En el capítulo 7, “Volumen e interés abierto”, cubriremos el

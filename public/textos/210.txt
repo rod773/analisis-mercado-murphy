@@ -1,44 +1,13 @@
-210 Capítulo 8
-
-que el horizonte temporal se pueda ensanchar extensamente y se puedan
-estudiar períodos más largos.
+semanales y mensuales es comprimir el movimiento de los precios de tal forma que el horizonte temporal se pueda ensanchar extensamente y se puedan estudiar períodos más largos.
 
 La importancia de una perspectiva de mayor alcance
 
-Los gráficos de precios de gran alcance proporcionan una perspectiva
-de la tendencia del mercado imposible de conseguir utilizando sólo gráfi-
-cos diarios. En nuestra introducción a la filosofía técnica en el capítulo 1,
-indicamos que una de las mayores ventajas del análisis de gráficos es la
-aplicación de sus principios a prácticamente cualquiera dimensión tem-
-poral, incluyendo los pronósticos a largo plazo. También prestamos aten-
-ción a la falacia, defendida por algunos, de que el análisis técnico debe li-
-mitarse a unos períodos de corta duración, dejando los pronósticos de
-mayor alcance para el analista fundamental.
+Los gráficos de precios de gran alcance proporcionan una perspectiva de la tendencia del mercado imposible de conseguir utilizando sólo gráficos diarios. En nuestra introducción a la filosofía técnica en el capítulo 1, indicamos que una de las mayores ventajas del análisis de gráficos es la aplicación de sus principios a prácticamente cualquiera dimensión temporal, incluyendo los pronósticos a largo plazo. También prestamos atención a la falacia, defendida por algunos, de que el análisis técnico debe limitarse a unos períodos de corta duración, dejando los pronósticos de mayor alcance para el analista fundamental.
 
-Los gráficos que se incluyen demostrarán que los principios del análisis
-técnico, incluyendo el análisis de tendencias, niveles de apoyo y resisten-
-cia, líneas de tendencia, retrocesos porcentuales y patrones de precios, se
-prestan muy bien al análisis de los movimientos de precios de largo alcan-
-ce. Quien no consulte estos gráficos que cubren períodos más prolonga-
-dos se está perdiendo una enorme cantidad de valiosa información sobre
-los precios.
+Los gráficos que se incluyen demostrarán que los principios del análisis técnico, incluyendo el análisis de tendencias, niveles de apoyo y resistencia, líneas de tendencia, retrocesos porcentuales y patrones de precios, se prestan muy bien al análisis de los movimientos de precios de largo alcance. Quien no consulte estos gráficos que cubren períodos más prolongados se está perdiendo una enorme cantidad de valiosa información sobre los precios.
 
 Creación de gráficos de continuidad para los futuros
 
-El contrato de futuros medio tiene una vigencia de alrededor un año y
-medio antes de vencer, y esta característica de vida limitada representa un
-problema obvio para el técnico interesado en construir un gráfico de lar-
-go alcance que retroceda varios años. Los técnicos del mercado de valores
-no tienen este problema y desde el comienzo de la sesión disponen de grá-
-ficos de los valores comunes y de las medias del mercado. ¿Cómo hace, en-
-tonces, el técnico de futuros para crear gráficos de mayor alcance sobre
-contratos que están venciendo constantemente?
+El contrato de futuros medio tiene una vigencia de alrededor un año y medio antes de vencer, y esta característica de vida limitada representa un problema obvio para el técnico interesado en construir un gráfico de largo alcance que retroceda varios años. Los técnicos del mercado de valores no tienen este problema y desde el comienzo de la sesión disponen de gráficos de los valores comunes y de las medias del mercado. ¿Cómo hace, entonces, el técnico de futuros para crear gráficos de mayor alcance sobre contratos que están venciendo constantemente?
 
-La respuesta es el gráfico de continuidad, y obsérvese el énfasis en la
-palabra “continuidad”. La técnica empleada más corrientemente es unir
-un cierto número de contratos para proporcionar continuidad. Cuando
-un contrato vence, se usa otro, y para lograrlo, el método más sencillo y
-utilizado por la mayoría de los servicios de gráficos, es usar siempre el pre-
-cio del contrato más próximo a vencer. Cuando éste llega a su fin y deja de
-
-210
+La respuesta es el gráfico de continuidad, y obsérvese el énfasis en la palabra “continuidad”. La técnica empleada más corrientemente es unir un cierto número de contratos para proporcionar continuidad. Cuando un contrato vence, se usa otro, y para lograrlo, el método más sencillo y utilizado por la mayoría de los servicios de gráficos, es usar siempre el precio del

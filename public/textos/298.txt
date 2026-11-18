@@ -1,30 +1,11 @@
-298 Capítulo 11
+los de 3 y 5 registros.
 
 La cuenta horizontal
 
-Una ventaja principal del gráfico de inversión intradía de 1 registro es
-su capacidad de obtener objetivos de precios a través del uso de la cuen-
-ta horizontal. La cuestión de los objetivos de precios ya fue discutida en
-nuestro tratamiento de los gráficos de barras y los patrones de precios.
-Sin embargo, prácticamente todos los métodos de obtención de objetivos
-de precios a partir de los gráficos de barras se basaban en lo que llama-
-mos medidas verticales, que quería decir medir la altura de un patrón (la
-volatilidad) y proyectar esa distancia hacia arriba o hacia abajo. Por ejem-
-plo, el patrón de cabeza y hombros medía la distancia desde la cabeza
-hasta la base del cuello y hacía oscilar ese objetivo a partir de la ruptura
-de dicha base.
+Una ventaja principal del gráfico de inversión intradía de 1 registro es su capacidad de obtener objetivos de precios a través del uso de la cuenta horizontal. La cuestión de los objetivos de precios ya fue discutida en nuestro tratamiento de los gráficos de barras y los patrones de precios. Sin embargo, prácticamente todos los métodos de obtención de objetivos de precios a partir de los gráficos de barras se basaban en lo que llamamos medidas verticales, que quería decir medir la altura de un patrón (la volatilidad) y proyectar esa distancia hacia arriba o hacia abajo. Por ejemplo, el patrón de cabeza y hombros medía la distancia desde la cabeza hasta la base del cuello y hacía oscilar ese objetivo a partir de la ruptura de dicha base.
 
 Los gráficos de puntos y figuras permiten la medida horizontal
 
-El principio de la cuenta horizontal se basa en la premisa de que hay
-una relación directa entre el ancho de una zona de congestión y el movi-
-miento subsiguiente cuando se produce una ruptura. Si la zona de con-
-gestión representa un patrón que sirve de base, se puede hacer una esti-
-mación del potencial de subida una vez que la base queda completa.
-Cuando la tendencia al alza ha comenzado, se pueden usar las subsi-
+El principio de la cuenta horizontal se basa en la premisa de que hay una relación directa entre el ancho de una zona de congestión y el movimiento subsiguiente cuando se produce una ruptura. Si la zona de congestión representa un patrón que sirve de base, se puede hacer una estimación del potencial de subida una vez que la base queda completa. Cuando la tendencia al alza ha comenzado, se pueden usar las subsi-
 
-Figura 11.6 Los objetivos de precios se pueden determinar contando el número
-de columnas a lo largo de la zona horizontal de congestión. Cuanto más ancha
-sea la zona de congestión, mayor será el objetivo.
-
-298
+Figura 11.6 Los objetivos de precios se pueden determinar contando el número de columnas a lo largo de la zona horizontal

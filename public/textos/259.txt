@@ -1,55 +1,7 @@
-Osciladores y opinión contraria 259
+la tasa de cambio resultante estará por encima de 100. Si el último cierre está por debajo del cierre hace 10 días, el coeficiente estará por debajo de 100. (Los programas informáticos para gráficos a veces usan variaciones de las fórmulas precedentes para calcular el momento y la tasa de cambio, pero aunque las técnicas pueden variar, la interpretación sigue siendo la misma).
 
-—
-
-03/11/96 _ — (TR1600) Treasury Bonds 1600 03/06/98
-
-12314
-12128
-12041
-
-t 118024
-| 117/06
-| 1152
-
-11402
-
-112116
-1103
-109412
-
-107126
-- 108,08
-
-Momento de 10 días sobrecomprado
-
-.1
-
-sobrevendido La
-
-V ANAN | SMBRIACDN - AEAO - AUARIACDD ? MAEIAANIOA - AAMMMADDA " DABIDA _Q
-- 3708 11:T60m Printed ualng TradeSialon 6 Omaa Resserch. Inc. T
-
-Figura 10.3 Mediante una inspección visual, el analista puede encontrar los lí-
-mites superior e inferior del momento adecuados para cada mercado (ver líneas
-horizontales).
+Figura 10.3 Mediante una inspección visual, el analista puede encontrar los límites superior e inferior del momento adecuados para cada mercado (ver líneas horizontales).
 
 Construcción de un oscilador usando dos medias móviles
 
-En el capítulo 9 vimos dos medias móviles usadas para generar señales
-de compra y venta. El cruce de la media más corta por encima o por de-
-bajo de la media más larga registraba señales de compra y venta respecti-
-vamente. También dijimos en aquel momento que estas combinaciones
-duales de medias móviles se podían usar para construir gráficos de oscila-
-dores, algo que se puede hacer representando la diferencia entre dos me-
-dias en forma de histograma. Estas barras de histograma aparecen como
-un valor positivo o negativo alrededor de una línea cero centrada. Este
-tipo de oscilador tiene tres usos:
-
-1. Ayudar a detectar divergencias.
-
-2. Ayudar a identificar variaciones a corto plazo de la tendencia a largo
-plazo, cuando la media más corta se desplaza muy por encima o muy
-por debajo de la media más larga.
-
-259
+En el capítulo 9 vimos dos medias móviles usadas para generar señales de compra y venta. El cruce de la media más corta por encima o por debajo de la media más larga registraba señales de compra y venta respectivamente. También dijimos en aquel momento que estas combinaciones duales de medias móviles se podían usar para construir gráficos de osciladores, algo que se puede hacer representando la diferencia entre dos medias en forma de histograma. Estas barras de histograma aparecen como un valor

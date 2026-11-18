@@ -1,46 +1,39 @@
-430 Capítulo 16
+que el día avanza, los puntos pivotes se van ¿gustando al igual que los límites de protección. Como requisito final de una orden de compra, los precios deben cerrar por encima del precio de cierre del día anterior y también del precio de apertura del día actual.
 
-tos pivotes se van ajustando al igual que los límites de protección. Como
-requisito final de una orden de compra, los precios deben cerrar por en-
-cima del precio de cierre del día anterior y también del precio de aper-
-tura del día actual.
+Resumen de las consideraciones sobre gestión monetaria y contratación
 
-Resumen de las consideraciones sobre
-gestión monetaria y contratación
+La lista siguiente reúne la mayor parte de los elementos más importantes de la gestión monetaria y la contratación.
 
-La lista siguiente reúne la mayor parte de los elementos más importan-
-tes de la gestión monetaria y la contratación.
-1. Operar en la dirección de la tendencia intermedia.
+Operar en la dirección de la tendencia intermedia.
 
-2. En las tendencias al alza, comprar las caídas; en las tendencias a la baja,
-vender las subidas.
+En las tendencias al alza, comprar las caídas; en las tendencias a la baja, vender las subidas.
 
-3. Dejar que las ganancias corran y frenar las pérdidas.
-. Usar limites protectores para limitar las pérdidas.
-. No operar impulsivamente, sino siguiendo un plan.
+Dejar que las ganancias corran y frenar las pérdidas.
 
-4
-5
-6. Planificar el trabajo y trabajar el plan.
-7. Aplicar principios de gestión monetaria.
-8. Diversificar, pero sin exagerar.
-9. Emplear un coeficiente recompensa/riesgo de 3 a 1 como mínimo.
-10. Al hacer pirámide (añadir posiciones) seguir las siguientes indicacio-
-nes:
-a. Cada nivel sucesivo debe ser más pequeño que el anterior.
-b. Añadir sólo a posiciones ganadoras.
-C. No añadir nunca a una posición perdedora.
-d. Ajustar los límites de protección al umbral de rentabilidad.
+Usar limites protectores para limitar las pérdidas.
 
-11. No acudir nunca a una demanda de cobertura suplementaria; no tirar
-el dinero bueno en opciones malas.
+No operar impulsivamente, sino siguiendo un plan.
 
-12. Liquidar antes las posiciones con pérdidas que las que dan ganancias.
+Planificar el trabajo y trabajar el plan.
 
-13. Excepto en el caso de operaciones a muy corto plazo, tomar las deci-
-siones lejos del mercado, preferiblemente cuando esté cerrado.
+Aplicar principios de gestión monetaria.
 
-14. Pasar del plazo largo al corto.
-15. Utilizar gráficos intradía para afinar los momentos de entrada y salida.
+Diversificar, pero sin exagerar.
 
-430
+Emplear un coeficiente recompensa/riesgo de 3 a 1 como mínimo.
+
+Al hacer pirámide (añadir posiciones) seguir las siguientes indicaciones:
+
+Cada nivel sucesivo debe ser más pequeño que el anterior. .
+
+Añadir sólo a posiciones ganadoras.
+
+No añadir nunca a una posición perdedora.
+
+Ajustar los límites de protección al umbral de rentabilidad.
+
+No acudir nunca a una demanda de cobertura suplementaria; no tirar el dinero bueno en opciones malas.
+
+Liquidar antes las posiciones con pérdidas que las que dan ganancias.
+
+Excepto en el caso de operaciones a muy corto plazo, tomar las decisiones lejos del mercado, preferiblemente cuando esté

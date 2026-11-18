@@ -1,47 +1,7 @@
-Ciclos temporales 389
+500 (ver líneas verticales). El ECF estimó que el próximo mínimo cíclico aparecería 49 días después del último, o sea el 30 de marzo de 1998.
 
-10/29/93 (*DWI X) Dow Industrials
+El ECF ha detectado un ciclo de 133 días en la Boeing (ver líneas verticales). Como el último mínimo del ciclo sucedió en noviembre de 1997, el ECF estimó que el próximo mínimo se daría 133 días después, el 3 de junio de 1998.
 
-GRÁFICO DE BARRAS SEMANAL
+Los mínimos en los arcos coinciden con mínimos de reacción importantes del índice Dow cuando la separación entre ellos es de 40 semanas, lo que sugiere un ciclo de 40 días para dicho índice. Los dos últimos valles aparecieron en la primavera de 1997 y a comienzos de 1998 (ver flechas).
 
-Mínimos de ciclos
-| de 40 semanas
-
-Figura 14.19a _ Los mínimos en los arcos coinciden con mínimos de reacción im-
-portantes del índice Dow cuando la separación entre ellos es de 40 semanas, lo
-que sugiere un ciclo de 40 días para dicho índice. Los dos últimos valles apare-
-cieron en la primavera de 1997 y a comienzos de 1998 (ver flechas).
-
-ber19/97 (CDWI X) Dow Industrials 03/17/98
-
-GRÁFICO DE BARRAS DIARIO
-
-ll|||…|1'
-
-8 8
-
-j
-
-L
-
-M
-"a
-y
-
-Le
-
-MAy
-
-|l
-| '¡I!
-
-Mínimos de
-ciclos de 50 días
-u "go eo 0n Nov_— Dic de Z a
-
-Figura 14.19b _ Los arcos diarios del ciclo revelan la presencia de mínimos cícli-
-cos de 50 días en el índice Dow en el segundo semestre de 1997 y a comienzos de
-1998. La idea es desplazar los arcos hasta que sus mínimos coincidan con unos
-cuantos mínimos de reacción en el gráfico de precios.
-
-389
+Los arcos

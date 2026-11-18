@@ -1,49 +1,9 @@
-498 Apeéndice B
+puede usar un histograma para representar la distribución de la frecuencia de esas puntuaciones y obtener una “imagen estadística”. (Figura B.1).
 
-DISTRIBUCIÓN DE LOS RESULTADOS OBTENIDOS
-POR LOS ESTUDIANTES
+Como se puede ver, el resultado más frecuente, o resultado modal, es 75 (6 estudiantes) mientras que la amplitud de los resultados queda defi-
 
-7
-6
-5
-4
-3
-2
-1
-o]
+nida por los resultados más bajo y más alto (55 y 95). Observe cómo se distribuyen los resultados de manera uniforme alrededor del resultado modal. En una distribución perfectamente simétrica, el resultado modal será igual a la media, o resultado medio. A continuación observe que la distribución tiene forma de “campana”, señal indicadora de una distribución normal. En una distribución normal perfecta, los intervalos específicos de desviación típica se correlacionan con números específicos de observaciones. Por ejemplo, si los resultados del examen están distribuidos de forma perfectamente normal, el 68,3 por ciento de estos resultados estarán dentro de una (1) desviación típica de la media. Aunque la información real difícilmente forme una distribución normal perfecta, estas relaciones con frecuencia se acercan mucho.
 
-35 55 60 65 70 75 80 85 90 95 100
+Los precios, como otras medidas físicas (por ejemplo, resultados de exámenes, alturas de la población, etc.), se distribuyen también alrededor de un nivel de precio medio. ¿Qué es el gráfico de Market Profile? Visualícelo simplemente como una distribución de la frecuencia de precios representada como un histograma, pero apoyado sobre un costado (ver figuras B.2a y B.2b).
 
-Resultados del examen
-
-Figura B.1
-
-nida por los resultados más bajo y más alto (55 y 95). Observe cómo se dis-
-tribuyen los resultados de manera uniforme alrededor del resultado mo-
-dal. En una distribución perfectamente simétrica, el resultado modal será
-igual a la media, o resultado medio. A continuación observe que la distri-
-bución tiene forma de “campana”, señal indicadora de una distribución
-normal. En una distribución normal perfecta, los intervalos específicos de
-desviación típica se correlacionan con números específicos de observacio-
-nes. Por ejemplo, si los resultados del examen están distribuidos de forma
-perfectamente normal, el 68,3 por ciento de estos resultados estarán den-
-tro de una (1) desviación típica de la media. Aunque la información real
-difícilmente forme una distribución normal perfecta, estas relaciones con
-frecuencia se acercan mucho.
-
-Los precios, como otras medidas físicas (por ejemplo, resultados de
-exámenes, alturas de ta población, etc.), se distribuyen también alrededor
-de un nivel de precio medio. ¿Qué es el gráfico de Market Profile? Visua-
-lícelo simplemente como una distribución de la frecuencia de precios re-
-presentada como un histograma, pero apoyado sobre un costado (ver fi-
-guras B.2a y B.2b).
-
-El elemento central del gráfico de Market Profile es la curva normal
-(en forma de campana) utilizada para mostrar la evolución de la distribu-
-ción de precios. Una vez que se acepta el supuesto de curva normal, se
-puede identificar un precio modal o medio, se puede computar una dis-
-persión de precios (desviación típica) y se pueden hacer declaraciones de
-probabilidad con respecto a la distribución de precios. Por ejemplo, prác-
-ticamente todos los valores están dentro de tres (3) desviaciones típicas de
-
-498
+El elemento central del gráfico de Market Profile es la curva normal (en forma de campana) utilizada para mostrar la evolución de la distribución de precios. Una vez que se acepta el supuesto de curva normal, se puede identificar un precio modal o medio, se puede computar una dispersión de precios (desviación típica)

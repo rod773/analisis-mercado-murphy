@@ -1,49 +1,33 @@
-Volumen e interés abierto 187
+precios suben (ver círculos). Eso significa que el volumen confirma la subida del precio y es alcista.
 
 Interés abierto en los futuros
 
-El número total de contratos pendientes o no liquidados al final del
-día es lo que se llama interés abierto. En la figura 7.2, interés abierto es
-la línea seguida trazada en el gráfico por debajo de la correspondiente in-
-formación sobre los precios de aquel día, pero por encima de las barras
-de volumen. Recuerde que las cifras oficiales de volumen e interés abier-
-to se conocen con un día de retraso en los mercados de futuros, o sea
-que se representan con un desfase de un día. (Sólo se dispone de cifras
-estimadas de volumen correspondientes al último día de operaciones).
-Esto quiere decir que todos los días el chartista traza las barras del pre-
-cio máximo, mínimo y de cierre del último día de operaciones, pero re-
-presenta las cifras oficiales de volumen e interés abierto correspondien-
-tes al día anterior.
+El número total de contratos pendientes o no liquidados al final del día es lo que se llama interés abierto. En la figura 7.2, interés abierto es la línea seguida trazada en el gráfico por debajo de la correspondiente información sobre los precios de aquel día, pero por encima de las barras de volumen. Recuerde que las cifras oficiales de volumen e interés abierto se conocen con un día de retraso en los mercados de futuros, o sea que se representan con un desfase de un día. (Sólo se dispone de cifras estimadas de volumen correspondientes al último día de operaciones). Esto quiere decir que todos los días el charlista traza las barras del precio máximo, mínimo y de cierre del último día de operaciones, pero representa las cifras oficiales de volumen e interés abierto correspondientes al día anterior.
 
-El interés abierto representa el número total de posiciones largas o cor-
-tas pendientes en el mercado, pero no la suma de ambas. Interés abierto
-quiere decir número de contratos. Un contrato tiene que tener un com-
-prador y un vendedor, o sea que dos participantes del mercado se combi-
-nan para crear un solo contrato. La cifra de interés abierto publicada cada
-día va seguida de un número positivo o negativo que indica el aumento o
-el descenso del número de contrataciones de ese día. Son esos cambios en
-los niveles de interés abierto, hacia arriba o hacia abajo, los que le dan al
-chartista pautas sobre el carácter cambiante de la participación en el mer-
-cado y los que hacen que tenga fuerza de pronóstico.
+El interés abierto representa el número total de posiciones largas o cortas pendientes en el mercado, pero no la suma de ambas. Interés abierto quiere decir número de contratos. Un contrato tiene que tener un comprador y un vendedor, o sea que dos participantes del mercado se combinan para crear un solo contrato. La cifra de interés abierto publicada cada día va seguida de un número positivo o negativo que indica el aumento o el descenso del número de contrataciones de ese día. Son esos cambios en los niveles de interés abierto, hacia arriba o hacia abajo, los que le dan al charlista pautas sobre el carácter cambiante de la participación en el mercado y los que hacen que tenga fuerza de pronóstico.
 
-Cómo ocurren los cambios en el interés abierto.Para comprender la
-importancia que tiene la interpretación de los cambios en el interés abier-
-to, el lector debe entender primero cómo cada operación produce un
-cambio en las cifras.
+Cómo ocurren los cambios en el interés abierto. Para comprender la importancia que tiene la interpretación de los cambios en el interés abierto, el lector debe entender primero cómo cada operación produce un cambio en las cifras.
 
-Cada vez que se completa una operación en el parquet de la bolsa, el
-interés abierto se ve afectado de una determinada manera: aumenta, dis-
-minuye o permanece inalterado. Veamos cómo ocurren esos cambios.
+Cada vez que se completa una operación en el parquet de la bolsa, el interés abierto se ve afectado de una determinada manera: aumenta, disminuye o permanece inalterado. Veamos cómo ocurren esos cambios.
 
-Comprador Vendedor Cambio en interés
-abierto
+Comprador
 
-1. Compra nueva posición larga — Vende nueva posición corta Aumenta
+Vendedor
 
-2. Compra nueva posición larga — Vende vieja posición larga No hay cambio
+Cambio en interés abierto
 
-3. Compra vieja posición corta Vende nueva posición corta No hay cambio
+1. Compra nueva posición larga
 
-4. Compra vieja posición corta Vende vieja posición larga Disminuye
+Vende nueva posición corta
 
-187
+Aumenta
+
+2. Compra nueva posición larga
+
+Vende vieja posición larga
+
+No hay cambio
+
+3. Compra vieja posición corta
+
+Vende nueva posición

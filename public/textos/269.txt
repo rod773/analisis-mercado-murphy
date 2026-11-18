@@ -1,37 +1,9 @@
-D8/19/97 (*DWT X) Dow Transportation
-Índice de fuerza relativa (IFR) - 9 días
-1
+mercados sobrecomprados pueden permanecer así durante algún tiempo. El hecho de que el oscilador se haya trasladado a la región superior no es razón suficiente para liquidar una posición larga (o, lo que es peor, una corta en una fuerte tendencia al alza).
 
-Línea 70
+El primer movimiento hacia la región sobrecomprada o sobrevendida suele ser una simple advertencia. La señal a la que hay que prestarle mucha atención es el segundo movimiento del oscilador hacia la zona de peligro Si el segundo movimiento no puede confirmar el movimiento del precio a nuevos máximos o nuevos mínimos (formando un doble superior o inferior en el oscilador), es posible que exista una divergencia. En ese punto, se pueden tomar algunas medidas defensivas para proteger las posiciones existentes. Si el oscilador se mueve en la dirección opuesta, superando un máximo o un mínimo previo, se confirma la existencia de una divergencia o una oscilación de fracaso.
 
-l , ( Línea 30
-
-[2850 _|
-
-3 20 27 _
-—— i1O Siem Prinaed using Tradobmalon O Omaga Nessarc, Ina. 1997
-
-Figura 10.12b — Oscilación fallida por arriba. El segundo pico (2) es más bajo que
-el primero (1) mientras la línea del IFR está por encima de 70 y los precios siguen
-subiendo. La ruptura de la línea del IFR debajo del valle del medio (punto 3) in-
-dica un máximo.
-
-precio a nuevos máximos o nuevos mínimos (formando un doble superior
-o inferior en el oscilador), es posible que exista una divergencia. En ese
-punto, se pueden tomar algunas medidas defensivas para proteger las po-
-siciones existentes. Si el oscilador se mueve en la dirección opuesta, supe-
-rando un máximo o un mínimo previo, se confirma la existencia de una
-divergencia o una oscilación de fracaso.
-
-El nivel 50 es el valor medio del IFR, y con frecuencia servirá de apoyo
-en los retrocesos y de resistencia en las recuperaciones. Algunos operado-
-res consideran los cruces del IFR por encima y por debajo del nivel 50
-como señales respectivas de compra y venta.
+El nivel 50 es el valor medio del IFR, y con frecuencia servirá de apoyo en los retrocesos y de resistencia en las recuperaciones. Algunos operadores consideran los cruces del IFR por encima y por debajo del nivel 50 como señales respectivas de compra y venta.
 
 El uso de las líneas 70 y 30 para generar señales
 
-En los valores 70 y 30 aparecen líneas horizontales en el gráfico del os-
-cilador, y los operadores a menudo usan esas líneas para generar señales
-de compra y venta. Ya sabemos que un movimiento por debajo de 30 ad-
-
-269
+En los valores 70 y 30 aparecen líneas horizontales en el gráfico del

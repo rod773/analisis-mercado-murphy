@@ -1,43 +1,11 @@
-502 Apéndice B
+avisando a los operadores que aparezcan para detener las compras”.
 
-Para explicar el funcionamiento de una lonja de contratación como si
-fuera un proceso de subasta, inventó algunos términos nuevos desconoci-
-dos para los operadores externos. Comenzó con la definición del propósi-
-to de un mercado, que es facilitar las operaciones. A continuación, definió
-algunos procedimientos operativos, concretamente que el mercado opera
-en forma de subasta doble a medida que los precios rotan alrededor de un
-precio medio (algo parecido a lo que sucedía con la distribución de los re-
-sultados de exámenes). Finalmente, definió las características de compor-
-tamiento de las personas que participan en el mercado diciendo, por
-ejemplo, que los operadores que tienen un marco temporal a corto plazo
-buscan un precio justo, mientras que los que disponen de más tiempo bus-
-can un precio ventajoso.
+Para explicar el funcionamiento de una lonja de contratación como si fuera un proceso de subasta, inventó algunos términos nuevos desconocidos para los operadores externos. Comenzó con la definición del propósito de un mercado, que es facilitar las operaciones. A continuación, definió algunos procedimientos operativos, concretamente que el mercado opera en forma de subasta doble a medida que los precios rotan alrededor de un precio medio (algo parecido a lo que sucedía con la distribución de los resultados de exámenes). Finalmente, definió las características de comportamiento de las personas que participan en el mercado diciendo, por ejemplo, que los operadores que tienen un marco temporal a corto plazo buscan un precio justo, mientras que los que disponen de más tiempo buscan un precio ventajoso.
 
 Principios organizativos del perfil del mercado
 
-Entorno de subasta: El propósito del mercado es facilitar o promocio-
-nar las operaciones, y todas las actividades del mercado se dan dentro de
-este entorno. Inicialmente, a medida que los precios suben, hay más com-
-pras, y a medida que los precios bajan, hay más ventas. El mercado sube
-para detener las ventas (o sea, subasta al alza hasta que el último compra-
-dor compra) y baja para detener las ventas (subasta a la baja hasta que el
-último vendedor vende). El mercado en realidad opera en un proceso de
-subasta dual. Cuando los precios suben y hay más compras, el movimiento
-al alza lo hace saber para que una respuesta opuesta (o sea, ventas) de-
-_ tenga el movimiento direccional. Y cuando los precios bajan sucede lo
-contrario.
+Entorno de subasta: El propósito del mercado es facilitar o promocio- nar las operaciones, y todas las actividades del mercado se dan dentro de este entorno. Inicialmente, a medida que los precios suben, hay más compras, y a medida que los precios bajan, hay más ventas. El mercado sube para detener las ventas (o sea, subasta al alza hasta que el último comprador compra) y baja para detener las ventas (subasta a la baja hasta que el último vendedor vende). El mercado en realidad opera en un proceso de subasta dual. Cuando los precios suben y hay más compras, el movimiento al alza lo hace saber para que una respuesta opuesta (o sea, ventas) detenga el movimiento direccional. Y cuando los precios bajan sucede lo contrario.
 
-Negociación continua: Cuando un mercado se mueve direccionalmen-
-te, establece parámetros de precios, un máximo injusto y un mínimo injus-
-to, y luego opera entre ellos para establecer una zona de valor justo.
-Todas las operaciones ocurren dentro de este proceso de negocia-
-ción y permanecen dentro de estos parámetros hasta que se forma
-un nuevo máximo o un nuevo mínimo (ver figura B.4).
+Negociación continua: Cuando un mercado se mueve direccionalmen- te, establece parámetros de precios, un máximo injusto y un mínimo injusto, y luego opera entre ellos para establecer una zona de valor justo. Todas las operaciones ocurren dentro de este proceso de negociación y permanecen dentro de estos parámetros hasta que se forma un nuevo máximo o un nuevo mínimo (ver figura B.4).
 
-Equilibrio y desequilibrio del mercado: El mercado está en
-equilibrio o buscando el equilibrio entre compradores y vende-
-dores. Para facilitar las operaciones, el mercado pasa de un esta-
-do de equilibrio a uno de desequilibrio y a continuación vuelve a
-ponerse en equilibrio. Este patrón de comportamiento del mer-
-
-502
+Equilibrio y desequilibrio del mercado: El mercado está en equilibrio o buscando el equilibrio entre compradores y vendedores. Para facilitar las operaciones, el mercado pasa de un estado

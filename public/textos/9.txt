@@ -1,39 +1,71 @@
-Índice 9
-Índice de fuerza relativa (IFR) ...............e0e....... 281
-El uso de las líneas 70 y 30 para generar señales .......... 288
-El proceso estocástico (K%D). ......................... 288
-Larry Williams %R..............e000resrereroreeone. 292
-La importancia de la tendencia .................—.—...... 294
-Momentos de mayor utilidad de los osciladores........... 295
+de un oscilador usando dos medias móviles .. 277
+
+Indice del canal de mercancías 279
+
+Indice de fuerza relativa (IFR) 281
+
+El uso de las líneas 70 y 30 para generar señales 288
+
+El proceso estocástico (K%D) 288
+
+Larry Williams %R 292
+
+La importancia de la tendencia 294
+
+Momentos de mayor utilidad de los osciladores 295
+
 Convergencia/divergencia de la media móvil (CDMM) .... 296
-Histograma CDMM ................e.erreeeeeceereoe.. 298
-Combinación de gráficos semanales y diarios............. 299
-El principio de la Opinión Contraria en los futuros. ....... 300
-Lecturas de los sentimientos del inversor ................ 305
-Cifras proporcionadas por Investors Intelligence.......... 306
 
-11 Los gráficos de puntos y figuras. ............ eecorebóde. 309
-Introducción ...........ee.reece0rerroareerere A 309
-El gráfico de puntos y figuras vs el gráfico de barras ....... 310
+Histograma CDMM 298
+
+Combinación de gráficos semanales y diarios 299
+
+El principio de la Opinión Contraria en los futuros 300
+
+Lecturas de los sentimientos del inversor 305
+
+Cifras proporcionadas por Investors Intelligence 306
+
+11 Los gráficos de puntos y figuras 309
+
+Introducción 309
+
+El gráfico de puntos y figuras vs el gráfico de barras 310
+
 Construcción de un gráfico de puntos y figuras intradiario . 314
-La cuenta horizontal ............_....eerervercorvene 318
-Modelos de precios ...........eeeeeereeeerererreree.. 320
-Gráficos de inversión de puntos y figuras de 3 registros .... 322
-Construcción del gráfico de inversión de 3 puntos ........ 323
-Trazado de las líneas de tendencia...................... 327
-Técnicas de medición ..............eeeereseesecocroo> 331
-Tácticas negociadoras ............ee...eeereoeooocceen. 332
-Ventajas de los gráficos de puntos y figuras. .............. 333
-Indicadores técnicos de P8cF. ...............—.-.ee....... 334
-Gráficos de PF por ordenador.............eee...... - 334
-Medias móviles de PÉcF ..................—.rereeccerere. 338
-Conclusión ..........eeeeeseeerecoroeerereee Ae 342
 
-12 Velas japonesas...................ee.eeerrrereeee s 343
-Introducción ..........e.eeeerecrcoreererreerer e. 343
-Gráficos de velas. ...........e_.eeereesrccorieererece.. 343
-Velas básicas ........eñe.eeeceervccrercrererene eee 345
-Análisis del patrón de velas..............eo_eerew.eee..-. 347
-Patrones de velas filtrados. . .............e..eee.eeee—.. 352
-Conclusión ...........ee.eesseoriecerecerrecer e 354
-Patrones de velas ............ee.eeeeresreccroreeoe.. 355
+La cuenta horizontal 318
+
+Modelos de precios 320
+
+Gráficos de inversión de puntos y figuras de 3 registros .... 322
+
+Construcción del gráfico de inversión de 3 puntos 323
+
+Trazado de las líneas de tendencia 327
+
+Técnicas de medición 331
+
+Tácticas negociadoras 332
+
+Ventajas de los gráficos de puntos y figuras 333
+
+Indicadores técnicos de P&F 334
+
+Gráficos de P&F por ordenador 334
+
+Medias móviles de P&F 338
+
+Conclusión 342
+
+12 Velas japonesas 343
+
+Introducción 343
+
+Gráficos de velas 343
+
+Velas básicas 345
+
+Análisis del patrón de velas 347
+
+Patrones de velas filtrados 352

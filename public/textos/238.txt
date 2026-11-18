@@ -1,35 +1,9 @@
-238 Capítulo 9
+que la tendencia actual puede estar cambiando, y cuando se han acercado mucho, es señal de que el mercado puede estar iniciando una nueva tendencia. Las Bandas de Bollinger también se pueden aplicar a los gráficos de precios semanales y mensuales usando 20 semanas y 20 meses en lugar de 20 días.
 
-[5/24/96 (*DWI X) Dow Industrials
+les usando una media de 20 semanas como línea media. Cada contacto con la banda inferior (ver círculos) indicó un importante momento bajo del mercado y una oportunidad de compra.
 
-Banda de Bollinger
-Gráfico de barras semanal
-
-Media de 20 semanas
-
-s o N b be F-
-
-—305 Z0pm Prinimd usirg TradaBiallon 6 Omaga Ressarch, ine. TO
-
-Figura 9.95 Las Bandas de Bollinger también funcionan en los gráficos semana-
-les usando una media de 20 semanas como línea media. Cada contacto con la
-banda inferior (ver círculos) indicó un importante momento bajo del mercado y
-una oportunidad de compra.
-
-de Bollinger tienen su mejor rendimiento cuando se las combina con los
-osciladores sobrecomprados/sobrevendidos que se explican en el capítu-
-lo siguiente. (Ver el apéndice A para técnicas adicionales de bandas).
+de Bollinger tienen su mejor rendimiento cuando se las combina con los osciladores sobrecomprados/sobrevendidos que se explican en el capítulo siguiente. (Ver el apéndice A para técnicas adicionales de bandas).
 
 Centrar la media
 
-La forma estadísticamente más correcta de representar gráficamente
-una media móvil es centrarla, es decir, colocarla en el centro del período
-que cubre. Una media de 10 días, por ejemplo, se colocaría cinco días atrás,
-y una media de 20 días, se representaría gráficamente 10 días atrás en el
-tiempo; pero centrar la media tiene, sin embargo, el fuerte inconveniente
-de producir.señales atrasadas del cambio de tendencia. Por lo tanto, las me-
-dias móviles suelen colocarse al final del período cubierto en lugar de en la
-mitad. La técnica de centrar la media la usan casi exclusivamente los analis-
-tas cíclicos para aislar los ciclos del mercado subyacente.
-
-238
+La forma estadísticamente más correcta de representar gráficamente una media móvil es centrarla, es decir, colocarla en el centro del período que cubre. Una media de 10 días, por ejemplo, se colocaría cinco días atrás, y una media de 20 días, se representaría gráficamente 10 días atrás en el tiempo; pero centrar la media tiene, sin embargo, el fuerte inconveniente de producir.señales atrasadas del cambio de tendencia. Por lo tanto, las medias móviles suelen colocarse al final del período cubierto en lugar de en la mitad. La técnica de centrar

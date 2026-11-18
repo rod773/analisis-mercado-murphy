@@ -1,43 +1,9 @@
-436 Capítulo 17
+del contrato de futuros del índice S&P 500 no está en línea con el índice S&P 500 en efectivo, es una realidad del día a día. Por estas razones, parece quedar claro que cuanto más se conozca el mundo de las operaciones con futuros, más completa será la visión que se tenga de los mercados financieros.
 
-el índice SP 500 en efectivo, es una realidad del día a día. Por estas ra-
-zones, parece quedar claro que cuanto más se conozca el mundo de las
-operaciones con futuros, más completa será la visión que se tenga de los
-mercados financieros.
+Ha quedado establecido que los movimientos en los mercados de futuros pueden tener una importante influencia sobre el mercado de valores en sí. Las incipientes señales de inflación y las tendencias de los tipos de interés suelen detectarse primero en las lonjas de futuros, que a menudo determinan la dirección que tomará la cotización de los valores en un momento dado. Las tendencias del dólar nos dicen muchas cosas sobre la fortaleza o la debilidad de la economía norteamericana, que a su vez tiene un impacto importante sobre los beneficios de las empresas y la valoración del precio de las acciones. Pero la relación es incluso más profunda. El mercado de valores se divide en sectores y grupos industriales, y la rotación entre las entradas y salidas de dichos grupos a menudo la dicta lo que pasa en los futuros. Con el tremendo crecimiento de los fondos de inversión, y en particular de los fondos de sector, la capacidad de capitalizar la rotación que permite entrar en grupos ganadores y salir de grupos perdedores se ha hecho mucho más sencilla.
 
-Ha quedado establecido que los movimientos en los mercados de futu-
-ros pueden tener una importante influencia sobre el mercado de valores
-en sí. Las incipientes señales de inflación y las tendencias de los tipos de
-interés suelen detectarse primero en las lonjas de futuros, que a menudo
-determinan la dirección que tomará la cotización de los valores en un mo-
-mento dado. Las tendencias del dólar nos dicen muchas cosas sobre la for-
-taleza o la debilidad de la economía norteamericana, que a su vez tiene un
-impacto importante sobre los beneficios de las empresas y la valoración
-del precio de las acciones. Pero la relación es incluso más profunda. El
-mercado de valores se divide en sectores y grupos industriales, y la rota-
-ción entre las entradas y salidas de dichos grupos a menudo la dicta lo que
-pasa en los futuros. Con el tremendo crecimiento de los fondos de inver-
-sión, y en particular de los fondos de sector, la capacidad de capitalizar la
-rotación que permite entrar en grupos ganadores y salir de grupos perde-
-dores se ha hecho mucho más sencilla.
-
-En este capítulo veremos el tema más amplio del análisis entre merca-
-dos, ya que trata de la interacción entre monedas extranjeras, mercancías,
-obligaciones y valores. Nuestro primer mensaje es sobre la íntima cone-
-xión que existe entre los cuatro mercados, y le mostraremos cómo usar los
-mercados de futuros en el proceso de rotación de sectores y grupos in-
-dustriales dentro del propio mercado de valores.
+En este capítulo veremos el tema más amplio del análisis entre mercados, ya que trata de la interacción entre monedas extranjeras, mercancías, obligaciones y valores. Nuestro primer mensaje es sobre la íntima conexión que existe entre los cuatro mercados, y le mostraremos cómo usar los mercados de futuros en el proceso de rotación de sectores y grupos industriales dentro del propio mercado de valores.
 
 Análisis entre mercados
 
-En 1991 escribí un libro titulado Intermarket Technical Analysis que des-
-cribía las interrelaciones entre los distintos mercados financieros univer-
-salmente aceptados hoy en día. El libro era como una guía o borrador que
-ayudaba a explicar la secuencia que se desarrolla entre los distintos mer-
-cados y mostraba la verdadera interdependencia que existe entre ellos. La
-premisa básica del análisis entre mercados es que todos los mercados fi-
-nancieros están relacionados de alguna manera, incluidos los mercados
-internacionales y los domésticos. Esas relaciones a veces pueden variar,
-pero siempre están presentes de una forma u otra. Por lo tanto, no es po-
-
-436
+En 1991 escribí un libro titulado Intermarket Technical Analysis que describía las interrelaciones entre los distintos mercados financieros universalmente aceptados hoy en día. El libro era como una guía o borrador que ayudaba a explicar la secuencia que se desarrolla entre los distintos mercados y mostraba la verdadera interdependencia que existe entre ellos. La premisa básica del análisis entre mercados es que todos los mercados financieros están relacionados de alguna manera, incluidos los mercados internacionales y los domésticos. Esas relaciones a veces pueden variar, pero siempre están

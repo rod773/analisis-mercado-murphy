@@ -1,44 +1,9 @@
-342 Capítulo 13
-
-escritos originales de Elliott que hacía mucho tiempo que no se impri-
-mían.
+y en 1980 publicó el libro llamado Los trabajos principales de R. Elliott, ofreciendo así los escritos originales de Elliott que hacía mucho tiempo que no se imprimían.
 
 Principios básicos de la Teoría de las Ondas de Elliott
 
-Hay tres aspectos importantes en la teoría de las ondas: patrón, coeficien-
-te y tiempo, por ese orden de importancia. Patrón hace referencia a los mo-
-delos de ondas o formaciones que contienen el elemento más importante
-de la teoría. El análisis de coeficientes es útil para determinar los puntos de
-retroceso y los objetivos de precios midiendo las relaciones entre las dis-
-tintas ondas. Finalmente, las relaciones de tiempo también existen y se pue-
-den usar para confirmar los patrones y coeficientes de las ondas, aunque
-algunos seguidores de Elliott las consideran menos confiables para hacer
-pronósticos de mercado.
+Hay tres aspectos importantes en la teoría de las ondas: patrón, coeficiente y tiempo, por ese orden de importancia. Patrón hace referencia a los modelos de ondas o formaciones que contienen el elemento más importante de la teoría. El análisis de coeficientes es útil para determinar los puntos de retroceso y los objetivos de precios midiendo las relaciones entre las distintas ondas. Finalmente, las relaciones de tiempo también existen y se pueden usar para confirmar los patrones y coeficientes de las ondas, aunque algunos seguidores de Elliott las consideran menos confiables para hacer pronósticos de mercado.
 
-La Teoría de las Ondas de Elliott se aplicó al principio a los promedios
-bursátiles más destacados, en particular el índice industrial Dow Jones. En
-su forma más básica, la teoría dice que el mercado de valores sigue un rit-
-mo repetitivo de cinco ondas de adelante seguidas por tres ondas de re-
-troceso. La figura 13.1 muestra un ciclo completo. Si contamos las olas, ve-
-remos que cada ciclo completo tiene ocho ondas, cinco hacia arriba y tres
-hacia abajo. En la parte del ciclo que avanza, obsérvese que cada una de
-las ondas está numerada. Las ondas 1, 3 y 5, llamadas ondas de impulso,
-son ondas ascendentes, mientras que las ondas 2 y 4 se mueven en direc-
-ción contraria a la tendencia ascendente. Las ondas 2 y 4 se llaman ondas
-de corrección porque corrigen las ondas 1 y 3. Una vez completado el
-avance de cinco ondas numeradas, comienza la corrección de tres ondas,
-identificadas a su vez por las letras a, b y c.
+La Teoría de las Ondas de Elliott se aplicó al principio a los promedios bursátiles más destacados, en particular el índice industrial Dow Jones. En su forma más básica, la teoría dice que el mercado de valores sigue un ritmo repetitivo de cinco ondas de adelante seguidas por tres ondas de retroceso. La figura 13.1 muestra un ciclo completo. Si contamos las olas, veremos que cada ciclo completo tiene ocho ondas, cinco hacia arriba y tres hacia abajo. En la parte del ciclo que avanza, obsérvese que cada una de las ondas está numerada. Las ondas 1, 3 y 5, llamadas ondas de impulso, son ondas ascendentes, mientras que las ondas 2 y 4 se mueven en dirección contraria a la tendencia ascendente. Las ondas 2 y 4 se llaman ondas de corrección porque corrigen las ondas 1 y 3. Una vez completado el avance de cinco ondas numeradas, comienza la corrección de tres ondas, identificadas a su vez por las letras a, b y c.
 
-Junto con la forma constante de las diferentes ondas, también está la
-importante consideración del grado. Hay muchos grados diferentes de
-tendencia. Elliott, de hecho, categorizó nueve grados diferentes de ten-
-dencia (0 magnitud), que van desde un Gran Superciclo que cubre dos-
-cientos años hasta un grado subdiminuto que cubre sólo unas pocas horas.
-De todos modos, el punto importante a recordar es que el ciclo básico de
-ocho ondas permanece contante con independencia del grado de ten-
-dencia que se esté estudiando.
-
-Cada onda se subdivide en ondas de un grado menor que, a su vez,
-también se pueden subdividir en ondas de grados aún menores, de lo que
-
-342
+Junto con la forma constante de las diferentes ondas, también está la importante consideración del grado. Hay muchos grados diferentes de tendencia. Elliott, de hecho, categorizó nueve grados diferentes de tendencia (o magnitud), que van desde un Gran Superciclo que cubre doscientos años hasta un grado subdiminuto que cubre sólo unas pocas horas. De todos modos, el punto importante a recordar es que el ciclo básico de ocho ondas permanece contante con independencia del grado de tendencia

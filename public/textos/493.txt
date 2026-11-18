@@ -1,30 +1,11 @@
-Indicadores técnicos avanzados 493
+segundo gráfico, de precios del café en marzo
 
-PRECIOS DIARIOS DEL COBRE CON
-CANALES DE KELTNER
+PRECIOS DIARIOS DEL COBRE CON CANALES DE KELTNER
 
-Línea superior = canal +
+Línea superior = canal +Línea media = media exponencial de 20 días
 
-Línea media = media exponencial
-de 20 días
+Línea inferior = canal -Línea inferior = canal -Figura A.6 Canales de Keltner representados alrededor de una media de 20 días suavizada exponencialmente de precios diarios del cobre. Con este indicador, los movimientos por debajo del canal inferior (como el punto 1) se interpretan como señal de debilidad.
 
-Línea inferior = canal —
+de 1998 (Figura A.7) ilustra una señal positiva en el punto 1. Después de dos cierres consecutivos por encima de la banda +, los precios bajaron hasta la media móvil exponencial (MME) de 20 días, que en un mercado ascendente debería actuar como apoyo. Varios días después de tocar la MME (punto 2), los precios del café tuvieron un destacado ascenso de 30 céntimos en sólo unas pocas semanas.
 
-Figura A.6  Canales de Keltner representados alrededor de una media de 20 días
-suavizada exponencialmente de precios diarios del cobre. Con este indicador, los
-movimientos por debajo del canal inferior (como el punto 1) se interpretan
-como señal de debilidad.
-
-de 1998 (Figura A.7) ilustra una señal positiva en el punto 1. Después de
-dos cierres consecutivos por encima de la banda +, los precios bajaron has-
-ta la media móvil exponencial (MME) de 20 días, que en un mercado as-
-cendente debería actuar como apoyo. Varios días después de tocar la
-MME (punto 2), los precios del café tuvieron un destacado ascenso de 30
-céntimos en sólo unas pocas semanas.
-
-Ambas técnicas ofrecen un enfoque alternativo tanto a los sobres por-
-centuales como a las bandas de desviación (por ejemplo, las bandas de Bo-
-llinger). Ninguna de ellas es un sistema de contratación en sí, son herra-
-mientas adicionales para la actividad del operador.
-
-493
+Ambas técnicas ofrecen un enfoque alternativo tanto a los sobres porcentuales como a las bandas de desviación (por ejemplo, las bandas de Bo- llinger). Ninguna de ellas es

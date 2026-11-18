@@ -1,42 +1,7 @@
-396 Capítulo 14
+técnicos tradicionales se encuentran en el uso de las medias móviles y osciladores. Se cree que la utilidad de ambos indicadores puede reforzarse si los períodos usados están ligados a los ciclos dominantes de cada mercado. Asumamos que un mercado tiene un ciclo dominante de operaciones de 20 días. Normalmente, al construir un oscilador, lo mejor es usar la mitad de la duración del ciclo. En este caso, el período del oscilador sería de 10 días. Para operar en un ciclo de 40 días, use un oscilador de 20 días. Walt Bressert, en su libro The Power of Oscillator/Cycle Combina- tions, discute cómo se pueden usar los ciclos para ajustar los períodos temporales al Indice del Canal de Mercancías, al Indice de Fuerza Relativa, a los estocásticos, y a la convergencia divergencia de la media móvil (CDMM).
 
-viles y osciladores. Se cree que la utilidad de ambos indicadores puede re-
-forzarse si los períodos usados están ligados a los ciclos dominantes de
-cada mercado. Asumamos que un mercado tiene un ciclo dominante de
-operaciones de 20 días. Normalmente, al construir un oscilador, lo mejor
-es usar la mitad de la duración del ciclo. En este caso, el período del osci-
-lador sería de 10 días. Para operar en un ciclo de 40 días, use un oscilador
-de 20 días. Walt Bressert, en su libro The Power of Oscillator/Cycle Combina-
-tions, discute cómo se pueden usar los ciclos para ajustar los períodos tem-
-porales al Índice del Canal de Mercancías, al Índice de Fuerza Relativa, a
-los estocásticos, y a la convergencia divergencia de la media móvil
-(CDMM).
-
-Las medias móviles también se pueden ligar a los ciclos. Por ejemplo, se
-pueden usar medias móviles para seguir la pista de diferentes duraciones
-cíclicas. Para generar un sistema de cruzamiento de medias móviles para
-un ciclo de 40 días, se puede usar una media móvil de 40 días en conjun-
-ción con una media de 20 días (la mitad del ciclo de 40 días) o una media
-de 10 días (la cuarta parte del ciclo de 40 días). El problema principal de
-este enfoque es determinar cuáles son los ciclos dominantes en un mo-
-mento concreto del tiempo.
+Las medias móviles también se pueden ligar a los ciclos. Por ejemplo, se pueden usar medias móviles para seguir la pista de diferentes duraciones cíclicas. Para generar un sistema de cruzamiento de medias móviles para un ciclo de 40 días, se puede usar una media móvil de 40 días en conjunción con una media de 20 días (la mitad del ciclo de 40 días) o una media de 10 días (la cuarta parte del ciclo de 40 días). El problema principal de este enfoque es determinar cuáles son los ciclos dominantes en un momento concreto del tiempo.
 
 Análisis espectral de la entropía máxima
 
-La búsqueda de los ciclos dominantes adecuados en cualquier mercado
-es complicada por la creencia de que las duraciones de los ciclos no son
-estáticas, o dicho de otro modo, que cambian continuamente. Algo que
-funcionaba el mes pasado, tal vez no funcione dentro de un mes. En su li-
-bro MESA and Trading Market Cycles, John Ehlers utiliza un enfoque esta-
-dístico llamado Maximum Entropy Spectral Analysis (MESA), o análisis es-
-pectral de la entropía máxima. Ehlers explica que una de las ventajas
-principales de su enfoque es su medida de alta resolución de ciclos con pe-
-ríodos relativamente pequeños, algo que es crucial para operar a plazos
-cortos. Ehlers también explica la forma de utilizar los ciclos para optimizar
-las duraciones de las medias móviles y muchos de los indicadores tipo os-
-cilador que ya hemos mencionado. Descubrir los ciclos permite el ajuste
-dinámico de los indicadores técnicos a las actuales condiciones del merca-
-do. Ehlers también trata el problema de la distinción entre un mercado en
-un ciclo en oposición a un mercado en una tendencia. Cuando un merca-
-
-396
+La búsqueda de los ciclos dominantes adecuados en cualquier mercado es complicada por la creencia de que las duraciones de los ciclos no son estáticas, o dicho de otro modo, que cambian continuamente. Algo que funcionaba el mes pasado, tal vez no funcione dentro de un mes. En su libro MESA and Trading Market Oyeles, John Ehlers utiliza un enfoque estadístico llamado Máximum Entropy Spectral Analysis (MESA), o análisis espectral de la entropía máxima. Ehlers explica que una de las ventajas principales de su enfoque es su medida de alta resolución de ciclos con períodos relativamente pequeños, algo que es crucial para operar a plazos cortos. Ehlers también explica la forma de utilizar los ciclos para optimizar las duraciones de las medias móviles y muchos de los indicadores tipo oscilador que ya hemos mencionado. Descubrir los ciclos permite el ajuste dinámico de los indicadores técnicos a las actuales condiciones del mercado. Ehlers también trata el problema de la distinción entre un mercado en un ciclo en oposición a un mercado

@@ -1,44 +1,9 @@
-276 Capítulo 10
-
-tariamente en el ciclo de contratación de 28 días y miden la mitad del va-
-lor de dicho ciclo dominante. En el capítulo 14 volveremos a ver la im-
-portancia de los ciclos.
+días y las duraciones de 14 días del IFR se basan mayori- tariamente en el ciclo de contratación de 28 días y miden la mitad del valor de dicho ciclo dominante. En el capítulo 14 volveremos a ver la importancia de los ciclos.
 
 La importancia de la tendencia
 
-En este capítulo hemos visto el uso del oscilador en el análisis del mer-
-cado para ayudar a determinar condiciones sobrecompradas y sobrevendi-
-das a corto plazo, así como para alertar a los operadores sobre posibles di-
-vergencias. Comenzamos con la línea de momento. Discutimos otra forma
-de medir tasas de cambio (TDC) usando coeficientes de precios en lugar
-de diferencias. Luego vimos cómo se pueden comparar dos medias móvi-
-les para detectar extremos y cruces a corto plazo. Finalmente, hemos visto
-el IFR y el proceso estocástico, y hemos considerado cómo se deben sin-
-cronizar los osciladores con los ciclos.
+En este capítulo hemos visto el uso del oscilador en el análisis del mercado para ayudar a determinar condiciones sobrecompradas y sobrevendidas a corto plazo, así como para alertar a los operadores sobre posibles divergencias. Comenzamos con la línea de momento. Discutimos otra forma de medir tasas de cambio (TDC) usando coeficientes de precios en lugar de diferencias. Luego vimos cómo se pueden comparar dos medias móviles para detectar extremos y cruces a corto plazo. Finalmente, hemos visto el IFR y el proceso estocástico, y hemos considerado cómo se deben sincronizar los osciladores con los ciclos.
 
-El análisis de la divergencia nos proporciona el valor más grande del os-
-cilador. No obstante, se advierte al lector que no considere el análisis de la
-divergencia tan importante hasta el punto de ignorar o pasar por alto el
-análisis básico de la tendencia. La mayor parte de las señales de compra
-del oscilador funciona mejor en las tendencias alcistas, y las señales de
-venta del oscilador son más rentables en las tendencias a la baja. El análi-
-sis del mercado que usted haga siempre debe comenzar por determinar la
-tendencia general de dicho mercado. Si la tendencia es alcista, entonces
-hace falta una estrategia de compra, y los osciladores se pueden emplear
-para ayudar a determinar el momento de entrar en el mercado. Compre
-cuando el mercado esté sobrevendido en una tendencia alcista. Venda al
-descubierto cuando el mercado esté sobrecomprado en una tendencia ba-
-jista. O venda cuando el oscilador del momento vuelva a cruzar por enci-
-ma de la línea cero durante una tendencia alcista y venda cuando el cruce
-sea por debajo de la línea cero en un mercado bajista.
+El análisis de la divergencia nos proporciona el valor más grande del oscilador. No obstante, se advierte al lector que no considere el análisis de la divergencia tan importante hasta el punto de ignorar o pasar por alto el análisis básico de la tendencia. La mayor parte de las señales de compra del oscilador funciona mejor en las tendencias alcistas, y las señales de venta del oscilador son más rentables en las tendencias a la baja. El análisis del mercado que usted haga siempre debe comenzar por determinar la tendencia general de dicho mercado. Si la tendencia es alcista, entonces hace falta una estrategia de compra, y los osciladores se pueden emplear para ayudar a determinar el momento de entrar en el mercado. Compre cuando el mercado esté sobrevendido en una tendencia alcista. Venda al descubierto cuando el mercado esté sobrecomprado en una tendencia bajista. O venda cuando el oscilador del momento vuelva a cruzar por encima de la línea cero durante una tendencia alcista y venda cuando el cruce sea por debíyo de la línea cero en un mercado bajista.
 
-La importancia de operar en la dirección de la tendencia principal no
-puede exagerarse. El peligro de darle demasiada importancia a los osci-
-ladores por sí mismos es la tentación de usar la divergencia como excusa
-para iniciar operaciones contrarias a la tendencia general. Esta acción
-normalmente resulta costosa y dolorosa. El oscilador, tan útil como es, no
-deja de ser sólo una herramienta entre muchas otras, y siempre debe
-usarse como una ayuda y no como un substituto del análisis básico de la
-tendencia.
-
-276
+La importancia de operar en la dirección de la tendencia principal no puede exagerarse. El peligro de darle demasiada importancia a los osciladores por sí mismos es la tentación de usar la divergencia como excusa para iniciar operaciones contrarias a la tendencia general. Esta acción normalmente resulta costosa y dolorosa. El oscilador, tan útil como es, no deja de ser sólo una herramienta entre muchas otras, y siempre debe usarse como una ayuda

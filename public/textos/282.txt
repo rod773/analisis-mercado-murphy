@@ -1,56 +1,25 @@
-282 Capítulo 10
+sistemas de cruces en los que este principio es especialmente cierto son el de CDMM y el esto- cástico. (Ver figura 10.20b).
 
-D2/28/97 — ; (*OTC) Nagdaq Compgs¡£gylndgxr ! 03Í153
-GRÁFICO DE BARRAS SEMANAL ! ; | I p21780 |
+EH principio de la Opinión Contraria en los futuros
 
-p Liroo
-H
+El análisis de los osciladores es el estudio de las situaciones extremas en el mercado. Una de las teorías más ampliamente seguidas para medir esas situaciones extremas del mercado es el principio de la Opinión Contraria. Al principio del libro identificamos dos filosofías principales del análisis de mercado, el análisis fundamental y el técnico.
 
-!
-l 1850|
+02/28/97 (*OTC) Nasdaq Composite Index 03/13/98
 
-DT
+GRÁFICO DE BARRAS SEMANALGRÁFICO DE BARRAS SEMANAL। >-1750 j-1700 I
 
-|¡.¡l
+1650
 
-|
-I¡¿[ 1450
+1600
 
-|¡ 1400
-¡ll 1350
+-1550 1500
+
+► 1450 r 1400 1350
+
 1300
 
-"i
-"l —
+Figura 10.20b El histograma CDMM funciona bien en los gráficos semanales. En el pico del medio, el histograma hizo un cambio hacia abajo 10 semanas antes de la señal de venta (flecha hacia abajo). En las dos subidas, el histograma hizo un movimiento hacia arriba 2 y 4 semanas antes de la señal de compra (flechas hacia arriba). arriba).-1250 aunque generalmente se la incluye en la categoría del análisis técnico, se describe mejor como una forma de análisis psicológico. La Opinión Contraria añade el tercer elemento importante del análisis de mercado, el psicológico, al determinar el grado de posición alcista o bajista entre los participantes de los diferentes mercados financieros.
 
-CDMM (semanal)
+El principio de la Opinión Contraria sostiene que cuando la vasta mayoría de la gente está de acuerdo sobre algo, generalmente se equivoca. Un verdadero seguidor del principio contrario, por lo tanto, primero tratará de determinar lo que está haciendo la mayoría para, a continuación, actuar en la dirección opuesta.
 
-ENEO ENTI TI T C
-
-: 1 | | | . Histograma CDMM semanal H | | | | 1 W W W ra
-|
-War__Abr — May Yun _ul — Ago 'Sep— 0a Nov …l?z¡.º… …3;7,;.¿.'3….&'………
-
-Figura 10.20b — El histograma CDMM funciona bien en los gráficos semanales. En
-el pico del medio, el histograma hizo un cambio hacia abajo 10 semanas antes de
-la señal de venta (flecha hacia abajo). En las dos subidas, el histograma hizo un
-movimiento hacia arriba 2 y 4 semanas antes de la señal de compra (flechas hacia
-arriba).
-
-aunque generalmente se la incluye en la categoría del análisis técnico, se
-describe mejor como una forma de análisis psicológico. La Opinión Con-
-traria añade el tercer elemento importante del análisis de mercado, el psi-
-cológico, al determinar el grado de posición alcista o bajista entre los par-
-ticipantes de los diferentes mercados financieros.
-
-El principio de la Opinión Contraria sostiene que cuando la vasta ma-
-yoría de la gente está de acuerdo sobre algo, generalmente se equivoca.
-Un verdadero seguidor del principio contrario, por lo tanto, primero tra-
-tará de determinar lo que está haciendo la mayoría para, a continuación,
-actuar en la dirección opuesta.
-
-Humphrey B. Neill, considerado el decano del pensamiento contrario,
-describió sus teorías en un libro publicado en 1954 llamado El Arte de Pen-
-sar lo Contrario. Diez años más tarde, en 1964, James H. Sibbet comenzó a
-
-282
+Humphrey B. Neill, considerado el decano del pensamiento contrario, describió sus teorías en un libro publicado en 1954 llamado El

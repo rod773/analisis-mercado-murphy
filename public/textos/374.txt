@@ -1,38 +1,5 @@
-374 Capítulo 14
+lo dicho en elcapítulo 9 sobre la regla de 4 semanas, recordaremos que se invocaba el principio de armonía para explicar la validez de usar una regla más corta de 2 semanas y una más larga de 8 semanas.
 
-capítulo 9 sobre la regla de 4 semanas, recordaremos que se invocaba el
-principio de armonía para explicar la validez de usar una regla más corta
-de 2 semanas y una más larga de 8 semanas.
+El principio de la sincronización se refiere a la fuerte tendencia de las ondas de diferente duración a alcanzar su parte más baja aproximadamente al mismo tiempo. La figura 14.9 quiere mostrar la armonía y la sincronización. La onda B en la parte inferior del gráfico tiene la mitad de la
 
-El principio de la sincronización se refiere a la fuerte tendencia de las
-ondas de diferente duración a alcanzar su parte más baja aproximada-
-mente al mismo tiempo. La figura 14.9 quiere mostrar la armonía y la sin-
-cronización. La onda B en la parte inferior del gráfico tiene la mitad de la
-
-+10
-
-Tiempo—— »
-
-U
-[
-o
-
-Onda
-compuesta C
-+6
-
-Tiempo—=
-
-Dólares —— =
-
-Tiempo —
-
--10
-
-_
-
-Figura 14.81 Acumulación de dos ondas. Las líneas punteadas muestran, en cada
-punto en el tiempo, que el valor de la onda A se suma al valor de la onda B para
-producir el valor de la onda compuesta C.
-
-374
+Figura 14.8 Acumulación de dos ondas. Las líneas punteadas muestran, en cada punto en el tiempo, que el valor de la onda A se suma al valor de la onda B para producir el valor de la

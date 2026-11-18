@@ -1,46 +1,7 @@
-246 Capítulo 9
-
-semanas— para liquidar. Si el usuario pretende un sistema más sensible,
-se puede usar un período de 2 semanas para las señales de entrada. Como
-se trata de que sea una regla sencilla, es mejor usarla en ese nivel. La re-
-gla de 4 semanas es sencilla, pero funciona. (Los programas informáticos
-de gráficos permiten trazar canales de precios por encima y por debajo de
-los precios actuales para detectar rupturas del canal. Los canales de pre-
-cios se pueden usar en gráficos diarios, semanales o mensuales. (Ver figu-
-ras 9.11 y 9.12)
+1 o 2 semanas— para liquidar. Si el usuario pretende un sistema más sensible, se puede usar un período de 2 semanas para las señales de entrada. Como se trata de que sea una regla sencilla, es mejor usarla en ese nivel. La regla de 4 semanas es sencilla, pero funciona. (Los programas informáticos de gráficos permiten trazar canales de precios por encima y por debajo de los precios actuales para detectar rupturas del canal. Los canales de precios se pueden usar en gráficos diarios, semanales o mensuales. (Ver figuras 9.11 y 9.12)
 
 Optimizar o no
 
-La primera edición de este libro incluía los resultados de una amplia in-
-vestigación llevada a cabo por Merrill Lynch, que había publicado una se-
-rie de estudios sobre técnicas de contratación informatizadas aplicadas a
-los mercados de futuros en el período 1978-82. Se llevaron a cabo extensas
+La primera edición de este libro incluía los resultados de una amplia investigación llevada a cabo por Merrill Lynch, que había publicado una serie de estudios sobre técnicas de contratación informatizadas aplicadas a los mercados de futuros en el período 1978-82. Se llevaron a cabo extensas
 
-b8/21/97 (TR0398) Treasury Bonds 03/98 03/02/98
-
-GRÁFICO DE BARRAS DIARIO
-
-12128
-
-118724
-
-117708
-
-1152
-
-11402
-
-11218
-
-Sep " 0d N Dic _ e — Fe u
-
-,,,,, 305 Ze ad ming Vradodiaón 6 Omaga Resamrch Ve 1007
-
-Figura 9.11  Canal de precios de 20 días (4 semanas) aplicado a precios de futu-
-
-ros de bonos del tesoro. Hubo una señal de compra cuando los precios cerraron
-
-Eor encima del canal superior (ver círculo). Los precios tienen que cerrar por de-
-ajo del canal inferior para que la señal cambie.
-
-246
+Figura 9.11

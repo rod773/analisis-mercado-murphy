@@ -1,32 +1,9 @@
-236 Capítulo 9
+se dispersan los precios alrededor de un valor pre figura 9.8a Sobres del 3 por ciento colocados alrededor de una media móvil de 21 días del índice Dow. Los movimientos fuera de los sobres sugieren un mercado de valores sobreextendido.
 
-12/29/95 (*DWI X) Dow Industrials 03/06/98
+Figura 9.8b Para un análisis a más largo plazo se pueden colocar sobres del 5 por ciento alrededor de una media de 10 semanas. Los movimientos fuera de los sobres ayudaron a identificar los extremos del mercado.
 
-GRÁFICO DE BARRAS SEMANAL
-
-Sobre del 5 por cientoR
-
-Figura 9.8b _ Para un análisis a más largo plazo se pueden colocar sobres del 5
-por ciento alrededor de una media de 10 semanas. Los movimientos fuera de los -
-sobres ayudaron a identificar los extremos del mercado.
-
-medio. El uso de dos desviaciones típicas asegura que el 95 por ciento de
-la información sobre el precio caerá dentro de las dos bandas de fluctua-
-ción. Como regla, los precios se consideran sobreextendidos en el lado su-
-perior (sobrecomprados) cuando alcanzan la banda superior. Se conside-
-ran sobreextendidos en el lado inferior (sobrevendidos) cuando alcanzan
-la banda inferior. (Ver figuras 9.9a-b).
+medio. El uso de dos desviaciones típicas asegura que el 95 por ciento de la información sobre el precio caerá dentro de las dos bandas de fluctuación. Como regla, los precios se consideran sobreextendidos en el lado superior (sobrecomprados) cuando alcanzan la banda superior. Se consideran sobreextendidos en el lado inferior (sobrevendidos) cuando alcanzan la banda inferior. (Ver figuras 9.9a-b).
 
 Las Bandas de Bollinger usadas como metas
 
-La forma más sencilla de utilizar las Bandas de Bollinger es usar las ban-
-das superior e inferior como metas de los precios. En otras palabras, si los
-precios remontan a partir de la banda inferior y cruzan por encima la me-
-dia de 20 días, la banda superior pasa a ser el objetivo del precio más alto.
-Un cruce por debajo de la media de 20 días identificaría la banda inferior
-como el objetivo de la parte inferior. En una tendencia al alza fuerte, los
-precios suelen fluctuar entre la banda superior y la media de 20 días. En
-tal caso, un cruce por debajo de la media de 20 días avisa de un cambio de
-tendencia a la baja.
-
-236
+La forma más sencilla de utilizar las Bandas de Bollinger es usar las bandas superior e inferior como metas de los precios. En otras palabras, si los precios remontan a partir de la banda inferior y cruzan por encima la media de 20 días, la banda superior pasa a ser el objetivo del precio más alto. Un cruce por debajo de la media de 20 días identificaría la banda inferior como el objetivo de la parte inferior. En una tendencia al alza fuerte, los precios suelen fluctuar entre

@@ -1,53 +1,9 @@
-326
+complejos de cinco líneas de velas. Hay muchas buenas referencias sobre velas, así que aquí veremos sólo algunos de los patrones más conocidos.
 
-Capítulo 12
+Cobertura de nube oscura. Es un patrón de cambio de dos días que sólo tiene implicaciones bajistas. (Ver figura 12.6). También es una de las ocasiones en la que existe una contrapartida al patrón pero con un nombre diferente (ver Línea Penetrante). El primer día de este patrón es una vela larga y blanca, lo que refleja la tendencia actual del mercado y ayuda a confirmar la tendencia al alza a los operadores. El día siguiente abre por encima del precio alto del día anterior, añadiéndose así a la tendencia alcista. Sin embargo, las operaciones del resto del día
 
-Figura 12.6
+Figura 12.6 Figura 12.6son más bajas y tienen un precio de cierre que queda, como mínimo, a media altura del cuerpo del primer día. Se trata de un fuerte golpe a la mentalidad alcista que obligará a muchos a salir del mercado. Dado que el precio de cierre está por debajo del precio de apertura del segundo día, el cuerpo es negro. Es la nube oscura a la que se refiere el nombre.
 
-Cobertura de nube oscura. Es un patrón de
-cambio de dos días que sólo tiene implica-
-ciones bajistas. (Ver figura 12.6). También
-es una de las ocasiones en la que existe una
-contrapartida al patrón pero con un nom-
-bre diferente (ver Línea Penetrante). El pri-
-mer día de este patrón es una vela larga y
-blanca, lo que refleja la tendencia actual del
-mercado y ayuda a confirmar la tendencia al
-alza a los operadores. El día siguiente abre
-por encima del precio alto del día anterior,
-añadiéndose así a la tendencia alcista. Sin
-embargo, las operaciones del resto del día
-son más bajas y tienen un precio de cierre
-que queda, como mínimo, a media altura
-del cuerpo del primer día. Se trata de un
+Línea penetrante. El patrón opuesto al de cobertura de nube oscura, la línea penetrante, tiene implicaciones alcistas. (Ver figura 12.7). El escenario es bastante similar, pero opuesto. Hay una tendencia a la baja, la primera vela es un día largo y negro que solidifica la confianza de los operadores en la tendencia bajista. Al día siguiente, los precios abren a un nuevo mínimo, operan más alto todo el día y cierran por encima del punto medio del cuerpo de la primera vela. Esto ofrece un cambio destacado a la mentalidad bajista y muchos darán vuelta sus posiciones o saldrán de ellas.
 
-fuerte golpe a la mentalidad alcista que obligará a muchos a salir del mer-
-cado. Dado que el precio de cierre está por debajo del precio de apertura
-del segundo día, el cuerpo es negro. Es la nube oscura a la que se refiere el
-
-nombre.
-
-Figura 12.7
-
-Línea penetrante. El patrón opuesto al de
-cobertura de nube oscura, la línea pene-
-trante, tiene implicaciones alcistas. (Ver fi-
-gura 12.7). El escenario es bastante similar,
-pero opuesto. Hay una tendencia a la baja,
-la primera vela es un día largo y negro que
-solidifica la confianza de los operadores en
-la tendencia bajista. Al día siguiente, los
-precios abren a un nuevo mínimo, operan
-más alto todo el día y cierran por encima
-del punto medio del cuerpo de la primera
-vela. Esto ofrece un cambio destacado a la
-mentalidad bajista y muchos darán vuelta
-sus posiciones o saldrán de ellas.
-
-Estrella vespertina y estrella matutina. La es-
-trella vespertina y su prima, la estrella ma-
-
-tutina, son dos poderosos patrones de velas de cambio. Ambos son patro-
-nes de tres días que funcionan excepcionalmente bien. El escenario para
-
-326
+Figura 12.7 Estrella vespertina y estrella matutina. La estrella vespertina y su prima, la estrella ma

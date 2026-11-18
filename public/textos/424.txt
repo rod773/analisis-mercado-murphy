@@ -1,44 +1,15 @@
-424 Capítulo 16
+aplicar a los gráficos intradía.
 
 Uso de huecos en los precios
 
-Los huecos en los precios que aparecen en los gráficos de barras son
-útiles para calcular el momento de las compras o las ventas. Después de un
-ascenso, por ejemplo, los huecos subyacentes generalmente funcionan
-como niveles de apoyo. Compre una caída al extremo superior del hueco
-o una caída dentro del hueco en sí. Se puede colocar un límite de protec-
-ción debajo del hueco. En un movimiento bajista, venda una subida al ex-
-tremo inferior del hueco o dentro del hueco en sí. Se puede mantener un
-límite protector por encima del hueco.
+Los huecos en los precios que aparecen en los gráficos de barras son útiles para calcular el momento de las compras o las ventas. Después de un ascenso, por ejemplo, los huecos subyacentes generalmente funcionan como niveles de apoyo. Compre una caída al extremo superior del hueco o una caída dentro del hueco en sí. Se puede colocar un límite de protección debajo del hueco. En un movimiento bajista, venda una subida al extremo inferior del hueco o dentro del hueco en sí. Se puede mantener un límite protector por encima del hueco.
 
 Combinación de conceptos técnicos
 
-La forma más eficaz de usar estos conceptos técnicos es combinarlos.
-Recuerde que mientras estamos viendo la cuestión del tiempo, la decisión
-básica de comprar o vender ya se ha tomado, o sea que lo que hacemos es
-afinar el punto de entrada o salida. Si ha habido una señal de compra, el
-operador quiere obtener el mejor precio posible. Suponga que los precios
-caen hasta la zona de compra del 40-60 por ciento, muestran un destaca-
-do nivel de apoyo en esa zona y/o tienen un hueco potencial de apoyo.
-Suponga, además, que cerca hay una significativa línea de tendencia al
-alza.
+La forma más eficaz de usar estos conceptos técnicos es combinarlos. Recuerde que mientras estamos viendo la cuestión del tiempo, la decisión básica de comprar o vender ya se ha tomado, o sea que lo que hacemos es afinar el punto de entrada o salida. Si ha habido una señal de compra, el operador quiere obtener el mejor precio posible. Suponga que los precios caen hasta la zona de compra del 40-60 por ciento, muestran un destacado nivel de apoyo en esa zona y/o tienen un hueco potencial de apoyo. Suponga, además, que cerca hay una significativa línea de tendencia al alza.
 
-Todos estos factores usados conjuntamente mejorarían el cálculo del
-momento adecuado para operar. La idea es comprar cerca del apoyo, pero
-salir rápidamente si el apoyo se quiebra. La violación de una firme línea
-de tendencia descendente trazada por encima de los máximos de una re-
-acción en la parte inferior también podría usarse como una señal de com-
-pra. Durante un rebote en una tendencia a la baja, la ruptura de una fir-
-me línea de tendencia ascendente podría ser una oportunidad de venta
-en descubierto.
+Todos estos factores usados conjuntamente mejorarían el cálculo del momento adecuado para operar. La idea es comprar cerca del apoyo, pero salir rápidamente si el apoyo se quiebra. La violación de una firme línea de tendencia descendente trazada por encima de los máximos de una reacción en la parte inferior también podría usarse como una señal de compra. Durante un rebote en una tendencia a la baja, la ruptura de una firme línea de tendencia ascendente podría ser una oportunidad de venta en descubierto.
 
 Combinación de factores técnicos y gestión monetaria
 
-Además de usar indicaciones gráficas, los índices de gestión monetaria
-también deberían jugar un papel en la determinación del grado de pro-
-tección de los límites. Considerando una cuenta de 100.000 dólares y
-aplicando el criterio del 10 por ciento al compromiso máximo, sólo hay
-10.000 dólares disponibles con los que operar. El riesgo máximo es del 5
-por ciento, o sea 5.000 dólares, lo que significa que los límites de pro-
-
-424
+Además de usar indicaciones gráficas, los índices de gestión monetaria también deberían jugar un papel en la determinación del grado de protección de los límites. Considerando una cuenta de 100.000 dólares y aplicando el criterio del 10 por ciento al compromiso máximo, sólo hay 10.000 dólares disponibles con

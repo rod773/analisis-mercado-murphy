@@ -1,30 +1,9 @@
-1
-Filosofía
-del análisis técnico
+1 Filosofía del análisis técnico
 
 Introducción
 
-Antes de comenzar a estudiar las técnicas y herramientas reales utiliza-
-das para llevar a cabo un análisis técnico hay que definir, primero, qué es
-el análisis técnico, discutir las premisas filosóficas sobre las que se basa, es-
-tablecer distinciones claras entre análisis técnico y análisis fundamental y,
-finalmente, responder a algunas críticas frecuentes al enfoque técnico.
+Antes de comenzar a estudiar las técnicas y herramientas reales utilizadas para llevar a cabo un análisis técnico hay que definir, primero, qué es el análisis técnico, discutir las premisas filosóficas sobre las que se basa, establecer distinciones claras entre análisis técnico y análisis fundamental y, finalmente, responder a algunas críticas frecuentes al enfoque técnico.
 
-El autor cree firmemente que la completa apreciación del enfoque téc-
-nico debe comenzar con una clara comprensión de lo que el análisis téc-
-nico pretende alcanzar y, sobre todo, de la filosofía o fundamento lógico
-de dichas pretensiones.
+El autor cree firmemente que la completa apreciación del enfoque técnico debe comenzar con una clara comprensión de lo que el análisis técnico pretende alcanzar y, sobre todo, de la filosofía o fundamento lógico de dichas pretensiones.
 
-Primero, pues, definamos el tema. El análisis técnico es el estudio de los
-movimientos del mercado, principalmente mediante el uso de gráficos,
-con el propósito de pronosticar las futuras tendencias de los precios. La ex-
-presión “movimientos del mercado” incluye las tres fuentes principales de
-información disponibles para el técnico: precio, volumen e interés abierto.
-(El interés abierto se usa sólo en futuros y opciones). La expresión “movi-
-mientos del precio”, usada frecuentemente, parece demasiado limitada
-porque la mayoría de los técnicos incluyen el volumen y el interés abierto
-como parte integral de sus análisis del mercado. Una vez hecha esta distin-
-ción, las expresiones “movimientos del precio” y “movimientos del merca-
-do” se usarán indistintamente en el resto de este estudio.
-
-27
+Primero, pues, definamos el tema. El análisis técnico es el estudio de los movimientos del mercado, principalmente mediante el uso de gráficos, con el propósito de pronosticar las futuras tendencias de los precios. La expresión “movimientos del mercado” incluye las tres fuentes principales de información disponibles para el técnico: precio, volumen e interés abierto. (El interés abierto se usa sólo en futuros y opciones). La expresión “movimientos del precio”, usada frecuentemente, parece demasiado limitada porque la mayoría de los técnicos incluyen el volumen y el interés abierto como parte integral de sus análisis del

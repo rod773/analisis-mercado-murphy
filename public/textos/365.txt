@@ -1,33 +1,7 @@
-14
 Ciclos temporales
 
 Introducción
 
-Hasta este momento nuestra atención principal se ha centrado en el
-movimiento de los precios, y no hemos dicho gran cosa sobre la impor-
-tancia del tiempo en la solución del rompecabezas del pronóstico. La
-cuestión del tiempo ha estado presente por alusión en todo nuestro trata-
-miento del análisis técnico, pero generalmente relegada a un segundo pla-
-no. En este capítulo vamos a ver el problema del pronóstico a través de los
-ojos de los analistas de ciclos que creen que los ciclos temporales tienen la
-clave definitiva para comprender por qué los mercados suben o bajan. En
-el proceso, añadiremos la importante dimensión del tiempo a nuestra cre-
-ciente lista de herramientas analíticas. En lugar de preguntarnos en qué
-dirección se moverá el mercado y hasta dónde llegará, comenzaremos a
-preguntarnos cuándo llegará allí o incluso cuándo comenzará el movi-
-miento.
+Hasta este momento nuestra atención principal se ha centrado en el movimiento de los precios, y no hemos dicho gran cosa sobre la importancia del tiempo en la solución del rompecabezas del pronóstico. La cuestión del tiempo ha estado presente por alusión en todo nuestro tratamiento del análisis técnico, pero generalmente relegada a un segundo plano. En este capítulo vamos a ver el problema del pronóstico a través de los ojos de los analistas de ciclos que creen que los ciclos temporales tienen la clave definitiva para comprender por qué los mercados suben o bajan. En el proceso, añadiremos la importante dimensión del tiempo a nuestra creciente lista de herramientas analíticas. En lugar de preguntarnos en qué dirección se moverá el mercado y hasta dónde llegará, comenzaremos a preguntarnos cuándo llegará allí o incluso cuándo comenzará el movimiento.
 
-Considere un gráfico de barras normal. El eje vertical da la escala de
-precios, pero eso es sólo la mitad de la información relevante. La escala
-horizontal da el horizonte temporal, o sea que el gráfico de barras es, en
-realidad, un gráfico de tiempos y precios. Aun así, muchos operadores se
-concentran únicamente en las informaciones sobre precios y excluyen las
-consideraciones sobre tiempos. Cuando estudiamos patrones de gráficos,
-sabemos que hay una relación entre la cantidad de tiempo necesaria para
-que esos patrones se formen y el potencial de los siguientes movimientos
-del mercado. Cuanto más tiempo esté en efecto una línea de tendencia o
-un nivel de apoyo o resistencia, más validez tendrá. Las medias móviles se
-usan en un período apropiado, y hasta los osciladores requieren que se de-
-cida cuántos días han de medir. En el capítulo anterior vimos la utilidad
-
-365
+Considere un gráfico de barras normal. El eje vertical da la escala de precios, pero eso es sólo la mitad de la información relevante. La escala horizontal da el horizonte temporal, o sea que el gráfico de barras es, en realidad, un gráfico de tiempos y precios. Aun así, muchos operadores se concentran únicamente en las informaciones sobre precios y excluyen las consideraciones sobre tiempos. Cuando estudiamos patrones de gráficos, sabemos que hay una relación entre la cantidad de tiempo necesaria para que esos patrones se formen y el potencial de los siguientes movimientos del mercado. Cuanto más tiempo esté en efecto una línea de tendencia o un nivel de apoyo o resistencia, más validez tendrá. Las medias móviles se usan en un período apropiado, y hasta los osciladores requieren que se decida cuántos

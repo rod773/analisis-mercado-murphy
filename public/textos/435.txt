@@ -1,32 +1,7 @@
-17
-
-Relación entre valores
-y futuros: análisis
-entre mercados
+Relación entre valores futuros: análisisentre mercados
 
 Introducción
 
-Cuando se editó este libro por primera vez, en 1985, la separación del
-mundo de los futuros de mercancías del más tradicional de los valores y
-obligaciones se estaba gestando. Hace veinte años, por mercancías se en-
-tendían cosas como maíz, soja, cerdo no curado, oro y petróleo. Eran mer-
-cancías tradicionales que se podían cultivar, criar, excavar o refinar. Entre
-1972 y 1982 hubo enormes cambios provocados por la aparición de los
-contratos de futuros sobre monedas extranjeras, bonos del tesoro e índi-
-ces de valores bursátiles. La expresión “mercancías” dejó paso a la expre-
-sión “futuros”, ya que los valores y las obligaciones realmente no se podí-
-an considerar mercancías, aunque eran contratos de futuros. Desde
-entonces, el mundo de las operaciones con futuros se ha mezclado con el
-mundo tradicional de valores y obligaciones hasta tal punto que apenas se
-pueden separar. Como resultado, los métodos de análisis técnicos utiliza-
-dos para analizar los diferentes mercados financieros se han aplicado de
-forma más universal.
+Cuando se editó este libro por primera vez, en 1985, la separación del mundo de los futuros de mercancías del más tradicional de los valores y obligaciones se estaba gestando. Hace veinte años, por mercancías se entendían cosas como maíz, soja, cerdo no curado, oro y petróleo. Eran mercancías tradicionales que se podían cultivar, criar, excavar o refinar. Entre 1972 y 1982 hubo enormes cambios provocados por la aparición de los contratos de futuros sobre monedas extranjeras, bonos del tesoro e índices de valores bursátiles. La expresión “mercancías” dejó paso a la expresión “futuros”, ya que los valores y las obligaciones realmente no se podían considerar mercancías, aunque eran contratos de futuros. Desde entonces, el mundo de las operaciones con futuros se ha mezclado con el mundo tradicional de valores y obligaciones hasta tal punto que apenas se pueden separar. Como resultado, los métodos de análisis técnicos utilizados para analizar los diferentes mercados financieros se han aplicado de forma más universal.
 
-En un día cualquiera hay cotizaciones disponibles para futuros del dó-
-lar, futuros de obligaciones y futuros de índices bursátiles, y todos ellos a
-menudo se mueven de forma sincronizada. La dirección que toman estos
-tres mercados frecuentemente se ve afectada por lo que sucede en las lon-
-jas de contratación. La contratación programada, que tiene lugar cuando
-el precio del contrato de futuros del índice SaP 500 no está en línea con
-
-435
+En un día cualquiera hay cotizaciones disponibles para futuros del dólar, futuros de obligaciones y futuros de índices bursátiles, y todos ellos a menudo se mueven de forma sincronizada. La dirección que toman estos tres mercados frecuentemente se ve afectada por lo que sucede en las lonjas de contratación. La contratación programada, que tiene lugar cuando el precio

@@ -1,47 +1,21 @@
-516 Apéndice C
+mejorará sus posibilidades de éxito a largo plazo al reducir los riesgos del exceso de optimización.
 
 Las tres categorías principales de sistemas de contratación son:
 
-* Seguimiento de la tendencia. Estos sistemas operan en la dirección de la
-tendencia principal, comprando después del precio más bajo y vendien-
-do después del precio más alto. Las medias móviles y la regla semanal de
-Donchian son las metodologías más frecuentes entre los directores fi-
-nancieros.
+Seguimiento de la tendencia. Estos sistemas operan en la dirección de la tendencia principal, comprando después del precio más bajo y vendiendo después del precio más alto. Las medias móviles y la regla semanal de Donchian son las metodologías más frecuentes entre los directores financieros.
 
-* Contra tendencia.
+Contra tendencia.
 
-— Apoyo/resistencia. Comprar un descenso en apoyo y vender una su-
-bida en resistencia.
+Apoyo/resistencia. Comprar un descenso en apoyo y vender una subida en resistencia.
 
-— Retrocesos. Aquí compramos retiradas en un mercado alcista y ven-
-demos subidas en un mercado bajista. Por ejemplo, comprar una re-
-tirada del 50 por ciento del último avance, pero sólo si la tendencia
-principal se mantiene al alza. El peligro de este sistema es que uno
-nunca sabe hasta dónde llegará el retroceso, lo que dificulta la im-
-plementación de una técnica aceptable de salida.
+Retrocesos. Aquí compramos retiradas en un mercado alcista y vendemos subidas en un mercado bajista. Por ejemplo, comprar una retirada del 50 por ciento del último avance, pero sólo si la tendencia principal se mantiene al alza. El peligro de este sistema es que uno nunca sabe hasta dónde llegará el retroceso, lo que dificulta la im- plementación de una técnica aceptable de salida.
 
-— Osciladores. La idea es comprar cuando el oscilador está sobrevendi-
-do y vender cuando está sobrecomprado. Si también está presente la
-divergencia entre la serie de precios y el oscilador, hay una señal mu-
-cho más fuerte. No obstante, es preferible esperar a que haya alguna
-señal de retroceso en el precio antes de comprar o vender.
+Osciladores. La idea es comprar cuando el oscilador está sobrevendido y vender cuando está sobrecomprado. Si también está presente la divergencia entre la serie de precios y el oscilador, hay una señal mucho más fuerte. No obstante, es preferible esperar a que haya alguna señal de retroceso en el precio antes de comprar o vender.
 
-* Reconocimiento de patrones (visual y estadístico). Los ejemplos inclu-
-yen la formación de cabeza y hombros, visual y altamente fiable, y los pa-
-trones de precios temporales (estadísticos).
+• Reconocimiento de patrones (visual y estadístico). Los ejemplos incluyen la formación de cabeza y hombros, visual y altamente fiable, y los patrones de precios temporales (estadísticos).
 
-Paso 2: Transformar la idea en un conjunto
-de normas objetivas
+Paso 2: Transformar la idea en un conjunto de normas objetivas
 
-Se trata del paso más difícil de los 5 del plan, mucho más difícil de lo que
-cualquiera de nosotros podría esperar. Para completar este paso con éxito,
-debemos expresar nuestra idea en términos tan objetivos como para que
-100 personas que sigan nuestras normas lleguen exactamente a las mismas
-conclusiones.
+Se trata del paso más difícil de los 5 del plan, mucho más difícil de lo que cualquiera de nosotros podría esperar. Para completar este paso con éxito, debemos expresar nuestra idea en términos tan objetivos como para que 100 personas que sigan nuestras normas lleguen exactamente a las mismas conclusiones.
 
-Determine lo que se supone que el sistema tiene que hacer y cómo.
-Con este paso producimos los detalles necesarios para cumplir con la ta-
-rea de programación. Tenemos que considerar el problema en su globali-
-dad y desglosarlo cada vez más hasta finalizar con todos los detalles.
-
-516
+Determine lo que se supone que el sistema tiene que hacer y cómo. Con este paso producimos los detalles necesarios para cumplir con la tarea de programación. Tenemos que considerar el problema en su globali- dad

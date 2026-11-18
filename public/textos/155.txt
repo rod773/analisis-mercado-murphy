@@ -1,16 +1,5 @@
-Los modelos de cambio más importantes 155
+extemporáneos son difíciles de detectar por adelantado.
 
 Conclusión
 
-Hemos visto los cinco patrones principales de cambio que se usan con
-mayor frecuencia: el de cabeza y hombros, el superior e inferior doble y triple, el
-de forma de platillo y el patrón en V, o púa. De todos ellos, los más comunes
-son los de cabeza y hombros, y los superiores e inferiores dobles. Estos pa-
-trones generalmente indican importantes cambios de tendencia en mar-
-cha y se clasifican como patrones principales de cambios. Pero también
-hay otra clase de patrones, de más corta duración por naturaleza y que ge-
-neralmente sugieren una consolidación de la tendencia en lugar de un
-cambio. Se les llama, muy acertadamente, patrones de continuidad y los
-veremos en el capítulo 6.
-
-155
+Hemos visto los cinco patrones principales de cambio que se usan con mayor frecuencia: el de cabeza y hombros, el superior e inferior doble y triple, el de forma de platillo y el patrón en V, o púa. De todos ellos, los más comunes son los de cabeza y hombros, y los superiores e inferiores dobles. Estos patrones generalmente indican importantes cambios de tendencia en marcha y se clasifican como patrones principales de cambios. Pero también hay otra clase de patrones, de más corta duración por naturaleza y que generalmente sugieren una consolidación de la tendencia en lugar de un cambio. Se les llama, muy acertadamente, patrones de continuidad y los veremos

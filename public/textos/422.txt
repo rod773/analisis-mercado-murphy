@@ -1,46 +1,21 @@
-422 Capítulo 16
+parámetros de gestión monetaria y el tipo de orden a emplear. Consideremos estos aspectos en ese orden.
 
 Uso del análisis técnico en el cálculo del tiempo
 
-En realidad, no hay nada nuevo en la aplicación de los principios téc-
-nicos vistos en los capítulos anteriores al proceso de cálculo del tiempo. La
-única diferencia real es que el cálculo del tiempo cubre un plazo muy cor-
-to, porque el marco temporal que nos interesa aquí se mide en días, horas
-y minutos, en oposición a semanas y meses. Las herramientas técnicas, de
-todos modos, siguen siendo las mismas, así que en lugar de repasar todos
-los métodos técnicos otra vez, nos limitaremos a ver algunos conceptos ge-
-nerales.
+En realidad, no hay nada nuevo en la aplicación de los principios técnicos vistos en los capítulos anteriores al proceso de cálculo del tiempo. La única diferencia real es que el cálculo del tiempo cubre un plazo muy corto, porque el marco temporal que nos interesa aquí se mide en días, horas y minutos, en oposición a semanas y meses. Las herramientas técnicas, de todos modos, siguen siendo las mismas, así que en lugar de repasar todos los métodos técnicos otra vez, nos limitaremos a ver algunos conceptos generales.
 
-1. Tácticas sobre rupturas
+Tácticas sobre rupturas
 
-2. Ruptura de líneas de tendencia
-3. Uso de apoyo y resistencia
+Ruptura de líneas de tendencia
 
-4. Uso de retrocesos porcentuales
-5
+Uso de apoyo y resistencia
 
-. Uso de huecos
+Uso de retrocesos porcentuales
+
+Uso de huecos
 
 Tácticas sobre rupturas: ¿anticipación o reacción?
 
-El operador siempre duda entre tomar una posición anticipada a la
-ruptura, tomarla en la ruptura misma, o esperar a la reacción posterior a
-la ruptura. Hay argumentos a favor de cada enfoque o de todos ellos com-
-binados. Si el operador está operando con varias unidades, puede tomar
-una unidad en cada instancia. Si la posición se toma anticipando una rup-
-tura al alza, la recompensa es un precio mejor (más bajo) si la ruptura re-
-almente tiene lugar, pero las posibilidades de realizar una mala operación
-aumentan. Esperar la ruptura aumenta las posibilidades de éxito, pero la
-penalización es un precio de entrada más alto. Esperar la reacción des-
-pués de la ruptura es un compromiso sensato, siempre que esa reacción
-tenga lugar. Lamentablemente, muchos mercados dinámicos (general-
-mente los más rentables) no siempre ofrecen una segunda oportunidad al
-paciente operador, o sea que el riesgo involucrado en la espera de la reac-
-ción es la mayor posibilidad de perder el mercado.
+El operador siempre duda entre tomar una posición anticipada a la ruptura, tomarla en la ruptura misma, o esperar a la reacción posterior a la ruptura. Hay argumentos a favor de cada enfoque o de todos ellos combinados. Si el operador está operando con varias unidades, puede tomar una unidad en cada instancia. Si la posición se toma anticipando una ruptura al alza, la recompensa es un precio mejor (más bajo) si la ruptura realmente tiene lugar, pero las posibilidades de realizar una mala operación aumentan. Esperar la ruptura aumenta las posibilidades de éxito, pero la penalización es un precio de entrada más alto. Esperar la reacción después de la ruptura es un compromiso sensato, siempre que esa reacción tenga lugar. Lamentablemente, muchos mercados dinámicos (generalmente los más rentables) no siempre ofrecen una segunda oportunidad al paciente operador, o sea que el riesgo involucrado en la espera de la reacción es la mayor posibilidad de perder el mercado.
 
-Esta situación es un ejemplo de que operar con múltiples posiciones
-simplifica la elección. El operador podría tomar una posición pequeña en
-anticipación de la ruptura, comprar más durante la ruptura, y añadir un
-poco más cuando aparece la bajada correctora que sigue a la ruptura.
-
-422
+Esta situación es un ejemplo de que operar con múltiples posiciones simplifica la elección. El operador podría tomar una posición pequeña en anticipación de la ruptura, comprar más durante la ruptura, y añadir un poco más

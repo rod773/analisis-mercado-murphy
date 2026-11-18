@@ -1,46 +1,45 @@
-Volumen e interés abierto 189
+en cuenta. Comenzaremos indicando las normas generales para ambas dimensiones y una vez hecho esto, trataremos cada una de ellas por separado antes de volver a combinarlas otra vez al final.
 
-112/26/97 (LIO598) Crude Oil, Light 05/98 — 02/27/98
+Precio
 
-1
-|
-|| 1, FUTUROS DIARIOS
+Volumen
 
-I¡|¿l
+Interés abierto
 
-"!“**l…….¡ a
-CE
+Mercado
 
-|l11¡|l
-|
+En alza
 
-INTERÉS ABIERTO
+En alza
 
-VOLUMEN
+En alza
 
-INOO ICOOO
+Fuerte
 
-23
-_ 302 D-iDam Printed veirg TradeSiulion Ó Omega Reseerch, inc. 19907 _l
+En alza
 
-Figura 7.2 Un gráfico diario de futuros de crudo que muestra volumen e interés
-abierto (línea continua). La línea de interés abierto se eleva a medida que los pre-
-cios bajan, y la situación es bajista.
+En descenso
 
-Si el volumen y el interés abierto están aumentando, entonces es pro-
-bable que la tendencia de precios actual continúe en la dirección que tie-
-ne (hacia arriba o hacia abajo). Pero si el volumen y el interés abierto es-
-tán disminuyendo, la acción se puede entender como una advertencia de
-que la actual tendencia de precios puede estar llegando a su fin. Una vez
-dicho esto, veamos el volumen y el interés abierto por separado. (Ver fi-
-gura 7.2).
+En descenso
 
-Interpretación del volumen para todos los mercados
+Débil
 
-El nivel de volumen mide la intensidad o la urgencia que hay detrás del
-movimiento de precios. Un volumen mayor refleja un grado más alto de
-intensidad o presión. Controlando el nivel de volumen junto con los mo-
-vimientos de precios, el técnico está mejor capacitado para medir la pre-
-sión compradora o vendedora que hay detrás de los movimientos del mer-
+En descenso
 
-189
+En alza
+
+En alza
+
+Débil
+
+En descenso
+
+En descenso
+
+En descenso
+
+Fuerte
+
+Figura 7.2 Un gráfico diario de futuros de crudo que muestra volumen e interés abierto (línea continua). La línea de interés abierto se eleva a medida que los precios bajan, y la situación es bajista. bajista.470000-450000430000-410000390000470000-450000430000-410000390000
+
+Si el volumen y el interés abierto están aumentando, entonces es probable que la tendencia de precios actual continúe en la dirección que tiene (hacia arriba o hacia abajo). Pero si el volumen y el interés abierto están disminuyendo, la acción se puede entender como una advertencia de que la actual tendencia de

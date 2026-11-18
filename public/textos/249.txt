@@ -1,39 +1,13 @@
-Medias móviles 249
+semanales y mensuales.
 
 La media móvil adaptable
 
-Uno de los problemas que presenta la media móvil es la elección entre
-un promedio rápido y uno lento. Mientras que uno puede funcionar bien
-en un mercado con bandas de fluctuación, el otro puede ser preferible en
-un mercado con una determinada tendencia. La solución al problema de
-elegir entre una media u otra puede estar en un enfoque innovador lla-
-mado “media móvil adaptable”.
+Uno de los problemas que presenta la media móvil es la elección entre un promedio rápido y uno lento. Mientras que uno puede funcionar bien en un mercado con bandas de fluctuación, el otro puede ser preferible en un mercado con una determinada tendencia. La solución al problema de elegir entre una media u otra puede estar en un enfoque innovador llamado “media móvil adaptable”.
 
-Perry Kaufman presenta esta técnica en su libro titulado Smarter Tra-
-ding. La velocidad de la “media móvil adaptable” de Kaufman se ajusta au-
-tomáticamente al nivel de ruido (o volatilidad) de un mercado. La MMA
-se mueve más lentamente cuando los mercados siguen una tendencia la-
-teral, pero se acelera cuando siguen otra tendencia. Esto evita el problema
-de usar una media móvil más rápida (y recibir señales equivocadas con
-mayor frecuencia) durante una banda de fluctuación, y de usar una media
-más lenta que sigue a un mercado desde muy atrás cuando éste sigue una
-tendencia.
+Perry Kaufman presenta esta técnica en su libro titulado Smarter Tra- ding. La velocidad de la “media móvil adaptable” de Kaufman se ajusta automáticamente al nivel de ruido (o volatilidad) de un mercado. La MMA se mueve más lentamente cuando los mercados siguen una tendencia lateral, pero se acelera cuando siguen otra tendencia. Esto evita el problema de usar una media móvil más rápida (y recibir señales equivocadas con mayor frecuencia) durante una banda de fluctuación, y de usar una media más lenta que sigue a un mercado desde muy atrás cuando éste sigue una tendencia.
 
-Kaufman lo logra construyendo un coeficiente de eficiencia que com-
-para la dirección del precio con el nivel de volatilidad. Cuando el coefi-
-ciente de eficiencia es alto, hay más dirección que volatilidad (lo que fa-
-vorece una media más rápida). Cuando el coeficiente es bajo, hay más
-volatilidad que dirección (lo que favorece una media más lenta). Con la
-incorporación del coeficiente de eficiencia, la MMA se ajusta automática-
-mente a la velocidad más adecuada al mercado actual.
+Kaufman lo logra construyendo un coeficiente de eficiencia que compara la dirección del precio con el nivel de volatilidad. Cuando el coeficiente de eficiencia es alto, hay más dirección que volatilidad (lo que favorece una media más rápida). Cuando el coeficiente es bajo, hay más volatilidad que dirección (lo que favorece una media más lenta). Con la incorporación del coeficiente de eficiencia, la MMA se ajusta automáticamente a la velocidad más adecuada al mercado actual.
 
 Alternativas a la media móvil
 
-Las medias móviles no funcionan siempre. Logran sus mejores resulta-
-dos cuando el mercado está en fase de seguir una tendencia. No son muy
-útiles durante los períodos sin tendencia, que es cuando los precios ope-
-ran lateralmente. Por suerte, hay otra clase de indicador que funciona
-mucho mejor que la media móvil durante esas frustrantes bandas de fluc-
-tuación. Se llaman osciladores y los explicaremos en el siguiente capítulo.
-
-249
+Las medias móviles no funcionan siempre. Logran sus mejores resultados cuando el mercado está en fase de seguir una tendencia. No son muy útiles durante los períodos sin tendencia, que es cuando los precios operan lateralmente. Por suerte, hay otra clase de indicador que funciona mucho mejor que la media móvil durante esas frustrantes bandas de fluctuación. Se llaman osciladores y los explicaremos en el siguiente capítulo.

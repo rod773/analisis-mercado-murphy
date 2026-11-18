@@ -1,20 +1,13 @@
-340
+Tres métodos hueco superior +
 
-Capítulo 12
-
-Tres métodos hueco
-superior +
-
-Línea on neck —
-
-Tres métodos hueco
-inferior +
-
-Línea in neck +
-
-340
+Tres métodos huecoinferior +
 
 Línea on neck +
 
-Línea in neck —
+Línea on neck -
 
+Línea in neck +
+
+I
+
+Línea in neck -

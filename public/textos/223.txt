@@ -1,33 +1,9 @@
-9
 Medias móviles
 
 Introducción
 
-La media móvil es uno de los indicadores técnicos más versátil y cuyo
-uso está más extendido. Por la forma en que se hace y por el hecho de que
-puede cuantificarse y verificarse tan fácilmente, es la base de muchos sis-
-temas mecánicos de seguimiento de tendencias en uso hoy en día.
+La media móvil es uno de los indicadores técnicos más versátil y cuyo uso está más extendido. Por la forma en que se hace y por el hecho de que puede cuantificarse y verificarse tan fácilmente, es la base de muchos sistemas mecánicos de seguimiento de tendencias en uso hoy en día.
 
-El análisis gráfico es muy subjetivo y difícil de comprobar, y como re-
-sultado, no se presta bien a ser informatizado. Por el contrario, las reglas
-de las medias móviles se pueden programar fácilmente en un ordenador,
-que a su vez genere señales específicas de compra y venta. Aunque dos téc-
-nicos estén en desacuerdo en si un determinado patrón de precios es un
-triángulo o una cuña, o si el patrón de volumen favorece la parte alcista o
-bajista, las señales de tendencia de las medias móviles son precisas y no se
-prestan a discusión.
+El análisis gráfico es muy subjetivo y difícil de comprobar, y como resultado, no se presta bien a ser informatizado. Por el contrario, las reglas de las medias móviles se pueden programar fácilmente en un ordenador, que a su vez genere señales específicas de compra y venta. Aunque dos técnicos estén en desacuerdo en si un determinado patrón de precios es un triángulo o una cuña, o si el patrón de volumen favorece la parte alcista o bajista, las señales de tendencia de las medias móviles son precisas y no se prestan a discusión.
 
-Comencemos definiendo lo que es una media móvil. Como la primera
-palabra indica, es un promedio de un cierto bloque de información. Por
-ejemplo, si se busca una media de los precios al cierre de 10 días, se suman
-los precios de los últimos 10 días y se divide el total entre 10. La expresión
-móvil se usa porque sólo se usan los precios de los últimos 10 días para ha-
-cer el cálculo. Por lo tanto, el bloque de información que se ha de pro-
-mediar (los 10 últimos precios de cierre) se traslada hacia adelante con
-cada día de operaciones. La forma más corriente de calcular la media mó-
-vil es partir del total de los precios de cierre de los últimos 10 días. El nue-
-VO cierre de cada día se añade al total y se le resta el cierre de 11 días atrás.
-A continuación, se divide el nuevo total entre el número de días (10). (Ver
-figura 9.1a).
-
-223
+Comencemos definiendo lo que es una media móvil. Como la primera palabra indica, es un promedio de un cierto bloque de información. Por ejemplo, si se busca una media de los precios al cierre de 10 días, se suman los precios de los últimos 10 días y se divide el total entre 10. La expresión móvil se usa porque sólo se usan los precios de los últimos 10 días para hacer el cálculo. Por lo tanto, el bloque de información que se ha de promediar (los 10 últimos precios de cierre) se traslada hacia adelante con cada día de operaciones. La forma más corriente de calcular la

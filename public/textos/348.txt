@@ -1,29 +1,15 @@
-348 Capítulo 13
+patrón a-b-c intermedio.
 
-Ó
+Mercado alcista en zigzag (5-3-5). (Frost y Prechter, página 36. Copyright 1978 de Frost y Prechter).
 
-Figura 13.8  Zigzag doble. (Frost y Prechter, página 37. Copyright 1978 de Frost
-y Prechter).
+Mercado alcista en zigzag. (5-3-5). (Frost y Prechter, página 36.
+
+Mercado bajista en zigzag. (5-3-5). (Frost y Prechter, página 36.
+
+Mercado bajista en zigzag (5-3-5). (Frost y Prechter, página 36.
+
+Figura 13.8 Zigzag doble. (Frost y Prechter, página 37.
 
 Planas
 
-Lo que distingue la corrección plana de la corrección en zigzag es que
-la plana sigue un patrón 3-3-5. Obsérvese en las figuras 13.10 y 13.12 que
-la onda A es de 3 en lugar de 5. En general, la corrección plana es más una
-consolidación que una corrección, y en un mercado alcista se le considera
-una señal de fuerza. Las figuras 13.9-13.12 muestran ejemplos de correc-
-ciones planas normales. En un mercado alcista, por ejemplo, la onda B
-sube rápidamente hasta alcanzar la parte más alta de la onda A, demos-
-trando tener mayor fuerza de mercado. La onda final C acaba justo en la
-parte inferior de la onda A o un poco por debajo, en contraste con una co-
-rrección en zigzag que va mucho más allá de ese punto.
-
-Existen dos variaciones “irregulares” de la corrección plana normal.
-Las figuras 13.13-13.16 muestran el primer tipo de variación. En el ejem-
-plo del mercado alcista (figuras 13.13 y 13.14), obsérvese que la parte su-
-perior de la onda B sobrepasa la parte superior de la onda A y que la onda
-C viola la parte inferior de la A.
-
-La otra variación tiene lugar cuando la onda B alcanza a la parte supe-
-
-348
+Lo que distingue la corrección plana de la corrección en zigzag es que la plana sigue un patrón 3-3-5. Obsérvese en las figuras 13.10 y 13.12 que la onda A es de 3 en lugar de 5. En general, la corrección plana es más una consolidación que una corrección, y en un mercado alcista se le considera una señal de fuerza. Las figuras 13.9-13.12 muestran ejemplos de correcciones planas normales. En un mercado alcista, por ejemplo, la onda B sube rápidamente hasta alcanzar la parte más alta de la onda A, demostrando tener mayor fuerza de mercado. La onda final C acaba justo en la parte inferior de la onda

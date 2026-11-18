@@ -1,45 +1,11 @@
-178 Capítulo 6
+comprando caídas cerca de la parte inferior y vendiendo subidas cerca de la parte superior de la banda. Esta técnica le permite al operador a corto plazo aprovecharse de las bien definidas fronteras del precio y beneficiarse de un mercado sin tendencia. Dado que se han tomado las posiciones en los extremos de la banda, los riesgos son relativamente pequeños y están bien definidos. Si la zona de operaciones permanece intacta, este enfoque de operaciones a contracorriente de la tendencia funciona bastante bien. Cuando hay una salida fuera del límite, el operador no sólo sale inmediatamente de la última operación con pérdidas, sino que puede darle vuelta a la posición anterior iniciando nuevas operaciones en la dirección de la nueva tendencia. Los osciladores resultan particularmente útiles en los mercados que operan de forma lateral, pero no lo son tanto cuando ha tenido lugar la salida fuera del límite por razones que se verán en el capítulo 10.
 
-cerca de la parte superior de la banda. Esta técnica le permite al operador
-a corto plazo aprovecharse de las bien definidas fronteras del precio y be-
-neficiarse de un mercado sin tendencia. Dado que se han tomado las po-
-siciones en los extremos de la banda, los riesgos son relativamente peque-
-ños y están bien definidos. Si la zona de operaciones permanece intacta,
-este enfoque de operaciones a contracorriente de la tendencia funciona
-bastante bien. Cuando hay una salida fuera del límite, el operador no sólo
-sale inmediatamente de la última operación con pérdidas, sino que puede
-darle vuelta a la posición anterior iniciando nuevas operaciones en la di-
-rección de la nueva tendencia. Los osciladores resultan particularmente
-útiles en los mercados que operan de forma lateral, pero no lo son tanto
-cuando ha tenido lugar la salida fuera del límite por razones que se verán
-en el capítulo 10.
-
-Otros operadores asumen que el rectángulo es un patrón de continui-
-dad y toman posiciones largas cerca de la parte inferior de la banda de
-precios en una tendencia alcista, o inician posiciones cortas cerca de la
-parte superior de la banda en las tendencias a la baja. Otros evitan com-
-pletamente los mercados sin tendencia y esperan que haya una salida cla-
-ra antes de comprometer sus fondos. Casi todos los sistemas que siguen las
-indicaciones de las tendencias obtienen pobres resultados durante estos
-períodos de movimientos laterales de los mercados sin tendencia.
+Otros operadores asumen que el rectángulo es un patrón de continuidad y toman posiciones largas cerca de la parte inferior de la banda de precios en una tendencia alcista, o inician posiciones cortas cerca de la parte superior de la banda en las tendencias a la baja. Otros evitan completamente los mercados sin tendencia y esperan que haya una salida clara antes de comprometer sus fondos. Casi todos los sistemas que siguen las indicaciones de las tendencias obtienen pobres resultados durante estos períodos de movimientos laterales de los mercados sin tendencia.
 
 Otras similitudes y diferencias
 
-En términos de duración, el rectángulo normalmente se coloca en la
-categoría de uno a tres meses, como los triángulos y las cuñas. El patrón
-de volumen difiere de otros patrones de continuidad en el sentido de que
-las amplias fluctuaciones del precio previenen el habitual descenso de ac-
-tividad que se da en otros patrones similares.
+En términos de duración, el rectángulo normalmente se coloca en la categoría de uno a tres meses, como los triángulos y las cuñas. El patrón de volumen difiere de otros patrones de continuidad en el sentido de que las amplias fluctuaciones del precio previenen el habitual descenso de actividad que se da en otros patrones similares.
 
-La técnica de medida aplicada con mayor frecuencia al rectángulo se
-basa en la altura de la banda de precios. Mida la altura de la zona de ope-
-raciones, desde arriba hacia abajo y luego proyecte esa distancia vertical a
-partir del punto de salida. Este método es similar a otras técnicas de me-
-didas ya mencionadas, y se basa en la volatilidad del mercado. Cuando ve-
-amos el recuento en los gráficos de punto y figura, añadiremos más deta-
-lles sobre la cuestión de las medidas horizontales de los precios.
+La técnica de medida aplicada con mayor frecuencia al rectángulo se basa en la altura de la banda de precios. Mida la altura de la zona de operaciones, desde arriba hacia abajo y luego proyecte esa distancia vertical a partir del punto de salida. Este método es similar a otras técnicas de medidas ya mencionadas, y se basa en la volatilidad del mercado. Cuando veamos el recuento en los gráficos de punto y figura, añadiremos más detalles sobre la cuestión de las medidas horizontales de los precios.
 
-Todo lo que se ha mencionado hasta ahora en relación con el volumen
-en los puntos de ruptura y la probabilidad de movimientos de retorno se
-
-178
+Todo lo que se ha mencionado hasta ahora en relación con el volumen en los puntos

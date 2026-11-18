@@ -1,36 +1,7 @@
-Los gráficos de puntos y figuras 291
+cubren el mismo lapso de tiempo. En cierto sentido, los gráficos se parecen, pero en realidad son bastante diferentes. Ambos gráficos captan la visión general de precio y tendencia, pero el método usado para registrar los precios es diferente. Obsérvense en la figura 11.2 las columnas alternas
 
-FradaStahon by Omuigu Kereneh [11 ]
+Figura 11.1 Comparación de un gráfico de barras diario del índice S&P 500 (a la izquierda) y un gráfico de puntos y figuras (a la derecha) para el mismo período. El gráfico de puntos y figuras usa columnas de x para los precios ascendentes y columnas de 0 para los precios descendentes.
 
-u
+de x y o. Las columnas x representan los precios en ascenso, y las columnas o los precios en descenso. Cada vez que una columna de x sube un espacio por encima de una columna de x previa, hay una ruptura al alza. (Ver flechas en la figura 11.2).
 
-FO FZ PE
-
-GRÁFICO DE BARRAS GRÁFICO DE PUNTOS
-DIARIO Y FIGURAS
-
-- -
-8/29_ 10/17 1107 12712
-
-Figura 11.1 Comparación de un gráfico de barras diario del índice S8:P 500 (a
-la izquierda) y un gráfico de puntos y figuras (a la derecha) para el mismo perío-
-do. El gráfico de puntos y figuras usa columnas de x para los precios ascendentes
-y columnas de Q para los precios descendentes.
-
-de x y o. Las columnas x representan los precios en ascenso, y las colum-
-nas o los precios en descenso. Cada vez que una columna de x sube un es-
-pacio por encima de una columna de x previa, hay una ruptura al alza.
-(Ver flechas en la figura 11.2).
-
-Del mismo modo, cuando una columna de o baja un espacio con respec-
-to a una columna de o previa, hay una ruptura a la baja. Obsérvese que estas
-rupturas son mucho más precisas que las reflejadas en el gráfico de barras.
-Claro está, estas rupturas se pueden usar como señales de compra y venta,
-pero este tema lo ampliaremos un poco más adelante. Los gráficos demues-
-tran una de las ventajas del método de puntos y figuras, principalmente una
-mayor precisión y facilidad para reconocer señales de tendencias.
-
-Las figuras 11.3 y 11.4 revelan otra ventaja importante del gráfico de
-puntos y figuras: la flexibilidad. Aunque los tres gráficos de pécf cubren
-
-291
+Del mismo modo, cuando una columna de o baja un espacio con respecto a una columna de o previa, hay una ruptura a la baja. Obsérvese que estas rupturas son mucho más precisas que las reflejadas en el gráfico de barras. Claro está, estas rupturas

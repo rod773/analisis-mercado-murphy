@@ -1,32 +1,7 @@
-Indicadores técnicos avanzados 487
+pico en los precios.
 
-aMmdi.mwc - General Motors 1/6/95 - 7/31/97
-Pemnand de (16.104) ;
+Este indicador también se puede usar con valores. El gráfico semanal de General Motors (Figura A.2) muestra el ID representado como una línea más que como un histograma, lo que permite que las líneas de tendencia
 
-T
+Figura A.2 El índice de la demanda (línea continua) comparado con un gráfico semanal de General Motors. Las rupturas de la línea de tendencia en la línea ID a menudo precedieron las rupturas de la línea de tendencia en el gráfico de precios. Obsérvese la divergencia negativa (bajista) en abril de 1996.
 
-T
-
-BELSENSSESZUCTRA/'ASAS
-
-[ E E E
-
-Figura A.2 El índice de la demanda (línea continua) comparado con un gráfi-
-co semanal de General Motors. Las rupturas de la línea de tendencia en la línea
-ID a menudo precedieron las rupturas de la línea de tendencia en el gráfico de
-precios. Obsérvese la divergencia negativa (bajista) en abril de 1996. (Por corte-
-sía de MetaStock, Equis International).
-
-se puedan trazar con mayor facilidad en el indicador. En mi opinión, el
-análisis de las líneas de tendencia es muy valioso. Las líneas de tendencia
-del indicador generalmente se rompen bastante antes que las líneas de ten-
-dencia del precio, como ocurrió a finales de 1995, cuando la tendencia a la
-baja del ID (línea A) se rompió una semana antes que la correspondiente
-tendencia a la baja del precio (línea B). Como este gráfico indica, comprar
-sólo una semana antes habría mejorado notoriamente el precio de entra-
-da. El ID también advirtió sobre un máximo del precio a mediados de abril
-de 1996. Mientras que Gm alcanzaba un nuevo máximo (línea C), el ID ha-
-bía formado máximos más bajos (línea D). Esta señal de advertencia apa-
-reció mucho antes de la fuerte bajada del precio en junio y julio.
-
-487
+se puedan trazar con mayor facilidad en el indicador. En mi opinión, el análisis de las líneas de tendencia es muy valioso. Las líneas de tendencia del indicador generalmente se rompen bastante antes que las líneas de tendencia del precio, como ocurrió a finales de 1995, cuando la tendencia a la baja del ID (línea A) se rompió una semana antes que la correspondiente tendencia a la baja del precio (línea B). Como este gráfico indica, comprar sólo una semana antes habría mejorado notoriamente el precio de entrada. El ID también advirtió sobre un máximo del precio a mediados de abril de 1996. Mientras que Gm alcanzaba un nuevo máximo (línea C), el ID había formado máximos más bajos (línea D). Esta señal de advertencia apareció mucho antes de la fuerte bajada del precio en junio

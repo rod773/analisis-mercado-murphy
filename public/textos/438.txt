@@ -1,31 +1,7 @@
-438 Capítulo 17
+valor justo. En tal caso, se activa la venta programada, que da como resultado la compra de futuros del índice S&P 500 y la venta de la cesta de valores. La venta programada es negativa para el mercado. La mayoría de los operadores comprende esta conexión entre los dos mercados relacionados, pero no siempre comprende que los repentinos movimientos del contrato con respecto al índice al contado, tal como muestra este gráfico. Obsérvese que la prima se reduce a medida que el contrato de marzo llega a su vencimiento.
 
-D9/09/97 Ñ —(*SPX) S8P 500 Stock Index _ 03/16/98 1
-1050
-Futuros SaP 500
-1000
--950
--900
-Contado S8:P 500
-L : o "Nov — de e >w¿'£……v…am—l—m¡—…¡w
-
-Figura 17.1 Los futuros del índice S8:P 500 normalmente operan sobre la par
-con respecto al índice al contado, tal como muestra este gráfico. Obsérvese que la
-prima se reduce a medida que el contrato de marzo llega a su vencimiento.
-
-de futuros del índice S8:P 500, que ponen en marcha las operacio-
-nes programadas, tienen su origen en otros mercados de futuros, por
-ejemplo el de obligaciones.
+de futuros del índice S&P 500, que ponen en marcha las operaciones programadas, tienen su origen en otros mercados de futuros, por ejemplo el de obligaciones.
 
 Relación entre obligaciones y acciones
 
-El mercado de valores se ve influido por la dirección de los tipos de in-
-terés. La dirección de los tipos de interés (0 rendimiento) se puede contro-
-lar minuto a minuto siguiendo los movimientos del contrato de futuros de
-bonos del tesoro. Los precios de las obligaciones van en la dirección opues-
-ta a la de los tipos de interés o rendimientos. Por lo tanto, cuando los pre-
-cios de las obligaciones suben, los rendimientos caen, algo que normal-
-mente se considera positivo para las acciones. (*) Los precios descendentes
-de las obligaciones, o los rendimientos ascendentes, se consideran negati-
-
-438
+El mercado de valores se ve influido por la dirección de los tipos de interés. La dirección de los tipos de interés (o rendimiento) se puede controlar minuto a minuto siguiendo los movimientos del contrato de futuros de bonos del tesoro. Los precios de las obligaciones van en la dirección opuesta a la de los tipos de interés o rendimientos. Por lo tanto, cuando los precios de las obligaciones suben, los rendimientos caen,

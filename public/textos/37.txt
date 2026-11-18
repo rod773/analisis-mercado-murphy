@@ -1,41 +1,9 @@
-Filosofía del análisis técnico 37
+dos tipos de profesionales, el chartista tradicional y, a falta de una mejor expresión, el técnico estadístico. Hay que admitir que existe mucho solapamiento entre los dos y que la mayoría de los técnicos combina ambas áreas en un cierto grado. Igual que en el caso de los técnicos en oposición a los fundamentalistas, la mayoría parece pertenecer a una categoría u a otra.
 
-mejor expresión, el técnico estadístico. Hay que admitir que existe mucho
-solapamiento entre los dos y que la mayoría de los técnicos combina am-
-bas áreas en un cierto grado. Igual que en el caso de los técnicos en opo-
-sición a los fundamentalistas, la mayoría parece pertenecer a una catego-
-ría u a otra.
+Aunque el charlista tradicional utilice o no el trabajo cuantitativo para reforzar sus análisis, los gráficos siguen siendo su herramienta principal y todo lo demás es secundario. Por necesidad, la realización de gráficos es algo subjetivo, y el éxito del enfoque depende, en general, de la habilidad del individuo que lleva a cabo la tarea. Este enfoque ha recibido la denominación “grafismo artístico”, porque la interpretación de los gráficos es mayoritariamente un arte.
 
-Aunque el chartista tradicional utilice o no el trabajo cuantitativo para
-reforzar sus análisis, los gráficos siguen siendo su herramienta principal y
-todo lo demás es secundario. Por necesidad, la realización de gráficos es
-algo subjetivo, y el éxito del enfoque depende, en general, de la habilidad
-del individuo que lleva a cabo la tarea. Este enfoque ha recibido la deno-
-minación “grafismo artístico”, porque la interpretación de los gráficos es
-mayoritariamente un arte.
+Por el contrario, el analista estadístico o cuantitativo toma estos principios subjetivos, los cuantifica, prueba y optimiza con el propósito de desarrollar sistemas mecánicos de transacción. Estos sistemas, o modelos, pasan a programarse en ordenadores que generan indicaciones mecánicas de “compra” y “venta”. Estos sistemas van desde los más sencillos hasta los más complejos, pero la intención es reducir o eliminar completamente el elemento humano subjetivo de la transacción, para hacerla más científica. Estos estadísticos pueden usar o no los gráficos de precios para realizar su trabajo, pero se les considerará como técnicos mientras dicho trabajo se limite al estudio de la actividad del mercado.
 
-Por el contrario, el analista estadístico o cuantitativo toma estos princi-
-pios subjetivos, los cuantifica, prueba y optimiza con el propósito de desa-
-rrollar sistemas mecánicos de transacción. Estos sistemas, o modelos, pa-
-san a programarse en ordenadores que generan indicaciones mecánicas
-de “compra” y “venta”. Estos sistemas van desde los más sencillos hasta los
-más complejos, pero la intención es reducir o eliminar completamente el
-elemento humano subjetivo de la transacción, para hacerla más científica.
-Estos estadísticos pueden usar o no los gráficos de precios para realizar su
-trabajo, pero se les considerará como técnicos mientras dicho trabajo se li-
-mite al estudio de la actividad del mercado.
+Incluso los técnicos informáticos se pueden subdividir en aquellos que están a favor de los sistemas mecánicos, el llamado enfoque de la “caja negra”, y aquellos que usan la tecnología informática para desarrollar mejores indicadores técnicos. Este último grupo mantiene el control de la interpretación de dichos indicadores así como del proceso de toma de decisiones.
 
-Incluso los técnicos informáticos se pueden subdividir en aquellos que
-están a favor de los sistemas mecánicos, el llamado enfoque de la “caja ne-
-gra”, y aquellos que usan la tecnología informática para desarrollar mejo-
-res indicadores técnicos. Este último grupo mantiene el control de la in-
-terpretación de dichos indicadores así como del proceso de toma de
-decisiones.
-
-Una forma de distinguir entre los chartistas y los estadísticos es decir
-que todos los chartistas son técnicos, pero no todos los técnicos son char-
-tistas. Aunque dichas expresiones se usan de forma indistinta a lo largo de
-este libro, se debe tener presente que los gráficos representan sólo una
-parte del más amplio tema del análisis técnico.
-
-37
+Una forma de distinguir entre los charlistas y los estadísticos es decir que todos los charlistas son técnicos, pero no todos los técnicos son charlistas. Aunque dichas expresiones se usan de forma indistinta a lo largo de este libro, se debe tener presente que

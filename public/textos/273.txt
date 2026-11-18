@@ -1,61 +1,7 @@
-Osciladores y opinión contraria 273
+una señal de compra (ver flecha hacia arriba).
 
-Existe una divergencia bajista cuando la línea D está por encima de 80
-y forma dos picos descendentes mientras que los precios continúan mo-
-viéndose al alza. Hay una divergencia alcista cuando la línea D está por de-
-bajo de 20 y forma dos fondos ascendentes mientras que los precios conti-
-núan moviéndose a la baja. Asumiendo que todos estos factores están en
-su lugar, la verdadera señal de compra o venta se dispara cuando la línea
-K, más rápida, cruza la línea D, más lenta.
+Existe una divergencia bajista cuando la línea D está por encima de 80 y forma dos picos descendentes mientras que los precios continúan moviéndose al alza. Hay una divergencia alcista cuando la línea D está por debajo de 20 y forma dos fondos ascendentes mientras que los precios continúan moviéndose a la baja. Asumiendo que todos estos factores están en su lugar, la verdadera señal de compra o venta se dispara cuando la línea K, más rápida, cruza la línea D, más lenta.
 
-Hay otros detalles en el uso del proceso estocástico, pero esta explica-
-ción cubre los puntos más esenciales. A pesar de su más alto nivel de so-
-fisticación, la interpretación básica del oscilador sigue siendo la misma.
-Hay alerta o montaje cuando la línea %D está en un área extrema y diver-
-ge del movimiento del precio. La señal verdadera aparece cuando la línea
-D se ve cruzada por la línea K, que es más rápida.
+Hay otros detalles en el uso del proceso estocástico, pero esta explicación cubre los puntos más esenciales. A pesar de su más alto nivel de sofisticación, la interpretación básica del oscilador sigue siendo la misma. Hay alerta o montaje cuando la línea %D está en un área extrema y diverge del movimiento del precio. La señal verdadera aparece cuando la línea D se ve cruzada por la línea K, que es más rápida.
 
-El oscilador estocástico se puede usar con gráficos semanales y men-
-suales a efectos de obtener una perspectiva de mayor alcance, pero tam-
-bién se puede usar de forma eficaz con gráficos intradía de operaciones a
-más corto plazo. (Ver figura 10.16).
-
-parrores_— — (TR1600) Treasury Bonds 1600 03713/98 —l
-GRÁFICO DE BARRAS SEMANAL
-
-Vy ur
-U "A
-
-118724
-
-y
-l"ll'llltm hl¡¡
-I "
-
-N l H … 1192
-" h|'l líl M "I Ilw¡l 1126
-
-Y
-“slilli ;
-
-10808
-e
-109704
-Estocástico - 14 semanas 100
-sobrecomprado , * oo
-, hoo
-.
-leo
-hso
-o
-20
-—|20
-sobrevendido 10
-L A6 ve — _E U U - J
-
-Figura 10.16 Los cambios en el estocástico de 14 semanas desde encima de 80 y
-debajo de 20 anticiparon muy bien los cambios principales en el mercado de bo-
-nos del tesoro. Los gráficos estocásticos se pueden construir para 14 días, 14 se-
-manas o 14 meses.
-
-273
+El oscilador estocástico se puede usar con gráficos semanales y mensuales a efectos de obtener una perspectiva de mayor alcance, pero también se puede usar de forma eficaz con gráficos intradía de operaciones

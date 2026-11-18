@@ -1,48 +1,9 @@
-198 Capítulo 7
+se considera una situación alcista. (Ver figura 7.9).
 
-hu7 — — — (AM0398) Silver 03/08 — 02/20/98
-FUTUROS DIARIOS ] | l720
-LeHE]tmo
-I-6m
-E
-1 840
-| l l ! | | " L ] [ez0
-L U M 800
-1 | ¡ ¡
-580
-. | N i í;:
-l1
-| U _ 500
--300
-INTERÉS ABIERTO CRECIENTE Laco
-220
-180
-— Dic — _6 — Feb
-02 TÓ2am Prnied using TradaSistion 6 Omega Reseerch, nc 1007
+No obstante, si los precios suben y el interés abierto baja, la subida la causa principalmente la compra de cobertura (poseedores de posiciones cortas perdedoras que se ven obligados a cubrir dichas posiciones). Sale más dinero que entra en el mercado. Esta acción se considera bajista porque la tendencia al alza probablemente perderá fuerza una vez que la compra de cobertura haya finalizado. (Ver figura 7.10)
 
--
+Figura 7.9 La tendencia alcista de los precios de la plata fue confirmada por una elevación similar de la línea de interés abierto. Los recuadros de la derecha muestran la liquidación normal de contratos pendientes a medida que los precios comienzan a corregirse a la baja.
 
-Figura 7.9 La tendencia alcista de los precios de la plata fue confirmada por una
-elevación similar de la línea de interés abierto. Los recuadros de la derecha mues-
-tran la liquidación normal de contratos pendientes a medida que los precios co-
-mienzan a corregirse a la baja.
+Cuando los precios tienden a la baja y el interés abierto sube, el técnico sabe que hay dinero nuevo entrando en el mercado, lo que refleja una nueva y agresiva venta al descubierto. Esta acción incrementa las posibilidades de que la tendencia a la baja continúe y se considera bajista. (Ver figura 7.11).
 
-3. Cuando los precios tienden a la baja y el interés abierto sube, el técnico
-sabe que hay dinero nuevo entrando en el mercado, lo que refleja una
-nueva y agresiva venta al descubierto. Esta acción incrementa las posibi-
-lidades de que la tendencia a la baja continúe y se considera bajista.
-(Ver figura 7.11).
-
-4. Si el interés abierto total disminuye junto con la disminución de los pre-
-cios, el descenso del precio lo causan las posiciones largas desalentadas
-y perdedoras que se ven obligadas a ser liquidadas. Se cree que esta ac-
-ción indica una situación técnica reforzada, porque la tendencia a la
-baja probablemente acabará cuando el interés abierto haya descendido
-lo suficiente como para mostrar que la mayoría de las posiciones largas
-con pérdidas ya han acabado su venta.
-
-Resumamos estos cuatro puntos:
-
-1. El interés abierto creciente en una tendencia al alza es alcista.
-
-198
+Si el interés abierto total disminuye junto con la disminución de los precios, el descenso del precio lo causan las posiciones largas desalentadas y perdedoras que se ven obligadas a ser liquidadas. Se cree que esta acción indica una situación técnica reforzada, porque la tendencia

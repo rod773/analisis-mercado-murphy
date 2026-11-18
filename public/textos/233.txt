@@ -1,34 +1,5 @@
-Medias móviles 233
+de 18 días. Esto quiere decir que en una tendencia al alza la alineación correcta sería que la media de 4 días estuviera por encima de la de 9 días, que a su vez estaría por encima de la media de 18 días. En una tendencia a la baja el orden se invierte y la alineación es exactamente la contraria, o sea, la media de cuatro días sería la más baja, seguida por la de 9 y luego por la de 18 días. (Ver figuras 9.7a-b).
 
-se invierte y la alineación es exactamente la contraria, o sea, la media de
-cuatro días sería la más baja, seguida por la de 9 y luego por la de 18 días.
-(Ver figuras 9.7a-b).
+Una alerta de compra aparece en una tendencia a la baja cuando la media de 4 días cruza por encima de la de 9 y también por la de 18 días. Cuando la media de 9 días cruza por encima la de 18 días, hay una señal de compra confirmada, lo que coloca a la de 4 días por encima de la de 9 días, que a su vez está por encima de la media de 18 días. Pueden darse algunas mezclas durante las correcciones o consolidaciones, pero la tendencia al alza general permanece intacta. Algunos operadores aprovecharán para realizar beneficios durante el proceso de mezclas y otros lo utilizarán como una oportunidad de compra. Obviamente, aquí hay mucho espacio para la flexibilidad en la aplicación de las reglas, dependiendo de la agresividad con que se quiera operar.
 
-Una alerta de compra aparece en una tendencia a la baja cuando la me-
-dia de 4 días cruza por encima de la de 9 y también por la de 18 días.
-Cuando la media de 9 días cruza por encima la de 18 días, hay una señal
-de compra confirmada, lo que coloca a la de 4 días por encima de la de 9
-días, que a su vez está por encima de la media de 18 días. Pueden darse al-
-gunas mezclas durante las correcciones o consolidaciones, pero la ten-
-dencia al alza general permanece intacta. Algunos operadores aprovecha-
-rán para realizar beneficios durante el proceso de mezclas y otros lo
-utilizarán como una oportunidad de compra. Obviamente, aquí hay mu-
-cho espacio para la flexibilidad en la aplicación de las reglas, dependien-
-do de la agresividad con que se quiera operar.
-
-10/15/97 — — (JY0398) Japanese Yen 03/98 _ 03/02/98
-GRÁFICO DE BARRAS DIARIO
-
-86
-
-L _ Nov — — Dic - — 8 — e —
-; 6 Omega Ressarch, inc. 1987
-205 2:25p0n Prinied using TradaSiaión L
-
-Figura 9.7a _ A los operadores de futuros les gusta la combinación de las medias
-móviles de 9 y 18 días. A finales de octubre apareció una señal de venta (primer
-círculo) cuando la media de 9 días cayó por debajo de la de 18. A principios de
-1998 apareció una señal de compra cuando la media de 9 días volvió a pasar por
-Encima de la media de 18 días.
-
-233
+Figura 9.7a A los operadores de

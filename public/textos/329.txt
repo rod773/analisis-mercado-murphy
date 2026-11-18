@@ -1,43 +1,7 @@
-Velas japonesas 329
+el mercado alcista. Sin embargo, en el curso de los tres períodos siguientes de contratación aparecen días de cuerpos pequeños que, como grupo, tienden a la baja. Todos permanecen dentro del alcance del largo cuerpo blanco del primer día y al menos dos de estos tres días de cuerpos pequeños tienen cuerpos negros. Los japoneses consideran este lapso en el que el mercado parece no haber ido a ningún sitio como un “período de descanso”. Al quinto día de este patrón se desarrolla otro largo día blanco que cierra a un nuevo máximo. Los precios finalmente han salido de la corta banda de fluctuación y la tendencia al alza continuará.
 
-cuerpos pequeños que, como grupo, tienden a la baja. Todos permanecen
-dentro del alcance del largo cuerpo blanco del primer día y al menos dos
-de estos tres días de cuerpos pequeños tienen cuerpos negros. Los japo-
-neses consideran este lapso en el que el mercado parece no haber ido a
-ningún sitio como un “período de descanso”. Al quinto día de este patrón
-se desarrolla otro largo día blanco que cierra a un nuevo máximo. Los pre-
-cios finalmente han salido de la corta banda de fluctuación y la tendencia
-al alza continuará.
-
-Un patrón de cinco días, como el de los tres métodos ascendentes, ne-
-cesita una definición detallada. El escenario descrito más arriba es el ejem-
-plo perfecto del patrón de los tres métodos ascendentes. Se puede aplicar
-la flexibilidad con un cierto grado de éxito, algo que sólo da la experien-
-cia. Por ejemplo, los tres días de pequeñas reacciones podrían mantener-
-se dentro de la banda máxima-mínima del primer día en lugar de la ban-
-da del cuerpo. Los días de pequeñas reacciones no siempre tienen que ser
-predominantemente negros. Y finalmente, el concepto de “período de
-descanso” se podría extender para incluir más de tres días de reacción. No
-ignore el patrón de los tres métodos ascendentes y descendentes, ya que le
-puede proporcionar una sensación de comodidad cuando esté preocupa-
-do por proteger los beneficios de un negocio.
+Un patrón de cinco días, como el de los tres métodos ascendentes, necesita una definición detallada. El escenario descrito más arriba es el ejemplo perfecto del patrón de los tres métodos ascendentes. Se puede aplicar la flexibilidad con un cierto grado de éxito, algo que sólo da la experiencia. Por ejemplo, los tres días de pequeñas reacciones podrían mantenerse dentro de la banda máxima-mínima del primer día en lugar de la banda del cuerpo. Los días de pequeñas reacciones no siempre tienen que ser predominantemente negros. Y finalmente, el concepto de “período de descanso” se podría extender para incluir más de tres días de reacción. No ignore el patrón de los tres métodos ascendentes y descendentes, ya que le puede proporcionar una sensación de comodidad cuando esté preocupado por proteger los beneficios de un negocio.
 
 Uso de ordenadores para identificar patrones de velas
 
-Un PC con programas creados para reconocer patrones de velas es un
-buen modo de deshacerse de cualquier percepción subjetiva, especial-
-mente durante una sesión. De todos modos, hay un par de cosas a tener
-presentes cuando se esté mirando velas en la pantalla de un ordenador. Es-
-tas pantallas están hechas de unos pequeños elementos de luz llamados pi-
-xels, de los que hay sólo una determinada cantidad en la pantalla de su or-
-denador dependiendo de la resolución de su tarjeta de vídeo o de su
-monitor. Si usted está mirando información de precios en la que hay una
-amplia variedad de precios en un período corto, puede tener la impresión
-de estar viendo muchos días Doji (el precio de apertura y el de cierre son
-iguales) cuando, de hecho, no es así. Con una gran variedad de precios en
-la pantalla, cada pixel tendrá su propia banda de precios, pero un progra-
-ma informático que identifique patrones basados en una relación mate-
-mática resolverá esta anomalía visual. Espero que esta explicación evitará
-que usted piense que su programa no funciona.
-
-329
+Un PC con programas creados para reconocer patrones de velas es un buen modo de deshacerse de cualquier percepción subjetiva, especialmente durante una sesión. De todos modos, hay un par de cosas a tener presentes cuando se esté mirando velas en la pantalla de un ordenador. Estas pantallas están hechas de unos pequeños elementos de luz llamados pi- xels, de los que hay sólo una determinada cantidad en la pantalla de su ordenador dependiendo de la resolución de su tarjeta de vídeo o de su monitor. Si usted está mirando información de precios en la que hay una amplia variedad de precios en un período corto, puede tener la impresión de estar viendo muchos días Doji (el precio de apertura y el de cierre son iguales) cuando, de hecho, no es así. Con una gran variedad de precios en la pantalla, cada pixel tendrá su propia banda de precios, pero un programa informático que identifique patrones basados en una relación matemática resolverá esta anomalía visual. Espero que esta explicación evitará

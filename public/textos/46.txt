@@ -1,44 +1,7 @@
-46 Filosofía del análisis técnico
+no es realista creer que todos los movimientos de precios son aleatorios. Esta puede ser una de esas áreas en las que la observación empírica y la experiencia práctica resultan más útiles que las sofisticadas técnicas estadísticas, que parecen ser capaces de probar cualquier cosa que el usuario tenga en mente o ser incapaces de refutar nada. Valdría la pena tener presente que la aleatorie- dad sólo se puede definir en el sentido negativo de incapacidad de descubrir modelos sistemáticos en los movimientos de precios. El hecho de que los académicos no hayan podido descubrir la presencia de estos patrones, no prueba que no existan.
 
-de esas áreas en las que la observación empírica y la experiencia práctica
-resultan más útiles que las sofisticadas técnicas estadísticas, que parecen
-ser capaces de probar cualquier cosa que el usuario tenga en mente o ser
-incapaces de refutar nada. Valdría la pena tener presente que la aleatorie-
-dad sólo se puede definir en el sentido negativo de incapacidad de descu-
-brir modelos sistemáticos en los movimientos de precios. El hecho de que
-los académicos no hayan podido descubrir la presencia de estos patrones,
-no prueba que no existan.
+Los académicos debaten si la tendencia de los mercados tiene poco interés para el analista u operador medio que se ve obligado a actuar en el mundo real donde las tendencias del mercado son claramente visibles. Si el lector tiene alguna duda sobre este punto, un vistazo a cualquier libro de gráficos (elegido al azar) le demostrará la presencia de tendencias de una forma muy gráfica. ¿Cómo explican los “paseantes aleatorios” la persistencia de estas tendencias si los precios son serialmente independientes, lo que significa que lo sucedido ayer, o la semana anterior, no tiene relación con lo que puede suceder hoy o mañana? ¿Cómo explican el provechoso historial de “vida real” de muchos sistemas que siguen las tendencias?
 
-Los académicos debaten si la tendencia de los mercados tiene poco in-
-terés para el analista u operador medio que se ve obligado a actuar en el
-mundo real donde las tendencias del mercado son claramente visibles. Si
-el lector tiene alguna duda sobre este punto, un vistazo a cualquier libro
-de gráficos (elegido al azar) le demostrará la presencia de tendencias de
-una forma muy gráfica. ¿Cómo explican los “paseantes aleatorios” la per-
-sistencia de estas tendencias si los precios son serialmente independientes,
-lo que significa que lo sucedido ayer, o la semana anterior, no tiene rela-
-ción con lo que puede suceder hoy o mañana? ¿Cómo explican el prove-
-choso historial de “vida real” de muchos sistemas que siguen las tenden-
-cias?
+Por ejemplo, ¿cómo le iría a una estrategia de comprar y retener en los mercados de futuros donde el cálculo del tiempo es tan crucial? ¿Las posiciones largas se mantendrían durante los mercados bajistas? Y los operadores, ¿cómo podrían conocer la diferencia entre mercados alcistas o bajistas si los precios son impredecibles y no siguen una tendencia? De hecho, ¿cómo podría existir un mercado bajista, si tal cosa ya implicaría una tendencia? (Ver figura 1.3).
 
-Por ejemplo, ¿cómo le iría a una estrategia de comprar y retener en los
-mercados de futuros donde el cálculo del tiempo es tan crucial? ¿Las po-
-siciones largas se mantendrían durante los mercados bajistas? Y los opera-
-dores, ¿cómo podrían conocer la diferencia entre mercados alcistas o ba-
-jistas si los precios son impredecibles y no siguen una tendencia? De
-hecho, ¿cómo podría existir un mercado bajista, si tal cosa ya implicaría
-una tendencia? (Ver figura 1.3).
-
-Parece dudoso que la evidencia estadística alguna vez vaya a probar o
-refutar totalmente la Teoría del Paseo Aleatorio. Sin embargo, la idea de
-que los mercados son aleatorios es completamente rechazada por la co-
-munidad técnica. Si los mercados fueran realmente aleatorios, ninguna
-técnica de pronósticos funcionaría. Lejos de refutar la validez del enfoque
-técnico, la hipótesis del mercado eficiente está muy cerca de la premisa
-técnica de que los mercados lo descuentan todo. Los académicos piensan,
-sin embargo, que debido a que los mercados descuentan rápidamente
-toda la información, no hay forma de sacar partido de dicha información.
-La base del pronóstico técnico, ya vista, es que la información importante
-del mercado aparece descontada o reflejada en el precio del mercado mu-
-
-46
+Parece dudoso que la evidencia estadística alguna vez vaya a probar o refutar totalmente la Teoría del Paseo Aleatorio. Sin embargo, la idea de que los mercados son aleatorios es completamente rechazada por la comunidad técnica. Si los mercados fueran realmente aleatorios, ninguna técnica de pronósticos funcionaría. Lejos de refutar la validez del enfoque técnico, la hipótesis del mercado eficiente está muy cerca de la premisa técnica de que los mercados lo descuentan todo.

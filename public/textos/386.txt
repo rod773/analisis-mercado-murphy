@@ -1,48 +1,5 @@
-386 Capítulo 14
+es por medio de la inspección visual. Estudiando los gráficos de barras diarios, por ejemplo, es posible identificar los máximos y mínimos obvios de un mercado. Calculando los lapsos medios entre esos máximos y mínimos cíclicos, se pueden encontrar ciertas longitudes medias.
 
-Un ciclo sencillo
+Existen herramientas disponibles para facilitar la tarea. Una de ellas es el Ehrlich Cycle Finder, llamado así por su inventor, Stan Ehrlich (ECF, 112 Vida Court, Novato, CA 94947 [415] 892-1183). El Cycle Finder es un dis-
 
-figura A
-zz", — >
-_
-//, —
-a -
-// ,*-___—_ XN
-— - — D
-P - x“x
-” ,/ NK
-Ed —
-s
-e Tendencia del ciclo más grande =
-7 .
-figura B
-
-Ciclo sencillo
-
-DNA
-
-Ciclo más pequeño combi- *
-nado con tendencia
-.
-
-Z
-Traslación a la derecha
-La tendencia del ciclo más
-grande es ascendente
-(Mercado al alza)
-
-Traslación a la izquierda
-La tendencia del ciclo más
-grande es descendente.
-(Mercado a la baja)
-
-figura C
-
-Figura 14.15  Ejemplo de traslación a izquierda y derecha. La figura A muestra la
-tendencia del ciclo más grande. La figura C muestra el efecto combinado. Cuan-
-do la tendencia más grande es ascendente, el pico medio se desplaza a la derecha.
-Cuando la tendencia más grande es descendente, el pico medio se desplaza a la
-izquierda. La traslación a la derecha es alcista y la traslación a la izquierda es ba-
-jista. (Fuente: The Power of Oscillator/Cycle Combination de Walt Bressert).
-
-386
+Figura 14.15 Ejemplo de traslación a izquierda y derecha. La figura A muestra la tendencia del ciclo más grande. La figura C muestra el efecto combinado. Cuando la tendencia más grande es ascendente, el pico medio se desplaza a la derecha. Cuando la tendencia más grande es descendente, el pico medio se desplaza a la izquierda. La traslación a la derecha es alcista y la traslación a la izquierda es bajista. (Fuente: The Power of Oscillator/Cycle Combination

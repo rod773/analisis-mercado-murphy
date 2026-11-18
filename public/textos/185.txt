@@ -1,33 +1,13 @@
-7
+analítico.
 
-Volumen
-e interés abierto
+Volumene interés abierto
 
 Introducción
 
-Casi todos los técnicos de los mercados financieros aplican un enfoque
-multidimensional al análisis de mercado siguiendo los movimientos de
-tres grupos de cifras -precio, volumen e interés abierto. El análisis de vo-
-lumen se aplica a todos los mercados, y el interés abierto se aplica princi-
-palmente a los mercados de futuros. En el capítulo 3 vimos la construc-
-ción del gráfico de barras diario y cómo se representan esos tres grupos de
-cifras en ese tipo de gráfico. Dijimos entonces que aunque se dispone de
-las cifras de volumen y de interés abierto correspondientes a cada mes de
-entrega en los mercados de futuros, son las cifras totales las que general-
-mente se usan para hacer pronósticos. Los chartistas de valores simple-
-mente registran el volumen total junto con el precio correspondiente.
+Casi todos los técnicos de los mercados financieros aplican un enfoque multidimensional al análisis de mercado siguiendo los movimientos de tres grupos de cifras -precio, volumen e interés abierto. El análisis de volumen se aplica a todos los mercados, y el interés abierto se aplica principalmente a los mercados de futuros. En el capítulo 3 vimos la construcción del gráfico de barras diario y cómo se representan esos tres grupos de cifras en ese tipo de gráfico. Dijimos entonces que aunque se dispone de las cifras de volumen y de interés abierto correspondientes a cada mes de entrega en los mercados de futuros, son las cifras totales las que generalmente se usan para hacer pronósticos. Los charlistas de valores simplemente registran el volumen total junto con el precio correspondiente.
 
-La parte central del estudio sobre la teoría de los gráficos se ha con-
-centrado hasta ahora, sobre todo, en el movimiento de los precios, con
-alguna mención al volumen. En este capítulo redondearemos el enfoque
-de las tres dimensiones prestando una atención más detallada al papel ju-
-gado por el volumen y el interés abierto en el proceso de realizar pro-
-nósticos.
+La parte central del estudio sobre la teoría de los gráficos se ha concentrado hasta ahora, sobre todo, en el movimiento de los precios, con alguna mención al volumen. En este capítulo redondearemos el enfoque de las tres dimensiones prestando una atención más detallada al papel jugado por el volumen y el interés abierto en el proceso de realizar pronósticos.
 
 El volumen y el interés abierto como indicadores secundarios
 
-Comencemos colocando el volumen y el interés abierto en su perspec-
-tiva adecuada. El precio es, de lejos, el indicador más importante. El volu-
-men y el interés abierto tienen una importancia secundaria y sirven bási-
-
-185
+Comencemos colocando el volumen y el interés abierto en su perspectiva adecuada. El precio es, de lejos, el indicador más importante. El volumen y el interés abierto tienen una importancia

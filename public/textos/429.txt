@@ -1,38 +1,7 @@
-Gestión monetaria y tácticas de contratación 429
+Figura 16.2 Gráfico de barras de 10 minutos de un contrato de futuros de bonos del tesoro que muestra tres días de operaciones. Las dos últimas señales estocásti- cas indican una venta justo después de las 10:10 de la mañana del 26 de febrero, y luego una señal de compra a la mañana siguiente más o menos a la misma hora.
 
-Pz¡1slsa 11:20am (DM H8) 03/02/98 10:20arr]
+Figura 16.3 Gráfico de barras de una hora de un contrato de futuros en marcos alemanes que muestra 10 días de operaciones. Hay tres señales estocásticas (ver flechas). Una señal de compra el 17 de febrero se transformó en una de compra el 24 y en otra de venta el 26 del mismo mes.
 
-Deutsche Mark Futures t l l Z
-GRÁFICO DE BARRAS -
+mediodía (alrededor de las 12:30 de Nueva York) y 35 minutos después del cierre.
 
-DE 60 MINUTOS | | "
-| ¡l|l| ||| ee
-u pl PO
-| ll¡|]ll Ne el ' e
-| Estocásticos (14-barras) , N 200
-
-Figura 16.3 Gráfico de barras de una hora de un contrato de futuros en marcos
-alemanes que muestra 10 días de operaciones. Hay tres señales estocásticas (ver
-flechas). Una señal de compra el 17 de febrero se transformó en una de compra
-el 24 y en otra de venta el 26 del mismo mes.
-
-mediodía (alrededor de las 12:30 de Nueva York) y 35 minutos después
-del cierre.
-
-Son horarios medios que se pueden ajustar a los mercados individua-
-les. La idea es usar puntos pivotes sólo como dispositivo para calcular el
-tiempo cuando el operador cree que un mercado está alcanzando su má-
-ximo o su mínimo. Las señales de compra o ventá aparecen a medida
-que los puntos pivotes se quiebran a lo largo del día. Cuanto más tarde
-aparezca la señal, más fuerte será. Como ilustración de una señal de com-
-pra, si el mercado abre por encima del precio de cierre del día anterior,
-pero por debajo del máximo del día anterior, una orden stop de compra
-se ejecuta por encima del máximo precio del día anterior. Si se elige el
-límite de compra, se coloca un límite de venta protector por debajo del
-mínimo del día actual, 35 minutos antes del cierre, si no se ha tomado
-ninguna posición, se coloca un límite de compra por encima del precio
-máximo del día actual, con un límite protector por debajo de la apertu-
-ra de la sesión actual. Generalmente, no hay movimientos durante los pri-
-meros 30 minutos de la sesión, pero a medida que el día avanza, los pun-
-
-429
+Son horarios medios que se pueden ajustar a los mercados individuales. La idea es usar puntos pivotes sólo como dispositivo para calcular el tiempo cuando el operador cree que un mercado está alcanzando su máximo o su mínimo. Las señales de compra o venta aparecen a medida que los puntos pivotes se quiebran a lo largo del día. Cuanto más tarde aparezca la señal, más fuerte será. Como ilustración de una señal de compra, si el mercado abre por encima del precio de cierre del día anterior, pero por debajo del máximo del día anterior, una orden stop de compra se ejecuta por encima del máximo precio del día anterior. Si se elige el límite de compra, se coloca un límite de venta protector por debajo del mínimo del día actual, 35 minutos antes del cierre, si no se ha tomado ninguna posición, se coloca un límite de compra por encima del precio máximo del día actual, con un límite protector por debajo de la apertura de la sesión actual. Generalmente, no hay movimientos durante los primeros 30 minutos de la sesión, pero a medida

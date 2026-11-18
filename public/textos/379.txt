@@ -1,31 +1,9 @@
-Ciclos temporales 379
+se forma un patrón superior de cabeza y hombros mediante la combinación de dos longitudes cíclicas con una línea ascendente que representa la suma de todos los componentes de más larga duración. Hurst continúa explicando los topes dobles, triángulos, banderas y banderines a través de la aplicación de ci-
 
-C- Componente 18 meses
-idealizado
+Figura 14.11 Formación de un canal. (Fuente: Hurst, J. M., The Profit Magic of Stock Transaction Timing, Englewood Cliffs, N. J.: Prentice-Hall, Inc., 1970).
 
-B - Suma idealizada
-de todos los componentes
-de mayor duración
+Iiempó
 
-Magnitud
+Figura 14.12a Añadido de otro componente. (Fuente: Hurst, J. M., The Profit Magic of Stock Transaction Timing, Englewood Cliffs, NJ.: Prentice-Hall, 1970).
 
-A - Componente 18 semanas idealizado
-
-Tiempo —
-
-Figura 14.12a Añadido de otro componente. (Fuente: Hurst, J.M., The Profit Ma-
-gic of Stock Transaction Timing, Englewood Cliffs, N.J.: Prentice-Hall, 1970).
-
-Suma elementos
-movimientos precios
-de la figura III-2
-
-Magnitud
-
-Tiempo ——
-
-Figura 14.12b Aplicación del principio de acumulación. (Fuente: Hurst, J.M.,
-The Profit Magic of Stock Transaction Timing, Englewood Cliffs, N.J., Prentice Hall,
-Inc., 1970).
-
-379
+Figura 14.12b Aplicación del principio de acumulación. (Fuente: Hurst, J. M., The Profit Magic of Stock Transaction Timing, Englewood Cliffs, NJ., Prentice

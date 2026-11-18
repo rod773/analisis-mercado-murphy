@@ -1,40 +1,9 @@
-Construcción de gráficos 67
+parte inferior del gráfico, y todo lo que el usuario tiene que hacer es dibujar una barra vertical en el día apropiado, desde el precio máximo del día hasta el mínimo de ese día (lo que se llama el alcance) y hacer una pequeña marca horizontal a la derecha de la barra para identificar el precio de cierre del día. (Ver figura 3.7).
 
-r
+Figura 3.6 Visión más amplia de Intel usando dos escalas de precios diferentes. El gráfico de la izquierda muestra la escala aritmética tradicional. El gráfico de la derecha muestra una escala logarítmica. En el gráfico logarítmico se ve que la línea de tendencia ascendente a tres años ha funcionado mejor.
 
-L100 100
-ESCALA ARITMÉTICA I¡ i ESCALA SEMI- lt :;M
-874 LOGARÍTMICA e2
-|I … - -
-I “ 624 I | re
-T
-! |
-l 374 rh
-¡¡l"|llll“ ……I I |l|l[' s
-y 25 |
-"rlº|¡|¡|"""l|"l"!' y lz IIÍI
-5 3 4 * e Y — 93 » %6 "e % |
-
-Figura 3.6  Visión más amplia de Intel usando dos escalas de precios diferentes.
-El gráfico de la izquierda muestra la escala aritmética tradicional. El gráfico de la
-derecha muestra una escala logarítmica. En el gráfico logarítmico se ve que la lí-
-nea de tendencia ascendente a tres años ha funcionado mejor.
-
-El motivo por el que se coloca la pequeña marca o tic a la derecha de
-la barra es distinguirlo del precio de apertura, que los chartistas colocan a
-la izquierda de la barra. Una vez registrada la actividad de ese día, el usua-
-rio se traslada un día a la derecha para registrar los movimientos del día si-
-guiente. La mayoría de los servicios de gráficos usa semanas de cinco días
-y los fines de semana no aparecen en el gráfico. Cuando una bolsa de con-
-tratación está cerrada durante la semana de contrataciones, el día de cie-
-rre queda como un espacio en blanco. Las barras en la parte inferior del
-gráfico miden el volumen. (Ver figura 3.7).
+El motivo por el que se coloca la pequeña marca o tic a la derecha de la barra es distinguirlo del precio de apertura, que los charlistas colocan a la izquierda de la barra. Una vez registrada la actividad de ese día, el usuario se traslada un día a la derecha para registrar los movimientos del día siguiente. La mayoría de los servicios de gráficos usa semanas de cinco días y los fines de semana no aparecen en el gráfico. Cuando una bolsa de contratación está cerrada durante la semana de contrataciones, el día de cierre queda como un espacio en blanco. Las barras en la parte inferior del gráfico miden el volumen. (Ver figura 3.7).
 
 Volumen
 
-Hay otro elemento importante de información que debe incluirse en el
-gráfico de barras, es el volumen. El volumen representa la suma total de
-Operaciones de un mercado en un determinado día. Es la cantidad total de
-contratos de futuros contratados durante el día o el número de acciones co-
-
-67
+Hay otro elemento importante de información que debe incluirse en el gráfico de barras, es el volumen. El volumen representa la suma

@@ -1,40 +1,7 @@
-Filosofía del análisis técnico 39
-
-limitada crea algunos problemas a la hora de hacer previsiones de largo al-
-cance, porque una vez que los contratos viejos dejan de operar, se necesi-
-tan nuevos gráficos, ya que los de un contrato vencido no tienen mucha
-utilidad. Se deben obtener nuevos gráficos para los contratos más nuevos,
-junto con sus propios indicadores técnicos. Esta rotación constante hace
-que mantener un fondo documental actualizado de gráficos sea muy difí-
-cil. Para los que utilizan ordenadores también significa más tiempo y gas-
-to, porque obliga a la constante obtención de nuevos datos históricos a
-medida que los contratos antiguos caducan.
+y cuáles debe evitar (algo que quedará explicado más adelante en este libro). Esta característica de vida limitada crea algunos problemas a la hora de hacer previsiones de largo alcance, porque una vez que los contratos viejos dejan de operar, se necesitan nuevos gráficos, ya que los de un contrato vencido no tienen mucha utilidad. Se deben obtener nuevos gráficos para los contratos más nuevos, junto con sus propios indicadores técnicos. Esta rotación constante hace que mantener un fondo documental actualizado de gráficos sea muy difícil. Para los que utilizan ordenadores también significa más tiempo y gasto, porque obliga a la constante obtención de nuevos datos históricos a medida que los contratos antiguos caducan.
 
 Requisitos de menor margen
 
-Ésta tal vez sea la diferencia más importante entre valores y futuros. To-
-dos los futuros se contratan al margen, que generalmente es menos de un
-10 por ciento del valor del contrato. El resultado de estos requisitos de me-
-nor margen es un tremendo apalancamiento. Los movimientos de precio
-relativamente pequeños, en cualquier dirección, tienden a magnificarse en
-su impacto sobre los resultados generales de la operación, y por esta razón,
-es posible ganar o perder rápidamente grandes sumas de dinero en los fu-
-turos. Debido a que el operador aporta sólo el 10 por ciento del valor del
-contrato como margen, un movimiento del 10 por ciento en cualquier di-
-rección hace que el operador doble su dinero o lo pierda completamente.
-Al magnificar el impacto de movimientos del mercado incluso pequeños, el
-alto factor de apalancamiento hace que a veces los mercados de futuros pa-
-rezcan ser más volátiles de lo que en realidad son. Cuando alguien diga, por
-ejemplo, que ha sido “borrado” del mercado de futuros, recuerde que di-
-cha persona sólo había comprometido un 10 por ciento en primer lugar.
+Esta tal vez sea la diferencia más importante entre valores y futuros. Todos los futuros se contratan al margen, que generalmente es menos de un 10 por ciento del valor del contrato. El resultado de estos requisitos de menor margen es un tremendo apalancamiento. Los movimientos de precio relativamente pequeños, en cualquier dirección, tienden a magnificarse en su impacto sobre los resultados generales de la operación, y por esta razón, es posible ganar o perder rápidamente grandes sumas de dinero en los futuros. Debido a que el operador aporta sólo el 10 por ciento del valor del contrato como margen, un movimiento del 10 por ciento en cualquier dirección hace que el operador doble su dinero o lo pierda completamente. Al magnificar el impacto de movimientos del mercado incluso pequeños, el alto factor de apalancamiento hace que a veces los mercados de futuros parezcan ser más volátiles de lo que en realidad son. Cuando alguien diga, por ejemplo, que ha sido “borrado” del mercado de futuros, recuerde que dicha persona sólo había comprometido un 10 por ciento en primer lugar.
 
-Desde el punto de vista del análisis técnico, el alto factor de apalanca-
-miento hace que el cálculo del tiempo en los mercados de futuros sea mu-
-cho más crítico que en el mercado de valores. Calcular exactamente el
-momento de entrar y salir del mercado es fundamental en las operaciones
-con futuros, y mucho más difícil y frustrante que el análisis del mercado.
-Básicamente por este motivo, las habilidades técnicas para operar son in-
-dispensables para cualquier programa de operaciones con futuros que
-tenga éxito.
-
-39
+Desde el punto de vista del análisis técnico, el alto factor de apalancamiento hace que el cálculo del tiempo en los mercados de futuros sea mucho más crítico que en el mercado de valores. Calcular exactamente el momento de entrar y salir del mercado es fundamental en las operaciones con futuros, y mucho más difícil y frustrante que el análisis del mercado. Básicamente por este motivo, las habilidades técnicas para operar son indispensables para cualquier

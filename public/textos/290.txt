@@ -1,45 +1,11 @@
-290 Capítulo 11
+máximos y mínimos de cualquier mercado.
 
 El gráfico de puntos y figuras vs el gráfico de barras
 
-Comencemos con algunas de las diferencias básicas entre los dos tipos
-de gráficos y veamos un par de ejemplos.
+Comencemos con algunas de las diferencias básicas entre los dos tipos de gráficos y veamos un par de ejemplos.
 
-El gráfico de puntos y figuras es un estudio de los puros movimientos
-de precios, o sea, no toma en consideración el tiempo mientras represen-
-ta la acción que han tomado los precios. Un gráfico de barras, por el con-
-trario, combina el precio con el tiempo. Debido a la forma en que está
-construido el gráfico de barras, el eje vertical es la escala de precios y el eje
-horizontal es la escala de tiempo. En un gráfico diario, por ejemplo, el mo-
-vimiento de un precio en cada día sucesivo se traslada un espacio o barra
-hacia la derecha, y esto sucede aunque el precio haya cambiado poco o
-nada ese día. Siempre se debe poner algo en el espacio siguiente. En el
-gráfico de puntos y figuras, sólo se registran los cambios en el precio. Si no
-hay cambio, el gráfico queda como estaba, pero durante los períodos de
-mucha actividad del mercado puede ser necesaria una cantidad conside-
-rable de registros. Cuando las condiciones del mercado son tranquilas, en
-cambio, será poca la representación gráfica que se tenga que hacer.
+El gráfico de puntos y figuras es un estudio de los puros movimientos de precios, o sea, no toma en consideración el tiempo mientras representa la acción que han tomado los precios. Un gráfico de barras, por el contrario, combina el precio con el tiempo. Debido a la forma en que está construido el gráfico de barras, el eje vertical es la escala de precios y el eje horizontal es la escala de tiempo. En un gráfico diario, por ejemplo, el movimiento de un precio en cada día sucesivo se traslada un espacio o barra hacia la derecha, y esto sucede aunque el precio haya cambiado poco o nada ese día. Siempre se debe poner algo en el espacio siguiente. En el gráfico de puntos y figuras, sólo se registran los cambios en el precio. Si no hay cambio, el gráfico queda como estaba, pero durante los períodos de mucha actividad del mercado puede ser necesaria una cantidad considerable de registros. Cuando las condiciones del mercado son tranquilas, en cambio, será poca la representación gráfica que se tenga que hacer.
 
-Una diferencia importante estriba en el tratamiento del volumen. Los
-gráficos de barras registran las barras que representan el volumen debajo
-del movimiento del precio del día, pero los gráficos de puntos y figuras ig-
-noran las cifras del volumen como una entidad separada. Esta última frase,
-“como una entidad separada”, es importante. Aunque las cifras del volu-
-men no queden registradas en el gráfico de puntos y figuras, eso no quiere
-decir necesariamente que el volumen, o total de operaciones, se pierda. Por
-el contrario, dado que los gráficos intradía de puntos y figuras reflejan to-
-dos los cambios del precio, la mayor o menor cantidad de volumen también
-queda reflejada. Dado que el volumen es uno de los ingredientes más im-
-portantes para determinar la potencia de los niveles de apoyo y resistencia,
-los gráficos de puntos y figuras resultan especialmente útiles para descubrir
-a qué nivel de precios se ha realizado la mayor parte de las operaciones y,
-por consiguiente, dónde están los números importantes de apoyo y resis-
-tencia.
+Una diferencia importante estriba en el tratamiento del volumen. Los gráficos de barras registran las barras que representan el volumen debajo del movimiento del precio del día, pero los gráficos de puntos y figuras ignoran las cifras del volumen como una entidad separada. Esta última frase, “como una entidad separada”, es importante. Aunque las cifras del volumen no queden registradas en el gráfico de puntos y figuras, eso no quiere decir necesariamente que el volumen, o total de operaciones, se pierda. Por el contrario, dado que los gráficos intradía de puntos y figuras reflejan todos los cambios del precio, la mayor o menor cantidad de volumen también queda reflejada. Dado que el volumen es uno de los ingredientes más importantes para determinar la potencia de los niveles de apoyo y resistencia, los gráficos de puntos y figuras resultan especialmente útiles para descubrir a qué nivel de precios se ha realizado la mayor parte de las operaciones y, por consiguiente, dónde están los números importantes de apoyo y resistencia.
 
-La figura 11.1 compara un gráfico de barras y uno de puntos y figuras
-que cubren el mismo lapso de tiempo. En cierto sentido, los gráficos se pa-
-recen, pero en realidad son bastante diferentes. Ambos gráficos captan la
-visión general de precio y tendencia, pero el método usado para registrar
-los precios es diferente. Obsérvense en la figura 11.2 las columnas alternas
-
-290
+La figura 11.1 compara un gráfico de barras y uno de puntos y figuras que

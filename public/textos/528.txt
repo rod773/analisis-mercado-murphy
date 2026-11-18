@@ -1,25 +1,9 @@
-528 Apéndice D
+que representa la mercancía, el número de contratos que quie-
 
-12 semamas
+Figura D.1 Representación visual de un contrato continuo.
 
-Figura D.l Representación visual de un contrato continuo.
+re incluir en el cálculo, y el número de semanas en el futuro que quiere considerar. Por ejemplo, si quisiera bonos del tesoro, usando 3 de los contratos más cercanos y considerando 14 semanas en el futuro, el símbolo podría ser TRCF314. TR es el símbolo, CF representa el contrato continuo, 3 es el número de contratos y 14 el número de semanas que el precio se proyecta.
 
-re incluir en el cálculo, y el número de semanas en el futuro que quiere
-considerar. Por ejemplo, si quisiera bonos del tesoro, usando 3 de los
-contratos más cercanos y considerando 14 semanas en el futuro, el sím-
-bolo podría ser TRCF314. TR es el símbolo, CF representa el contrato
-continuo, 3 es el número de contratos y 14 el número de semanas que el
-precio se proyecta.
+La mecánica de funcionamiento es bastante sencilla. Primero, hay que fijar una fecha de renovación para cada bien, y una buena por la que empezar podría ser 10 días antes del vencimiento. Es importante que exista una renovación en algún momento previo al vencimiento. Segundo, el número de contratos usados nunca será menos de 2 y probablemente nunca más de 4. El número de semanas usadas debería ser siempre mayor de 3 y podría llegar hasta 40 en algunos casos.
 
-La mecánica de funcionamiento es bastante sencilla. Primero, hay que
-fijar una fecha de renovación para cada bien, y una buena por la que em-
-pezar podría ser 10 días antes del vencimiento. Es importante que exista
-una renovación en algún momento previo al vencimiento. Segundo, el nú-
-mero de contratos usados nunca será menos de 2 y probablemente nunca
-más de 4. El número de semanas usadas debería ser siempre mayor de 3 y
-podría llegar hasta 40 en algunos casos.
-
-Ejemplo: Éste es el método usado por Commodity Systems, Inc. (Ver el
-Contrato Perpetuo en el capítulo 8).
-
-528
+Ejemplo:

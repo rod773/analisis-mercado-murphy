@@ -1,35 +1,31 @@
-barore2 - — (*SPX) S8P 500 Stock Index — 0373198
+sistema parabólico y de cualquier sistema que siga tendencias. Funcionan cuando hay períodos de tendencia (a izquierda y derecha del gráfico), pero resultan inútiles durante el tipo de banda de fluctuación que hubo de agosto a enero.
 
-GRÁFICO DE BARRAS MENSUAL
+04/30/92 (*SPX) SAP 500 Stock Index 03/31/98
 
-PYR PARABÓLICO MENSUAL | |l
+GRÁFICO DE BARRAS MENSUAL. •
 
-¡u¡'l“f .....
+PYR PARABÓLICO MENSUAL t || ' .
 
-MELEL)
+,.l
 
-B— “_ — 8 de
+.
 
-o7 * __
-— 18 Fird al Taal 6 Cn Rc 0Y
+!
 
-Figura 15.3 El sistema parabólico se puede usar en un gráfico mensual para se-
-guir la tendencia principal. A principios de 1994 hubo una señal de venta segui-
-da por una de compra a finales del verano. Excepto por una distorsión en 1996,
-este sistema ha sido positivo durante cuatro años.
+-1000
 
-11/08/96 — (DELL)DelCompulercop — 03720700
-GRÁFICO DE BARRAS DIARIO … '
-¡'I “
-e .I||u 1¡|*¡ .
-T f
-l1.. PYR PARABÓLICO =
-, …_…¡¡¡Í SEMANAL “
-be Fs -r —Abe My — Ag—Bep 08 — De
+-®00
 
-Figura 15.4 _ Sistema parabólico aplicado a un gráfico semanal de la empresa Dell
-Computer. Después de haber sido positivo durante casi todo 1997, en octubre apa-
-reció una señal de venta, que luego cambió, apareciendo unaseñal de compra
-cuando finalizaba el año.
+-700
 
-405
+-000
+
+I
+
+*3 *4 «5 *96 l07 _ 96
+
+3/19 I. O&bb Prtn M tew. 199?
+
+Figura 15.3 El sistema parabólico se puede usar en un gráfico mensual para seguir la tendencia principal. A principios de 1994 hubo una señal de venta seguida por una de compra a finales del verano. Excepto por una distorsión en 1996, este sistema ha sido positivo durante cuatro años.
+
+Figura 15.4 Sistema parabólico aplicado a un gráfico semanal de

@@ -1,45 +1,9 @@
-Un método llamado Market Profile 511
+venta neta TPO con un ligero sesgo hacia precios más bajos (ver figura B.7: Panel # 3 - índice S&P 500). Observe que las compras y ventas
 
-— 22 A
-TPO en el área de valor no son aplicables en días de tendencia, ya que
-el mercado todavía está buscando el área de valor justo.
+TPO en el área de valor no son aplicables en días de tendencia, ya que el mercado todavía está buscando el área de valor justo.
 
-Después de identificar y evaluar correctamente la actividad del operador a
-más largo plazo en el gráfico de perfil de hoy, el usuario puede determi-
-nar fácilmente si los compradores o vendedores a más largo plazo contro-
-laban la sesión actual de operaciones.
+Después de identificar y evaluar correctamente la actividad del operador a más largo plazo en el gráfico de perfil de hoy, el usuario puede determinar fácilmente si los compradores o vendedores a más largo plazo controlaban la sesión actual de operaciones.
 
-* Influencia más allá de hoy: El gráfico de perfil también ayuda a identifi-
-car el comportamiento del operador a más largo plazo más allá del desa-
-rrollo de la actividad de hoy. Una meta clave del operador es determinar
-si la tendencia actual de los precios continuará o es probable que cam-
-bie. Un cambio en la dirección del mercado es un cambio hacia atrás de
-la tendencia actual del precio. El enfoque técnico habitual para valorar
-la tendencia, sin Market Profile, es trazar una línea de tendencia apro-
-piada y comparar los movimientos subsiguientes de los precios con ella.
-A no ser que la línea de tendencia sea violada, se espera que la tenden-
-cia actual del precio continúe. El análisis de la línea de tendencia es la
-más importante de las herramientas técnicas básicas, en particular dado
-su uso universal y su posibilidad de aplicación a diferentes intervalos de
-tiempo (por ejemplo, cada hora, diario, semanal, mensual, etc.).
+Influencia más allá de hoy: El gráfico de perfil también ayuda a identificar el comportamiento del operador a más largo plazo más allá del desarrollo de la actividad de hoy. Una meta clave del operador es determinar si la tendencia actual de los precios continuará o es probable que cambie. Un cambio en la dirección del mercado es un cambio hacia atrás de la tendencia actual del precio. El enfoque técnico habitual para valorar la tendencia, sin Market Profile, es trazar una línea de tendencia apropiada y comparar los movimientos subsiguientes de los precios con ella. A no ser que la línea de tendencia sea violada, se espera que la tendencia actual del precio continúe. El análisis de la línea de tendencia es la más importante de las herramientas técnicas básicas, en particular dado su uso universal y su posibilidad de aplicación a diferentes intervalos de tiempo (por ejemplo, cada hora, diario, semanal, mensual, etc.).
 
-El Market Profile, por otro lado, ofrece un enfoque alternativo al análi-
-sis tradicional de la tendencia mediante la evaluación de la actividad del
-mercado durante diferentes períodos. En su forma más simple, la evalua-
-ción del gráfico de perfil en días consecutivos puede ayudar a definir el co-
-mienzo o la continuación de la tendencia del precio a corto plazo. Además,
-si el área de valor de mañana es más alta que la de hoy, quiere decir que la
-tendencia al alza actual del mercado ha continuado. Con este tipo de con-
-trol de la actividad del mercado, el operador puede detectar rápidamente
-la continuidad o el cambio de la tendencia. Del mismo modo, al combinar
-gráficos de perfil de días consecutivos y formar un gráfico acumulativo más
-grande, se logra una imagen evolutiva del equilibrio o el desequilibrio a
-más largo plazo. El gráfico de perfil en la figura B.5 (azúcar) ilustra este
-punto. Una rápida revisión de las sesiones individuales (2/10-2/13) en el
-panel superior sugiere un mercado con tendencia al alza sin ningún signo
-de cambio. Cuando las cuatro (4) sesiones consecutivas se combinan (pa-
-nel de Jower), aparece una imagen acumulativa equilibrada. Una vez equi-
-librado, el mercado pasa a un estado de desequilibrio que casi siempre co-
-mienza después de una prueba final al precio más justo.
-
-511
+El Market Profile, por otro lado, ofrece un enfoque alternativo al análisis tradicional de la tendencia mediante la evaluación de la actividad del mercado durante diferentes períodos. En su forma más simple, la evaluación del gráfico de perfil en días consecutivos puede ayudar a definir el comienzo o la continuación de la tendencia del precio a corto plazo. Además, si el área de valor de mañana es más alta que la de hoy, quiere decir que la tendencia al alza actual del mercado ha continuado. Con este tipo de control de la actividad del mercado, el operador puede detectar rápidamente la continuidad o el cambio de la tendencia. Del mismo modo, al combinar gráficos de perfil de días consecutivos y formar un gráfico acumulativo más grande, se logra una imagen evolutiva del equilibrio o el desequilibrio a más largo plazo. El gráfico de perfil en la figura B.5 (azúcar) ilustra este punto. Una rápida revisión de las sesiones individuales (2/10-2/13) en el panel superior sugiere un mercado con tendencia al alza sin ningún signo de cambio. Cuando las cuatro (4) sesiones consecutivas se combinan (panel de Jower), aparece una imagen acumulativa equilibrada. Una vez equilibrado, el mercado pasa a un estado

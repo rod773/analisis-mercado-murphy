@@ -1,45 +1,9 @@
-492 Apéndice A
+punto 2 muestra precios descendentes después de haber traspasado la banda superior. Figura movimiento era débil, las bandas cams indicaron que no era un buen momento para vender y que era preferible esperar a que apareciera una mejor oportunidad de venta. Justo tres semanas después, el precio del oro era 22 dólares más alto y estaba en la banda cams+ (punto 2). Dicho punto representaba una oportunidad de venta con bajo riesgo. En julio (punto 3), los precios del oro cayeron muy por debajo de la banda cams, pero en lugar de seguir bajando, estuvieron moviéndose lateralmente durante las 12 semanas siguientes. A continuación comenzaron a bajar, desde noviembre hasta diciembre de 1997, y tocaron la banda cams- tres veces (punto 4). En todos los casos, los precios se estabilizaron o subieron durante 1 o 2 semanas. Estas bandas funcionan bien en todo tipo de marco temporal, incluso en gráficos de barras de 5 a 10 minutos. Las bandas cams ayudan al operador a no tener que perseguir el mercado, algo que casi siempre tiene como resultado un precio de entrada pobre.
 
-movimiento era débil, las bandas cams indicaron que no era un buen mo-
-mento para vender y que era preferible esperar a que apareciera una me-
-jor oportunidad de venta. Justo tres semanas después, el precio del oro era
-22 dólares más alto y estaba en la banda cams+ (punto 2). Dicho punto re-
-presentaba una oportunidad de venta con bajo riesgo. En julio (punto 3),
-los precios del oro cayeron muy por debajo de la banda cams, pero en lu-
-gar de seguir bajando, estuvieron moviéndose lateralmente durante las 12
-semanas siguientes. A continuación comenzaron a bajar, desde noviembre
-hasta diciembre de 1997, y tocaron la banda cams- tres veces (punto 4).
-En todos los casos, los precios se estabilizaron o subieron durante 1 o 2 se-
-manas. Estas bandas funcionan bien en todo tipo de marco temporal, in-
-cluso en gráficos de barras de 5 a 10 minutos. Las bandas cams ayudan al
-operador a no tener que perseguir el mercado, algo que casi siempre tie-
-ne como resultado un precio de entrada pobre.
+Los canales de Keltner, los desarrolló Chester Keltner en su libro titulado How to Make Money in Commodities, publicado en 1960. Linda Rasch- ke, una operadora de bienes de gran éxito, los ha vuelto a presentar a los técnicos, y en su modificación, las bandas también se basan en la fluctuación real media, pero calculada basándose en 10 períodos. Este valor de fluctuación se duplica y se suma a una media móvil exponencial de 20 períodos para la banda + y se resta de la misma media para la banda -.
 
-Los canales de Keltner, los desarrolló Chester Keltner en su libro titu-
-lado How to Make Money in Commodities, publicado en 1960. Linda Rasch-
-ke, una operadora de bienes de gran éxito, los ha vuelto a presentar a
-los técnicos, y en su modificación, las bandas también se basan en la
-fluctuación real media, pero calculada basándose en 10 períodos. Este va-
-lor de fluctuación se duplica y se suma a una media móvil exponencial
-de 20 períodos para la banda + y se resta de la misma media para la ban-
-da —. -
+El uso recomendado de los canales de Keltner es muy diferente al de las bandas cams. Cuando los precios cierran por encima de la banda +, aparece una señal positiva que indica una ruptura en la volatilidad al alza. Por el contrario, cuando los precios cierran por debajo de la banda inferior, la señal es negativa e indica que los precios seguirán bajando. En muchos aspectos, se trata de una representación gráfica del sistema de canal de cuatro semanas presentado en el capítulo 9.
 
-El uso recomendado de los canales de Keltner es muy diferente al de
-las bandas cams. Cuando los precios cierran por encima de la banda +,
-aparece una señal positiva que indica una ruptura en la volatilidad al alza.
-Por el contrario, cuando los precios cierran por debajo de la banda infe-
-rior, la señal es negativa e indica que los precios seguirán bajando. En mu-
-chos aspectos, se trata de una representación gráfica del sistema de canal
-de cuatro semanas presentado en el capítulo 9.
+La figura A.6 es un gráfico diario de futuros de cobre en marzo de 1998. Los precios cerraron por debajo de la banda - a finales de octubre de 1997, en el punto 1, lo que indicaba que los precios debían comenzar una nueva tendencia a la baja, y efectivamente, los precios del cobre boyaron 16 céntimos en los dos meses siguientes.
 
-La figura A.6 es un gráfico diario de futuros de cobre en marzo de
-1998. Los precios cerraron por debajo de la banda — a finales de octubre
-de 1997, en el punto 1, lo que indicaba que los precios debían comenzar
-una nueva tendencia a la baja, y efectivamente, los precios del cobre baja-
-ron 16 céntimos en los dos meses siguientes.
-
-En este período hubo muchos otros cierres por debajo de la banda —,
-pero hasta que los precios no cierren por encima de la banda +, la señal
-negativa sigue en vigor. El segundo gráfico, de precios del café en marzo
-
-492
+En este período hubo muchos otros cierres por debajo de la banda -, pero hasta que los precios no cierren por encima de la banda +, la señal negativa sigue en vigor. El

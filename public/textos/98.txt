@@ -1,42 +1,9 @@
-98 Capítulo 4
-por debajo del nivel de precio donde la línea se rompió (en este caso, los
-precios tendrían que cerrar 12 dólares por debajo de la línea de tenden-
-cia, o sea a 388 dólares). Obviamente, un criterio de penetración de 12 dó-
-lares no sería adecuado para operaciones de más corta duración, y tal vez
-un criterio de un 1 por ciento sería más útil en tales casos. La regla del
-porcentaje representa sólo un tipo de filtro de precios. Los chartistas de
-valores, por ejemplo, probablemente pedirían una penetración de un
-punto entero y despreciarían las fracciones. El uso de cualquier tipo de fil-
-tro establece una relación. Si el filtro es demasiado pequeño, no será muy
-útil para reducir el impacto de las llamadas whipsaws o malas señales. Si es
-demasiado grande, gran parte del movimiento inicial pasará desapercibi-
-do antes de que se reciba una buena señal. Una vez más, el operador debe
-determinar qué tipo de filtro se adapta mejor al grado de tendencia que se
-sigue, tomando siempre en consideración las diferencias de los mercados
-individuales.
+precios tendrían que cerrar un 3 por ciento por debajo del nivel de precio donde la línea se rompió (en este caso, los precios tendrían que cerrar 12 dólares por debajo de la línea de tendencia, o sea a 388 dólares). Obviamente, un criterio de penetración de 12 dólares no sería adecuado para operaciones de más corta duración, y tal vez un criterio de un 1 por ciento sería más útil en tales casos. La regla del porcentaje representa sólo un tipo de filtro de precios. Los charlistas de valores, por ejemplo, probablemente pedirían una penetración de un punto entero y despreciarían las fracciones. El uso de cualquier tipo de filtro establece una relación. Si el filtro es demasiado pequeño, no será muy útil para reducir el impacto de las llamadas whipsaws o malas señales. Si es demasiado grande, gran parte del movimiento inicial pasará desapercibido antes de que se reciba una buena señal. Una vez más, el operador debe determinar qué tipo de filtro se adapta mejor al grado de tendencia que se sigue, tomando siempre en consideración las diferencias de los mercados individuales.
 
-Una alternativa a un filtro de precios (que requiere que una línea de
-tendencia se rompa en un incremento de precio o porcentaje predeter-
-minado) es un filtro de tiempo, del que un ejemplo común es la regla de
-dos días. En otras palabras, para que haya una ruptura válida de una línea
-de tendencia, los precios deben cerrar más allá de dicha línea durante dos
-días sucesivos. Por lo tanto, para romper una tendencia al alza los precios
-deben cerrar por debajo de la tendencia dos días seguidos. La violación de
-un solo día no cuenta. La regla del 1 0 3 por ciento y la regla de los dos
-días también se aplican a la ruptura de importantes suelos de apoyo y re-
-sistencia, no sólo a las tendencias más destacadas. Otro filtro requeriría
-que el cierre de un viernes estuviera más allá de un punto mayor de rup-
-tura para asegurar una señal semanal.
+Una alternativa a un filtro de precios (que requiere que una línea de tendencia se rompa en un incremento de precio o porcentaje predeterminado) es un filtro de tiempo, del que un ejemplo común es la regla de dos días. En otras palabras, para que haya una ruptura válida de una línea de tendencia, los precios deben cerrar más allá de dicha línea durante dos días sucesivos. Por lo tanto, para romper una tendencia al alza los precios deben cerrar por debajo de la tendencia dos días seguidos. La violación de un solo día no cuenta. La regla del 1 o 3 por ciento y la regla de los dos días también se aplican a la ruptura de importantes suelos de apoyo y resistencia, no sólo a las tendencias más destacadas. Otro filtro requeriría que el cierre de un viernes estuviera más allá de un punto mayor de ruptura para asegurar una señal semanal.
 
 Las líneas de tendencia dan la vuelta a sus papeles
 
-Dijimos antes que los niveles de apoyo y resistencia se transforman en
-lo opuesto una vez que han sido violados, y el mismo principio se aplica a
-las líneas de tendencia. (Ver figuras 4.10a-c). En otras palabras, una línea
-de tendencia al alza (una línea de apoyo) generalmente se transformará
-en una línea de resistencia una vez que haya quedado definitivamente
-rota. Una línea de tendencia a la baja (una línea de resistencia) a menudo
-se transformará en una línea de apoyo cuando haya quedado definitiva-
-mente rota. Por este motivo, en general es una buena idea proyectar todas
+Dijimos antes que los niveles de apoyo y resistencia se transforman en lo opuesto una vez que han sido violados, y el mismo principio se aplica a las líneas de tendencia. (Ver figuras 4.10a-c). En otras palabras, una línea de tendencia al alza (una línea de apoyo) generalmente se transformará en una línea de resistencia una vez que haya quedado definitivamente rota. Una línea de tendencia a la baja (una línea de resistencia) a menudo se transformará en una línea de apoyo cuando haya quedado definitivamente rota. Por este motivo, en general es una buena idea proyectar todas
 
-98
+Figura 4.10a Ejemplo de una línea de apoyo ascendente que se

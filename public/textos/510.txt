@@ -1,44 +1,7 @@
-510 Apéndice B
+que los precios necesitan subir para alcanzar el equilibrio del mercado
 
-2. Extensión de la banda: la hay cuando el operador a más largo plazo en-
-tra en el mercado con un volumen suficiente para inclinar el equilibrio
-inicial y extender la banda hacia arriba o hacia abajo. La extensión ha-
-cia arriba indica compras a más largo plazo, y la extensión hacia abajo
-indica ventas a más largo plazo. No obstante, hay ocasiones en las que
-tanto el comprador como el vendedor a más largo plazo tienen activi-
-dad en un extremo de la banda, aunque no al mismo precio y al mismo
-tiempo (recuerde que los compradores y vendedores a más largo plazo
-no operan los unos con los otros). Por ejemplo, si se forma un extremo
-después de una extensión hacia arriba, el mercado se mueve primero
-hacia arriba para detener las compras, y luego hacia abajo para detener
-las ventas. Esto es un ejemplo de compradores y vendedores a más lar-
-go plazo operando en la misma área de precios pero en momentos di-
-ferentes.. Ambos tipos de actividad en los extremos se identifican para
-evaluar el impacto de las compras y ventas a más largo plazo (ver figu-
-ra B.7: Panel 4 2 — Café).
+Figura B.7
 
-3. El área de valor se determina cada día que hay sesión por las rotacio-
-nes de los precios alrededor del precio modal (o sea, el precio con la
-TPO más alta o precio más justo). El área de valor se computa con-
-tando el 70 por ciento de todas las TPO alrededor del precio más jus-
-to. En otras palabras, el área de valor es una estimación del valor jus-
-to que se aproxima por una desviación típica del volumen de
-operaciones de la sesión (recuérdese el ejemplo anterior sobre estu-
-diantes). Cuando un operador a más largo plazo realiza una opera-
-ción en el área de valor, está comprando a precio bajo o vendiendo a
-precio alto con relación a una visión a más largo plazo, no con rela-
-ción al valor de hoy. Este comportamiento crea un desequilibrio en el
-área de valor del día. La actividad de los operadores a más largo pla-
-zo se mide contando las TPO y se puede usar el procedimiento si-
-guiente para determinar qué lado contiene el desequilibrio a más lar-
-go plazo: 1) se traza una línea a través del precio más justo y 2) se
-cuentan las TPO a cada lado del precio más justo hasta encontrar una
-señal individual. El desequilibrio se asigna al lado con el menor nú-
-mero de TPO porque la actividad del operador a más largo plazo re-
-presenta el porcentaje más pequeño del total de operaciones dentro
-del área de valor. Por ejemplo, si el recuento de la TPO ha sido de 22
-por encima y 12 por debajo del precio más justo, eso indicaría una
-venta neta TPO con un ligero sesgo hacia precios más bajos (ver figu-
-ra B.7: Panel 4 3 - Índice SP 500). Observe que las compras y ventas
+Extensión de la banda: la hay cuando el operador a más largo plazo entra en el mercado con un volumen suficiente para inclinar el equilibrio inicial y extender la banda hacia arriba o hacia abajo. La extensión hacia arriba indica compras a más largo plazo, y la extensión hacia abajo indica ventas a más largo plazo. No obstante, hay ocasiones en las que tanto el comprador como el vendedor a más largo plazo tienen actividad en un extremo de la banda, aunque no al mismo precio y al mismo tiempo (recuerde que los compradores y vendedores a más largo plazo no operan los unos con los otros). Por ejemplo, si se forma un extremo después de una extensión hacia arriba, el mercado se mueve primero hacia arriba para detener las compras, y luego hacia abajo para detener las ventas. Esto es un ejemplo de compradores y vendedores a más largo plazo operando en la misma área de precios pero en momentos diferentes. Ambos tipos de actividad en los extremos se identifican para evaluar el impacto de las compras y ventas a más largo plazo (ver figura B.7: Panel # 2 - Café).
 
-510
+El área de valor se determina cada día que hay sesión por las rotaciones de los precios alrededor del precio modal (o sea, el precio con la TPO más alta o precio más justo). El área de valor se computa contando el 70 por ciento de todas las TPO alrededor del precio más justo. En otras palabras, el área de valor es una estimación del valor justo que se aproxima por una desviación típica del volumen de operaciones de la sesión (recuérdese el ejemplo anterior sobre estudiantes). Cuando un operador a más largo plazo realiza una operación en el área de valor, está comprando a precio bajo o vendiendo a precio alto con relación a una visión a más largo plazo, no con relación al valor de hoy. Este comportamiento crea un desequilibrio en el área de valor del día. La actividad de los operadores a más largo plazo se mide contando las TPO y se puede usar el procedimiento siguiente para determinar qué lado contiene el desequilibrio a más largo plazo: 1) se traza una línea a través del precio más justo y 2) se cuentan las TPO a cada lado del precio más justo hasta encontrar una señal individual. El desequilibrio se asigna al lado con el menor número de TPO porque la actividad del operador a más largo plazo representa el porcentaje más pequeño del total de operaciones dentro del área de valor. Por ejemplo, si el recuento de la TPO ha sido de 22 por encima y 12 por debajo del precio más justo, eso indicaría una

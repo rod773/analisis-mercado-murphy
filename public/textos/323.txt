@@ -1,49 +1,13 @@
-Velas japonesas 323
+primarias diferentes basándose en la relación de los precios de apertura, máximo, mínimo y de cierre. La comprensión de estas velas básicas es el comienzo del análisis de este tipo de gráfico.
 
-Gráficos de barras HI H HI
+Velas básicas
 
-1 1[1
+Las diferentes combinaciones de cuerpos/sombras tienen diferentes significados. Los días en los que la diferencia entre los precios de apertura y cierre es grande se llaman Días Largos, y del mismo modo, los días en
 
-í ! " )J NMy
+Figura 12.2 los que la diferencia entre los precios de apertura y cierre es pequeña se llaman Días Cortos. Cabe recordar que estamos hablando sólo del tamaño del cuerpo y no hacemos ninguna referencia a los precios máximos y/o mínimos. (Ver figura 12.3).
 
-¡+l + Ih
-"e Py
+Las perinolas son días en los que las velas tienen cuerpos pequeños con sombras superiores e inferiores más largas que el propio cuerpo. El color del cuerpo es relativamente importante en las velas tipo perinola, que se consideran días de indecisión. (Ver figura 12.4).
 
-! + ral
-…U[J Jíhlul +
+Cuando el precio de apertura y el de cierre son iguales, se les llama líneas Doji. Las velas Doji pueden tener sombras de largo variado y se discute si el precio de apertura y el de cierre debe ser exactamente el mismo. Es un momento en el que los precios deben ser casi iguales, especialmente cuando se trata de grandes movimientos de los precios.
 
-i
-
-h1+p* i
-
-Gráfico de velas ? 1 Ú¡
-" …U'T¿'Hú u " Q.UÚ WWTM l!'¡nº'*'
-10 ói+uU+
-uº'º&,!q hiy y
-
-0%
-!*|+”$¿T
-
-Figura 12.2
-
-los que la diferencia entre los precios de apertura y cierre es pequeña se
-llaman Días Cortos. Cabe recordar que estamos hablando sólo del tamaño
-del cuerpo y no hacemos ninguna referencia a los precios máximos y/o
-mínimos. (Ver figura 12.3).
-
-Las perinolas son días en los que las velas tienen cuerpos pequeños con
-sombras superiores e inferiores más largas que el propio cuerpo. El color
-del cuerpo es relativamente importante en las velas tipo perinola, que se
-consideran días de indecisión. (Ver figura 12.4).
-
-Cuando el precio de apertura y el de cierre son iguales, se les llama lí-
-neas Doji. Las velas Doji pueden tener sombras de largo variado y se dis-
-cute si el precio de apertura y el de cierre debe ser exactamente el mismo.
-Es un momento en el que los precios deben ser casi iguales, especialmen-
-te cuando se trata de grandes movimientos de los precios.
-
-Hay diferentes velas Doji que son importantes. La Doji pernilarga tiene
-largas sombras superior e inferior y refleja una considerable indecisión por
-parte de los participantes del mercado. La Doji lápida sólo tiene una larga
-
-323
+Hay diferentes velas Doji que son importantes. La Doji pernilarga

@@ -1,43 +1,13 @@
-526 Apéndice D
+el caso de bienes distintos.
 
-La renovación hacia el contrato siguiente probablemente se base en el
-volumen del contrato actual. Cuando comienza a erosionarse, es el mo-
-mento de seguir adelante.
+La renovación hacia el contrato siguiente probablemente se base en el volumen del contrato actual. Cuando comienza a erosionarse, es el momento de seguir adelante.
 
-Por lo tanto, uno debería poder elegir cuándo renovar su contrato más
-cercano. Recuerde que los contratos más cercanos se hacen con datos re-
-ales. Veamos algunos ejemplos: el director A de una cartera de valores se
-conforma con renovar al vencimiento, o sea que todo lo que quiere es el
-contrato más cercano regular con el símbolo TRNE00 (bonos del tesoro).
-El director probablemente está gestionando dinero y necesita cálculos de
-valor que puede obtener de los datos. El operador B cree que operar en el
-mes del vencimiento no le da suficiente liquidez, o sea que quiere que su
-contrato más cercano se renueve 15 días antes del vencimiento, y el sím-
-bolo podría ser TRNE15. El analista C querría analizar distintas fechas de
-renovación, y busca en su ordenador múltiples contratos más cercanos, ta-
-les como los representados por los símbolos TRNE00, TRNEO5, TRNE12 y
-TRNE21, que renuevan 5, 12 y 21 días antes de su vencimiento.
+Por lo tanto, uno debería poder elegir cuándo renovar su contrato más cercano. Recuerde que los contratos más cercanos se hacen con datos reales. Veamos algunos ejemplos: el director A de una cartera de valores se conforma con renovar al vencimiento, o sea que todo lo que quiere es el contrato más cercano regular con el símbolo TRNEOO (bonos del tesoro). El director probablemente está gestionando dinero y necesita cálculos de valor que puede obtener de los datos. El operador B cree que operar en el mes del vencimiento no le da suficiente liquidez, o sea que quiere que su contrato más cercano se renueve 15 días antes del vencimiento, y el símbolo podría ser TRNE15. El analista C querría analizar distintas fechas de renovación, y busca en su ordenador múltiples contratos más cercanos, tales como los representados por los símbolos TRNEOO, TRNE05, TRNE12 y TRNE21, que renuevan 5, 12 y 21 días antes de su vencimiento.
 
-Recuerde que todos estos contratos son contratos más cercanos y con-
-tienen datos contractuales reales. La única diferencia estriba en el contra-
-to real del que provienen los datos.
+Recuerde que todos estos contratos son contratos más cercanos y contienen datos contractuales reales. La única diferencia estriba en el contrato real del que provienen los datos.
 
-El contrato siguiente
+El contrato siguiente 1
 
-El contrato siguiente es un derivado único del contrato más cercano. Es
-exactamente lo mismo que el contrato más cercano excepto que es, siem-
-pre, el contrato que le sigue. En otras palabras, si el contrato más cercano
-usa los datos de diciembre para los bonos del tesoro, el contrato siguiente
-usa los datos de marzo. Cuando el contrato de diciembre vence, el más
-cercano pasa a ser el de marzo y el siguiente es entonces el contrato de ju-
-nio, situación que se define como el contrato siguiente—1.
+El contrato siguiente es un derivado único del contrato más cercano. Es exactamente lo mismo que el contrato más cercano excepto que es, siempre, el contrato que le sigue. En otras palabras, si el contrato más cercano usa los datos de diciembre para los bonos del tesoro, el contrato siguiente usa los datos de marzo. Cuando el contrato de diciembre vence, el más cercano pasa a ser el de marzo y el siguiente es entonces el contrato de junio, situación que se define como el contrato siguiente-1.
 
-A partir de este concepto, hay otro contrato siguiente disponible, lla-
-mado siguiente-2. En este caso, los datos siempre vienen del contrato que
-está a dos de distancia del contrato más cercano. Siguiendo con el mismo
-ejemplo, si el más cercano usa datos del contrato de diciembre, el contra-
-to siguiente-2 usa los del contrato de junio. Cuando el contrato de di-
-ciembre vence, el más cercano comienza a usar los datos del contrato de
-marzo y el siguiente-2 los de septiembre, y así sucesivamente.
-
-526
+A partir de este concepto, hay otro contrato siguiente disponible, llamado siguiente-2. En este caso, los datos siempre vienen del contrato que está a dos de distancia del contrato más cercano. Siguiendo con el mismo ejemplo, si el más cercano usa datos del contrato de diciembre, el contrato siguiente-2 usa los del contrato de junio. Cuando el contrato de diciembre vence, el más cercano comienza a usar los datos del contrato de marzo y el siguiente-2 los de

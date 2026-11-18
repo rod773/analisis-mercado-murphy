@@ -1,46 +1,15 @@
-Glosario 533
+El cambio tipo isla generalmente anuncia un cambio en la tendencia. (Ver huecos).
 
-CDMM: El sistema de convergencia divergencia de la media móvil desa-
-rrollado por Gerald Appel muestra dos líneas. La primera línea
-(CDMM) es la diferencia entre dos medias móviles exponenciales (ge-
-neralmente 12 y 26 períodos) de precios de cierre. La segunda línea (se-
-ñal) generalmente es una media móvil exponencial de 9 períodos de la
-primera línea (CDMM). Las señales aparecen cuando ambas líneas se
-cruzan.
+CDMM: El sistema de convergencia divergencia de la media móvil desarrollado por Gerald Appel muestra dos líneas. La primera línea (CDMM) es la diferencia entre dos medias móviles exponenciales (generalmente 12 y 26 períodos) de precios de cierre. La segunda línea (señal) generalmente es una media móvil exponencial de 9 períodos de la primera línea (CDMM). Las señales aparecen cuando ambas líneas se cruzan.
 
-Confirmación: Concordancia de la mayor cantidad posible de factores del
-mercado. Por ejemplo, si los precios y el volumen suben juntos, el volu-
-men confirma el movimiento de los precios. Lo opuesto a la confirma-
-ción es la divergencia.
+Confirmación: Concordancia de la mayor cantidad posible de factores del mercado. Por ejemplo, si los precios y el volumen suben juntos, el volumen confirma el movimiento de los precios. Lo opuesto a la confirmación es la divergencia.
 
-Día clave del cambio: En una tendencia al alza, este patrón de un solo día
-ocurre cuando los precios abren a nuevos máximos y luego cierran por
-debajo del precio de cierre del día anterior. En una tendencia a la baja,
-los precios abren a un nivel más bajo y cierran a un nivel más alto. Cuan-
-to más amplia sea la banda de precios el día clave del cambio y mayor
-sea el volumen, más posibilidades hay de que se esté dando un cambio.
-(Ver cambio semanal).
+Día clave del cambio: En una tendencia al alza, este patrón de un solo día ocurre cuando los precios abren a nuevos máximos y luego cierran por debajo del precio de cierre del día anterior. En una tendencia a la baja, los precios abren a un nivel más bajo y cierran a un nivel más alto. Cuanto más amplia sea la banda de precios el día clave del cambio y mayor sea el volumen, más posibilidades hay de que se esté dando un cambio. (Ver cambio semanal).
 
-Divergencia: Situación en la que dos indicadores no se confirman uno al
-otro. Por ejemplo, en el análisis de un oscilador, los precios tienden a
-subir mientras que un oscilador tiende a bajar. La divergencia normal-
-mente advierte de un cambio de tendencia. (Ver confirmación).
+Divergencia: Situación en la que dos indicadores no se confirman uno al otro. Por ejemplo, en el análisis de un oscilador, los precios tienden a subir mientras que un oscilador tiende a bajar. La divergencia normalmente advierte de un cambio de tendencia. (Ver confirmación).
 
-Doble máximo: El patrón de precios muestra dos picos prominentes. El
-cambio se completa cuando el valle del medio se rompe. El doble míni-
-mo es una imagen reflejo del doble máximo.
+Doble máximo: El patrón de precios muestra dos picos prominentes. El cambio se completa cuando el valle del medio se rompe. El doble mínimo es una imagen reflejo del doble máximo.
 
-Estocástico: Oscilador sobrecomprado-sobrevendido popularizado por
-George Lane. En su construcción generalmente se emplea un período
-de 14 días. El estocástico usa dos líneas, %K y su media móvil de 3 perí-
-odos, %D. Estas dos líneas fluctúan en una banda vertical entre 0 y 100.
-Las lecturas por encima de 80 son sobrecompradas, y por debajo de 20
-son sobrevendidas. Cuando la línea %K, más rápida, cruza por encima
-de la línea %D, más lenta, y ambas están por debajo de 20, aparece una
-señal de compra. Cuando la línea %K cruza por debajo de la línea %D
-y ambas están por encima de 80, aparece una señal de venta.
+Estocástico: Oscilador sobrecomprado-sobrevendido popularizado por George Lañe. En su construcción generalmente se emplea un período de 14 días. El estocástico usa dos líneas, %Ky su media móvil de 3 períodos, %D. Estas dos líneas fluctúan en una banda vertical entre 0 y 100. Las lecturas por encima de 80 son sobrecompradas, y por debajo de 20 son sobrevendidas. Cuando la línea %K, más rápida, cruza por encima de la línea %D, más lenta, y ambas están por debajo de 20, aparece una señal de compra. Cuando la línea %K cruza por debajo de la línea %D y ambas están por encima de 80, aparece una señal de venta.
 
-Gráfico de barras: En un gráfico de barras diario, cada barra representa la
-actividad de un día. La barra vertical se traza desde el precio más alto
-
-533
+Gráfico de barras: En un gráfico de barras diario, cada barra representa la actividad de un día. La barra vertical

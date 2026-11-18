@@ -1,21 +1,7 @@
-494 Apéndice A
+un sistema de contratación en sí, son herramientas adicionales para la actividad del operador.
 
-GRÁFICO DIARIO DE
-CAFÉ CON BANDAS
-DE KELTNER
-
-Figura A.7 Canales de Keltner con un gráfico diario de café. El punto 1 mues-
-tra precios que rompen el canal superior, lo cual es señal de fuerza. Obsérvese
-que después de esa señal de compra, los precios encontraron apoyo en la media
-móvil exponencial de 20 días (línea media) en el punto 2.
+7 Canales de Keltner con un gráfico diario de café. El punto 1 muestra precios que rompen el canal superior, lo cual es señal de fuerza. Obsérvese que después de esa señal de compra, los precios encontraron apoyo en la media móvil exponencial de 20 días (línea media) en el punto 2.
 
 Fórmula para el índice de la demanda
 
-El índice de la demanda (ID) calcula dos valores, la presión compra-
-dora (PC) y la presión vendedora (PV), y luego un coeficiente de ambas.
-El ID es PC/PV. Hay algunas pequeñas variaciones a la fórmula; he aquí
-una versión:
-
-Si los precios suben:
-
-494
+El índice de la demanda (ID) calcula dos valores, la presión compradora (PC) y la presión vendedora (PV), y luego un coeficiente de ambas. El

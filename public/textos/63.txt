@@ -1,28 +1,5 @@
-Construcción de gráficos 63
-
-7/15/97 (INTC) Intel Corp oz¡z7¡95'
-
-GRÁFICO DE LÍNEA DIARIO
-
-, ' — 1
-( S o = De 0Tr any rdtiio 6 a ME TO
-
-Figura 3.2 Un gráfico de línea de Intel. Este tipo de gráfico produce una línea
-continua mediante la conexión de precios de cierre sucesivos.
-
-en un gráfico de puntos y figuras que en uno de barras. Este tipo de gráfi-
-co también tiene mucha más flexibilidad. El capítulo 11 cubre todo lo re-
-lacionado con los gráficos de puntos y figuras.
+figuras, que muestra los mismos movimientos de precios pero en un formato más comprimido. Fijémonos en las columnas alternas de x y de o. Las columnas de x muestran precios al alza, y las columnas de o, precios a la baja. Las señales de comprar y vender son más precisas y más fáciles de ver en un gráfico de puntos y figuras que en uno de barras. Este tipo de gráfico también tiene mucha más flexibilidad. El capítulo 11 cubre todo lo relacionado con los gráficos de puntos y figuras.
 
 Gráficos de velas
 
-Los gráficos de velas son la versión japonesa de los gráficos de barras,
-y en los últimos años se han visto favorecidos por muchos chartistas occi-
-dentales. Las velas japonesas registran los mismos cuatro precios que
-las barras tradicionales, es decir, la apertura, el cierre, el máximo y el
-mínimo, pero la presentación visual difiere bastante. En el gráfico de ve-
-las, una delgada línea (llamada sombra) muestra el alcance que ha teni-
-do un precio en el día, desde el máximo hasta el mínimo. Una parte más
-ancha de la barra (llamada el cuerpo verdadero) mide la distancia entre
-
-63
+Los gráficos de velas son la versión japonesa de los gráficos de barras, y en los últimos años se han visto favorecidos por muchos chartistas occidentales. Las velas japonesas registran los mismos cuatro precios que las barras

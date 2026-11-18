@@ -1,94 +1,59 @@
-10
+Conclusión 354
 
-Análisis técnico de los Mercados Financieros
+Patrones de velas 355
 
-13
+13 Teoría de las ondas de Elliott 365
 
-14
+Antecedentes históricos 365
 
-15
+Principios básicos de la Teoría de las ondas de Elliott 366
 
-Teoría de las ondas de Elliott.........................
-Antecedentes históricos. ................ 00000000000
+Conexión entre la Teoría de las ondas de Elliott y la de Dow 367
 
-Principios básicos de la Teoría de las ondas de Elliott
+Ondas correctoras 367
 
-Conexión entre la Teoría de las ondas de Elliott y la de Dow
-Ondas correctoras ...........eeeeeeeeeerrerrerrAAs
-La regla de la alternancia ..................00000 ...
-Canalización.............. .r e.
-Onda 4 como área de apoyo....................ee....
+La regla de la alternancia 378
 
-Los números de Fibonacci como base del principio
+Canalización 378
 
-de las ondas................2.. 000 e.
-Ratios y retrocesos de Fibonacci.................ee....
-Metas temporales de Fibonacci. .......................
+Onda 4 como área de apoyo 381
 
-La combinación de los tres aspectos de la teoría
+Los números de Fibonacci como base del principio de las ondas 381
 
-de las ondas.................2.2 000000 eA
-La onda de Elliott aplicada a valores vs bienes ...........
-Resumen y conclusiones ...............—..00000000000.
-Material de referencia.................000000000 0e00
+Ratios y retrocesos de Fibonacci 382
 
-Ciclos temporales ....................... .. ...
-Introducción ............. 2000000000
+Metas temporales de Fibonacci 385
 
-Los conceptos cíclicos ayudan a explicar las técnicas
+La combinación de los tres aspectos de la teoría de las ondas 385
 
-de los gráficos ............... 2 0 aaeeeoee
-Ciclos dominantes ............... . a ae
+La onda de Elliott aplicada a valores vs bienes 387
 
-La importancia de la tendencia .......................
-Traslación a la izquierda o la derecha ..................
-Cómo aislar ciclos .............2. .. aaa
-Ciclos estacionales ............. 0a aaaoaos
+Resumen y conclusiones 388
 
-El ciclo presidencial. ............... 0 as
-Combinación de ciclos con otras herramientas técnicas ....
-Análisis y programas sobre ciclos ......................
+Material de referencia 390
 
-Ordenadores y sistemas de contratación................
-Introducción ...
-Álgunas necesidades informáticas .....................
-Lista de herramientas e indicadores ...................
+14 Ciclos temporales 391
 
-365
-366
-367
-367
-378
-378
-381
+Introducción 391
 
-381
-382
-385
+Ciclos 392
 
-385
-387
-388
-390
+Los conceptos cíclicos ayudan a explicar las técnicas de los gráficos 404
 
-391
-391
-392
+Ciclos dominantes 407
 
-404
-407
-410
-410
-412
-414
-414
-421
-423
-423
-423
-424
+Combinación de las duraciones cíclicas 410
 
-427
-427
-429
-430
+La importancia de la tendencia 410
+
+Traslación a la izquierda o la derecha 412
+
+Cómo aislar ciclos 414
+
+Ciclos estacionales 414
+
+Ciclos del mercado bursátil 421
+
+El barómetro de enero 423
+
+El ciclo presidencial

@@ -1,49 +1,11 @@
-264 Capítulo 10
+como el S&P 100 (OEX). Aunque 20 días es el valor común de incumplimiento en el ICM, el usuario puede variar el número para ajustar su sensibilidad. (Ver figuras 10.8 y 10.9).
 
-111197 - —(OEX) SEP 100 Stock Index — _ 03/05/08
+Figura 10.8 índice del canal de mercancías de 20 días. La intención original de este indicador era comprar movimientos por encima de +100 y vender movimientos por debajo de -100, tal como se muestra aquí.
 
-t'lul'l“l“…Í
-"N |1' lo |
-] ¡ 1 -…
+Figura 10.9 El índice del canal de mercancías se puede usar para índices de valores como éste, y también como cualquier otro oscilador para medir extremos del mercado. Obsérvese que el ICM cambia antes que los precios en cada máximo y cada mínimo. La duración del incumplimiento es de 20 días.
 
-'“ ¿ ls
+El índice de Fuerza Relativa (IFR)
 
-sobrecomprado
+El IFR fue desarrollado porj. Welles Wilder,Jr., quien lo presentó en su libro New Concepts in Technical Trading Systems publicado en 1978. Aquí veremos solamente los puntos principales, así que recomendamos la lectura del trabajo original de Wilder si se desea un enfoque más detallado. Dado que este oscilador particular es tan conocido entre los operadores, lo usaremos para demostrar la mayoría de los principios del análisis de los osciladores.
 
-Indice del canal
-_ de mercancías Lo |
-
-sobrevendido
-
-150
-
-Dic - Fe 7;h—_.¡
-711 1a i uai Vdc 6 Omana eee Tn
-
-_
-
-Figura 10.9 El índice del canal de mercancías se puede usar para índices de va-
-lores como éste, y también como cualquier otro oscilador para medir extremos
-del mercado. Obsérvese que el ICM cambia antes que los precios en cada máximo
-y cada mínimo. La duración del incumplimiento es de 20 días.
-
-El Índice de Fuerza Relativa (IFR)
-
-El IFR fue desarrollado por J. Welles Wilder, Jr., quien lo presentó en su
-libro New Concepts in Technical Trading Systems publicado en 1978. Aquí ve-
-remos solamente los puntos principales, así que recomendamos la lectura
-del trabajo original de Wilder si se desea un enfoque más detallado. Dado
-que este oscilador particular es tan conocido entre los operadores, lo usa-
-remos para demostrar la mayoría de los principios del análisis de los osci-
-ladores.
-
-Como Wilder destaca, uno de los dos problemas principales en la cons-
-trucción de una línea de momento (usando diferencias de precios) es el
-movimiento errático causado con frecuencia por cambios bruscos en los
-valores que se dejan de lado. Un fuerte avance o retroceso hace 10 días
-(en el caso de una línea de momento de 10 días) puede causar cambios re-
-pentinos en la línea del momento incluso si los precios actuales no mues-
-tran modificaciones. Por lo tanto, se necesita suavizar estas distorsiones
-para minimizarlas. El segundo problema es que existe la necesidad de una
-
-264
+Como Wilder destaca, uno de los dos problemas principales en la construcción de una línea de momento (usando diferencias de precios) es el movimiento errático causado con frecuencia por cambios bruscos en los valores que se dejan de lado. Un fuerte avance o retroceso hace 10 días (en el caso de una línea de momento de 10 días) puede causar cambios repentinos en la línea del momento incluso si los precios actuales no muestran modificaciones. Por lo tanto, se necesita suavizar estas distorsiones

@@ -1,27 +1,7 @@
-Relación entre valores y futuros: análisis entre mercados 447
-
-nea de FR descendente). El uso de algunas sencillas herramientas gráficas
-como líneas de tendencia y medias móviles aplicadas a las líneas de fuerza
-relativa le ayudarán a detectar los cambios importantes en su tendencia.
-(Ver figura 17.9). La idea general es hacer rotar los fondos hacia aquellos
-sectores del mercado cuyas líneas de fuerza relativa estén comenzando a su-
-bir, y hacerlos rotar fuera de aquellos grupos cuyas líneas de fuerza relativa
-estén comenzando a bajar. Estos movimientos se pueden implementar con
-las propias opciones sobre índices o a través de los fondos de inversión que
-concuerdan con los diferentes sectores bursátiles y grupos industriales.
+mercado general (una línea de FR ascendente) o cuáles no están funcionando bien (una línea de FR descendente). El uso de algunas sencillas herramientas gráficas como líneas de tendencia y medias móviles aplicadas a las líneas de fuerza relativa le ayudarán a detectar los cambios importantes en su tendencia. (Ver figura 17.9). La idea general es hacer rotar los fondos hacia aquellos sectores del mercado cuyas líneas de fuerza relativa estén comenzando a subir, y hacerlos rotar fuera de aquellos grupos cuyas líneas de fuerza relativa estén comenzando a bajar. Estos movimientos se pueden implementar con las propias opciones sobre índices o a través de los fondos de inversión que concuerdan con los diferentes sectores bursátiles y grupos industriales.
 
 Fuerza relativa y valores individuales
 
-Los inversores tienen dos formas de hacerlo. Pueden hacer rotar sus
-fondos fuera de un grupo, entrar en otro y permanecer allí, o si lo prefie-
+Los inversores tienen dos formas de hacerlo. Pueden hacer rotar sus fondos fuera de un grupo, entrar en otro y permanecer allí, o si lo prefie-
 
-ba/17197 (*PSE) Pacific High Tech Index 03/16/98
-
-Coeficiente PSE/índice S£-P 500
-
-Figura 17.9 Comparación de la fuerza relativa (coeficiente) del índice PSE High
-Tech con respecto al S8:P 500. Un sencillo análisis de la línea de tendencia ayudó
-a detectar la bajada en los valores de la tecnología en octubre de 1997 y su recu-
-peración hacia finales de año.
-
-447
+Figura 17.9 Comparación de la fuerza relativa (coeficiente) del índice PSE High Tech con respecto al S&P 500. Un sencillo análisis de la línea de tendencia ayudó a detectar la bajada en los valores de la tecnología en

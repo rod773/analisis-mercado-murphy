@@ -1,43 +1,15 @@
-Aspectos fundamentales de la creación de un sistema de contratación 517
+y desglosarlo cada vez más hasta finalizar con todos los detalles.
 
 Paso 3: Verificarla visualmente en los gráficos
 
-Siguiendo las normas explícitas que acabamos de determinar en el
-Paso 2, verifiquemos en un gráfico de precios las señales de contratación
-que se producen. Se trata de un proceso informal que tiene dos resultados
-como meta: primero, queremos ver si nuestra idea ha sido expresada co-
-rrectamente, y segundo, antes de ponernos a crear un complicado código
-informático, queremos tener pruebas de que la idea es potencialmente
-rentable.
+Siguiendo las normas explícitas que acabamos de determinar en el Paso 2, verifiquemos en un gráfico de precios las señales de contratación que se producen. Se trata de un proceso informal que tiene dos resultados como meta: primero, queremos ver si nuestra idea ha sido expresada correctamente, y segundo, antes de ponemos a crear un complicado código informático, queremos tener pruebas de que la idea es potencialmente rentable.
 
 Paso 4: Comprobarla formalmente por ordenador
 
-Ahora es el momento de convertir nuestra lógica en un código informá-
-tico. Para mi propio trabajo, yo uso un programa llamado TradeStation, de
-Omega Research, Inc. en Miami, Florida. TradeStation es el paquete infor-
-mático de análisis térnico más completo para la formulación y comproba-
-ción de sistemas de contratación. Es tan completo que lo reúne todo, desde
-la visualización de su idea hasta la ayuda para operar con su sistema en tiem-
-po real.
+Ahora es el momento de convertir nuestra lógica en un código informático. Para mi propio trabajo, yo uso un programa llamado Trade Station, de Omega Research, Inc. en Miami, Florida. Trade Station es el paquete informático de análisis técnico más completo para la formulación y comprobación de sistemas de contratación. Es tan completo que lo reúne todo, desde la visualización de su idea hasta la ayuda para operar con su sistema en tiempo real.
 
-Escribir un código en cualquier lenguaje informático no es tarea fácil y
-el código EasyLanguage TM de TradeStation no es la excepción. Pero el
-trabajo se simplifica mucho con EasyLanguage por su editor de fácil uso
-para el usuario y la inclusión de muchos factores incorporados y muchos
-ejemplos de código. (Ver figura C.1).
+Escribir un código en cualquier lenguaje informático no es tarea fácil y el código Easy Language TM de Trade Station no es la excepción. Pero el trabajo se simplifica mucho con Easy Language por su editor de fácil uso para el usuario y la inclusión de muchos factores incorporados y muchos ejemplos de código. (Ver figura C.1).
 
-Una vez que se ha escrito el programa, pasamos a la fase de prue-
-ba. Para comenzar, debemos elegir una o más series de datos, tarea que
-resulta fácil para los que operan con valores, Los que operan con futuros,
-sin embargo, se encuentran con contratos que vencen en un plazo rela-
-tivamente corto. A mí me gusta comenzar mis pruebas usando una serie
-de precios continuos (con spread ajustado) popularizada por Jack Schwa-
-ger. (Schawer on. Futures: Technical Analysis, Wiley, 1996). Si los resul-
-tados son prometedores, entonces sigo adelante y paso a los contratos
-reales.
+Una vez que se ha escrito el programa, pasamos a la fase de prueba. Para comenzar, debemos elegir una o más series de datos, tarea que resulta fácil para los que operan con valores. Los que operan con futuros, sin embargo, se encuentran con contratos que vencen en un plazo relativamente corto. A mí me gusta comenzar mis pruebas usando una serie de precios continuos (con spread ajustado) popularizada por Jack Schwa- ger. (Schawer on Futures: Technical Analysis, Wiley, 1996). Si los resultados son prometedores, entonces sigo adelante y paso a los contratos reales.
 
-A continuación, debemos decidir cuánta información utilizar al cons-
-truir nuestro sistema. Yo uso la totalidad de las series de datos, sin guardar
-nada para hacer la prueba fuera de la muestra (se trata de crear el sistema
-
-517
+A continuación,

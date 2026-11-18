@@ -1,41 +1,11 @@
-Ciclos temporales 383
+por permiso, 27 de mayo de 1984, p. FU).
 
 Combinación de las duraciones cíclicas
 
-Por regla general, los ciclos a largo plazo y los estacionales determinan
-la tendencia principal de un mercado. Obviamente, si un ciclo de dos
-años ha alcanzado su mínimo, se puede esperar que avance al menos du-
-rante un año, medido desde su valle hasta su cresta. Por lo tanto, el ciclo
-de larga duración ejerce una influencia importante sobre la dirección del
-mercado. Los mercados también tienen patrones estacionales anuales,
-que significa que tienden a alcanzar su pico o su valle en ciertos momen-
-tos del año. El mercado de cereales, por ejemplo, generalmente llega a su
-punto bajo en la época de la cosecha, y sube a partir de entonces. Los mo-
-vimientos estacionales suelen durar varios meses.
+Por regla general, los ciclos a largo plazo y los estacionales determinan la tendencia principal de un mercado. Obviamente, si un ciclo de dos años ha alcanzado su mínimo, se puede esperar que avance al menos durante un año, medido desde su valle hasta su cresta. Por lo tanto, el ciclo de larga duración ejerce una influencia importante sobre la dirección del mercado. Los mercados también tienen patrones estacionales anuales, que significa que tienden a alcanzar su pico o su valle en ciertos momentos del año. El mercado de cereales, por ejemplo, generalmente llega a su punto bajo en la época de la cosecha, y sube a partir de entonces. Los movimientos estacionales suelen durar varios meses.
 
-A efectos de hacer transacciones, el ciclo primario semanal es el más
-útil. El ciclo primario de 3 a 6 meses es el equivalente a la tendencia in-
-termedia, y generalmente determina en qué lado del mercado operar. El
-siguiente ciclo más corto, el de transacciones de 4 semanas, se usa para es-
-tablecer puntos de entrada y salida en la dirección de la tendencia prima-
-ria. Si dicha tendencia es alcista, los valles del ciclo de transacciones se
-usan para comprar. Si la tendencia primaria es a la baja, las crestas de los
-ciclos de transacciones deberían venderse en descubierto. Los ciclos alfa y
-beta de 10 días se pueden usar para mayores ajustes. (Ver figura 14.13).
+A efectos de hacer transacciones, el ciclo primario semanal es el más útil. El ciclo primario de 3 a 6 meses es el equivalente a la tendencia intermedia, y generalmente determina en qué lado del mercado operar. El siguiente ciclo más corto, el de transacciones de 4 semanas, se usa para establecer puntos de entrada y salida en la dirección de la tendencia primaria. Si dicha tendencia es alcista, los valles del ciclo de transacciones se usan para comprar. Si la tendencia primaria es a la baja, las crestas de los ciclos de transacciones deberían venderse en descubierto. Los ciclos alfa y beta de 10 días se pueden usar para mayores ajustes. (Ver figura 14.13).
 
 La importancia de la tendencia
 
-En la totalidad del análisis técnico se insiste en el concepto de operar
-en la dirección de la tendencia. En un capítulo anterior se sugirió que las
-caídas de corta duración se usaran para comprar si la tendencia interme-
-dia era ascendente, y que las subidas a corto plazo se vendieran en las ten-
-dencias a la baja. Por lo tanto, cuando se use una tendencia de corta du-
-ración para calcular los momentos adecuados para operar, será necesario
-determinar primero la dirección de la siguiente tendencia más larga y lue-
-go operar en la dirección de dicha tendencia. Este concepto también se
-aplica a los ciclos. La tendencia de cada ciclo queda determinada por la di-
-rección del siguiente ciclo más largo. O dicho de otra manera, una vez que
-se establece la tendencia de un ciclo más largo, se conoce la tendencia del
-siguiente ciclo más corto.
-
-383
+En la totalidad del análisis técnico se insiste en el concepto de operar en la dirección de la tendencia. En un capítulo anterior se sugirió que las caídas de corta duración se usaran para comprar si la tendencia intermedia era ascendente, y que las subidas a corto plazo se vendieran en las tendencias a la baja. Por lo tanto, cuando se use una tendencia de corta duración para calcular los momentos adecuados para operar, será necesario determinar primero la dirección de la siguiente tendencia más larga y luego operar en la dirección de dicha tendencia. Este concepto también se aplica a los ciclos. La tendencia de cada ciclo queda determinada por la dirección del siguiente ciclo más largo. O dicho de otra manera, una vez que se establece la tendencia de un ciclo más largo, se conoce la

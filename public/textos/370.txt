@@ -1,56 +1,9 @@
-370 Capítulo 14
+Los analistas cíclicos prefieren medir la longitud de los ciclos de mínimo a mínimo, porque aunque también se puede medir de cresta a cresta, esta medida no se considera tan estable y de confianza como la que se toma entre valle y valle. Por lo tanto, la práctica habitual es medir el inicio y el fin de una onda cíclica en un punto bajo, tal como muestra este ejemplo.
 
-Exposición de ciclos de 18, 2 años
-aaaaanieeaora Xaa AM A OO A O O a
+Las tres cualidades de un ciclo son su amplitud, período y fase. La amplitud mide la altura de la onda, tal como se ve en la figura 14.5, y la expresa en dólares, centavos o puntos. El período de una onda, tal como
 
-AN 7 Matrimonios, EEUU
-7 1869-70—1950-51
-v v
-N A N 7 Za Za ? Inundaciones del Nilo
-'x y <v7 NO Ne N Ny7 641-1451
-N A 7 Venta de una empresa industrial
-AÍ'%AV'AVA_!—A“ 7 — “ 1872-1959
-: : A º º º I'Cotizaciones bursátiles
-Ta 1831e-
-XV 1831-1964
-7 Inmigración
-r"“º””" 7 — 1820-1962
-A n / Construcción, Hamburgo
-——l: N .7 7 N <V¡' <V7 1885-1935
-L¡ 18514 ñ, / Actividades inmobiliarias
-asta: ÁV%AVAV%7I—XV—J—
-v v 1851-1954
-, _ 7Empresa de servicios públicos
-N u 1903-1939
-AN / Transferencias inmobiliarias
-a — — S PCA CA 2
-a17 7 X7 7 — /7 - 1795-1958
+Exposición de ciclos de 18, 2 años Exposición de ciclos de 18, 2 años' Cotizaciones bursátiles' Cotizaciones bursátiles H Stal831 H Stal8311831-19641831-1964 I Hlaal820 Has la 1851 *-Has la 1851 *-Hasta 1795 Hasta 1856 Hasta 1856z Construcción de edificiosz Construcción de edificios ¡Hasta 1830 ♦”¡Hasta 1830 ♦”1830-19361830-1936 Hasta 1 S14 Hasta 1 S144j4j19401940196019601920192019001900 Matrimonios, EEUU 1869-70—1950-51 Matrimonios, EEUU 1869-70—1950-51/Inmigración 1820-1962/Inmigración 1820-1962 Venta de una empresa industrial 1872-1939 Venta de una empresa industrial 1872-1939/Construcción, Hamburgo 1885-1935/Construcción, Hamburgo 1885-1935/Actividades inmobiliarias 1851-1954/Actividades inmobiliarias 1851-1954' Transferencias inmobiliarias ”1795-1958' Transferencias inmobiliarias ”1795-1958f Inundaciones del Nilo 641-1451f Inundaciones del Nilo 641-1451'Empresa de servicios públicos " 1903-1939'Empresa de servicios públicos " 1903-1939 Construcción edificios✓- residenciales 1856-1950 Construcción edificios✓- residenciales 1856-1950/Anillos en los árboles de Java (invertido) 1514-1929/Anillos en los árboles de Java (invertido) 1514-1929n.ln.l1880188019801980
 
-A , Construcción edificios
+Ciclos de 18,2 años. (Fuente: Dewey, Edward R., Cycles: The Myste- rious Forces That Trigger Events, Nueva York, Manor Books, 1973).
 
-a
-h 1856- 1950
-
-a * 7 Construcción de edificios
-asta1830 <« — — — ;,'_*.x._' —7
-N Y — 1830-1936
-asta1514 « D A £ Anillos en los árboles de Java
-7 N “Y (invertido)
-1514-1929
-J PONCAVODO PENEDOVON NOOVPRIDVN NONTPPRPIN TOFINVAPISTOPENUOTN MEAVORIOV! MOTNVITUN ENUTUEEA DOTTEUEITEEEIS SN
-1880 1900 1920 1940 1960 1980
-
-Figura 14.3 Ciclos de 18,2 años. (Fuente: Dewey, Edward R., Cycles: The Myste-
-rious Forces That Trigger Events, Nueva York, Manor Books, 1973).
-
-aparece en la figura 14.6, es el lapso que hay entre valles. En este ejemplo,
-el período es de 20 días. La fase es la medida del emplazamiento del tiem-
-po en el valle de una onda. La figura 14.7 muestra la diferencia de fases
-entre dos ondas. Debido a que hay varios ciclos diferentes presentes al mis-
-mo tiempo, las fases permiten que el analista estudie las relaciones entre
-las distintas duraciones de los ciclos. Las fases también se usan para iden-
-tificar la fecha del último mínimo del ciclo. Por ejemplo, si un ciclo de 20
-días llegó a su nivel más bajo 10 días antes, se puede determinar la fecha
-en que se alcanzará el nivel más bajo del ciclo siguiente. Una vez que se co-
-
-370
+aparece en la figura 14.6, es el lapso que hay entre valles. En este ejemplo, el período es de 20 días. La fase es la medida del emplazamiento del tiempo en el valle de una onda. La figura 14.7 muestra la diferencia de fases entre dos ondas. Debido a que hay varios ciclos diferentes presentes al mismo tiempo, las fases permiten que el analista estudie las relaciones entre las distintas duraciones de los ciclos. Las fases también se usan para identificar la fecha del último mínimo del ciclo. Por ejemplo, si un ciclo de

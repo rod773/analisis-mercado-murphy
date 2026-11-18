@@ -1,44 +1,9 @@
-366 Capítulo 14
+días han de medir. En el capítulo anterior vimos la utilidad de las metas temporales de Fibonacci.
 
-de las metas temporales de Fibonacci.
-
-Parece claro, entonces, que todas las fases del análisis técnico depen-
-den en cierto grado de las consideraciones del tiempo, y sin embargo, di-
-chas consideraciones no se aplican de forma coherente y segura. Ahora es
-cuando los ciclos temporales hacen su aparición. En vez de jugar un papel
-secundario en los movimientos del mercado, los analistas de ciclos sostie-
-nen que los ciclos temporales son el factor determinante en los mercados
-alcistas y bajistas. El tiempo no sólo es el factor dominante, sino que todas
-las demás herramientas técnicas pueden mejorarse con la incorporación
-de ciclos. Las medias móviles y los osciladores, por ejemplo, se pueden op-
-timizar ligándolos a los ciclos dominantes. El análisis de las líneas de ten-
-dencia puede ser más preciso con el análisis de ciclos al determinar cuáles
-líneas son válidas y cuáles no. El análisis de los patrones de precios se pue-
-de reforzar si se combina con picos y valles cíclicos. Mediante el uso de
-“ventanillas de tiempo”, el movimiento de los precios se puede filtrar de
-tal modo que se pueda ignorar toda acción extraña y se pueda poner el én-
-fasis principal sólo en aquellos momentos en los que estén por darse im-
-portantes máximos o mínimos cíclicos.
+Parece claro, entonces, que todas las fases del análisis técnico dependen en cierto grado de las consideraciones del tiempo, y sin embargo, dichas consideraciones no se aplican de forma coherente y segura. Ahora es cuando los ciclos temporales hacen su aparición. En vez de jugar un papel secundario en los movimientos del mercado, los analistas de ciclos sostienen que los ciclos temporales son el factor determinante en los mercados alcistas y bajistas. El tiempo no sólo es el factor dominante, sino que todas las demás herramientas técnicas pueden mejorarse con la incorporación de ciclos. Las medias móviles y los osciladores, por ejemplo, se pueden optimizar ligándolos a los ciclos dominantes. El análisis de las líneas de tendencia puede ser más preciso con el análisis de ciclos al determinar cuáles líneas son válidas y cuáles no. El análisis de los patrones de precios se puede reforzar si se combina con picos y valles cíclicos. Mediante el uso de “ventanillas de tiempo”, el movimiento de los precios se puede filtrar de tal modo que se pueda ignorar toda acción extraña y se pueda poner el énfasis principal sólo en aquellos momentos en los que estén por darse importantes máximos o mínimos cíclicos.
 
 Ciclos
 
-El libro más curioso que he leído sobre el tema de los ciclos fue escrito
-por Edward R. Dewey (uno de los pioneros del análisis de los ciclos) y Og
-Mandino, con el título Cycles: The Mysterious Forces That Trigger Events. Miles
-de ciclos aparentemente sin relación fueron aislados en lapsos de cientos,
-y a veces miles, de años. Se estudió todo, desde el ciclo de 9,6 años de
-abundancia de salmón atlántico hasta el ciclo de 22,20 años en las batallas
-internacionales entre 1415 y 1930. Se descubrió que el ciclo medio de ac-
-tividad de las manchas solares a partir de 1527 es de 11,11 años. Se pre-
-sentaron varios ciclos económicos, incluyendo el ciclo de 18,33 años de ac-
-tividad inmobiliaria y un ciclo de 9,2 años del mercado de valores. (Ver
-figuras 14.1 y 14.2).
+El libro más curioso que he leído sobre el tema de los ciclos fue escrito por Edward R. Dewey (uno de los pioneros del análisis de los ciclos) y Og Mandino, con el título Cycles: The Mysterious Forces That Trigger Events. Miles de ciclos aparentemente sin relación fueron aislados en lapsos de cientos, y a veces miles, de años. Se estudió todo, desde el ciclo de 9,6 años de abundancia de salmón atlántico hasta el ciclo de 22,20 años en las batallas internacionales entre 1415 y 1930. Se descubrió que el ciclo medio de actividad de las manchas solares a partir de 1527 es de 11,11 años. Se presentaron varios ciclos económicos, incluyendo el ciclo de 18,33 años de actividad inmobiliaria y un ciclo de 9,2 años del mercado de valores. (Ver figuras 14.1 y 14.2).
 
-Dewey presenta dos conclusiones sorprendentes. La primera, que mu-
-chos de los ciclos de fenómenos aparentemente sin relación se agrupan en
-períodos similares. En la página 188 de su libro, Dewey incluye una lista de
-37 ejemplos diferentes de ciclos de 9,6 años, incluyendo la abundancia de
-orugas en Nueva Jersey, la abundancia de coyotes en Canadá, la extensión
-en acres de trigo en Estados Unidos y los precios del algodón en el mismo
-
-366
+Dewey presenta dos conclusiones sorprendentes. La primera, que muchos de los ciclos de fenómenos aparentemente sin relación se agrupan en períodos similares. En la página 188 de

@@ -1,43 +1,9 @@
-Teoría de las ondas de Elliott 353
+lo que decía Elliott. El triángulo de Elliott es un patrón lateral de consolidación que se divide en cinco ondas, las que a su vez están formadas por tres ondas cada una. Elliott también clasifica cuatro clases diferentes de triángulos (ascendentes, descendentes, simétricos y de extensión), todos ellos vistos en el capítulo 6. La figura 13.21 muestra las cuatro variedades tanto en tendencias a alza como a la baja.
 
-das, las que a su vez están formadas por tres ondas cada una. Elliott tam-
-bién clasifica cuatro clases diferentes de triángulos (ascendentes, descen-
-dentes, simétricos y de extensión), todos ellos vistos en el capítulo 6. La fi-
-gura 13.21 muestra las cuatro variedades tanto en tendencias a alza como
-a la baja.
+Debido a que los patrones de gráficos de los contratos de futuros a veces no se forman de modo tan completo como sucede en el mercado de valores, es bastante frecuente que los triángulos de los mercados de futuros tengan sólo tres ondas en lugar de cinco. (Recuérdese, no obstante, que el requisito mínimo para un triángulo sigue siendo cuatro puntos, dos superiores y dos inferiores, para permitir el trazado de dos líneas de tendencia convergentes). La Teoría de las Ondas de Elliott también sostiene que la quinta y última onda dentro del triángulo a veces rompe la línea de tendencia y crea una señal falsa antes de comenzar su “empuje” en la dirección original.
 
-Debido a que los patrones de gráficos de los contratos de futuros a ve-
-ces no se forman de modo tan completo como sucede en el mercado de
-valores, es bastante frecuente que los triángulos de los mercados de futu-
-ros tengan sólo tres ondas en lugar de cinco. (Recuérdese, no obstante,
-que el requisito mínimo para un triángulo sigue siendo cuatro puntos, dos
-superiores y dos inferiores, para permitir el trazado de dos líneas de ten-
-dencia convergentes). La Teoría de las Ondas de Elliott también sostiene
-que la quinta y última onda dentro del triángulo a veces rompe la línea de
-tendencia y crea una señal falsa antes de comenzar su “empuje” en la di-
-rección original.
-
-La medida que hace Elliott de la quinta y última onda después de que el
-triángulo ha quedado completado es esencialmente la misma que en los
-gráficos clásicos, o sea, se espera que el mercado se mueva una distancia
-igual a la parte más ancha del triángulo (su altura). Hay otro aspecto que
-vale la pena tener en cuenta aquí con relación al momento en el que se al-
-canza el máximo o el mínimo final; según Prechter, el vértice del triángulo
-(el punto donde se encuentran las dos líneas de tendencia convergentes)
-indica a menudo el momento en que se completa la quinta y última onda.
+La medida que hace Elliott de la quinta y última onda después de que el triángulo ha quedado completado es esencialmente la misma que en los gráficos clásicos, o sea, se espera que el mercado se mueva una distancia igual a la parte más ancha del triángulo (su altura). Hay otro aspecto que vale la pena tener en cuenta aquí con relación al momento en el que se alcanza el máximo o el mínimo final; según Prechter, el vértice del triángulo (el punto donde se encuentran las dos líneas de tendencia convergentes) indica a menudo el momento en que se completa la quinta y última onda.
 
 La regla de la alternancia
 
-En su aplicación más general, esta regla o principio sostiene que el
-mercado normalmente no actúa igual dos veces seguidas. Si la última vez
-hubo algún tipo de máximo o mínimo, probablemente en esta ocasión no
-ocurrirá lo mismo. La regla de la alternancia no nos dice qué pasará exac-
-tamente, pero nos dice qué es lo que probablemente no sucederá. En su
-aplicación más específica, se usa habitualmente para indicarnos qué tipo
-de patrón corrector debemos esperar. Los patrones correctores tienden a
-ser alternos. En otras palabras, si la onda correctora 2 fue un simple pa-
-trón ab-c, la onda 4 probablemente tendrá un patrón complejo, por ejem-
-plo un triángulo. Y a la inversa, si la onda 2 fue compleja, la onda 4 pro-
-bablemente será sencilla. La figura 13.22 proporciona algunos ejemplos.
-
-353
+En su aplicación más general, esta regla o principio sostiene que el mercado normalmente no actúa igual dos veces seguidas. Si la última vez hubo algún tipo de máximo o mínimo, probablemente en esta ocasión no ocurrirá lo mismo. La regla de la alternancia no nos dice qué pasará exactamente, pero nos dice qué es lo que probablemente no sucederá. En su aplicación más específica, se usa habitualmente para indicarnos qué tipo de patrón corrector debemos esperar. Los patrones correctores tienden a ser alternos. En otras palabras, si la onda correctora 2 fue un simple patrón a-b-c, la onda 4 probablemente tendrá un patrón complejo, por ejemplo

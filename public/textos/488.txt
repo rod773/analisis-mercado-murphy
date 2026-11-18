@@ -1,44 +1,13 @@
-488 Apéndice A
-Índice de rentabilidad de Herrick (IRH)
+y julio.
 
-Este indicador fue desarrollado por el desaparecido John Herrick
-como una forma de analizar futuros de bienes a través de los cambios del
-interés abierto. Como ya se vio en el capítulo 7, los cambios del interés
-abierto pueden proporcionar importantes pautas a los operadores sobre la
-firmeza o no de la tendencia de un mercado.
+X ___
 
-El índice de rentabilidad de Herrick usa precio, volumen e interés
-abierto para determinar los flujos monetarios hacia o desde un bien de-
-terminado. Ayuda al operador a detectar divergencias entre el movimien-
-to del precio y el interés abierto, cosa que resulta bastante importante
-dado que el pánico comprador o vendedor normalmente se puede identi-
-ficar con el análisis del interés abierto por medio del índice de rentabili-
-dad de Herrick.
+Indice de rentabilidad de Herrick (IRH)
 
-La interpretación básica del IRH es si está por encima o por debajo de
-la línea cero. Un valor positivo significa que el IRH está proyectando pre-
-cios más altos y que el interés abierto está subiendo junto con ellos. Por el
-contrario, las lecturas negativas sugieren que los fondos se están retirando
-del bien que se está analizando.
+Este indicador fue desarrollado por el desaparecido John Herrick como una forma de analizar futuros de bienes a través de los cambios del interés abierto. Como ya se vio en el capítulo 7, los cambios del interés abierto pueden proporcionar importantes pautas a los operadores sobre la firmeza o no de la tendencia de un mercado.
 
-Uno de los mercados de bienes más volátil es el del café, representado
-en la figura A.3. Durante marzo y abril de 1997, el IRH cruzó cuatro veces
-la línea cero y la última señal positiva aparecida en abril (B) duró hasta
-principios de junio. El IRH cayó por debajo de cero en junio, y aunque los
-precios estaban muy por debajo de los máximos, el café bajó otros 70 cén-
-timos. Una vez más, el IRH se volvió positivo a finales de julio, muy cerca
-de los precios mínimos. En los dos meses siguientes hubo dos señales de
-corta duración y luego otra más larga de venta, algo característico del IRH
-cuando se utiliza en la información diaria, ya que cruzará la línea cero por
-encima y por debajo varias veces antes de que aparezca una señal de com-
-pra o de venta que dure más.
+El índice de rentabilidad de Herrick usa precio, volumen e interés abierto para determinar los flujos monetarios hacia o desde un bien determinado. Ayuda al operador a detectar divergencias entre el movimiento del precio y el interés abierto, cosa que resulta bastante importante dado que el pánico comprador o vendedor normalmente se puede identificar con el análisis del interés abierto por medio del índice de rentabilidad de Herrick.
 
-El IRH, como el índice de la demanda, es más eficaz cuando se usa en
-la información semanal, porque hay menos señales falsas evidentes. El
-análisis de la divergencia también se puede usar para advertir al operador
-de un cambio en el flujo monetario, de positivo a negativo. Hay varios
-ejemplos buenos en los gráficos semanales de futuros de bonos del tesoro
-(Figura A.4) que cubren aproximadamente seis años de operaciones. El
-IRH fue positivo desde finales de 1992 hasta finales de 1993, alcanzó un
+La interpretación básica del IRH es si está por encima o por debajo de la línea cero. Un valor positivo signiñca que el IRH está proyectando precios más altos y que el interés abierto está subiendo junto con ellos. Por el contrario, las lecturas negativas sugieren que los fondos se están retirando del bien que se está analizando.
 
-488
+Uno de los mercados de bienes más volátil es el del café, representado en la figura A.3. Durante marzo y abril de 1997, el IRH cruzó cuatro veces la línea cero y la última señal positiva aparecida en abril (B) duró hasta principios de junio. El IRH cayó por debajo de cero en junio, y aunque los precios estaban muy por debajo de los máximos, el café bajó otros 70 céntimos. Una vez más, el IRH se volvió positivo a finales de julio, muy cerca de los precios mínimos. En los dos meses siguientes hubo dos señales de corta duración y luego otra más larga de venta, algo característico del IRH cuando se utiliza

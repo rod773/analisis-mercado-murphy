@@ -1,53 +1,9 @@
-192 Capítulo 7
+menor volumen en cada pico sucesivo seguido por una mayor actividad a la baja. Los patrones de continuidad, como el triángulo, deberían ir acompañados por un descenso gradual del volumen. Por norma, la resolución de todos los patrones de precios (el punto de ruptura) debería ir acompañada por una mayor cantidad de operaciones si la señal dada por esa ruptura es real. (Ver figura 7.5).
 
-ber27/97 —
+Figura 7.5 La primera mitad de este gráfico muestra una tendencia positiva con un volumen mayor en los días al alza. El recuadro en la parte superior muestra un repentino cambio a la baja con fuerte volumen, lo que es una señal negativa. Obsérvese el incremento de operaciones cuando el triángulo de continuidad se rompe por abajo.
 
-I1| N Les'e
-/ N M Da P
-1 J…XIHII! l s|v 'hl| Hl l| l Triangle
-p
-
-- (CPQ) Compaqbomputer Corp - 12/31/97
-" l ml — T
-
-r
-
-24
-
-! | hse2
-"o l
-e y -
-
-“_
-
-Dic
-JO TO Diam Priad usino TradaSiuion 6 Omaga Raeserch, nc 1087
-
-VOLUMEN
-
-| A
-
-Figura 7.5  La primera mitad de este gráfico muestra una tendencia positiva con
-un volumen mayor en los días al alza. El recuadro en la parte superior muestra un
-repentino cambio a la baja con fuerte volumen, lo que es una señal negativa. Ob-
-sérvese el incremento de operaciones cuando el triángulo de continuidad se rom-
-pe por abajo.
-
-N
-
-En una tendencia a la baja, el volumen debería ser mayor durante los
-descensos y menor en las subidas. Mientras ese patrón continúe, la presión
-vendedora es más fuerte que la presión compradora y la tendencia a la
-baja debería seguir. Es sólo cuando el patrón comienza a cambiar que el
-chartista empieza a buscar señales de un patrón inferior.
+En una tendencia a la baja, el volumen debería ser mayor durante los descensos y menor en las subidas. Mientras ese patrón continúe, la presión vendedora es más fuerte que la presión compradora y la tendencia a la baja debería seguir. Es sólo cuando el patrón comienza a cambiar que el charlista empieza a buscar señales de un patrón inferior.
 
 El volumen precede al precio
 
-Cuando controlamos el precio y el volumen a la vez, en realidad esta-
-mos usando dos herramientas diferentes para medir lo mismo —la pre-
-sión. Por el mero hecho de que los precios tienen la tendencia a subir, ve-
-mos que hay más presión compradora que vendedora. Parece razonable
-entonces que el mayor volumen se dé en la misma dirección que la ten-
-dencia prevaleciente. Los técnicos creen que el volumen precede al pre-
-
-192
+Cuando controlamos el precio y el volumen a la vez, en realidad estamos usando dos herramientas diferentes para medir lo mismo —la presión. Por el mero hecho de que los precios tienen la tendencia a subir, vemos que hay más presión compradora que vendedora. Parece razonable entonces que el mayor volumen se

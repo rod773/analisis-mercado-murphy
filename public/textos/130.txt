@@ -1,46 +1,9 @@
-130 Capítulo 5
+medir dan sólo objetivos de precios mínimos. El objetivo máximo sería la extensión total del movimiento anterior. Si se ha dado un mercado alcista importante y se esta formando un patrón superior principal, la máxima implicación para el potencial movimiento hacia el lado inferior sería un retroceso del 100 por cien del mercado alcista, o el punto de origen de todo.
 
-objetivos de precios mínimos. El objetivo máximo sería la extensión total
-del movimiento anterior. Si se ha dado un mercado alcista importante y se
-está formando un patrón superior principal, la máxima implicación para
-el potencial movimiento hacia el lado inferior sería un retroceso del 100
-por cien del mercado alcista, o el punto de origen de todo.
+La ruptura de una importante línea de tendencia. La primera señal de un cambio inminente de tendencia a menudo es la ruptura de una importante línea de tendencia. Cabe recordar, no obstante, que la violación de una línea de tendencia principal no anuncia necesariamente un cambio de dirección a contrario de la tendencia, sino un cambio dentro de la tendencia. La ruptura de una línea de tendencia principal ascendente puede anunciar el comienzo de un patrón de precios lateral, que más tarde se identificará como perteneciendo al tipo de modelo de cambio o de continuidad. A veces la ruptura de la línea de tendencia principal coincide con la finalización del modelo de precio.
 
-La ruptura de una importante línea de tendencia. La primera señal de un
-cambio inminente de tendencia a menudo es la ruptura de una impor-
-tante línea de tendencia. Cabe recordar, no obstante, que la violación de
-una línea de tendencia principal no anuncia necesariamente un cambio
-de dirección a contrario de la tendencia, sino un cambio dentro de la ten-
-dencia. La ruptura de una línea de tendencia principal ascendente puede
+Cuanto más grande sea el patrón, mayor será el potencial. Cuando usamos la expresión “más grande”, nos referimos a la altura y al ancho del patrón de precios. La altura mide la volatilidad del patrón y el ancho es la cantidad de tiempo necesaria para confeccionar y finalizar el patrón. Cuanto mayor sea el tamaño del patrón -o sea, la amplitud de las oscilaciones del precio dentro del patrón (la volatilidad) y el tiempo que lleve construirlo— más importante será y mayor será su potencial para el siguiente movimiento del precio.
 
--anunciar el comienzo de un patrón de precios lateral, que más tarde se
-identificará como perteneciendo al tipo de modelo de cambio o de conti-
-nuidad. A veces la ruptura de la línea de tendencia principal coincide con
-la finalización del modelo de precio.
+Prácticamente todas las técnicas de medida en estos dos capítulos se basan en la altura del patrón. Es el método que se aplica principalmente a los gráficos de barras, que usan un criterio de medida vertical. La práctica de medir la amplitud horizontal de un patrón de precios generalmente se reserva para los gráficos de punto y figura. Dicho método de realizar gráficos utiliza un recurso llamado la cuenta, que asume una íntima relación entre la amplitud de un modelo superior o uno inferior y el consiguiente objetivo de precios.
 
-Cuanto más grande sea el patrón, mayor será el potencial.Cuando usa-
-mos la expresión “más grande”, nos referimos a la altura y al ancho del pa-
-trón de precios. La altura mide la volatilidad del patrón y el ancho es la
-cantidad de tiempo necesaria para confeccionar y finalizar el patrón.
-Cuanto mayor sea el tamaño del patrón —o sea, la amplitud de las oscila-
-ciones del precio dentro del patrón (la volatilidad) y el tiempo que lleve
-construirlo— más importante será y mayor será su potencial para el si-
-guiente movimiento del precio.
-
-Prácticamente todas las técnicas de medida en estos dos capítulos se ba-
-san en la altura del patrón. Es el método que se aplica principalmente a los
-gráficos de barras, que usan un criterio de medida vertical. La práctica de
-medir la amplitud horizontal de un patrón de precios generalmente se re-
-serva para los gráficos de punto y figura. Dicho método de realizar gráfi-
-cos utiliza un recurso llamado la cuenta, que asume una íntima relación
-entre la amplitud de un modelo superior o uno inferior y el consiguiente
-objetivo de precios.
-
-Diferencias entre modelos superiores e inferiores. Los modelos superiores ge-
-neralmente son de más corta duración y más volátiles que los modelos in-
-feriores. Las oscilaciones de precios dentro de los superiores son más am-
-plias y más violentas. Habitualmente, los superiores necesitan menos
-tiempo para formarse. Los patrones inferiores normalmente tienen unas
-escalas de precios más pequeñas, pero necesitan más tiempo para formar-
-
-130
+Diferencias entre modelos superiores e inferiores. Los modelos superiores generalmente son de más corta duración y más volátiles que los modelos inferiores. Las oscilaciones de precios dentro de los superiores son más amplias y más violentas. Habitualmente, los superiores necesitan menos tiempo para formarse. Los patrones inferiores normalmente tienen unas escalas de precios

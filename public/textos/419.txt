@@ -1,43 +1,11 @@
-Gestión monetaria y tácticas de contratación 419
+generalmente siguen una misma tendencia en dirección contraria al dólar norteamericano.
 
 Uso de límites protectores
 
-Recomiendo seriamente el uso de límites protectores, pero poner lími-
-tes es un arte. El operador debe combinar los factores técnicos del gráfico
-de precios con las consideraciones sobre la gestión monetaria. Más ade-
-lante en este mismo capítulo, veremos cómo se logra al hablar de tácticas.
-El operador debe considerar la volatilidad del mercado, porque a mayor
-volatilidad de éste, menor rigidez del límite a emplear. Una vez más hay
-una correlación. El operador quiere un límite de protección para estar
-cerca, de modo que las operaciones con pérdidas sean lo más pequeñas
-posible, pero los límites de protección puestos demasiado cerca pueden
-llevar a una liquidación no buscada en las oscilaciones del mercado a cor-
-to plazo (o “ruido”). Los límites de protección puestos demasiado lejos
-pueden evitar el factor ruido, pero darán pérdidas mayores, o sea que el
-truco está en encontrar el punto medio adecuado.
+Recomiendo seriamente el uso de límites protectores, pero poner límites es un arte. El operador debe combinar los factores técnicos del gráfico de precios con las consideraciones sobre la gestión monetaria. Más adelante en este mismo capítulo, veremos cómo se logra al hablar de tácticas. El operador debe considerar la volatilidad del mercado, porque a mayor volatilidad de éste, menor rigidez del límite a emplear. Una vez más hay una correlación. El operador quiere un límite de protección para estar cerca, de modo que las operaciones con pérdidas sean lo más pequeñas posible, pero los límites de protección puestos demasiado cerca pueden llevar a una liquidación no buscada en las oscilaciones del mercado a corto plazo (o “ruido”). Los límites de protección puestos demasiado lejos pueden evitar el factor ruido, pero darán pérdidas mayores, o sea que el truco está en encontrar el punto medio adecuado.
 
 Coeficientes recompensa/riesgos
 
-Los mejores operadores de futuros ganan dinero solamente en el 40
-por ciento de sus operaciones. Sí, ha leído bien. La mayor parte de las
-operaciones acaba en pérdidas. ¿Cómo se entiende, entonces, que los
-operadores ganen dinero si la mayoría de las veces se equivocan? Debido
-a que los contratos de futuros requieren tan poco margen, incluso un
-mínimo movimiento en la dirección equivocada lleva a una liquidación
-forzosa. Esto quiere decir que un operador puede tener que sondear
-un mercado varias veces antes de encontrar el movimiento que está bus-
-cando.
+Los mejores operadores de futuros ganan dinero solamente en el 40 por ciento de sus operaciones. Sí, ha leído bien. La mayor parte de las operaciones acaba en pérdidas. ¿Cómo se entiende, entonces, que los operadores ganen dinero si la mayoría de las veces se equivocan? Debido a que los contratos de futuros requieren tan poco margen, incluso un mínimo movimiento en la dirección equivocada lleva a una liquidación forzosa. Esto quiere decir que un operador puede tener que sondear un mercado varias veces antes de encontrar el movimiento que está buscando.
 
-Llegamos así a al cuestión de los coeficientes recompensa/riesgos.
-Como casi todos los operadores pierden, la única forma de salir airoso es
-asegurarse de que la cantidad de dinero de las operaciones ganadoras sea
-mayor que la de las perdedoras. Para lograr tal cosa, casi todos los opera-
-dores usan un coeficiente recompensa/riesgo. Para cada operación po-
-tencial se fija un objetivo de beneficio. El objetivo de beneficio (la recom-
-pensa) se compara con la pérdida potencial si el negocio va mal (el
-riesgo). Una vara de medir corriente es un coeficiente recompensa/riesgo
-de 3 a 1, que significa que para que una operación se considere, su po-
-tencial de beneficio debe ser como mínimo tres veces mayor que la posi-
-ble pérdida.
-
-419
+Llegamos así a al cuestión de los coeficientes recompensa/riesgos. Como casi todos los operadores pierden, la única forma de salir airoso es asegurarse de que la cantidad de dinero de las operaciones ganadoras sea mayor que la de las perdedoras. Para lograr tal cosa, casi todos los operadores usan un coeficiente recompensa/riesgo. Para cada operación potencial se fija un objetivo de beneficio. El objetivo de beneficio (la recompensa) se compara con la pérdida potencial si el negocio va mal (el riesgo). Una vara de medir corriente es un coeficiente recompensa/riesgo de 3 a 1, que significa que para que una operación se considere, su potencial de beneficio debe ser como mínimo tres veces

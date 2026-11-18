@@ -1,39 +1,27 @@
-456 Capítulo 18
-
-—
+Banco de Datos de la Bolsa del diario The Wall Street Journal (Sección C, página 2) cada día, encontrará los siguientes datos correspondientes a la sesión anterior. Los números indicados se basan en resultados reales de un día de contratación.
 
 MVNY diarios Lunes
+
 Operaciones realizadas 3.432
+
 Avances 1.327
+
 Retrocesos 1.559
+
 Sin cambio 546
+
 Nuevos máximos 78
+
 Nuevos mínimos 43
+
 Volumen ascendente (000) 248.215
+
 Volumen descendente (000) 279.557
+
 Total de volumen 553.914
-Fluctuación mínima al cierre —135
-Índice Arms (trin) al cierre 0,96
 
-Las cifras anteriores fueron extraídas de datos del mercado de valores
-de Nueva York, y hay también un desglose similar para la Nasdaq y para el
-American Stock Exchange, aunque en este caso nos concentraremos en
-los datos del MVNY. Justamente sucede que en aquel día en particular, el
-índice industrial Dow Jones había ganado 12,20 puntos, o sea que el mer-
-cado era al alza según la medida de Dow. Sin embargo, había más valores
-descendentes (1.559) que ascendentes (1.327), lo que sugería que el mer-
-cado más amplio no iba tan bien como el Dow. También había más volu-
-men descendente que ascendente, y ambos grupos de cifras indican que la
-amplitud del mercado en realidad fue negativa para aquel día en particu-
-lar, aunque el propio índice Dow cerrara más alto. El resto de cifras pre-
-senta una imagen más mixta. El número de valores que alcanzaron nuevos
-máximos de 52 semanas (78) fue mayor que el de los valores que alcanza-
-ron nuevos mínimos (43), lo que sugiere un entorno positivo para el mer-
-cado. Sin embargo, la fluctuación mínima al cierre (el número de valores
-que cerraron con una fluctuación al alza en contraste con una fluctuación
-a la baja) fue negativa, -135, o sea que 135 valores más cerraron con una
-fluctuación a la baja que los que cerraron al alza, un factor negativo a cor-
-to plazo. La fluctuación mínima negativa al cierre, no obstante, queda
-compensada por un índice Arms (trin) al cierre de 0,96, ligeramente po-
+Fluctuación mínima al cierre -135
 
-456
+Indice Arms (trin) al cierre 0,96
+
+Las cifras anteriores fueron extraídas de datos del mercado de valores de Nueva York, y hay también un desglose similar para la Nasdaq y para el American Stock Exchange, aunque en este caso nos concentraremos en los datos del MVNY. Justamente sucede que en aquel día en particular, el índice industrial Dow Jones había ganado 12,20 puntos, o sea que el mercado era al alza según la medida de Dow. Sin embargo, había más valores descendentes (1.559) que ascendentes (1.327), lo que sugería que el mercado más amplio no iba tan bien como el Dow. También había más volumen descendente que ascendente, y ambos grupos de cifras indican que la amplitud del mercado en realidad fue negativa para aquel día en particular, aunque el propio índice Dow cerrara más alto. El resto de cifras presenta una imagen más mixta. El número de valores que alcanzaron nuevos máximos de 52 semanas (78) fue mayor que el de los valores que alcanzaron nuevos mínimos (43), lo que sugiere un entorno positivo para el mercado. Sin embargo, la fluctuación mínima al cierre (el número de valores que cerraron con una fluctuación al alza en contraste con una fluctuación a la baja) fue negativa, -135,

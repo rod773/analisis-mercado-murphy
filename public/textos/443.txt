@@ -1,40 +1,5 @@
-Relación entre valores y futuros: análisis entre mercados 443
+de productos son fuertes en relación con las obligaciones, sucede lo contrario. Controlando la relación entre los precios de los bonos del tesoro y los de las mercancías, se puede determinar qué sectores o grupos industriales funcionarán mejor en un momento dado.
 
-la relación entre los precios de los bonos del tesoro y los de las mercancías,
+Como existe una relación tan íntima entre los sectores del mercado de valores y sus mercados de futuros correspondientes, se pueden usar unos conjuntamente con los otros. Los valores de las empresas públicas, por ejemplo, están muy ligados al precio de los bonos del tesoro. (Ver figura 17.6). Las acciones de las empresas mineras del oro están estrechamente relacionadas con el precio del oro. Y lo que es más, los grupos bursátiles relacionados a menudo tienden a indicar el camino de sus respectivos mercados de futuros. Como resultado, los valores de las empresas públicas se pueden usar como indicadores para los bonos del tesoro y las acciones de las empresas que extraen oro se pueden usar como indicadores para el precio del oro. Otro ejemplo de influencia entre mercados es el impacto de la tendencia de los precios del crudo sobre la energía y las acciones de
 
-se puede determinar qué sectores o grupos industriales funcionarán mejor
-en un momento dado.
-
-Como existe una relación tan íntima entre los sectores del mercado de
-valores y sus mercados de futuros correspondientes, se pueden usar unos
-conjuntamente con los otros. Los valores de las empresas públicas, por
-ejemplo, están muy ligados al precio de los bonos del tesoro. (Ver figura
-17.6). Las acciones de las empresas mineras del oro están estrechamente
-relacionadas con el precio del oro. Y lo que es más, los grupos bursátiles
-relacionados a menudo tienden a indicar el camino de sus respectivos
-mercados de futuros. Como resultado, los valores de las empresas públicas
-se pueden usar como indicadores para los bonos del tesoro y las acciones
-de las empresas que extraen oro se pueden usar como indicadores para el
-precio del oro. Otro ejemplo de influencia entre mercados es el impacto
-de la tendencia de los precios del crudo sobre la energía y las acciones de
-
-D9/02/88 - ('PHU) Phix Util Index __ 03/20/98
-N 310
-N
-290
-r 280
-Índice de utilidad PHLX f J
-E h | ' 270
-
-"NE
-
-¡( WHV! 210
-
-,… Bonos del tesoro -200
-7!í ?'7 w b1 bi '93 19. . b5 m11?mñm_.rm¿…eo—-—…,n 107
-
-Figura 17.6 Generalmente hay una íntima conexión entre los precios de las obli-
-gaciones y las utilidades. Además, éstas últimas a menudo cambian un poco antes
-que las obligaciones.
-
-443
+Figura 17.6 Generalmente hay una íntima conexión entre los precios de las obligaciones y las utilidades. Además, éstas últimas a menudo cambian un poco

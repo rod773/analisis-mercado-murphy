@@ -1,41 +1,9 @@
-328 Capítulo 12
-
-ma informático para identificar los patrones automáticamente. Los pro-
-gramas informáticos requieren instrucciones explícitas para leer el gráfico
-de velas y no tienen lugar para las interpretaciones subjetivas.
+cuando se usa un programa informático para identificar los patrones automáticamente. Los programas informáticos requieren instrucciones explícitas para leer el gráfico de velas y no tienen lugar para las interpretaciones subjetivas.
 
 Patrones de continuidad
 
-Cada día de operaciones hay que tomar decisiones, ya sea salir de un
-mercado, entrar en uno o permanecer en el que se está. Un patrón de ve-
-las que ayude a identificar el hecho de que la tendencia actual va a conti-
-nuar, es más valioso de lo que en principio pueda parecer. Ayuda a contes-
-tar la pregunta de si uno debe quedarse o no en un determinado negocio.
-Hay 16 patrones de velas de continuidad, de los que uno y su primo opues-
-to son particularmente buenos para identificar la continuidad de la ten-
-dencia.
+Cada día de operaciones hay que tomar decisiones, ya sea salir de un mercado, entrar en uno o permanecer en el que se está. Un patrón de velas que ayude a identificar el hecho de que la tendencia actual va a continuar, es más valioso de lo que en principio pueda parecer. Ayuda a contestar la pregunta de si uno debe quedarse o no en un determinado negocio. Hay 16 patrones de velas de continuidad, de los que uno y su primo opuesto son particularmente buenos para identificar la continuidad de la tendencia.
 
-Tres métodos ascendentes y descendentes. El patrón de velas de continuidad
-de los tres métodos ascendentes es la contrapartida alcista al dúo mencio-
-nado antes y será el sujeto de este escenario. Un patrón de continuidad al
-cista sólo puede ocurrir en una tendencia al alza y un patrón de continui-
-dad bajista sólo puede ocurrir en una tendencia a la baja. Esta afirmación
-confirma la relación requerida por la tendencia que es tan necesaria en el
-análisis del patrón de velas. (Ver figuras 12.10 y 12.11).
+Tres métodos ascendentes y descendentes. El patrón de velas de continuidad de los tres métodos ascendentes es la contrapartida alcista al dúo mencionado antes y será el sujeto de este escenario. Un patrón de continuidad alcista sólo puede ocurrir en una tendencia al alza y un patrón de continuidad bajista sólo puede ocurrir en una tendencia a la baja. Esta afirmación confirma la relación requerida por la tendencia que es tan necesaria en el análisis del patrón de velas. (Ver figuras 12.10 y 12.11).
 
-El primer día del patrón de los tres métodos ascendentes es un largo
-día blanco que apoya completamente el mercado alcista. Sin embargo, en
-el curso de los tres períodos siguientes de contratación aparecen días de
-
-|
-E |
-
-¡¡Ú N
-
-|
-
-Figura 12.10 Figura 12.11
-
-D—$I
-
-328
+El primer día del patrón de los tres métodos ascendentes es un largo día blanco que apoya completamente

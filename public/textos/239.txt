@@ -1,45 +1,17 @@
-Medias móviles 239
+la media la usan casi exclusivamente los analistas cíclicos para aislar los ciclos del mercado subyacente.
 
 Medias móviles unidas a ciclos
 
-Muchos analistas creen que los ciclos temporales juegan un papel im-
-portante en los movimientos de los mercados, y como estos ciclos son re-
-petitivos y se pueden medir, también es posible determinar aproximada-
-mente en qué momentos se darán máximos o mínimos en los precios.
-Muchos ciclos temporales existen simultáneamente, desde un ciclo de cor-
-ta duración de 5 días hasta el largo ciclo de Kondratieff, de 54 años. En el
-capítulo 14 volveremos a esta fascinante rama del análisis técnico.
+Muchos analistas creen que los ciclos temporales juegan un papel importante en los movimientos de los mercados, y como estos ciclos son repetitivos y se pueden medir, también es posible determinar aproximadamente en qué momentos se darán máximos o mínimos en los precios. Muchos ciclos temporales existen simultáneamente, desde un ciclo de corta duración de 5 días hasta el largo ciclo de Kondratieff, de 54 años. En el capítulo 14 volveremos a esta fascinante rama del análisis técnico.
 
-El tema de los ciclos se introduce aquí sólo para resaltar que parece ha-
-ber una relación entre los ciclos subyacentes que afectan a un determina-
-do mercado y las medias móviles correctas a usar. En otras palabras, las
-medias móviles se pueden ajustar para que se adecuen a los ciclos domi-
-nantes de cada mercado.
+El tema de los ciclos se introduce aquí sólo para resaltar que parece haber una relación entre los ciclos subyacentes que afectan a un determinado mercado y las medias móviles correctas a usar. En otras palabras, las medias móviles se pueden ajustar para que se adecúen a los ciclos dominantes de cada mercado.
 
-Parece haber una verdadera relación entre las medias móviles y los ci-
-clos. Por ejemplo, el ciclo mensual es uno de los ciclos operativos más co-
-nocidos en los mercados de mercancías. Un mes tiene entre 20 y 21 días
-de operaciones y los ciclos tienden a estar relacionados con los ciclos si-
-guientes más largos y más cortos de una forma armónica, o por un factor
-o dos. Esto significa que el siguiente ciclo más largo tiene el doble de du-
-ración de un ciclo y el siguiente ciclo más corto tiene la mitad.
+Parece haber una verdadera relación entre las medias móviles y los ciclos. Por ejemplo, el ciclo mensual es uno de los ciclos operativos más conocidos en los mercados de mercancías. Un mes tiene entre 20 y 21 días de operaciones y los ciclos tienden a estar relacionados con los ciclos siguientes más largos y más cortos de una forma armónica, o por un factor o dos. Esto significa que el siguiente ciclo más largo tiene el doble de duración de un ciclo y el siguiente ciclo más corto tiene la mitad.
 
-El ciclo mensual, por lo tanto, puede explicar la popularidad de las me-
-dias móviles de 5, 10, 20 y 40 días. El ciclo de 20 días mide el ciclo mensual,
-la media de 40 días es el doble de la de 20 días, la media de 10 días es la mi-
-tad de la de 20 y la de 5 días es la mitad de la media móvil de 10 días.
+El ciclo mensual, por lo tanto, puede explicar la popularidad de las medias móviles de 5, 10, 20 y 40 días. El ciclo de 20 días mide el ciclo mensual, la media de 40 días es el doble de la de 20 días, la media de 10 días es la mitad de la de 20 y la de 5 días es la mitad de la media móvil de 10 días.
 
-Muchas de las media móviles usadas más comúnmente (incluso las de
-4, 9 y 18 días, que son derivados de las de 5, 10 y 20) se pueden explicar
-por las influencias cíclicas y las relaciones armónicas de los ciclos vecinos.
-A propósito, el ciclo de 4 semanas también puede ayudar a explicar el éxi-
-to de la regla de las 4 semanas (que se verá más adelante en este mismo ca-
-pítulo) y la de su contrapartida más corta, la regla de las 2 semanas.
+Muchas de las media móviles usadas más comúnmente (incluso las de 4, 9 y 18 días, que son derivados de las de 5, 10 y 20) se pueden explicar por las influencias cíclicas y las relaciones armónicas de los ciclos vecinos. A propósito, el ciclo de 4 semanas también puede ayudar a explicar el éxito de la regla de las 4 semanas (que se verá más adelante en este mismo capítulo) y la de su contrapartida más corta, la regla de las 2 semanas.
 
 Números de Fibonacci usados como medias móviles
 
-Veremos las series de números de Fibonacci en el capítulo sobre la Te-
-oría de las ondas de Elliott. No obstante, me gustaría mencionar aquí que
-Esta misteriosa serie de números —tales como 13, 21, 34, 55, etc.— parece
-
-239
+Veremos las series de números de Fibonacci en el capítulo sobre la Teoría de las ondas de Elliott. No obstante,

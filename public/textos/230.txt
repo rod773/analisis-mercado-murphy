@@ -1,35 +1,15 @@
-230 Capítulo 9
+más cuando la tendencia cambia. La propia insensibilidad de la media más larga (el hecho de que siguiera a la tendencia desde una distancia mayor), que le impedía atascarse en correcciones de corta duración durante la tendencia, se vuelve en contra del operador cuando la ten-
 
-k¿g)25/97 - - — (INTC) IntelCorp _ 03/02/98
+¡08/25/97 (INTC) Intel Corp 03/02/98
+
 GRÁFICO DE BARRAS DIARIO
 
-"._Media de 50 días
+Figura 9.4 Una media más corta anticipa las señales. La media más larga es más lenta pero de mayor confianza. La media de 10 días se dirigió primero hacia arriba desde el nivel más bíyo, pero también dio una prematura señal de compra en noviembre y una señal de venta a destiempo en febrero (ver recuadros).
 
-Feb_—_ u
-305 ZZpm Printed ueing TredeSuaton 6 Omaga Research nc 1907
+dencia cambia de dirección. Por lo tanto, añadiremos aquí otro corolario: las medias más largas funcionan mejor siempre que la tendencia siga en marcha, pero una media más corta es mejor cuando la tendencia está en proceso de cambiar.
 
-L '“Sep 0a " Nov _ _ Dic — e
-
-Figura 9.4  Una media más corta anticipa las señales. La media más larga es más
-lenta pero de mayor confianza. La media de 10 días se dirigió primero hacia arri-
-ba desde el nivel más bajo, pero también dio una prematura señal de compra en
-noviembre y una señal de venta a destiempo en febrero (ver recuadros).
-
-dencia cambia de dirección. Por lo tanto, añadiremos aquí otro corolario:
-las medias más largas funcionan mejor siempre que la tendencia siga en
-marcha, pero una media más corta es mejor cuando la tendencia está en
-proceso de cambiar.
-
-Queda claro, entonces, que el uso de sólo una media móvil tiene varias
-desventajas, y generalmente es más beneficioso usar dos medias móviles.
+Queda claro, entonces, que el uso de sólo una media móvil tiene varias desventajas, y generalmente es más beneficioso usar dos medias móviles.
 
 Cómo usar dos medias para generar señales
 
-Esta técnica se llama el método del doble cruce, que quiere decir que se
-produce una señal de compra cuando la media más corta cruza por enci-
-ma de la media más larga. Por ejemplo, dos combinaciones muy corrien-
-tes son la de 5 y 20 días y la de 10 y 50 días promediados. En la primera
-aparece una señal de compra cuando la media de 5 días cruza por encima
-de la correspondiente a 20, y esa señal es de venta cuando la media de 5
-
-230
+Esta técnica se llama el método del doble cruce, que quiere decir que se produce una señal de compra cuando la media más corta cruza por encima de la media más larga. Por ejemplo, dos combinaciones muy corrientes son la de 5 y 20 días y la de 10 y 50 días promediados. En la primera aparece una señal de compra cuando la media de 5 días cruza por encima de la correspondiente a 20, y esa señal es de venta cuando la

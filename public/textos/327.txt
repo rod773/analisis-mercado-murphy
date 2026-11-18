@@ -1,29 +1,7 @@
-Velas japonesas 327
+tutina, son dos poderosos patrones de velas de cambio. Ambos son patrones de tres días que funcionan excepcionalmente bien. El escenario para
 
-Figura 12.8 Figura 12.9
+Figura 12.8 Figura 12.9 comprender el cambio en la psicología del operador con la estrella vespertina lo discutiremos aquí con detalle, porque lo contrario se puede decir para la estrella matutina. (Ver figuras 12.8 y 12.9).
 
-comprender el cambio en la psicología del operador con la estrella ves-
-pertina lo discutiremos aquí con detalle, porque lo contrario se puede de-
-cir para la estrella matutina. (Ver figuras 12.8 y 12.9).
+La estrella vespertina es un patrón de cambio bajista, como su nombre sugiere. El primer día de este patrón es una larga vela blanca que refuerza completamente la actual tendencia al alza. Cuando abre el segundo día, los precios saltan por encima del cuerpo del primer día. Las operaciones de este segundo día son algo restringidas y el precio de cierre está cerca del precio de apertura, aunque se mantiene por encima del cuerpo del primer día. El cuerpo del segundo día es pequeño, y este tipo de patrón posterior a un día largo se conoce como el patrón estrella. Una estrella es un día de cuerpo pequeño que se separa de un día de cuerpo largo. El tercer y último día de este patrón abre con una brecha por debajo del cuerpo de la estrella y cierra más bajo, con un precio de cierre por debajo del punto medio del primer día.
 
-La estrella vespertina es un patrón de cambio bajista, como su nombre
-sugiere. El primer día de este patrón es una larga vela blanca que refuer-
-za completamente la actual tendencia al alza. Cuando abre el segundo día,
-los precios saltan por encima del cuerpo del primer día. Las operaciones
-de este segundo día son algo restringidas y el precio de cierre está cerca
-del precio de apertura, aunque se mantiene por encima del cuerpo del
-primer día. El cuerpo del segundo día es pequeño, y este tipo de patrón
-posterior a un día largo se conoce como el patrón estrella. Una estrella es
-un día de cuerpo pequeño que se separa de un día de cuerpo largo. El ter-
-cer y último día de este patrón abre con una brecha por debajo del cuer-
-po de la estrella y cierra más bajo, con un precio de cierre por debajo del
-punto medio del primer día.
-
-La explicación anterior era el escenario perfecto. Muchas referencias
-aceptarán como válida una estrella vespertina que no se ajuste exactamen-
-te a cada detalle. Por ejemplo, el tercer día puede no alejarse por abajo, o
-el cierre del tercer día puede no llegar a estar completamente por debajo
-del punto medio del cuerpo del primer día. Estos detalles son subjetivos
-cuando se observa un gráfico de velas, pero no cuando se usa un progra-
-
-327
+La explicación anterior era el escenario perfecto. Muchas referencias aceptarán como válida una estrella vespertina que no se ajuste exactamente a cada detalle. Por ejemplo, el tercer día puede no alejarse por abajo, o el cierre del tercer día puede no llegar a estar completamente por debajo del punto medio del cuerpo del primer día. Estos detalles son subjetivos cuando se observa un gráfico de velas, pero no

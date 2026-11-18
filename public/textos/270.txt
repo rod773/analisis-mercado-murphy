@@ -1,35 +1,5 @@
-270 Capítulo 10
+oscilador, y los operadores a menudo usan esas líneas para generar señales de compra y venta. Ya sabemos que un movimiento por debajo de 30 ad-
 
-1
+Figura 10.13 Las líneas de tendencia funcionan muy bien sobre la línea IFR. La ruptura de las dos líneas de tendencia IFR proporcionó oportunas señales de compra y venta en este gráfico (ver flechas).
 
-[5/13/96 ('DWU) Dow Utilities ___ — ones7
-
-225
-
-AV
-
-t
-
-Índice de fuerza relativa (IFR) - 9 días 100
-
-Figura 10.13 Las líneas de tendencia funcionan muy bien sobre la línea IFR. La
-ruptura de las dos líneas de tendencia IFR proporcionó oportunas señales de
-compra y venta en este gráfico (ver flechas).
-
-vierte sobre una condición sobrevendida. Supongamos que el operador
-piensa que un mercado está por llegar a su punto más bajo y que busca
-una oportunidad de compra. Ve que el oscilador desciende por debajo de
-30. Algún tipo de divergencia o patrón doble inferior puede desarrollarse
-en el oscilador en esa región sobrevendida. Un nuevo cruce por encima
-de la línea 30 en ese punto se toma como confirmación de que la tenden-
-cia en el oscilador se ha vuelto hacia arriba, y por consiguiente, en un mer-
-cado sobrecomprado, un nuevo cruce por debajo de la línea de 70 se pue-
-de usar como una señal de venta (Ver figura 10.14).
-
-El proceso estocástico (K%D)
-
-El proceso estocástico fue popularizado por George Lane (presidente de
-Investment Educators, Inc., Watseka, IL). Se basa en la observación de que
-a medida que los precios se incrementan, los precios de cierre tienden a
-
-270
+vierte sobre una condición sobrevendida. Supongamos que el operador piensa que un mercado está por llegar a su punto más bajo y que busca una oportunidad de compra. Ve que el oscilador desciende por debajo de 30. Algún tipo de divergencia o patrón doble inferior puede desarrollarse en el oscilador en esa región sobrevendida. Un nuevo cruce por encima de la línea 30 en ese punto se toma como confirmación de que la tendencia en el oscilador se ha vuelto hacia arriba, y por consiguiente, en

@@ -1,45 +1,23 @@
-476
-
-Capítulo 19
+importante que ha pasado desapercibido para los demás. Cuantos más factores considere el analista, más posibilidades tendrá de encontrar la pauta adecuada.
 
 Lista de comprobación técnica
 
-ON
-
-8.
-
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
-21.
-22.
-
-23.
-
 ¿Cuál es la dirección del mercado en general?
+
 ¿Cuál es la dirección de los distintos sectores del mercado?
+
 ¿Qué indican los gráficos semanales y mensuales?
 
-. ¿Las tendencias principal, intermedia y menor son ascendentes, des-
+¿Las tendencias principal, intermedia y menor son ascendentes, descendentes o laterales?
 
-cendentes o laterales?
+¿Dónde están los niveles importantes de apoyo y resistencia?
 
-. ¿Dónde están los niveles importantes de apoyo y resistencia?
-. ¿Dónde están las líneas de tendencia o canales importantes?
-. ¿El volumen y el interés abierto confirman el movimiento de los pre-
+¿Dónde están las líneas de tendencia o canales importantes?
 
-cios?
+¿El volumen y el interés abierto confirman el movimiento de los precios?
 
 ¿Dónde están los retrocesos del 33, 50 y 66 por ciento?
+
 ¿Hay huecos en los precios y de qué tipo son?
 
 ¿Hay patrones de cambio importantes a la vista?
@@ -51,9 +29,11 @@ cios?
 ¿En qué dirección apuntan las medias móviles?
 
 ¿Los osciladores están sobrecomprados o sobrevendidos?
+
 ¿Hay divergencias aparentes en los osciladores?
 
 ¿Los números de opinión contraria indican algún extremo?
+
 ¿Qué muestra el patrón de las ondas de Elliott?
 
 ¿Hay patrones obvios de 3 o 5 ondas?
@@ -64,16 +44,8 @@ cios?
 
 ¿El mercado muestra una traslación a la derecha o a la izquierda?
 
-¿En qué dirección se mueve la tendencia informatizada: hacia arriba,
-hacia abajo, o lateralmente?
+¿En qué dirección se mueve la tendencia informatizada: hacia arriba, hacia abajo, o lateralmente?
 
 ¿Qué indican los gráficos de puntos y figuras o los de velas?
 
-Una vez que haya llegado usted a una conclusión alcista o bajista, hágase
-las siguientes preguntas:
-
-1. ¿Cuál será la tendencia de este mercado en los próximos meses?
-
-2. ¿Compraré o venderé este mercado?
-
-476
+Una vez que haya llegado usted a

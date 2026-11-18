@@ -1,37 +1,9 @@
-30 Filosofía del análisis técnico
+manera de expresar este corolario es que una tendencia en movimiento seguirá en la misma dirección hasta que comience a volver atrás. Se trata de otra de esas conclusiones técnicas que pa-
 
-[1/31/79 (*SPX) SP 500 Stock Index 02/27/98 _l
+Figura 1.1 Ejemplo de una tendencia ascendente. El análisis técnico se basa en la premisa de que los mercados tienen tendencias y que esas tendencias tienden a persistir.
 
-GRÁFICO LÍNEA MENSUAL
-
-700
-
-r500
-
-200
-
-T T
-Researh I. 1907
-
-Figura 1.1 Ejemplo de una tendencia ascendente. El análisis técnico se basa en
-la premisa de que los mercados tienen tendencias y que esas tendencias tienden a
-persistir.
-
-recen casi circulares, pero la totalidad del enfoque de seguimiento de una
-tendencia se basa en seguirla hasta que muestre señales de volver atrás.
+recen casi circulares, pero la totalidad del enfoque de seguimiento de una tendencia se basa en seguirla hasta que muestre señales de volver atrás.
 
 La historia se repite
 
-Una gran parte del análisis técnico y del estudio de los movimientos del
-mercado tiene que ver con el estudio de la psicología humana. Los patro-
-nes gráficos, por ejemplo, que se han identificado y clasificado en catego-
-rías en los últimos cien años, reflejan ciertas imágenes que aparecen en los
-gráficos de precios. Son imágenes que revelan la psicología alcista o bajis-
-ta del mercado, y dado que estos patrones han funcionado bien en el pa-
-sado, se asume que seguirán funcionando bien en el futuro. Están basados
-en el estudio de la psicología humana, que tiene tendencia a no cambiar.
-Otra manera de expresar esta última premisa —que la historia se repite—
-es que la clave para comprender el futuro está en el estudio del pasado, o
-que el futuro es solamente una repetición del pasado.
-
-30
+Una gran parte del análisis técnico v del estudio de los movimientos del mercado tiene que ver con el estudio de la psicología humana. Los patrones gráficos, por ejemplo, que se han identificado y clasificado en categorías en los últimos cien años, reflejan ciertas imágenes que aparecen en los gráficos de precios. Son imágenes que revelan la psicología alcista o bajista del mercado, y dado que estos patrones han funcionado bien en el pasado, se asume que seguirán funcionando bien en el futuro. Están basados en el estudio de la psicología humana, que tiene tendencia a no cambiar. Otra manera de expresar esta última premisa —que la historia se repite— es que la clave para comprender el futuro está en el estudio

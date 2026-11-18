@@ -1,40 +1,29 @@
-402 Capítulo 15
+También los hay que proporcionan capacidad para crear gráficos, cosa que simplifica la tarea aún más. Uno de tales servicios lp proporciona Tel£scan_í5959 Co.morate Drive_Suiie ?0í)0. J-Ioustnn TX
 
 Lista de herramientas e indicadores
-La siguiente lista agrupa algunas de las opciones para gráficos e indica-
-dores.
-* Gráficos básicos: barra, línea, puntos y figuras, velas.
-* Escalas de gráficos: aritméticas y semilogarítmicas.
-* Gráfico de barras: precio, volumen e interés abierto (para futuros).
-* Volumen: barras, en equilibrio, e índice de demanda.
 
-* Herramientas básicas: líneas y canales de tendencia, retrocesos porcen-
-tuales, medias móviles y osciladores.
+La siguiente lista agrupa algunas de las opciones para gráficos e indicadores.
 
-* Medias móviles: sobres de referencia, bandas de Bollinger.
+Gráficos básicos: barra, línea, puntos y figuras, velas.
 
-* Osciladores: índice del canal de mercancías, momento, tipo de cambio,
-CDMM, estocástico, Williams %R, IFR. -
+Escalas de gráficos: aritméticas y semilogarítmicas.
 
-* Ciclos: Cycle Finder o localizador de ciclos.
+Gráfico de barras: precio, volumen e interés abierto (para futuros).
 
-e Herramientas de Fibonacci: líneas en acordeón, arcos, zonas de tiem-
-pos y retrocesos.
+Volumen: barras, en equilibrio, e índice de demanda.
 
-* Wilder: IFR, índice selección mercancías, movimiento direccional, para-
-bólico, índice de oscilación, línea ADX.
+Herramientas básicas: líneas y canales de tendencia, retrocesos porcentuales, medias móviles y osciladores.
+
+Medias móviles: sobres de referencia, bandas de Bollinger.
+
+Osciladores: índice del canal de mercancías, momento, tipo de cambio, CDMM, estocástico, Williams %R, IFR.
+
+Ciclos: Cycle Finder o localizador de ciclos.
+
+Herramientas de Fibonacci: líneas en acordeón, arcos, zonas de tiempos y retrocesos.
+
+Wilder: IFR, índice selección mercancías, movimiento direccional, parabólico, índice de oscilación, línea ADX.
 
 Uso de las herramientas e indicadores
 
-¿Cómo se elige entre tantas cosas? Una posible sugerencia es usar pri-
-mero las herramientas básicas, tales como precio, volumen, líneas de ten-
-dencia, retrocesos porcentuales, medias móviles y osciladores. Hay un
-gran número de osciladores a disposición, elija uno o dos con los que se
-sienta cómodo y trabaje con ellos. Utilice los ciclos y las herramientas de
-Fibonacci como insumos secundarios, a no ser que tenga un interés espe-
-cial en ellos. Los ciclos pueden ayudar a afinar las longitudes de las medias
-y los osciladores, pero requieren estudio y práctica. Para los sistemas me-
-cánicos de contratación, los sistemas parabólico y de movimiento direc-
-cional de Wilder son especialmente dignos de atención.
-
-402
+¿Cómo se elige entre tantas cosas? Una posible sugerencia es usar primero las herramientas básicas, tales como precio, volumen, líneas de tendencia, retrocesos porcentuales, medias móviles y osciladores. Hay un gran número de osciladores a disposición, elija uno o dos con los que se sienta cómodo y trabaje con ellos. Utilice los ciclos y las herramientas de Fibonacci como insumos secundarios, a no ser que tenga un interés especial en ellos. Los ciclos pueden ayudar a afinar las longitudes de las medias y los osciladores, pero requieren estudio y

@@ -1,33 +1,11 @@
-6
-Modelos
-de continuidad
+en el capítulo 6.
+
+6 Modelos de continuidad
 
 Introducción
 
-Los patrones de gráficos que se ven en este capítulo se llaman de con-
-tinuidad. Generalmente indican que el movimiento lateral del precio re-
-flejado en el gráfico no es más que una pausa en la tendencia que pre-
-valece, y que el siguiente movimiento será en la misma dirección de la
-tendencia que precedía a la formación. Esto es lo que distingue a este
-grupo de patrones o modelos de los del capítulo previo, los cuales nor-
-malmente indican que hay un cambio importante de tendencia en mar-
-cha.
+Los patrones de gráficos que se ven en este capítulo se llaman de continuidad. Generalmente indican que el movimiento lateral del precio reflejado en el gráfico no es más que una pausa en la tendencia que prevalece, y que el siguiente movimiento será en la misma dirección de la tendencia que precedía a la formación. Esto es lo que distingue a este grupo de patrones o modelos de los del capítulo previo, los cuales normalmente indican que hay un cambio importante de tendencia en marcha.
 
-Otra diferencia entre los patrones de cambio y continuidad es su dura-
-ción en el tiempo. Los patrones de cambio generalmente necesitan mu-
-cho más tiempo para formarse y representan cambios mayores en la ten-
-dencia. Los de continuidad, por otra parte, tienen habitualmente una
-duración más corta y se clasifican con mayor exactitud como patrones de
-corta duración o intermedios.
+Otra diferencia entre los patrones de cambio y continuidad es su duración en el tiempo. Los patrones de cambio generalmente necesitan mucho más tiempo para formarse y representan cambios mayores en la tendencia. Los de continuidad, por otra parte, tienen habitualmente una duración más corta y se clasifican con mayor exactitud como patrones de corta duración o intermedios.
 
-Obsérvese el uso constante de la expresión “generalmente” o similares.
-Por necesidad, el tratamiento de todos los patrones de gráficos se basa en
-las tendencias generales en oposición a las normas rígidas, aunque siem-
-pre hay excepciones. Incluso agrupar los modelos de precios en diferentes
-categorías a veces es una tarea sutil. Los triángulos son generalmente pa-
-trones de continuidad, pero a veces actúan como patrones de cambios. A
-pesar de que generalmente se les considera patrones intermedios, los
-triángulos pueden aparecer ocasionalmente en gráficos de larga duración
-y adoptar una significación de tendencia principal. Una variación del
-
-157
+Obsérvese el uso constante de la expresión “generalmente” o similares. Por necesidad, el tratamiento de todos los patrones de gráficos se basa en las tendencias generales en oposición a las normas rígidas, aunque siempre hay excepciones. Incluso agrupar los modelos de precios en diferentes categorías a veces es una tarea sutil. Los triángulos son generalmente patrones de continuidad, pero a veces actúan como patrones de cambios. A pesar de que generalmente se les considera patrones intermedios, los triángulos pueden aparecer ocasionalmente en gráficos de larga duración y adoptar

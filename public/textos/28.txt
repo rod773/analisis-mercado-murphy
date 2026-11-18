@@ -1,42 +1,15 @@
-28 Filosofía del análisis técnico
+mercado. Una vez hecha esta distinción, las expresiones “movimientos del precio” y “movimientos del mercado” se usarán indistintamente en el resto de este estudio.
 
 Filosofía o fundamento lógico
+
 El enfoque técnico se basa en tres premisas:
-1. Los movimientos del mercado lo descuentan todo.
-2. Los precios se mueven por tendencias.
 
-3. La historia se repite.
+Los movimientos del mercado lo descuentan todo.
 
-Los movimientos del mercado lo descuentan todo
+Los precios se mueven por tendencias.
 
-La frase “los movimientos del mercado lo descuentan todo” probable-
-mente sea la piedra angular del análisis técnico. A no ser que se entienda
-y acepte el significado completo de esta primera premisa, nada de lo que
-siga tendrá mucho sentido. El técnico cree que cualquier cosa que posi-
-blemente pueda afectar al precio —por razones fundamentales, políticas,
-psicológicas u otras— se refleja realmente en el precio de ese mercado. Se
-concluye, entonces, que todo lo que hace falta es un estudio de los movi-
-mientos de los precios. Aunque esta conclusión pueda parecer presuntuo-
-sa, es difícil estar en desacuerdo con ella si uno se toma el tiempo sufi-
-ciente para considerar su verdadero significado.
+La historia se repite.
 
-Lo que el analista técnico está diciendo, en realidad, es que los movi-
-mientos del precio deberían reflejar los cambios de la oferta y la deman-
-da. Si la demanda supera la oferta, los precios deberían subir. Si la oferta
-supera la demanda, los precios deberían bajar. Esta acción es la base de to-
-dos los pronósticos económicos y fundamentales. El técnico entonces da la
-vuelta a esta frase y llega a la conclusión de que si los precios están su-
-biendo, independientemente de las razones específicas, la demanda debe
-superar la oferta y los fundamentos deben ser alcistas. Si los precios caen,
-los fundamentos deben ser bajistas. Este último comentario sobre los
-fundamentos puede resultar sorprendente en el contexto de una discu-
-sión sobre análisis técnico, pero en realidad no debería ser así, porque
-después de todo, lo que hace el técnico es estudiar los fundamentos de for-
-ma indirecta. La mayoría de los técnicos probablemente estaría de acuer-
-do en que la causa de los mercados alcistas o bajistas está en la fuerza sub-
-yacente de la oferta y la demanda, los fundamentos económicos de un
-mercado. Los gráficos en sí mismos no hacen que los mercados suban o
-bajen, sino que simplemente reflejan la psicología alcista o bajista del
-mercado.
+La frase “los movimientos del mercado lo descuentan todo” probablemente sea la piedra angular del análisis técnico. A no ser que se entienda y acepte el significado completo de esta primera premisa, nada de lo que siga tendrá mucho sentido. El técnico cree que cualquier cosa que posiblemente pueda afectar al precio —por razones fundamentales, políticas, psicológicas u otras— se refleja realmente en el precio de ese mercado. Se concluye, entonces, que todo lo que hace falta es un estudio de los movimientos de los precios. Aunque esta conclusión pueda parecer presuntuosa, es difícil estar en desacuerdo con ella si uno se toma el tiempo suficiente para considerar su verdadero significado.
 
-28
+Lo que el analista técnico está diciendo, en realidad, es que los movimientos del precio deberían reflejar los cambios de la oferta y la demanda. Si la demanda supera la oferta, los precios deberían subir. Si la oferta supera la demanda, los precios deberían bajar. Esta acción es la base de todos los pronósticos económicos y fundamentales. El técnico entonces da la vuelta a esta frase y llega a la conclusión de que si los precios están subiendo, independientemente de las razones específicas, la demanda debe superar la oferta y los fundamentos deben ser alcistas. Si los precios caen, los fundamentos deben ser bajistas. Este último comentario sobre los fundamentos puede resultar sorprendente en el contexto de una discusión sobre análisis técnico, pero en realidad no debería ser así, porque después de todo, lo que hace el técnico es estudiar los fundamentos de forma indirecta. La mayoría de los técnicos probablemente estaría de acuerdo en que la causa de los mercados alcistas o bajistas está en la fuerza subyacente de la oferta y la demanda, los fundamentos económicos de un mercado. Los gráficos en sí mismos no hacen que los mercados suban o bajen,

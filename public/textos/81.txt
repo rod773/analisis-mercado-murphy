@@ -1,45 +1,13 @@
-Conceptos básicos de tendencia 81
+de varios meses. La de corta duración se usa básicamente por cuestiones de tiempo. En una tendencia ascendente intermedia, los retrocesos de corta duración se usarían para iniciar posiciones largas.
 
 Apoyo y resistencia
 
-En la discusión anterior de la tendencia dijimos que los precios se mue-
-ven en una serie de picos y valles y que la dirección de dichos picos y valles
-determina la dirección del mercado. Llamemos ahora a los picos y valles
-por sus nombres y, al mismo tiempo, veamos los conceptos de apoyo y resis-
-tencia.
+En la discusión anterior de la tendencia dijimos que los precios se mueven en una serie de picos y valles y que la dirección de dichos picos y valles determina la dirección del mercado. Llamemos ahora a los picos y valles por sus nombres y, al mismo tiempo, veamos los conceptos de apoyo y resistencia.
 
-Los valles, o mínimos de reacción, se llaman apoyos. Como su propio
-nombre indica, el apoyo es un nivel o área del gráfico por debajo del merca-
-do donde el interés por comprar es lo suficientemente fuerte como para
-vencer la presión por vender. Como resultado, hay una bajada que se de-
-tiene y los precios vuelven a subir. En general, un nivel de apoyo queda
-identificado de antemano por un mínimo de reacción previo. En la figura
-4.3a, los puntos 2 y 4 representan niveles de apoyo en una tendencia as-
-cendente.
+Los valles, o mínimos de reacción, se llaman apoyos. Como su propio nombre indica, el apoyo es un nivel o área del gráfico por debajo del mercado donde el interés por comprar es lo suficientemente fuerte como para vencer la presión por vender. Como resultado, hay una bajada que se detiene y los precios vuelven a subir. En general, un nivel de apoyo queda identificado de antemano por un mínimo de reacción previo. En la figura 4.3a, los puntos 2 y 4 representan niveles de apoyo en una tendencia ascendente.
 
-Resistencia es lo contrario de apoyo y representa un nivel o área de pre-
-cios por encima del mercado donde la presión por vender vence a la presión
-por comprar y un avance del precio vuelve hacia atrás. En general, un ni-
-vel de resistencia queda identificado por un pico anterior. En la figura
-4.3a, los puntos 1 y 3 son niveles de resistencia. La figura 4.3a muestra una
-tendencia ascendente, en la que los niveles de apoyo y resistencia mues-
-tran un patrón ascendente. La figura 4.3b muestra una tendencia descen-
-dente con picos y valles también descendentes. En la tendencia a la baja,
-los puntos 1 y 3 son niveles de apoyo por debajo del mercado y los puntos
-2 y 4 son niveles de resistencia por encima del mercado.
+Resistencia es lo contrario de apoyo y representa un nivel o área de precios por encima del mercado donde la presión por vender vence a la presión por comprar y un avance del precio vuelve hacia atrás. En general, un nivel de resistencia queda identificado por un pico anterior. En la figura 4.3a, los puntos 1 y 3 son niveles de resistencia. La figura 4.3a muestra una tendencia ascendente, en la que los niveles de apoyo y resistencia muestran un patrón ascendente. La figura 4.3b muestra una tendencia descendente con picos y valles también descendentes. En la tendencia a la baja, los puntos 1 y 3 son niveles de apoyo por debajo del mercado y los puntos 2 y 4 son niveles de resistencia por encima del mercado.
 
-En una tendencia ascendente, los niveles de resistencia representan
-pausas en ese movimiento hacia arriba que generalmente son superadas
-en algún momento. En una tendencia descendente, los niveles de apoyo
-no son suficientes para detener la bajada de forma permanente, pero al
-menos la pueden controlar temporalmente.
+En una tendencia ascendente, los niveles de resistencia representan pausas en ese movimiento hacia arriba que generalmente son superadas en algún momento. En una tendencia descendente, los niveles de apoyo no son suficientes para detener la bajada de forma permanente, pero al menos la pueden controlar temporalmente.
 
-Hace falta comprender claramente los conceptos de apoyo y resistencia
-para entender en su totalidad al concepto de tendencia. Para que una ten-
-dencia ascendente continúe, cada mínimo sucesivo (nivel de apoyo) debe
-ser más alto que el anterior. Si la bajada correctiva en una tendencia as-
-cendente llega al nivel del mínimo anterior, puede ser una advertencia an-
-ticipada de que la tendencia ascendente está llegando a su fin, o al menos
-de que se está transformando en una tendencia lateral. Si se viola el nivel
-
-81
+Hace falta comprender claramente los conceptos de apoyo y resistencia para entender en su totalidad al concepto de tendencia. Para que una tendencia ascendente continúe, cada mínimo sucesivo (nivel de apoyo) debe ser más alto que el anterior. Si la bajada correctiva en una tendencia ascendente llega al nivel del mínimo anterior, puede ser una advertencia anticipada de que la tendencia ascendente está llegando a su fin, o al menos de que se está transformando

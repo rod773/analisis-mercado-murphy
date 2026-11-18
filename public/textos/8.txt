@@ -1,85 +1,67 @@
-10
+personales sobre opciones con datos técnicos 222
 
-Análisis técnico de los Mercados Financieros
+Conclusión 222
 
-Conclusión .........ee.eresererererecarecorcoreacere.
+8 Gráficos a largo plazo 223
 
-Gráficos a largo plazo.......................eeeee.e.eoc.
-Introducción ............e..eee0ecerorierec e eA
-La importancia de una perspectiva de mayor alcance ......
-Creación de gráficos de continuidad para los futuros ......
-El Contrato Perpetuo TM....................ee000m00.
-Las tendencias a largo plazo hacen frente a la aleatoriedad .
-Modelos en los gráficos: cambios semanales y mensuales ...
-De los gráficos a largo plazo a los de corto plazo ..........
+Introducción 223
 
-¿Por qué se han de ajustar los gráficos de largo alcance
+La importancia de una perspectiva de mayor alcance 224
 
-a la inflación? ..............._e—e—-ees00rerirrece0..
-Gráficos a largo plazo no pensados para contratar.........
-Ejemplos de gráficos'a largo plazo......................
+Creación de gráficos de continuidad para los futuros 224
 
-Medias móviles ................eeeeocreododeceoreca..
-Introducción .............e0ese0s0rarorereraro 0e0c
+El Contrato Perpetuo TM 226
 
-La media móvil: una forma de suavizar con un desfase
+Las tendencias a largo plazo hacen frente a la aleatoriedad . 226
 
-cronológico ............ee.eeecccrrccorrecee.
-Sobres para la media móvil.................eeeoreeecce.
-Bandas de Bollinger. ...................—..000000......
-Las bandas de Bollinger usadas como metas..............
-El ancho de la banda mide la volatilidad. ................
-Medias móviles unidas a ciclos .............._.eeeeeee...
-Números de Fibonacci usados como medias móviles.......
-Medias móviles aplicadas a los gráficos a largo plazo.......
-La regla semanal ....................e.e00c0rreree..
-Optimizar 0 nO...........ñereeeccroorerocecererace..
-Resumen........ñ..oeeeée0ereroeroroderarercarcaroroc.o.
-La media móvil adaptable....................ee__...e.
-Alternativas a la media móvil .............eeeeeeeco00..
+Modelos en los gráficos: cambios semanales y mensuales . .. 227
 
-Uso del oscilador en conjunción con la tendencia.........
-El momento como medida ................e.... ...
-La tasa de cambio (TDC) como medida .................
-Construcción de un oscilador usando dos medias móviles ..
-Índice del canal de mercancías ........................
+De los gráficos a largo plazo a los de corto plazo 228
 
-222
+¿Por qué se han de ajustar los gráficos de largo alcance a la inflación? 228
 
-223
-223
-224
-224
-226
-226
-227
-228
+Gráficos a largo plazo no pensados para contratar 229
 
-228
-229
-230
+Ejemplos de gráficos a largo plazo 230
 
-237
-237
+9 Medias móviles 237
 
-239
-249
-250
-251
-252
-254
-255
-255
-258
-263
-264
-265
-266
+Introducción 237
 
-267
-267
-268
-269
-275
-277
-279
+La media móvil: una forma de suavizar con un desfase cronológico 239
+
+Sobres para la media móvil 249
+
+Bandas de Bollinger 250
+
+Las bandas de Bollinger usadas como metas 251
+
+El ancho de la banda mide la volatilidad 252
+
+Medias móviles unidas a ciclos 254
+
+Números de Fibonacci usados como medias móviles 255
+
+Medias móviles aplicadas a los gráficos a largo plazo 255
+
+La regla semanal 258
+
+Optimizar o no 263
+
+Resumen 264
+
+La media móvil adaptable 265
+
+Alternativas a la media móvil 266
+
+10 Medias móviles 267
+
+Introducción 267
+
+Uso del oscilador en conjunción con la tendencia 268
+
+El momento como medida 269
+
+La tasa de cambio (TDC) como medida 275
+
+Construcción

@@ -1,46 +1,19 @@
-358 Capítulo 13
+y sumando ese total a la parte inferior de la onda 2.
 
-la onda 5 se extienda, se puede obtener un objetivo de precios midien-
-do la distancia desde la parte inferior de la onda 1 hasta la parte supe-
-rior de la onda 3, multiplicándola por 1,618 y sumando el resultado a
-la parte inferior de la onda 4.
+Nos podemos aproximar al tope de la onda 5 multiplicando la onda 1 por 3,236 (2x1,618) y sumando ese valor al máximo o a la parte superior o inferior de la onda 1 para alcanzar objetivos máximos y mínimos.
 
-5. En las ondas correctoras, con un patrón normal 5-3-5 en zigzag, la onda
-c a menudo es aproximadamente igual a la longitud de la onda a.
+Cuando las ondas 1 y 3 son aproximadamente iguales, y se espera que la onda 5 se extienda, se puede obtener un objetivo de precios midiendo la distancia desde la parte inferior de la onda 1 hasta la parte superior de la onda 3, multiplicándola por 1,618 y sumando el resultado a la parte inferior de la onda 4.
 
-6. Otra forma de medir la posible longitud de la onda c es multiplicar
-0,618 por la longitud de la onda a y restar el resultado de la parte infe-
-rior de la onda a.
+En las ondas correctoras, con un patrón normal 5-3-5 en zigzag, la onda c a menudo es aproximadamente igual a la longitud de la onda a.
 
-7. En el caso de ondas correctoras planas con el patrón 3-3-5, en que la
-onda b alcanza o sobrepasa la parte superior de la onda a, la onda c ten-
-drá la longitud de a multiplicada por 1,618.
+Otra forma de medir la posible longitud de la onda c es multiplicar 0,618 por la longitud de la onda a y restar el resultado de la parte inferior de la onda a.
 
-8. En un triángulo simétrico, cada onda sucesiva está relacionada con su
-onda anterior en 0,618.
+En el caso de ondas correctoras planas con el patrón 3-3-5, en que la onda b alcanza o sobrepasa la parte superior de la onda a, la onda c tendrá la longitud de a multiplicada por 1,618.
+
+En un triángulo simétrico, cada onda sucesiva está relacionada con su onda anterior en 0,618.
 
 Retrocesos porcentuales de Fibonacci
 
-Las ratios o coeficientes que acabamos de ver ayudan a determinar ob-
-jetivos para los precios tanto en las ondas impulsoras como en las correc-
-toras. Otra forma de determinarlos es usando retrocesos porcentuales. En
-este tipo de análisis, los números usados más corrientemente son el 61,8
-por ciento (redondeado a 62 por ciento casi siempre), el 38 por ciento y
-el 50 por ciento. Recuerde que en el capítulo 4 vimos que los mercados ge-
-neralmente retroceden a posiciones anteriores en ciertos porcentajes es-
-perados, siendo los más conocidos el 33, el 50 y el 67 por ciento. La se-
-cuencia de Fibonacci ajusta esas cifras un poco más. En una tendencia
-fuerte, un retroceso mínimo suele estar alrededor del 38 por ciento, y en
-una tendencia más débil, el retroceso porcentual máximo es de aproxi-
-madamente el 62 por ciento. (Ver figuras 13.25 y 13.26).
+Las ratios o coeficientes que acabamos de ver ayudan a determinar objetivos para los precios tanto en las ondas impulsoras como en las correctoras. Otra forma de determinarlos es usando retrocesos porcentuales. En este tipo de análisis, los números usados más corrientemente son el 61,8 por ciento (redondeado a 62 por ciento casi siempre), el 38 por ciento y el 50 por ciento. Recuerde que en el capítulo 4 vimos que los mercados generalmente retroceden a posiciones anteriores en ciertos porcentajes esperados, siendo los más conocidos el 33, el 50 y el 67 por ciento. La secuencia de Fibonacci ajusta esas cifras un poco más. En una tendencia fuerte, un retroceso mínimo suele estar alrededor del 38 por ciento, y en una tendencia más débil, el retroceso porcentual máximo es de aproximadamente el 62 por ciento. (Ver figuras 13.25 y 13.26).
 
-Antes dijimos que los coeficientes de Fibonacci se acercan a 0,618 sólo
-después de los cuatro primeros números. Los tres primeros ratios son 1/1
-(100 por cien), 1/2 (50 por ciento) y 2/3 (66 por ciento). Muchos estu-
-diosos de Elliott pueden no ser conscientes de que el famoso retroceso del
-50 por ciento es en realidad una ratio de Fibonacci, igual que el retroceso
-de dos tercios. Un retroceso completo (del 100 por cien) de un mercado
-previamente alcista o bajista, también debería indicar una importante área
-de apoyo o resistencia.
-
-358
+Antes dijimos que los coeficientes de Fibonacci se acercan a 0,618 sólo después de los cuatro primeros números. Los tres primeros ratios son 1/1 (100 por cien), 1/2 (50 por ciento) y 2/3 (66

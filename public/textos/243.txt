@@ -1,47 +1,17 @@
-Medias móviles 243
+destinatario del Premio al Operador Más Valioso, por sus destacadas contribuciones al campo de la gestión monetaria de futuros. En la actualidad, otorga el Premio Donchian a otras personas acreedoras del mismo).
 
-buciones al campo de la gestión monetaria de futuros. En la actualidad, otor-
-ga el Premio Donchian a otras personas acreedoras del mismo).
+Los trabajos más recientes realizados por Louis Likac, anteriormente director de investigaciones en Dunn & Hargitt y actualmente presidente de Wizard Trading (Indianapolis, Indiana), apoyan las conclusiones anteriores de que los sistemas de ruptura (o de canal) de precios similares a la regla semanal siguen obteniendo resultados excelentes (Lukac et al).
 
-Los trabajos más recientes realizados por Louis Likac, anteriormente
-director de investigaciones en Dunn 8c Hargitt y actualmente presidente
-de Wizard Trading (Indianapolis, Indiana), apoyan las conclusiones ante-
-riores de que los sistemas de ruptura (o de canal) de precios similares a la
-regla semanal siguen obteniendo resultados excelentes (Lukac et al).
-
-De los 12 sistemas examinados desde 1975 hasta 1984, sólo 4 generaron
-beneficios significativos. De esos 4, 2 eran sistemas de canal y uno era un
-sistema de cruce doble de la media móvil. Un artículo posterior de Lukac
-y Brorsen publicado en The Financial Review (noviembre de 1990) incluía
-los resultados de un estudio más extenso realizado con datos del período
-1976-86 que comparaba 23 sistemas técnicos de operaciones. Una vez más,
-a la cabeza de la lista aparecían los sistemas de canal y de media móvil. La
-conclusión final de Lukac era que, en su opinión, un sistema de canal de
-ruptura de precios era el mejor punto de partida para todas las pruebas y
-el desarrollo del sistema técnico de operaciones.
+De los 12 sistemas examinados desde 1975 hasta 1984, sólo 4 generaron beneficios significativos. De esos 4, 2 eran sistemas de canal y uno era un sistema de cruce doble de la media móvil. Un artículo posterior de Lukac y Brorsen publicado en The Financial Review (noviembre de 1990) incluía los resultados de un estudio más extenso realizado con datos del período 1976-86 que comparaba 23 sistemas técnicos de operaciones. Una vez más, a la cabeza de la lista aparecían los sistemas de canal y de media móvil. La conclusión final de Lukac era que, en su opinión, un sistema de canal de ruptura de precios era el mejor punto de partida para todas las pruebas y el desarrollo del sistema técnico de operaciones.
 
 La regla de 4 semanas
 
-La regla de 4 semanas se usa principalmente para las operaciones con
-futuros, y el sistema es la sencillez en sí misma:
+La regla de 4 semanas se usa principalmente para las operaciones con futuros, y el sistema es la sencillez en sí misma:
 
-1. Cubrir posiciones cortas y comprar largas en cualquier momento que
-El precio sobrepase los máximos de las cuatro semanas naturales ante-
-riores completas.
+Cubrir posiciones cortas y comprar largas en cualquier momento que el precio sobrepase los máximos de las cuatro semanas naturales anteriores completas.
 
-2. Liquidar las posiciones largas y vender en descubierto en cualquier
-momento que el precio caiga por debajo de los mínimos de las cuatro
-semanas naturales anteriores completas.
+Liquidar las posiciones largas y vender en descubierto en cualquier momento que el precio caiga por debajo de los mínimos de las cuatro semanas naturales anteriores completas.
 
-El sistema, tal cual queda presentado aquí, es continuo por naturaleza,
-lo que significa que un operador siempre tiene una posición, ya sea larga
-o corta. Por regla general, los sistemas continuos tienen una debilidad bá-
-sica: permanecen en el mercado y obtienen señales equivocadas durante
-los períodos en los que el mercado no tiene tendencia. Ya hemos remar-
-cado que los sistemas que siguen a las tendencias no funcionan bien cuan-
-do los mercados están en estas fases laterales o sin tendencia.
+El sistema, tal cual queda presentado aquí, es continuo por naturaleza, lo que significa que un operador siempre tiene una posición, ya sea larga o corta. Por regla general, los sistemas continuos tienen una debilidad básica: permanecen en el mercado y obtienen señales equivocadas durante los períodos en los que el mercado no tiene tendencia. Ya hemos remarcado que los sistemas que siguen a las tendencias no funcionan bien cuando los mercados están en estas fases laterales o sin tendencia.
 
-La regla de 4 semanas se puede modificar para que no sea continua
-usando un período más corto —como el de la regla de una o dos sema-
-
-243
+La regla de 4 semanas se puede modificar para que no sea continua usando un período más corto —como el

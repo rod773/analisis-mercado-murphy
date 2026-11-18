@@ -1,45 +1,7 @@
-Volumen e interés abierto 205
+a posiciones muy cortas netas.
 
 Posiciones netas de contratación
 
-Es posible representar gráficamente las tendencias de los tres grupos de
-mercado y usar dichas tendencias para detectar extremos en sus posiciones.
-Una manera de hacerlo es estudiar las posiciones netas de contratación que
-aparecen en Futures Charts (publicación del Commodity Trend Service, PO
-Box 32309, Palm Beach Garden, FL 33420). Este servicio de gráficos utiliza
-tres líneas para indicar las posiciones netas de contratación de los tres gru-
-pos en un gráfico semanal de precios para cada mercado que cubre los últi-
-mos cuatro años. Sobre la base de cuatro años de información, las compara-
-ciones históricas son fáciles de hacer. Nick Van Nice, editor de este servicio
-gráfico, busca situaciones en las que los comerciales están en un extremo y
-las dos categorías de operadores en el otro para encontrar oportunidades de
-comprar y de vender (como muestran las figuras 7.13 y 7.14). Aunque no uti-
-lice usted el ICO como información principal para decidir sus operaciones,
-no es mala idea estar informado de las actividades de los tres grupos.
+Es posible representar gráficamente las tendencias de los tres grupos de mercado y usar dichas tendencias para detectar extremos en sus posiciones. Una manera de hacerlo es estudiar las posiciones netas de contratación que aparecen en Futures Charts (publicación del Commodity Trend Service, PO Box 82309, Palm Beach Garden, FL 33420). Este servicio de gráficos utiliza tres líneas para indicar las posiciones netas de contratación de los tres grupos en un gráfico semanal de precios para cada mercado que cubre los últimos cuatro años. Sobre la base de cuatro años de información, las comparaciones históricas son fáciles de hacer. Nick Van Nice, editor de este servicio gráfico, busca situaciones en las que los comerciales están en un extremo y las dos categorías de operadores en el otro para encontrar oportunidades de comprar y de vender (como muestran las figuras 7.13 y 7.14). Aunque no utilice usted el ICO como información principal para decidir sus operaciones, no es mala idea estar informado de las actividades de los tres grupos.
 
-5
-
-SácP 500 - Semanal
-Contrato de futuros más cercano
-al cierre del viernes
-
-CTS Financial Publishing'
-
-800-331-1069
-: l i
-
-Ta
-
-Com|$rár
-
-= Posiciones largas netas Comprar
-de los comerciales l
-
-L —
-
-Figura 7.13  Este gráfico semanal del índice S4P 500 de futuros muestra tres se-
-ñales de compra (ver flechas). Las líneas en la parte inferior muestran las posicio-
-nes muy largas netas de los comerciales (línea continua) y las posiciones muy cor-
-tas netas de los grandes especuladores (línea punteada) a cada señal de compra.
-
-205
+Figura 7.13 Este gráfico semanal del índice S&P 500 de futuros muestra tres señales de compra (ver flechas). Las líneas en la parte inferior muestran las posiciones muy largas netas de los comerciales (línea continua) y las posiciones muy cortas netas de los grandes especuladores (línea punteada)

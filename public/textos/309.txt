@@ -1,47 +1,17 @@
-Los gráficos de puntos y figuras 309
+en estos gráficos de puntos y figuras están trazadas en ángulos de 45 grados. se cuenta el número de columnas en un patrón de mínimos o máximos. Ese número de columnas se multiplica entonces por el valor de la inversión o el número de registros necesarios para que haya un cambio. Por ejemplo, asignemos un valor por registro de 1 dólar a un gráfico de inversión con tres registros. Contamos el número de registros a lo largo de la base y tenemos 10. Como estamos usando un patrón de 3 puntos, el valor de dicho cambio es de 3 dólares (3x1 dólar). Multiplicamos las 10 columnas de la base por 3 dólares y tenemos un total de 30 dólares. Esa cifra se suma entonces a la parte inferior del patrón que sirve de base o se resta de la parte superior del patrón que fija los topes para llegar al objetivo del precio.
 
-se cuenta el número de columnas en un patrón de mínimos o máximos.
-Ese número de columnas se multiplica entonces por el valor de la inver-
-sión o el número de registros necesarios para que haya un cambio. Por
-ejemplo, asignemos un valor por registro de 1 dólar a un gráfico de in-
-versión con tres registros. Contamos el número de registros a lo largo de
-la base y tenemos 10. Como estamos usando un patrón de 3 puntos, el va-
-lor de dicho cambio es de 3 dólares (3 x 1 dólar). Multiplicamos las 10
-columnas de la base por 3 dólares y tenemos un total de 30 dólares. Esa
-cifra se suma entonces a la parte inferior del patrón que sirve de base o
-se resta de la parte superior del patrón que fija los topes para llegar al ob-
-jetivo del precio.
-
-La cuenta vertical es algo más sencilla. Mida el número de registros o casi-
-llas de la primera columna de la nueva tendencia. En una tendencia al
-alza, mida la primera columna ascendente de x. En una tendencia a la
-baja, mida la primera columna descendente de o. Multiplique ese valor
-por 3 y sume el total a la parte inferior de la columna o réstelo de la parte
-superior de la misma. Lo que en realidad usted está haciendo con un grá-
-fico de inversión de 3 registros es triplicar el tamaño del primer tramo. Si
-en el gráfico aparece un patrón superior o inferior doble, utilice la segun-
-da columna de x o de o para la cuenta vertical. (Ver figura 11.12).
+La cuenta vertical es algo más sencilla. Mida el número de registros o casillas de la primera columna de la nueva tendencia. En una tendencia al alza, mida la primera columna ascendente de x. En una tendencia a la baja, mida la primera columna descendente de o. Multiplique ese valor por 3 y sume el total a la parte inferior de la columna o réstelo de la parte superior de la misma. Lo que en realidad usted está haciendo con un gráfico de inversión de 3 registros es triplicar el tamaño del primer tramo. Si en el gráfico aparece un patrón superior o inferior doble, utilice la segunda columna de x o de o para la cuenta vertical. (Ver figura 11.12).
 
 Tácticas negociadoras
 
-Veamos las distintas maneras en que se pueden usar los gráficos de
-puntos y figuras para determinar específicos puntos de entrada y salida del
-mercado.
+Veamos las distintas maneras en que se pueden usar los gráficos de puntos y figuras para determinar específicos puntos de entrada y salida del mercado.
 
-1. Una simple señal de compra se puede usar para cubrir viejas posicio-
-nes cortas y/o iniciar nuevas posiciones largas.
+Una simple señal de compra se puede usar para cubrir viejas posiciones cortas y/o iniciar nuevas posiciones largas.
 
-2. Una simple señal de venta se puede usar para liquidar viejas posicio-
-nes largas y/o iniciar nuevas posiciones cortas.
+Una simple señal de venta se puede usar para liquidar viejas posiciones largas y/o iniciar nuevas posiciones cortas.
 
-3. La señal simple sólo se puede usar con propósitos de liquidación y un
-nuevo compromiso requiere una formación compleja.
+La señal simple sólo se puede usar con propósitos de liquidación y un nuevo compromiso requiere una formación compleja.
 
-4. La línea de tendencia se puede usar como filtro. Las posiciones largas
-se toman por encima y las cortas, por debajo de la línea de tendencia.
+La línea de tendencia se puede usar como filtro. Las posiciones largas se toman por encima y las cortas, por debajo de la línea de tendencia.
 
-5. Para obtener la protección de un límite, arriesgue siempre por debajo
-de la última columna de o en una tendencia alcista y por encima de la
-última columna de x en una tendencia a la baja.
-
-309
+Para obtener la protección de un límite, arriesgue siempre por debajo de la última columna de o en una tendencia alcista

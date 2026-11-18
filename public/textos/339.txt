@@ -1,49 +1,17 @@
-Velas japonesas
+Líneas de separación +
 
-Líneas de
-separación —
+Líneas deseparación -Líneas deseparación -
 
-Hueco superior Tasu-
-ki +
+Tres métodos ascen-dentes +
 
-n
+Tres métodos descen-dentes -
 
-Líneas blancas costa-
-do a costado —
+Hueco superior Tasu-ki +
 
-339
+Hueco inferior Tasu-ki -
 
-"a
-0
-
-Tres métodos ascen-
-dentes +
-
-"Ú
-
-Hueco inferior Tasu-
-ki —
-
-! ÚÚI
+Líneas blancas costa-do a costado +
 
 Golpe tres líneas +
 
-339
-
-…
-E
-
-Tres métodos descen-
-dentes —
-
-"
-
-l
-
-Líneas blancas costa-
-do a costado +
-
-|||
-I--
-
-Golpe tres líneas —
+Golpe tres líneas -

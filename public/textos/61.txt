@@ -1,32 +1,9 @@
-3
-
-Construcción
-de gráficos
+3 Construcción de gráficos
 
 Introducción
 
-Este capítulo va dirigido fundamentalmente a aquellos lectores que no
-están familiarizados con la construcción de un gráfico de barras. Comen-
-zaremos por ver los distintos tipos de gráficos existentes y luego volcare-
-mos nuestra atención en el gráfico usado más comúnmente, el gráfico de
-barras diario. Veremos cómo se refleja y se interpreta la información sobre
-precios en el gráfico. Además del precio, también se incluyen volumen e
-interés abierto. Veremos luego las otras variaciones del gráfico de barras,
-incluyendo los gráficos semanales y mensuales de más largo alcance. Una
-vez que hayamos completado todo esto, estaremos en condiciones de em-
-pezar a ver algunas de las herramientas analíticas aplicadas a ese gráfico
-en el siguiente capítulo. Los lectores que ya estén familiarizados con los
-gráficos en sí, tal vez encontrarán este capítulo demasiado básico, por lo
-que deben sentirse libres de avanzar hasta el siguiente.
+Este capítulo va dirigido fundamentalmente a aquellos lectores que no están familiarizados con la construcción de un gráfico de barras. Comenzaremos por ver los distintos tipos de gráficos existentes y luego volcaremos nuestra atención en el gráfico usado más comúnmente, el gráfico de barras diario. Veremos cómo se refleja y se interpreta la información sobre precios en el gráfico. Además del precio, también se incluyen volumen e interés abierto. Veremos luego las otras variaciones del gráfico de barras, incluyendo los gráficos semanales y mensuales de más largo alcance. Una vez que hayamos completado todo esto, estaremos en condiciones de empezar a ver algunas de las herramientas analíticas aplicadas a ese gráfico en el siguiente capítulo. Los lectores que ya estén familiarizados con los gráficos en sí, tal vez encontrarán este capítulo demasiado básico, por lo que deben sentirse libres de avanzar hasta el siguiente.
 
 Tipos de gráficos disponibles
 
-El gráfico de barras diario se ha reconocido como el tipo de gráfico
-más utilizado para el análisis técnico. Sin embargo, también hay otros ti-
-pos de gráficos que son utilizados por los técnicos, como los gráficos de lí-
-nea, los de puntos y figuras, y más recientemente, los gráficos de velas. La
-figura 3.1 muestra un gráfico de barras diario de tipo estándar. Se le llama
-gráfico de barras porque el alcance de cada día se representa por medio
-de una barra vertical. El gráfico de barras muestra los precios de apertura,
-
-61
+El gráfico de barras diario se ha reconocido como el tipo de gráfico más utilizado para el análisis técnico. Sin embargo, también hay otros tipos de gráficos que son utilizados por los técnicos, como los gráficos de línea, los de puntos y figuras, y más recientemente, los gráficos de velas. La figura 3.1 muestra un gráfico de barras diario de tipo estándar. Se le llama gráfico

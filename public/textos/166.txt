@@ -1,41 +1,11 @@
-166 Capítulo 6
+plana. Este patrón indica que los vendedores son más agresivos que los compradores,y normalmente se resuelve por la parte de abajo. La señal en la parte inferior se registra con un cierre decisivo por debajo de la línea de tendencia inferior, generalmente con volumen incrementado. A veces, se da un movimiento de retorno que debería encontrar resistencia en la línea de tendencia inferior.
 
-y normalmente se resuelve por la parte de abajo. La señal en la parte infe-
-rior se registra con un cierre decisivo por debajo de la línea de tendencia
-inferior, generalmente con volumen incrementado. A veces, se da un mo-
-vimiento de retorno que debería encontrar resistencia en la línea de ten-
-dencia inferior.
-
-La técnica de medida es exactamente la misma que la del triángulo as-
-cendente, en el sentido de que el analista debe medir la altura del patrón
-en la base a la izquierda y luego proyectar dicha distancia hacia abajo des-
-de el punto de ruptura.
+La técnica de medida es exactamente la misma que la del triángulo ascendente, en el sentido de que el analista debe medir la altura del patrón en la base a la izquierda y luego proyectar dicha distancia hacia abajo desde el punto de ruptura.
 
 El triángulo descendente como patrón superior
 
-Aunque el triángulo descendente es un patrón de continuidad y se le
-encuentra normalmente dentro de las tendencias a la baja, no es del todo
-infrecuente encontrar un triángulo descendente en los máximos del mer-
-cado. Este tipo de patrón no es tan difícil de reconocer cuando aparece en
-esta situación, y en tal caso, un cierre por debajo de la línea inferior plana
-indicaría un cambio principal de tendencia hacia la parte inferior.
+Aunque el triángulo descendente es un patrón de continuidad y se le encuentra normalmente dentro de las tendencias a la baja, no es del todo infrecuente encontrar un triángulo descendente en los máximos del mercado. Este tipo de patrón no es tan difícil de reconocer cuando aparece en esta situación, y en tal caso, un cierre por debajo de la línea inferior plana indicaría un cambio principal de tendencia hacia la parte inferior.
 
 El patrón de volumen
 
-Tanto en los triángulos ascendentes como descendentes, el patrón de
-volumen es muy similar: el volumen disminuye a medida que el patrón se
-desarrolla y luego se incrementa en la salida. Como en el caso del trián-
-
-Figura 6.4a Un trián-
-gulo descendente. El
-patrón bajista se com-
-pleta con un cierre de-
-cisivo por debajo de la
-línea horizontal infe-
-rior. La técnica de me-
-dida es la altura del
-triángulo (AB) proyec-
-tada hacia abajo a partir
-del punto de salida C.
-
-166
+Tanto en los triángulos ascendentes como descendentes, el patrón de volumen es muy similar: el volumen disminuye a medida que el patrón se desarrolla y luego se incrementa en la salida.

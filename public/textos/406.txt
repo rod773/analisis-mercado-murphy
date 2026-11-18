@@ -1,31 +1,11 @@
-406 Capítulo 15
+la empresa Dell Computer. Después de haber sido positivo durante casi todo 1997, en octubre apareció una señal de venta, que luego cambió, apareciendo unaseñal de compra cuando finalizaba el año.
 
-significaría que un sistema que sigue la tendencia no funcionaría un 70 por
-ciento de las veces. En tal caso, ¿cómo hacerle frente a este problema?
+significaría que un sistema que sigue la tendencia no funcionaría un 70 por ciento de las veces. En tal caso, ¿cómo hacerle frente a este problema?
 
-DMI y ADX
+DM Iy ADX
 
-Una posible solución es usar algún tipo de filtro o dispositivo que deter-
-mine si el mercado está en fase de tendencia. La línea ADX de Wilder valo-
-ra el movimiento direccional de los diferentes mercados en una escala de 0
-a 100. Una línea ADX ascendente significa que el mercado tiene una ten-
-dencia y es un candidato mejor para un sistema que sigue las tendencias.
-Una línea ADX descendente indica un entorno en el que no hay tendencia,
-inadecuado para el enfoque que se basa en seguirlas. (Ver figura 15.5).
+Una posible solución es usar algún tipo de filtro o dispositivo que determine si el mercado está en fase de tendencia. La línea ADX de Wilder valora el movimiento direccional de los diferentes mercados en una escala de 0 a 100. Una línea ADX ascendente significa que el mercado tiene una tendencia y es un candidato mejor para un sistema que sigue las tendencias. Una línea ADX descendente indica un entorno en el que no hay tendencia, inadecuado para el enfoque que se basa en seguirlas. (Ver figura 15.5).
 
-Dado que la línea ADX está en una escala de 0 a 100, el operador que
-se basa en tendencias podría simplemente operar en aquellos mercados
+Dado que la línea ADX está en una escala de 0 a 100, el operador que se basa en tendencias podría simplemente operar en aquellos mercados
 
-1/97 (*SPX) SEP 500 Stock Index
-
-GRÁFICO DE BARRAS DIARIO
-
-de F —
-370 1720 Pririad veing TradeBimilon E Ómega Resesrch, inc. 1007
-
-Figura 15.5  La línea ADX mide el grado de movimiento direccional. Un cambio
-hacia abajo desde más arriba de 40 (flecha izquierda) indicaba el comienzo de
-una banda de fluctuación. El cambio hacia arriba desde más abajo de 20 (flecha
-derecha) indicaba la reanudación de la fase de tendencia.
-
-406
+Figura 15.5 La línea ADX mide el grado de movimiento direccional. Un cambio hacia abajo desde más arriba de 40 (flecha izquierda) indicaba el comienzo de una banda de fluctuación. El cambio hacia arriba desde más abajo de 20

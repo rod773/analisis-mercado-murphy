@@ -1,37 +1,7 @@
-224 Capítulo 9
+media móvil es partir del total de los precios de cierre de los últimos 10 días. El nuevo cierre de cada día se añade al total y se le resta el cierre de 11 días atrás. A continuación, se divide el nuevo total entre el número de días (10). (Ver figura 9.1a).
 
-aa7 — — (*SPX) SEP 500 Stock Index — — 03/02/98)
+Figura 9.1a Media móvil de 10 días aplicada a un gráfico de barras diario del índice S&P 500. Los precios cruzaron la línea de la media varias veces (ver flechas) antes de subir finalmente. Los precios se mantuvieron por encima de la media durante la subida posterior.
 
-GRÁFICO DE BARRAS DIARIO | l
+El ejemplo anterior presenta una media móvil sencilla de precios al cierre durante 10 días, pero hay otros tipos de medias móviles que no son tan sencillos. También hay muchas preguntas sobre la mejor manera de emplear la media móvil. Por ejemplo, ¿cuántos días deben promediarse? ¿Se debe usar una media a corto plazo o a largo plazo? ¿Hay una media móvil que sea la mejor para todos los mercados o para cada mercado individual? ¿Sería mejor usar más de una media? ¿Qué tipo de media funciona mejor, una sencilla y ponderada linealmente o suavizada exponencialmente? ¿Hay momentos en que la media móvil funcione mejor que en otros?
 
-11020
-
-Media móvil
-de 10 días oeo
-
-920
-|
-m Dic — __ — — " — Fe a
-_ 305 2:20pm Pririad ueng TradeSiaton 6 Omega Ressarch.inc. 1987
-
-Figura 9.la Media móvil de 10 días aplicada a un gráfico de barras diario del ín-
-dice S8P 500. Los precios cruzaron la línea de la media varias veces (ver flechas)
-antes de subir finalmente. Los precios se mantuvieron por encima de la media du-
-rante la subida posterior.
-
-El ejemplo anterior presenta una media móvil sencilla de precios al
-cierre durante 10 días, pero hay otros tipos de medias móviles que no son
-tan sencillos. También hay muchas preguntas sobre la mejor manera de
-emplear la media móvil. Por ejemplo, ¿cuántos días deben promediarse?
-¿Se debe usar una media a corto plazo o a largo plazo? ¿Hay una media
-móvil que sea la mejor para todos los mercados o para cada mercado in-
-dividual? ¿Sería mejor usar más de una media? ¿Qué tipo de media fun-
-ciona mejor, una sencilla y ponderada linealmente o suavizada exponen-
-cialmente? ¿Hay momentos en que la media móvil funcione mejor que
-en otros?
-
-Son muchas las preguntas a considerar cuando se usan medias móviles.
-En este capítulo veremos muchas de ellas y daremos ejemplos de algunos
-de los usos más comunes de la media móvil.
-
-224
+Son muchas las preguntas a considerar cuando se usan medias móviles. En este capítulo veremos muchas de ellas y daremos ejemplos de

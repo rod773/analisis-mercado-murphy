@@ -1,42 +1,11 @@
-Conceptos básicos de tendencia 117
-
-cia. Sólo cuando esa línea superior quede rota aparecerá la señal de que
-los antiguos máximos serán cuestionados. El mismo principio es también
-válido en las tendencias a la baja.
+a subir desde allí, esa línea superior se transforma en una barrera de resistencia. Sólo cuando esa línea superior quede rota aparecerá la señal de que los antiguos máximos serán cuestionados. El mismo principio es también válido en las tendencias a la baja.
 
 Las líneas de abanico de Gann y Fibonacci
 
-Los programas informáticos para confeccionar gráficos permiten trazar
-líneas de abanico de Gann y Fibonacci. Las líneas de abanico de Fibonac-
-ci se trazan de la misma manera que cualquier línea de velocidad, excep-
-to que se trazan con ángulos del 38 por ciento y 62 por ciento. (En el ca-
-pítulo 13, “La Teoría de las ondas de Elliott”, veremos de dónde salen esas
-cifras del 38 y 62 por ciento). Las líneas de Gann (así llamadas por el fa-
-moso operador W. D. Gann) son líneas de tendencias trazadas a partir de
-prominentes máximos o mínimos con ángulos geométricos específicos. La
-línea de Gann más importante se traza con un ángulo de 45 grados desde
-un pico o un valle. Durante una tendencia al alza, se pueden trazar líneas
-de Gann más empinadas con ángulos de 63 y 75 grados. Las líneas de
-Gann más planas tienen ángulos de 26 y 15 grados. Se pueden trazar has-
-ta nueve líneas de Gann diferentes.
+Los programas informáticos para confeccionar gráficos permiten trazar líneas de abanico de Gann y Fibonacci. Las líneas de abanico de Fibonacci se trazan de la misma manera que cualquier línea de velocidad, excepto que se trazan con ángulos del 38 por ciento y 62 por ciento. (En el capítulo 13, “La Teoría de las ondas de Elliott”, veremos de dónde salen esas cifras del 38 y 62 por ciento). Las líneas de Gann (así llamadas por el famoso operador W. Gann) son líneas de tendencias trazadas a partir de prominentes máximos o mínimos con ángulos geométricos específicos. La línea de Gann más importante se traza con un ángulo de 45 grados desde un pico o un valle. Durante una tendencia al alza, se pueden trazar líneas de Gann más empinadas con ángulos de 63 y 75 grados. Las líneas de Gann más planas tienen ángulos de 26 y 15 grados. Se pueden trazar hasta nueve líneas de Gann diferentes.
 
-Las líneas de Gann y Fibonacci se usan del mismo modo que las líneas
-de velocidad, y se supone que han de proporcionar apoyo durante las co-
-rrecciones a la baja. Cuando se rompe una línea, los precios generalmen-
-te caen hasta la siguiente línea más baja. Las líneas de Gann resultan algo
-controvertidas, porque aunque una de ellas funcione, no se puede estar
-seguro por adelantado cuál será. Hay chartistas que cuestionan la validez
-de trazar líneas de tendencia geométricas.
+Las líneas de Gann y Fibonacci se usan del mismo modo que las líneas de velocidad, y se supone que han de proporcionar apoyo durante las correcciones a la baja. Cuando se rompe una línea, los precios generalmente caen hasta la siguiente línea más baja. Las líneas de Gann resultan algo controvertidas, porque aunque una de ellas funcione, no se puede estar seguro por adelantado cuál será. Hay chartistas que cuestionan la validez de trazar líneas de tendencia geométricas.
 
 Líneas internas de tendencia
 
-Son variaciones de la línea de tendencia que no se basan en máximos o
-mínimos extremos. En su lugar, las líneas internas de tendencia se trazan
-a través de los movimientos del precio y conectan la mayor cantidad posi-
-ble de picos y valles internos. Algunos chartistas tienen buen ojo para este
-tipo de línea de tendencia y la encuentran útil, pero el problema con las
-líneas internas es que su trazado es muy subjetivo, mientras que las reglas
-para dibujar las líneas de tendencia tradicionales, conectando los máxi-
-mos y mínimos extremos, son más exactas. (Ver figura 4.21c).
-
-117
+Son variaciones de la línea de tendencia que no se basan en máximos o mínimos extremos. En su lugar, las líneas internas de tendencia se trazan a través de los movimientos del precio y conectan la mayor cantidad posible de picos y valles internos.

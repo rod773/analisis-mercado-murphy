@@ -1,43 +1,13 @@
-Conceptos básicos de tendencia 91
+justo por encima de un número redondo importante. Debido a que habrá otros intentando comprar a ese número redondo, es probable que el mercado nunca lo alcance. Los operadores que quieran vender durante un salto del mercado deberían colocar sus órdenes de venta justo por debajo de números redondos. Lo contrario sería el caso en el que se fijaran límites de protección para las posiciones mantenidas. Como regla general, hay que evitar fijar límites de protección en números redondos.
 
-bido a que habrá otros intentando comprar a ese número redondo, es pro-
-bable que el mercado nunca lo alcance. Los operadores que quieran ven-
-der durante un salto del mercado deberían colocar sus órdenes de venta
-justo por debajo de números redondos. Lo contrario sería el caso en el que
-se fijaran límites de protección para las posiciones mantenidas. Como regla
-general, hay que evitar fijar límites de protección en números redondos.
-
-En otras palabras, los stops o límites de protección para posiciones lar-
-gas deben fijarse por debajo de números redondos, y para las posiciones
-cortas, por encima. La tendencia de los mercados a respetar los números
-redondos, y especialmente los mencionados anteriormente, es una de esas
-peculiares características de los mercados que puede resultar sumamente
-útil para las transacciones y que el operador orientado técnicamente debe
-tener presente.
+En otras palabras, los stops o límites de protección para posiciones largas deben fijarse por debajo de números redondos, y para las posiciones cortas, por encima. La tendencia de los mercados a respetar los números redondos, y especialmente los mencionados anteriormente, es una de esas peculiares características de los mercados que puede resultar sumamente útil para las transacciones y que el operador orientado técnicamente debe tener presente.
 
 Líneas de tendencia
 
-Ahora que ya entendemos los conceptos de apoyo y resistencia, es mo-
-mento de añadir otro elemento a nuestro arsenal de herramientas técni-
-cas: la línea de tendencia. (Ver figuras 4.6a-c). La línea de tendencia bási-
-ca es una de las herramientas más sencillas empleadas por el chartista,
-pero también es una de las más valiosas. Una línea de tendencia ascen-
-dente es una línea recta inclinada hacia arriba y hacia la derecha que sigue
-unos mínimos sucesivos de reacción, como indica la línea continua de la
-figura 4.6a. Una línea de tendencia descendente está inclinada hacia aba-
-jo y hacia la derecha sigue unos picos sucesivos de recuperación, como
-muestra la figura 4.6b.
+Ahora que ya entendemos los conceptos de apoyo y resistencia, es momento de añadir otro elemento a nuestro arsenal de herramientas técnicas: la línea de tendencia. (Ver figuras 4.6a-c). La línea de tendencia básica es una de las herramientas más sencillas empleadas por el charlista, pero también es una de las más valiosas. Una línea de tendencia ascendente es una línea recta inclinada hacia arriba y hacia la derecha que sigue unos mínimos sucesivos de reacción, como indica la línea continua de la figura 4.6a. Una línea de tendencia descendente está inclinada hacia abajo y hacia la derecha sigue unos picos sucesivos de recuperación, como muestra la figura 4.6b.
 
 Dibujar una línea de tendencia
 
-Dibujar correctamente líneas de tendencia se parece mucho a todos los
-demás aspectos de la confección de gráficos y habrá que hacer unas cuan-
-tas pruebas con líneas diferentes antes de encontrar la correcta. A veces
-hay que volver a dibujar una línea de tendencia que parece correcta, pero
-hay algunas indicaciones útiles para encontrar una que lo sea.
+Dibujar correctamente líneas de tendencia se parece mucho a todos los demás aspectos de la confección de gráficos y habrá que hacer unas cuantas pruebas con líneas diferentes antes de encontrar la correcta. A veces hay que volver a dibujar una línea dfe tendencia que parece correcta, pero hay algunas indicaciones útiles para encontrar una que lo sea.
 
-En primer lugar, tiene que haber evidencia de una tendencia. Para po-
-der dibujar una línea de tendencia ascendente, por ejemplo, tendrán que
-haber al menos dos mínimos de reacción y el segundo mínimo tendrá que
-
-91
+En primer lugar, tiene que haber evidencia de una tendencia. Para poder dibujar

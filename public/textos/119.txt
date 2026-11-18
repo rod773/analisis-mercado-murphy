@@ -1,30 +1,5 @@
-Conceptos básicos de tendencia 119
+los precios alcanzan un nuevo máximo para un determinado movimiento al alza en algún momento del día (por lo general, a la apertura o cerca de ella), luego se debilitan y cierran por debajo del cierre del día anterior. Un día de cambio por abajo sería un nuevo mínimo durante el día seguido por un cierre más alto.
 
-neral, a la apertura o cerca de ella), luego se debilitan y cierran por deba-
-jo del cierre del día anterior. Un día de cambio por abajo sería un nuevo
-mínimo durante el día seguido por un cierre más alto.
+Cuanto más amplio sea el alcance del día y cuanto mayor sea el volumen, más significativa será la señal de un cambio de tendencia a corto plazo. Las figuras 4.22a-b muestran cómo se verían ambas posibilidades en un gráfico de barras. Obsérvese también que tanto el máximo como el mínimo del día cuando se da el cambio exceden el alcance del día anterior, formando un día externo. Aunque un día externo no es un requisito para que haya un día de cambio, sí tiene más significación. (Ver figura 4.22c).
 
-Cuanto más amplio sea el alcance del día y cuanto mayor sea el volumen,
-más significativa será la señal de un cambio de tendencia a corto plazo. Las
-figuras 4.22a-b muestran cómo se verían ambas posibilidades en un gráfi-
-co de barras. Obsérvese también que tanto el máximo como el mínimo del
-día cuando se da el cambio exceden el alcance del día anterior, formando
-un día externo. Aunque un día externo no es un requisito para que haya
-un día de cambio, sí tiene más significación. (Ver figura 4.22c).
-
-El día de cambio por abajo se conoce a veces como un clímax vendedor. Se
-trata de un giro radical por la parte de abajo de un movimiento a la baja,
-donde todas las desalentadas posiciones largas se han visto forzadas a salir
-del mercado en grandes cantidades. La consiguiente ausencia de presión
-vendedora crea un vacío sobre el mercado que los precios se apresuran a
-llenar subiendo. El clímax vendedor es uno de los ejemplos más claros del
-día de cambio, y aunque no marque el último mínimo de un mercado que
-cae, por lo general indica que se ha visto un mínimo significativo.
-
-Figura 4.22a Ejemplo de un día de Figura 4.22b Ejemplo de un día de
-cambio máximo. Cuanto más grande cambio mínimo. Si el volumen es espe-
-sea el volumen el día del cambio y — cialmente grande, los cambios se cono-
-cuanto más amplio sea el alcance, más — cen como “clímax vendedor”.
-importante será.
-
-119
+El día de cambio por abajo se conoce a veces como un clímax vendedor. Se trata de un giro radical por la parte de abajo de un movimiento a la baja, donde todas las desalentadas posiciones largas se han visto forzadas a salir del mercado en grandes cantidades. La consiguiente ausencia de presión vendedora crea un vacío sobre el mercado que los precios se apresuran a llenar subiendo. El clímax vendedor es uno de los ejemplos más claros del día de cambio, y aunque no marque el

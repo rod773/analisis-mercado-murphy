@@ -1,23 +1,11 @@
-Ciclos temporales 391
+alcanzar cotizaciones mínimas cada 55 días de operaciones en este período (ver flechas).
 
-cada 10 días (el valor de incumplimiento). Los períodos de los ciclos se
-pueden alargar, acortar, mover a la izquierda o a la derecha hasta encon-
-trar el ajuste adecuado en el gráfico, (Ver figuras 14.19 y 14.20).
+cada 10 días (el valor de incumplimiento). Los períodos de los ciclos se pueden alargar, acortar, mover a la izquierda o a la derecha hasta encontrar el ajuste adecuado en el gráfico, (Ver figuras 14.19 y 14.20).
 
 Ciclos estacionales
 
-Todos los mercados se ven afectados de algún modo por un ciclo esta-
-cional anual. Este tipo de ciclo se refiere a la tendencia de los mercados a
-moverse en una dirección determinada en ciertos momentos del año. Los
-ciclos estacionales más obvios se dan en el mercado de cereales en la épo-
-ca de la cosecha, cuando la oferta es más abundante. En la soja, por ejem-
-plo, la mayoría de los máximos estacionales se dan entre abril y junio, y los
-mínimos aparecen entre agosto y octubre. (Ver figura 14.21). Un patrón
-estacional bien conocido es el “Receso de febrero”, en el que los precios
+Todos los mercados se ven afectados de algún modo por un ciclo estacional anual. Este tipo de ciclo se refiere a la tendencia de los mercados a moverse en una dirección determinada en ciertos momentos del año. Los ciclos estacionales más obvios se dan en el mercado de cereales en la época de la cosecha, cuando la oferta es más abundante. En la soja, por ejemplo, la mayoría de los máximos estacionales se dan entre abril y junio, y los mínimos aparecen entre agosto y octubre. (Ver figura 14.21). Un patrón estacional bien conocido es el “Receso de febrero”, en el que los precios
 
-Dic | EnexFeb' Marl Abr ' Mayi Jun | Jul 1Ago'Sep' Oct Nov
+Nov Soybeans (CBOT) Estacional a 15 años (83-97)
 
-Figura 14.21 La soja suele alcanzar su cotización máxima en mayo y la mínima
-en octubre.
-
-391
+Figura 14.21 La soja suele alcanzar su cotización máxima en mayo y la

@@ -1,49 +1,23 @@
-Los modelos de cambio más importantes 129
+tamaño del movimiento siguiente, ayudan al operador a determinar su ratio de riesgo/re- compensa.
 
-nuidad. Examinaremos triángulos, banderas, banderines, cuñas y rectán-
-gulos. Estos patrones generalmente reflejan pausas en la tendencia actual
-más que cambios de tendencia, y habitualmente se les califica como inter-
-medios y menores, en oposición a los principales.
+En este capítulo veremos una segunda categoría de modelos, los de continuidad. Examinaremos triángulos, banderas, banderines, cuñas y rectángulos. Estos patrones generalmente reflejan pausas en la tendencia actual más que cambios de tendencia, y habitualmente se les califica como intermedios y menores, en oposición a los principales.
 
-Aspectos preliminares comunes a todos
-los modelos de cambio
+Aspectos preliminares comunes a todos los modelos de cambio
 
-Antes de comenzar nuestra exposición sobre los principales patrones in-
-dividuales de cambio, hay algunos aspectos preliminares a considerar que
-son comunes a todos estos patrones de cambio.
+Antes de comenzar nuestra exposición sobre los principales patrones individuales de cambio, hay algunos aspectos preliminares a considerar que son comunes a todos estos patrones de cambio.
 
-1. Un requisito previo para cualquier modelo de cambio es la existen-
-cia de una tendencia anterior.
+Un requisito previo para cualquier modelo de cambio es la existencia de una tendencia anterior.
 
-2. La primera señal de un cambio inminente en la dirección de la ten-
-dencia es a menudo la ruptura de una importante línea de tenden-
-cia.
+La primera señal de un cambio inminente en la dirección de la tendencia es a menudo la ruptura de una importante línea de tendencia.
 
-o
+Cuanto más grande sea el patrón, mayor será el movimiento subsiguiente.
 
-- Cuanto más grande sea el patrón, mayor será el movimiento subsi-
-guiente.
+Los patrones superiores generalmente tienen una duración más corta y son más volátiles que los inferiores.
 
-4. Los patrones superiores generalmente tienen una duración más
-corta y son más volátiles que los inferiores.
+Los inferiores generalmente tienen bandas de precio más pequeñas y lleva más tiempo confeccionarlos.
 
-5. Los inferiores generalmente tienen bandas de precio más pequeñas
-y lleva más tiempo confeccionarlos.
+El volumen, en general, es más importante del lado ascendente.
 
-6. El volumen, en general, es más importante del lado ascendente.
+La necesidad de una tendencia anteñor. La existencia de una tendencia principal anterior es un importante requisito previo de cualquier patrón de cambio. Un mercado obviamente debe tener algo que cambiar y, en algunas ocasiones, en los gráficos aparecen algunas formaciones que parecen patrones de cambio. Sin embargo, si ese patrón no viene precedido de una tendencia, no hay nada que cambiar y el patrón es sospechoso. Saber en qué parte de la estructura de la tendencia es más posible que se dé un determinado patrón es uno de los elementos clave para reconocer los patrones.
 
-La necesidad de una tendencia anterior. La existencia de una tendencia
-principal anterior es un importante requisito previo de cualquier patrón
-de cambio. Un mercado obviamente debe tener algo que cambiar y, en al-
-gunas ocasiones, en los gráficos aparecen algunas formaciones que pare-
-cen patrones de cambio. Sin embargo, si ese patrón no viene precedido de
-una tendencia, no hay nada que cambiar y el patrón es sospechoso. Saber
-en qué parte de la estructura de la tendencia es más posible que se dé un
-determinado patrón es uno de los elementos clave para reconocer los pa-
-trones.
-
-Un corolario a este punto, que consiste en que tiene que haber una
-tendencia para que después pueda cambiar, es la cuestión de medir sus
-implicaciones. Antes se dijo que casi todas las técnicas para medir dan sólo
-
-129
+Un corolario a este punto, que consiste en que tiene que haber una tendencia para que después pueda cambiar, es la cuestión de medir sus implicaciones. Antes se dijo que casi todas las técnicas para

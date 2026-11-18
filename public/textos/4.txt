@@ -1,8 +1,6 @@
-Quedan rigurosamente prohibidas, sin la autorización escrita de los titulares del
-«Copyright», bajo las sanciones establecidas en las leyes, la reproducción total o par-
-cial de esta obra por cualquier medio o procedimiento, comprendidos la reprografía
-y el tratamiento informático, y la distribución de ejemplares de ella mediante alquiler
-o préstamo públicos.
+FINANCIEROS
+
+Quedan rigurosamente prohibidas, sin la autorización escrita de los titulares del «Copyright», bajo las sanciones establecidas en las leyes, la reproducción total o parcial de esta obra por cualquier medio o procedimiento, comprendidos la reprografía y el tratamiento informático, y la distribución de ejemplares de ella mediante alquiler o préstamo públicos.
 
 Título original: Technical Analysis of the Financial Markets
 
@@ -12,14 +10,10 @@ Autor: John J. Murphy
 
 © de la edición original, New York Institute of Finance, New York, 1999
 
-© para la edición en lengua castellana, Ediciones Gestión 2000 S.A., Barcelona, 2000
+© para la edición en lengua castellana. Ediciones Gestión 2000. S.A.. Barcelona.
 
-Primera edición: Mayo 2000
-Traducción: Carlos Ganzinelli
-
-ISBN: 84 - 8088 - 442 - 8
+Primera edición: Mayo 2000 Traducción: Carlos Ganzinelli
 
 Depósito legal: B-23.942-2000
-Impreso por Novoprint
 
-Impreso en España - Printed in Spain
+Impreso

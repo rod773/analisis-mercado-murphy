@@ -1,25 +1,5 @@
-perto197 - (*SPX) SEP 500 Stock Index — - 03/17/98
-| a 'SPX) S8P 500 Stoci — T
-GRÁFICO DE PUNTOS Y FIGURAS (10X3) .
+registro. La figura 2 usa una caja o registro de 5 puntos, pero la figura 11.3 cambia el tamaño de 5 a 10 puntos. En la figura 11.2 el número de columnas es de 44 en el gráfico 5x3, pero en la figura 11.3 se ha visto reducido a 16 columnas. Al usar un tamaño de registro más grande en la figura 11.3, hay menos señales, pero eso le permite al inversor concentrarse en la tendencia principal del mercado e ignorar todas las señales de venta a corto plazo que se eliminan de un gráfico menos sensible.
 
-X 12/11_12/70_ 1908 _ 112 —
-eo en7 002 eno ens 1018 1020 1029 1008 1911 1114 127 a a as
+Figura 11.3 Incrementar el tamaño del registro de 5 a 10 puntos hace que el gráfico de puntos y figuras pierda sensibilidad y dé menos señales, situación que es más adecuada para el inversor a largo plazo.
 
-Figura 11.3 Incrementar el tamaño del registro de 5 a 10 puntos hace que el grá-
-fico de puntos y figuras pierda sensibilidad y dé menos señales, situación que es
-más adecuada para el inversor a largo plazo.
-
-11/05/97 — ('SPX) S8P 500 Stock Index — 03/12/98 —|
-
-GRÁFICO DE PUNTOS Y FIGURAS (3X3) 1000
-
-— 17 220 22405
-[ 1107 _ 11/13 1119 1125 1212 1219 1226 1908 1007 112 'mMTIF%M1—IT-KT=H.—'—
-_ |
-
-Figura 11.4  Reducir el tamaño del registro a 3 puntos produce más señales, lo
-que es más adecuado para las operaciones a corto plazo. La última subida, desde
-920 hasta 1060, produjo 6 señales de compra diferentes. Debajo de la columna
-más alta de o se pueden colocar límites de venta protectores (ver S1-S5).
-
-293
+Figura 11.4 Reducir el tamaño del registro a 3 puntos produce más señales, lo que es más adecuado para las operaciones a corto plazo. La última

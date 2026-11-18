@@ -1,35 +1,9 @@
-118 Capítulo 4
+Algunos chartistas tienen buen ojo para este tipo de línea de tendencia y la encuentran útil, pero el problema con las líneas internas es que su trazado es muy subjetivo, mientras que las reglas para dibujar las líneas de tendencia tradicionales, conectando los máximos y mínimos extremos, son más exactas. (Ver figura 4.21c).
 
-(*DWI X) Dow Industrials 07/31/97
-
-GRÁFICO DE BARRAS DIARIO
-
-Ejemplo de una línea
-de tendencia interna
-
-Y TY T JA N
-
-— Z Tp Poriad valrg Tradoliadon 6 Ouvega Research, i. 1087
-
-Figura 4.21c Las líneas de tendencia internas se trazan atravesando el movi-
-miento del precio conectando tantos máximos y mínimos como sea posible. Esta
-línea de tendencia interna, trazada a lo largo de los primeros máximos de 199%6,
-sirvió de apoyo un año más tarde durante la primavera de 1997.
+miento del precio conectando tantos máximos y mínimos como sea posible. Esta línea de tendencia interna, trazada a lo largo de los primeros máximos de 1996, sirvió de apoyo un año más tarde durante la primavera de 1997.
 
 Días de cambio
 
-Otro elemento importante es el día en el que se da el cambio a la situación
-opuesta, formación gráfica especial que recibe muchos nombres, tales
-como día de cambio por arriba, día de cambio por abajo, clímax de com-
-pra o venta y día de cambio clave. En sí misma, esta formación no tiene
-gran importancia, pero en el contexto de otra información técnica, a ve-
-ces puede ser significativa. Pero definamos primero qué es un día de cam-
-bio.
+Otro elemento importante es el día en el que se da el cambio a la situación opuesta, formación gráfica especial que recibe muchos nombres, tales como día de cambio por arriba, día de cambio por abajo, clímax de compra o venta y día de cambio clave. En sí misma, esta formación no tiene gran importancia, pero en el contexto de otra información técnica, a veces puede ser significativa. Pero definamos primero qué es un día de cambio.
 
-Un día de cambio sucede en un máximo o un mínimo. La definición ge-
-neralmente aceptada de un día de cambio por arriba es la fijación de un
-nuevo máximo en una tendencia al alza, seguido de un cierre más bajo el
-mismo día. En otras palabras, los precios alcanzan un nuevo máximo para
-un determinado movimiento al alza en algún momento del día (por lo ge-
-
-118
+Un día de cambio sucede en un máximo o un mínimo. La definición generalmente aceptada de un día de cambio por arriba es la fijación de un nuevo máximo en una tendencia al alza, seguido de un cierre más bajo el mismo día. En otras palabras,

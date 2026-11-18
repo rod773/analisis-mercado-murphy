@@ -1,32 +1,5 @@
-196 Capítulo 7
+un día con respecto a la información sobre el volumen de los futuros. También existe la relativamente extraña práctica de utilizar cifras de volumen total para analizar contratos individuales, en lugar de utilizar el volumen real de cada con-
 
-1/24/97 (INTC) Intel Cop
-GRÁFICO DE BARRAS DIARIO
+Figura 7.7 Excelente ejemplo de cómo una divergencia bajista entre la línea de volumen total acumulativo (abajo) y el precio de Intel advirtió correctamente de una importante caída.
 
-Volumen total Divergencia bajista
-acumulativo
-
-—s o N D
-302 10 1u Prread valrg Tradeóiaion 6 Omago Ressarch, Vc. 1887
-
-Fi 7.7 Excelente ejemplo de cómo una divergencia bajista entre la línea de
-volumen total acumulativo (abajo) y el precio de Intel advirtió correctamente de
-una importante caída.
-
-trato, pero hay buenas razones para usar el volumen total. ¿Cómo se tra-
-ta una situación en la que algunos contratos cierran más altos y otros más
-bajos en el mismo mercado de futuros y en el mismo día? Los días lími-
-te producen otros problemas. Los días cuando los mercados se retraen
-al límite máximo generalmente producen poco volumen. Se trata de
-una señal de fuerza porque el número de compradores es tan superior al
-de vendedores que los precios alcanzan su límite máximo y dejan de ope-
-rar. Según las normas tradicionales de interpretación, poco volumen du-
-rante una subida es una situación bajista. El poco volumen de los días lí-
-mite es una violación de tal principio y puede distorsionar los números
-del VTA.
-
-A pesar de estas limitaciones, el análisis del volumen se puede utilizar
-igualmente en los mercados de futuros, y el operador técnico hará bien en
-seguir de cerca las indicaciones del volumen.
-
-196
+trato, pero hay buenas razones para usar el volumen total. ¿Cómo se trata una situación en la que algunos contratos cierran más altos y otros más bajos en el mismo mercado de futuros y en el mismo día? Los días límite producen otros problemas. Los días cuando los mercados se retraen al límite máximo generalmente producen poco volumen. Se trata de una señal de fuerza porque el número de compradores es tan superior al de vendedores que los precios alcanzan su límite máximo y dejan de operar. Según las normas tradicionales de interpretación, poco volumen durante una subida es una situación bajista. El

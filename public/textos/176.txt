@@ -1,42 +1,9 @@
-176 Capítulo 6
+cual sea el nombre que reciba, generalmente representa un simple período de consolidación en la tendencia existente, que normalmente se re-
 
-Figura 6.92 Ejemplo de un
-rectángulo alcista en una ten-
-dencia al alza. Este patrón tam-
-bién se llama zona de opera-
-ciones y muestra a los precios
-operando dentro de dos líneas
-] horizontales. También se le co-
+Figura 6.9a Ejemplo de un rectángulo alcista en una tendencia al alza. Este patrón también se llama zona de operaciones y muestra a los precios operando dentro de dos líneas horizontales. También se le conoce como área de congestión.
 
-noce como área de congestión.
+Ejemplo de un rectángulo bajista. Aunque normalmente se considera que los rectángulos son patrones de continuidad, el operador debe estar siempre atento a las señales de una posible transformación en patrón de cambio, como por ejemplo un patrón inferior triple.
 
-Figura 6.95 Ejemplo de un
-rectángulo bajista. Aunque nor-
-malmente se considera que los
-rectángulos son patrones de
-continuidad, el operador debe
-estar siempre atento a las seña-
-les de una posible transforma-
-ción en patrón de cambio,
-como por ejemplo un patrón
+suelve en la dirección de la tendencia del mercado que precedió su existencia. Desde el punto de vista de valor de pronóstico, se le puede considerar similar al triángulo simétrico con líneas paralelas en lugar de convergentes.
 
-inferior triple.
-
-f
-
-suelve en la dirección de la tendencia del mercado que precedió su exis-
-tencia. Desde el punto de vista de valor de pronóstico, se le puede consi-
-derar similar al triángulo simétrico con líneas paralelas en lugar de con-
-vergentes.
-
-Un cierre decisivo fuera del límite superior o del inferior anuncia que
-el rectángulo se ha completado e indica la dirección de la tendencia. El
-analicta de mercado dehe estar alerta. sin embargo, para detectar que la
-
-p
-
-consolidación rectangular no se transforme en un patrón de cambio. En
-la tendencia al alza que muestra la figura 6.9a, por ejemplo, obsérvese que
-los tres picos se podrían haber interpretado, en principio, como un posi-
-
-176
+Un cierre decisivo fuera del límite superior o del inferior anuncia que el rectángulo se

@@ -1,70 +1,7 @@
-66
+hay una distancia igual para cada unidad de cambio de precio. En este ejemplo, cada punto de la escala aritmética es equidistante del otro. En la escala logarítmica, sin embargo, los aumentos de porcentajes se
 
-Capítulo 3
-
-Escala Escala
-aritmética logarítmica
-10 10
-9
-9 8
-7
-* 6
-7 5
-6 4
-S 3
-4
-3 2
-2
-1
-
-" —|
-
-Figura 3.5 Comparación de una
-escala aritmética y una logarítmi-
-ca. Cabe destacar los intervalos
-iguales en la escala de la izquier-
-da. La escala logarítmica muestra
-los cambios porcentuales (escala
-de la derecha).
-
-hacen más pequeños a medida que au-
-menta la escala de precios. La distancia en-
-tre el punto 1 y el 2 es la misma que hay
-entre el 5 y el 10, porque ambos represen-
-tan la misma duplicación del precio. Por
-ejemplo, un movimiento de 5 a 10 en la es-
-cala aritmética tendría la misma distancia
-que otro de 50 a 55, aunque el primero in-
-dica que el precio se duplica, y el último
-sólo representa un incremento del precio
-del 10 por ciento. Los precios que se
-representan en escalas de ratios o logarít-
-micas muestran distancias iguales para
-movimientos porcentuales similares. Por
-ejemplo, un movimiento de 10 a 20, que es
-un incremento del 100 por cien, tendría
-igual distancia en un gráfico logarítmico
-que un movimiento de 20 a 40 o de 40 a
-80. Muchos servicios gráficos de los merca-
-dos bursátiles utilizan gráficos logarítmi-
-cos, mientras que los de futuros recurren a
-los gráficos aritméticos. Los programas in-
-formáticos para la confección de gráficos
-permiten los dos tipos de escalas, según se
-ve en la figura 3.6.
+Figura 3.5 Comparación de una escala aritmética y una logarítmica. Cabe destacar los intervalos iguales en la escala de la izquierda. La escala logarítmica muestra los cambios porcentuales (escala de la derecha). La escala logarítmica muestra los cambios porcentuales (escala de la derecha).hacen más pequeños a medida que aumenta la escala de precios. La distancia entre el punto 1 y el 2 es la misma que hay entre el 5 y el 10, porque ambos representan la misma duplicación del precio. Por ejemplo, un movimiento de 5 a 10 en la escala aritmética tendría la misma distancia que otro de 50 a 55, aunque el primero indica que el precio se duplica, y el último sólo representa un incremento del precio del 10 por ciento. Los precios que se representan en escalas de ratios o logarítmicas muestran distancias iguales para movimientos porcentuales similares. Por ejemplo, un movimiento de 10 a 20, que es un incremento del 100 por cien, tendría igual distancia en un gráfico logarítmico que un movimiento de 20 a 40 o de 40 a 80. Muchos servicios gráficos de los mercados bursátiles utilizan gráficos logarítmicos, mientras que los de futuros recurren a los gráficos aritméticos. Los programas informáticos para la confección de gráficos permiten los dos tipos de escalas, según se ve en la figura 3.6.
 
 Construcción del gráfico de barras diario
 
-La construcción del gráfico de barras diario es extremadamente sen-
-cilla. El gráfico de barras es al mismo tiempo un gráfico de precios y
-de tiempos. El eje vertical (eje y) muestra una escala que representa el
-precio del contrato. El eje horizontal (eje x) registra el paso del tiempo.
-Las fechas se indican en la parte inferior del gráfico, y todo lo que
-el usuario tiene que hacer es dibujar una barra vertical en el día apro-
-piado, desde el precio máximo del día hasta el mínimo de ese día (lo
-que se llama el alcance) y hacer una pequeña marca horizontal a la de-
-recha de la barra para identificar el precio de cierre del día. (Ver figu-
-
-ra 3.7).
-
-66
+La construcción del gráfico de barras diario es extremadamente sencilla. El gráfico de barras es al mismo tiempo un gráfico de precios y de tiempos. El eje vertical (eje y) muestra una escala que representa el precio del contrato. El eje horizontal (eje x) registra el paso del tiempo. Las fechas se indican en la

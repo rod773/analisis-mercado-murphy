@@ -1,45 +1,11 @@
-Volumen e interés abierto 193
-
-cio, lo que significa que la pérdida de presión al alza en una tendencia al-
-cista, o de presión a la baja en una tendencia bajista, se refleja en la cifra
-de volumen antes de manifestarse en un cambio de tendencia.
+dé en la misma dirección que la tendencia prevaleciente. Los técnicos creen que el volumen precede al preció, lo que significa que la pérdida de presión al alza en una tendencia alcista, o de presión a la baja en una tendencia bajista, se refleja en la cifra de volumen antes de manifestarse en un cambio de tendencia.
 
 Volumen total acumulativo
 
-Los técnicos han experimentado con muchos indicadores de volumen
-para ayudar a cuantificar la presión compradora o vendedora. Tratar de
-“medir con los ojos” las barras verticales de volumen que aparecen en la
-parte inferior del gráfico no tiene la precisión necesaria para detectar
-cambios significativos en el flujo de volumen. El indicador de volumen
-más sencillo y más conocido es el volumen total acumulativo o VTA (en in-
-glés, “on balance volume” o OBV). Desarrollado y popularizado por Jo-
-seph Granville en su libro de 1963 titulado Granville's New Key to Stock Mar-
-ket Profits, el VTA en realidad produce una línea curva en el gráfico de
-precios. Dicha línea se puede usar para confirmar la calidad de la tenden-
-cia actual de precios o advertir de un cambio inminente al divergir de los
-movimientos de los precios.
+Los técnicos han experimentado con muchos indicadores de volumen para ayudar a cuantificar la presión compradora o vendedora. Tratar de “medir con los ojos” las barras verticales de volumen que aparecen en la parte inferior del gráfico no tiene la precisión necesaria para detectar cambios significativos en el flujo de volumen. El indicador de volumen más sencillo y más conocido es el volumen total acumulativo o VTA (en inglés, ‘on balance volume’ o OBV). Desarrollado y popularizado por Jo- seph Granville en su libro de 1963 titulado Granville's New Key to Stock Mar- ket Profits, el VTA en realidad produce una línea curva en el gráfico de precios. Dicha línea se puede usar para confirmar la calidad de la tendencia actual de precios o advertir de un cambio inminente al divergir de los movimientos de los precios.
 
-La figura 7.6 muestra un gráfico de precios con la línea VTA en la par-
-te inferior en lugar de las barras de volumen. Obsérvese la mayor facilidad
-en seguir la tendencia del volumen con la línea VTA.
+La figura 7.6 muestra un gráfico de precios con la línea VTA en la parte inferior en lugar de las barras de volumen. Obsérvese la mayor facilidad en seguir la tendencia del volumen con la línea VTA.
 
-La construcción de la línea VTA es la sencillez en sí misma. Al volumen
-total correspondiente a cada día se le asigna un valor positivo o negativo
-según los precios cierren más altos o más bajos ese día. Un cierre más alto
-hace que el volumen de ese día reciba un valor positivo, mientras que un
-cierre más bajo representa un volumen negativo. Luego se mantiene un
-total acumulativo corriente sumando y restando el volumen de cada día se-
-gún la dirección del mercado al cierre.
+La construcción de la línea VTA es la sencillez en sí misma. Al volumen total correspondiente a cada día se le asigna un valor positivo o negativo según los precios cierren más altos o más bajos ese día. Un cierre más alto hace que el volumen de ese día reciba un valor positivo, mientras que un cierre más bajo representa un volumen negativo. Luego se mantiene un total acumulativo corriente sumando y restando el volumen de cada día según la dirección del mercado al cierre.
 
-Lo importante es la dirección de la línea VTA (su tendencia) y no los
-números reales. Los valores del VTA reales serán diferentes según el tiem-
-po que haga que se está llevando el gráfico, pero que los cálculos los haga
-el ordenador, usted concéntrese en la dirección de la línea VTA.
-
-La línea de volumen total acumulativo debería ir en la misma dirección
-de la tendencia de los precios. Si los precios presentan una serie de picos
-y valles más altos (una tendencia alcista), la línea VTA debería hacer lo
-Mmismo. Si los precios presentan una tendencia a la baja, la línea VTA tam-
-bién tendría que hacerlo. Cuando la línea del volumen no puede seguir la
-
-193
+Lo importante es la dirección de la línea VTA (su tendencia) y no los números reales. Los valores del VTA reales serán diferentes según el tiempo que haga que se está llevando el gráfico, pero que los cálculos los haga el ordenador, usted concéntrese en la dirección de

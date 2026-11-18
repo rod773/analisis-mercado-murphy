@@ -1,40 +1,11 @@
-470 Capítulo 18
+la última venta de Intel, una señal negativa.
 
-como a valores individuales y en ambos casos se puede representar diaria
-o semanalmente. Para una mayor información, consulte la obra Volume
-Cycles in the Stock Market de Richard Arms (Dow Jones-Irwin, 1983).
+como a valores individuales y en ambos casos se puede representar diaria o semanalmente. Para una mayor información, consulte la obra Volunte Cycles in the Stock Market de Richard Arms (Dowjones-Irwin, 1983).
 
 Gráficos combinados con velas
 
-En el capítulo 12, Greg Morris explicaba los gráficos de velas, y en un
-artículo titulado “East Mets West: CandlePower Charting” publicado en la
-revista Technical Analysis of Stocks and Commodities, Morris proponía la com-
-binación de los gráficos de velas con el método de Arms del gráfico de
-equivolumen. La versión de Morris muestra el gráfico de velas en formato
-de equivolumen, o dicho de otro modo, el volumen determina el ancho o
-grosor de las velas. A mayor volumen, mayor ancho de vela. Morris llamó
-a esta combinación “Gráficos de CandlePower” y en su artículo decía: ...
-el gráfico CandlePower ofrece una información similar, si no mejor, que
-los gráficos de velas o de equivolumen por separado, y visualmente es tan
-atractivo como cualquiera de ellos”. La técnica CandlePower de Morris se
-puede obtener a través de los programas de gráficos Metastock (publica-
-dos por Equis International, 3950 S 700 East, Suite 100, Salt Lake City, UT
-84107, [800] 882-3040, www.equis.com). En la actualidad, este gráfico se
-llama Candlevolume. (Ver figura 18.10).
+En el capítulo 12, Greg Morris explicaba los gráficos de velas, y en un artículo titulado “East Mets West: Candle Power Charting” publicado en la revista Technical Analysis of Stocks and Commodities, Morris proponía la combinación de los gráficos de velas con el método de Arms del gráfico de equivolumen. La versión de Morris muestra el gráfico de velas en formato de equivolumen, o dicho de otro modo, el volumen determina el ancho o grosor de las velas. A mayor volumen, mayor ancho de vela. Morris llamó a esta combinación “Gráficos de Candle Power” y en su artículo decía: ... el gráfico Candle Power ofrece una información similar, si no mejor, que los gráficos de velas o de equivolumen por separado, y visualmente es tan atractivo como cualquiera de ellos”. La técnica Candle Power de Morris se puede obtener a través de los programas de gráficos Metastock (publicados por Equis International, 3950 S 700 East, Suite 100, Salt Lake City, UT 84107, [800] 882-3040, www.equis.com). En la actualidad, este gráfico se llama Candlevolume. (Ver figura 18.10).
 
 Comparación de índices de mercado
 
-Al comienzo de este capítulo indicamos que otra forma de medir la
-amplitud del mercado era comparar los diferentes índices en sí. Nos re-
-ferimos principalmente al índice industrial Dow, el S8:P 500, el índice del
-MVNY, el compuesto Nasdag y el Russell 2000. Cada uno de ellos mide
-una parte del mercado ligeramente diferente. Los índices Dow y S2:P 500
-captan las tendencias de un número relativamente pequeño de grandes
-valores de capitalización. El índice compuesto del MVNY incluye todos
-los valores que se pueden contratar en la bolsa de Nueva York y da una
-perspectiva un poco más amplia. Por regla general, para que un índice
-Dow nuevo tenga poder de permanencia, debe verse confirmado por ín-
-dices nuevos similares tanto en el S8:P 500 como en el índice compuesto
-del MVNY.
-
-470
+Al comienzo de este capítulo indicamos que otra forma de medir la amplitud del mercado era comparar los diferentes índices en sí. Nos referimos principalmente al índice industrial Dow, el S&P 500, el índice del MVNY, el compuesto Nasdaq y el Russell 2000. Cada uno de ellos mide una parte del mercado ligeramente diferente. Los índices Dow y S&P 500 captan las tendencias de un número relativamente pequeño de grandes valores de capitalización. El índice compuesto del MVNY incluye todos los valores que se pueden contratar en la bolsa de Nueva York y da una perspectiva un poco más amplia. Por regla general, para

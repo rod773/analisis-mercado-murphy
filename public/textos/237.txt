@@ -1,35 +1,7 @@
-Medias móviles 237
+la banda superior y la media de 20 días. En tal caso, un cruce por debajo de la media de 20 días avisa de un cambio de tendencia a la baja.
 
-Pemm — (*DWI X) Dow Industrials
-GRÁFICO DE BARRAS DIARIO
-
-;
-
-Media de 20 días "
-
-Banda de Bollinger
-
-Banda de Bollinger
-
-Figura 9.9a Bandas de Bollinger representadas alrededor de una media móvil
-de 20 días. Durante el período lateral, de agosto a enero, los precios siguieron to-
-cando las bandas externas, pero una vez que la tendencia al alza se reanudó, los
-precios operaron entre la banda superior y la media de 20 días.
+Figura 9.9a Bandas de Bollinger representadas alrededor de una media móvil de 20 días. Durante el período lateral, de agosto a enero, los precios siguieron tocando las bandas externas, pero una vez que la tendencia al alza se reanudó, los precios operaron entre la banda superior y la media de 20 días.
 
 El ancho de la banda mide la volatilidad
 
-Las Bandas de Bollinger se diferencian de los sobres principalmente de
-una manera. Mientras que los sobres se mantienen separados por un an-
-cho porcentual constante, las Bandas de Bollinger se expanden y se con-
-traen según la volatilidad de los últimos 20 días. Durante un período de
-volatilidad creciente de los precios, la distancia entre las dos bandas se en-
-sanchará, y a la inversa, durante un período de baja volatilidad del merca-
-do, la distancia entre las dos bandas se contraerá. Hay una tendencia de
-las bandas a que se alternen entre expansión y contracción. Cuando las
-bandas están inusualmente separadas, es señal de que la tendencia actual
-puede estar cambiando, y cuando se han acercado mucho, es señal de que
-el mercado puede estar iniciando una nueva tendencia. Las Bandas de Bo-
-llinger también se pueden aplicar a los gráficos de precios semanales y
-mensuales usando 20 semanas y 20 meses en lugar de 20 días. Las Bandas
-
-237
+Las Bandas de Bollinger se diferencian de los sobres principalmente de una manera. Mientras que los sobres se mantienen separados por un ancho porcentual constante, las Bandas de Bollinger se expanden y se contraen según la volatilidad de los últimos 20 días. Durante un período de volatilidad creciente de los precios, la distancia entre las dos bandas se ensanchará, y a la inversa, durante un período de baja volatilidad del mercado, la distancia entre las dos bandas se contraerá. Hay una tendencia de las bandas a que se alternen entre expansión y contracción. Cuando las bandas están inusualmente separadas, es señal de

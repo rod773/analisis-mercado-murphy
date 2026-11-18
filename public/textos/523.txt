@@ -1,32 +1,9 @@
-Aspectos fundamentales de la creación de un sistema de contratación 523
+a hacer los deberes antes de realizar una operación, le proporcionan un marco de trabajo disciplinado, facilitándole así el cumplimiento de las normas y le permiten incrementar su nivel de diversificación.
 
-02/06/98
-Performance Summary: Al Trades
+Con mucho trabajo y dedicación, cualquier persona puede crear un sistema de contratación que funcione bien. No es fácil, pero sí que está dentro de lo factible. Como con casi todo en la vida, lo que usted obtenga de este esfuerzo estará directamente relacionado con lo haya puesto en él. (Ver figuras C.2 y C.3).
 
-otal net profit $ 718.01 Open position P/L
-IGross profit $ 111815 Gross loss
+07/23/9307/23/93(VG—Y) Valué Line Geometric - UNDE(VG—Y) Valué Line Geometric - UNDE02/06/9802/06/98-500 00-500 00 Une Geocnetnc - UNDE-Wee Hy 02/06/98 C=462 39 +15 11 0447 28 H=462 47 L «447 28 V«0 JJM Book Four%Mcx M Señales de compra y venta del sistema (y cantidad) Estos puntos representan el nivel que se debeigualar o superar en base al cierre para quehaya una señal de cambio BCM total Equfty 718 01 Valor total (incluyendo posiciones abiertas) Í7 Í7-480 00-480 00 JO 00 JO 00-440.00-440.00420 00420 00-400 00-400 00-380.00-380.00-360 00-360 00340 00340 00-320.00-320.00300 00300 00-280.00-280.00260 00260 00-780.00-780.00-720.00-720.00* JO 00* JO 00-640.00-640.00
 
-otal 4 of trades 137 Percent profitable
-Number winning trades 67 Number losing trades
+Figura C.2 (Gráfico de precios): Este sistema de contratación se diseñó para aplicarlo a un gráfico semanal del Valué Line Composite Index (VLCI), pero también funcionó bien en un gráfico diario del VLCI, así como en gráficos semanales y diarios de otros mercados. Votos de confianza para el concepto fundamental. Este es el sistema descrito en la figura C.1.
 
-Largest winning trade 78.06 Largest losing trade
-Average winning trade 16.69 Average losing trade
-atio avg win/avg loss ! Avg trade(win 8: loss)
-
-Max consec. winners Max consec. losers
-Avg * bars in winners Avg ? bars in losers
-
-ax intraday drawdovwn
-
-Profit factor a Max 4 contracts held
-Account size required - Return on account
-
-——Created with TradeStation by Omega Research O 1996
-
-Figura C.3 (Resumen de actividad): He aquí un resumen de actividad de 36
-años del sistema que aparece en las figuras C.1 y C.2. La actividad durante los úl-
-timos 12 años se ha correspondido con los resultados generales. El factor benefi-
-cio, el promedio de operaciones (ganancia y pérdida) y la reducción máxima in-
-tradía son todos excelentes.
-
-523
+Figura C.3 (Resumen de actividad): He aquí un resumen de actividad de 36 años del sistema que aparece en las figuras C. 1 y C.2. La actividad durante los últimos 12 años se ha correspondido con los resultados generales. El factor beneficio, el promedio de operaciones (ganancia y pérdida) y la reducción

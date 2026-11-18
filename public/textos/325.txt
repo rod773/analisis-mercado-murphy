@@ -1,44 +1,11 @@
-Velas japonesas 325
+similares hace que el análisis del patrón de velas funcione.
 
-Un patrón japonés de velas puede consistir en una sola línea o en una
-combinación de múltiples líneas, normalmente nunca más de cinco. Aun-
-que casi todos los patrones de velas se usan para determinar puntos de
-cambio o inversión del mercado, hay algunos que se usan para determinar
-la continuación de la tendencia. A los primeros se les llama patrones de in-
-versión y a los segundos, de continuidad. Cuando un patrón de inversión
-tiene implicaciones alcistas, otro patrón inversamente relacionado tiene
-implicaciones bajistas. Del mismo modo, cuando un patrón de continui-
-dad tiene implicaciones alcistas, otro patrón opuesto tiene significado ba-
-jista. Cuando hay un par de patrones que funcionan en las dos situaciones,
-alcista y bajista, reciben el mismo nombre. En algunos pocos casos, no obs-
-tante, el patrón alcista y su contrapartida bajista tienen nombres comple-
-tamente diferentes.
+Un patrón japonés de velas puede consistir en una sola línea o en una combinación de múltiples líneas, normalmente nunca más de cinco. Aunque casi todos los patrones de velas se usan para determinar puntos de cambio o inversión del mercado, hay algunos que se usan para determinar la continuación de la tendencia. A los primeros se les llama patrones de inversión y a los segundos, de continuidad. Cuando un patrón de inversión tiene implicaciones alcistas, otro patrón inversamente relacionado tiene implicaciones bajistas. Del mismo modo, cuando un patrón de continuidad tiene implicaciones alcistas, otro patrón opuesto tiene significado bajista. Cuando hay un par de patrones que funcionan en las dos situaciones, alcista y bajista, reciben el mismo nombre. En algunos pocos casos, no obstante, el patrón alcista y su contrapartida bajista tienen nombres completamente diferentes.
 
 Patrones de inversión o cambio
 
-Un patrón de velas de inversión es una combinación de velas japonesas
-que normalmente indica un cambio en la tendencia. Para ayudar a identi-
-ficar los patrones como alcista o bajista, una consideración seria a hacer es
-la tendencia del mercado que precedía al patrón. No es posible tener un
-patrón de cambio alcista en una tendencia ascendente. Puede haber una
-serie de velas que se parezcan al patrón alcista, pero si la tendencia es al
-alza, no se trata de un patrón japonés de velas ascendente. Del mismo
-modo, no puede haber un patrón de cambio bajista en una tendencia des-
-cendente.
+Un patrón de velas de inversión es una combinación de velas japonesas que normalmente indica un cambio en la tendencia. Para ayudar a identificar los patrones como alcista o bajista, una consideración seria a hacer es la tendencia del mercado que precedía al patrón. No es posible tener un patrón de cambio alcista en una tendencia ascendente. Puede haber una serie de velas que se parezcan al patrón alcista, pero si la tendencia es al alza, no se trata de un patrón japonés de velas ascendente. Del mismo modo, no puede haber un patrón de cambio bajista en una tendencia descendente.
 
-Esto presenta uno de los problemas recurrentes cuando se analizan los
-mercados: ¿cuál es la tendencia? Antes de usar los patrones de velas japo-
-neses de manera efectiva, hay que determinar la tendencia. Aunque se ha-
-yan escrito muchos volúmenes sobre la determinación de la tendencia, la
-media móvil funciona bastante bien con las velas japonesas. Una vez de-
-terminada la tendencia a corto plazo (diez períodos, más o menos), los pa-
-trones de velas ayudarán de forma destacada a identificar el cambio de di-
-cha tendencia.
+Esto presenta uno de los problemas recurrentes cuando se analizan los mercados: ¿cuál es la tendencia? Antes de usar los patrones de velas japoneses de manera efectiva, hay que determinar la tendencia. Aunque se hayan escrito muchos volúmenes sobre la determinación de la tendencia, la media móvil funciona bastante bien con las velas japonesas. Una vez determinada la tendencia a corto plazo (diez períodos, más o menos), los patrones de velas ayudarán de forma destacada a identificar el cambio de dicha tendencia.
 
-La literatura japonesa sobre el tema se refiere una y otra vez a alrede-
-dor de cuarenta patrones de vela de cambio, que varían entre los de una
-sola línea hasta los más complejos de cinco líneas de velas. Hay muchas
-buenas referencias sobre velas, así que aquí veremos sólo algunos de los
-patrones más conocidos.
-
-325
+La literatura japonesa sobre el tema se refiere una y otra vez a alrededor de cuarenta patrones de vela de cambio, que varían entre los de una sola línea hasta los más

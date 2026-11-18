@@ -1,44 +1,13 @@
-Teoría de Dow 51
+exterior o cosas por el estilo. Wall Street considera todas estas cosas (Hamilton, págs. 40-41).
 
-¿Suena a conocido? La idea de que los mercados reflejan cada posible
-factor conocido que afecta a la oferta y a la demanda en general es una de
-las premisas básicas de la teoría técnica, como quedó dicho en el capítulo
-1. La teoría se aplica a las medias del mercado así como a los mercados in-
-dividuales, e incluso hace concesiones a “actos de Dios”. Aunque los mer-
-cados no pueden anticipar hechos como terremotos y otras calamidades
-naturales, sí pueden descontar rápidamente tales hechos, y asimilar casi
-instantáneamente sus efectos en los movimientos de las cotizaciones.
+¿Suena a conocido? La idea de que los mercados reflejan cada posible factor conocido que afecta a la oferta y a la demanda en general es una de las premisas básicas de la teoría técnica, como quedó dicho en el capítulo 1. La teoría se aplica a las medias del mercado así como a los mercados individuales, e incluso hace concesiones a “actos de Dios”. Aunque los mercados no pueden anticipar hechos como terremotos y otras calamidades naturales, sí pueden descontar rápidamente tales hechos, y asimilar casi instantáneamente sus efectos en los movimientos de las cotizaciones.
 
-2. El mercado tiene tres tendencias
+El mercado tiene tres tendencias
 
-Antes de discutir cómo se comportan las tendencias, debemos aclarar
-lo que Dow entendía por tendencia. Dow definía una tendencia ascen-
-dente como una situación en la que cada sucesiva recuperación cierra más
-alto que el nivel alto de la recuperación previa, y cada sucesivo nivel bajo
-de la recuperación también cierra más alto que el nivel bajo de la recupe-
-ración previa. En otras palabras, una tendencia ascendente sigue un pa-
-trón de picos y valles cada vez más altos. La situación opuesta, con picos y
-valles cada vez más bajos, define una tendencia descendente. La defini-
-ción de Dow ha resistido a la prueba del tiempo y todavía ahora es la pie-
-dra angular del análisis de las tendencias.
+Antes de discutir cómo se comportan las tendencias, debemos aclarar lo que Dow entendía por tendencia. Dow definía una tendencia ascendente como una situación en la que cada sucesiva recuperación cierra más alto que el nivel alto de la recuperación previa, y cada sucesivo nivel bajo de la recuperación también cierra más alto que el nivel bajo de la recuperación previa. En otras palabras, una tendencia ascendente sigue un patrón de picos y valles cada vez más altos. La situación opuesta, con picos y valles cada vez más bajos, define una tendencia descendente. La definición de Dow ha resistido a la prueba del tiempo y todavía ahora es la piedra angular del análisis de las tendencias.
 
-Dow creía que las leyes de acción y reacción se aplican a los mercados
-de igual modo que se aplican al universo físico. Escribió lo siguiente: “Los
-registros de operaciones muestran que, en muchos casos, cuando un valor
-llega a lo más alto, a continuación tiene un moderado descenso, y luego
-Vuelve a subir hasta aproximarse a las cifras más altas. Si después de un
-movimiento tal, la cotización vuelve a retroceder, probablemente bajará
-una cierta distancia” (Nelson, pág. 43).
+Dow creía que las leyes de acción y reacción se aplican a los mercados de igual modo que se aplican al universo físico. Escribió lo siguiente: “Los registros de operaciones muestran que, en muchos casos, cuando un valor llega a lo más alto, a continuación tiene un moderado descenso, y luego vuelve a subir hasta aproximarse a las cifras más altas. Si después de un movimiento tal, la cotización vuelve a retroceder, probablemente bajará una cierta distancia” (Nelson, pág. 43).
 
-Dow consideraba que una tendencia tenía tres partes, primaria, secun-
-daria y menor, que él comparaba con la marea, las olas y las ondas del mar.
-La tendencia primaria representa la marea, la secundaria o intermedia re-
-presenta las olas que forman la marea, y las tendencias menores se com-
-portan como las pequeñas ondas de las olas.
+Dow consideraba que una tendencia tenía tres partes, primaria, secundaria y menor, que él comparaba con la marea, las olas y las ondas del mar. La tendencia primaria representa la marea, la secundaria o intermedia representa las olas que forman la marea, y las tendencias menores se comportan como las pequeñas ondas de las olas.
 
-Un observador puede determinar la dirección de la marea fijándose en
-el punto más alto de la playa que alcanzan las olas sucesivas. Si cada ola su-
-cesiva llega más adentro de la playa que la ola anterior, la marea está su-
-biendo. Cuando el punto alto de cada ola sucesiva retrocede, la marea está
-
-S1
+Un observador puede determinar la dirección de la marea fijándose en el punto más alto de la playa que alcanzan las olas sucesivas. Si cada ola sucesiva llega más adentro de la playa que la ola anterior, la marea

@@ -1,28 +1,5 @@
-Ciclos temporales 397
-
-do está en una cierta tendencia, se necesita un indicador que la siga, como
-la media móvil, para implementar las operaciones. En cambio, un merca-
-do que está en un cierto ciclo favorecería el uso de indicadores tipo osci-
-lador. La medida de los ciclos puede ayudar a determinar en qué etapa
-está el mercado actualmente, y qué tipo de indicador técnico es el más
-adecuado para las estrategias de transacción.
+en una tendencia. Cuando un mercado está en una cierta tendencia, se necesita un indicador que la siga, como la media móvil, para implementar las operaciones. En cambio, un mercado que está en un cierto ciclo favorecería el uso de indicadores tipo oscilador. La medida de los ciclos puede ayudar a determinar en qué etapa está el mercado actualmente, y qué tipo de indicador técnico es el más adecuado para las estrategias de transacción.
 
 Bibliografía y programas sobre ciclos
 
-La mayoría de los libros mencionados en este capítulo sobre los ciclos
-se puede obtener a través de empresas que los envían por correo, como
-por ejemplo Traders Press (ver referencia en el capítulo anterior) o Tra-
-ders” Library, P.O. Box 2466, Ellicott City, MD 21041, [800] 272-2855. Tam-
-bién hay muchos otros programas informáticos para ayudarle a realizar
-análisis de ciclos con su ordenador. El programa Ehrlich Cycle Forecaster
-y el CycleTrader de Walt Bressert son opciones añadibles a los programas
-de gráficos proporcionados por Omega Research. El CycleTrader de Bres-
-sert incorpora los conceptos descritos en su libro The Power of Oscillator/
-Cycle Combinations. (Bressert Marketing Group, 100 East Walton, Suite
-200, Chicago, IL 60611, (312) 867-8701). Se puede obtener más informa-
-ción sobre el programa informático MESA poniéndose en contacto con
-John Ehlers (Box 1801, Goleta, CA 93116, (805) 969-6478. Para informar-
-se sobre los análisis y las investigaciones actuales, no se olvide de la Foun-
-dation for the Study of Cycles.
-
-397
+La mayoría de los libros mencionados en este capítulo sobre los ciclos se puede obtener a través de empresas que los envían por correo, como por ejemplo Traders Press (ver referencia en el capítulo anterior) o Tra- ders’ Library, P. Box 2466, Ellicott City, MD 21041, [800] 272-2855. También hay muchos otros programas informáticos para ayudarle a realizar análisis de ciclos con su ordenador. El programa Ehrlich Cycle Forecaster y el Cycle Trader de Walt Bressert son opciones añadibles a los programas de gráficos proporcionados por Omega Research. El Cycle Trader de Bressert incorpora los conceptos descritos en su libro The Power of Oscillator/ Cycle Combinations. (Bressert Marketing Group, 100 East Walton, Suite 200, Chicago, IL 60611, (312) 867-8701). Se puede obtener más información sobre el programa informático MESA poniéndose en contacto con John Ehlers (Box 1801, Goleta, CA93116, (805) 969-6478. Para informarse sobre los análisis y las investigaciones actuales, no se olvide de la Foundation for the Study of

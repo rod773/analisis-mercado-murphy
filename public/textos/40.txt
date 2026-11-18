@@ -1,44 +1,13 @@
-40 Filosofía del análisis técnico
+programa de operaciones con futuros que tenga éxito.
 
 El margen de tiempo es mucho más corto
 
-Debido al alto factor de apalancamiento y a la necesidad de controlar
-de cerca las posiciones del mercado, el horizonte temporal del que opera
-con mercancías es mucho más corto por necesidad. Los técnicos del mer-
-cado de valores tienden a prestar más atención a una visión a más largo al-
-cance, y hablan de márgenes de tiempo que están más allá de las preocu-
-paciones del operador medio. Los técnicos del mercado de valores
-pueden hablar sobre dónde estará el mercado de aquí a tres o seis meses,
-pero los operadores de futuros quieren saber dónde estarán los precios la
-semana que viene, mañana o incluso de aquí a unas horas. Esto ha creado
-la necesidad de ajustar o afinar las herramientas de cálculo de tiempos a
-muy corto plazo, y un ejemplo lo tenemos en la media móvil. En los valo-
-res, las medias controladas más comúnmente son 50 y 200 días, pero en las
-mercancías, casi todas las medias móviles están por debajo de los 40 días.
-En los futuros, una combinación de medias móviles bastante corriente es
-4, 9 y 18 días, por ejemplo.
+Debido al alto factor de apalancamiento y a la necesidad de controlar de cerca las posiciones del mercado, el horizonte temporal del que opera con mercancías es mucho más corto por necesidad. Los técnicos del mercado de valores tienden a prestar más atención a una visión a más largo alcance, y hablan de márgenes de tiempo que están más allá de las preocupaciones del operador medio. Los técnicos del mercado de valores pueden hablar sobre dónde estará el mercado de aquí a tres o seis meses, pero los operadores de futuros quieren saber dónde estarán los precios la semana que viene, mañana o incluso de aquí a unas horas. Esto ha creado la necesidad de ajustar o afinar las herramientas de cálculo de tiempos a muy corto plazo, y un ejemplo lo tenemos en la media móvil. En los valores, las medias controladas más comúnmente son 50 y 200 días, pero en las mercancías, casi todas las medias móviles están por debajo de los 40 días. En los futuros, una combinación de medias móviles bastante corriente es 4, 9 y 18 días, por ejemplo.
 
 Mayor dependencia del tiempo
 
-Calcular el tiempo lo es todo en las operaciones con futuros. Deter-
-minar la dirección correcta del mercado soluciona sólo una parte del pro-
-blema. Si el momento calculado para entrar en el mercado es incorrecto
-por un día, 0 a veces incluso por minutos, la diferencia puede estar entre
-ganar o perder. Es malo estar en el lado equivocado del mercado y perder
-dinero, pero estar en el lado bueno y perder dinero igualmente es uno de
-los aspectos más frustrantes y desalentadores de las operaciones con futu-
-ros. Resulta obvio decir que el cálculo del tiempo es algo casi puramente
-técnico por naturaleza, ya que los fundamentos raramente cambian en
-una base día a día.
+Calcular el tiempo lo es todo en las operaciones con futuros. Determinar la dirección correcta del mercado soluciona sólo una parte del problema. Si el momento calculado para entrar en el mercado es incorrecto por un día, o a veces incluso por minutos, la diferencia puede estar entre ganar o perder. Es malo estar en el lado equivocado del mercado y perder dinero, pero estar en el lado bueno y perder dinero igualmente es uno de los aspectos más frustrantes y desalentadores de las operaciones con futuros. Resulta obvio decir que el cálculo del tiempo es algo casi puramente técnico por naturaleza, ya que los fundamentos raramente cambian en una base día a día.
 
 Menor confianza en promedios e indicadores del mercado
 
-El análisis del mercado de valores se basa fundamentalmente en el mo-
-vimiento de grandes promedios del mercado, tales como el índice Dow Jo-
-nes o el SP 500. Además, utiliza mucho ciertos indicadores técnicos que
-miden la fuerza o la debilidad del mercado más amplio, como la línea de
-avance-declive o la lista de nuevos máximos-nuevos mínimos de la Bolsa de
-Nueva York. Los mercados de productos se pueden vigilar usando medidas
-como el índice de precios de futuros del Commodity Research Bureau,
-
-40
+El análisis del mercado de valores se basa fundamentalmente en el movimiento de grandes promedios del mercado, tales como el índice Dow Jones o el S&P 500. Además, utiliza mucho ciertos indicadores técnicos que miden la fuerza o la debilidad del mercado más amplio, como la línea de avance-declive o la lista de nuevos máximos-nuevos mínimos de la Bolsa de Nueva York. Los mercados de productos se pueden vigilar usando medidas como el índice

@@ -1,44 +1,11 @@
-226 Capítulo 9
+el alcance del día por dos.
 
-bavoa97 —
+Otros incluyen el precio de cierre en sus cálculos sumando el precio máximo, el mínimo y el de cierre y dividiendo la suma entre tres. Otros, prefieren construir bandas de precios promediando los precios máximo y mínimo por separado. El resultado es dos líneas separadas de media móvil
 
-— (*SPX) SP 500 Stock Index 03/02/98
+Figura 9.1b Comparación de una media móvil de 20 días y una de 200 días. Durante el período lateral, de agosto a enero, los precios cruzaron la media más corta varias veces. No obstante, permanecieron por encima de la media de 200 días durante la totalidad del período.
 
-1050
-
-GRÁFICO DE BARRAS
-DIARIO
-
-L1000
-
-Media de 20 días
-
-Media de 200 días
-
-750
-
-w y A S — N D de a y
-308 228 Prrid ei T adoSisica 6 Oreca Remearch i. 1007
-
-Figura 9.1b Comparación de una media móvil de 20 días y una de 200 días. Du-
-rante el período lateral, de agosto a enero, los precios cruzaron la media más cor-
-ta varias veces. No obstante, permanecieron por encima de la media de 200 días
-durante la totalidad del período.
-
-que actúan como una especie de amortiguador de volatilidad o zona neu-
-tral. A pesar de estas variaciones, el precio de cierre sigue siendo el precio
-usado más comúnmente para el análisis de la media móvil y es el precio en
-el que centraremos la mayor parte de nuestra atención.
+que actúan como una especie de amortiguador de volatilidad o zona neutral. A pesar de estas variaciones, el precio de cierre sigue siendo el precio usado más comúnmente para el análisis de la media móvil y es el precio en el que centraremos la mayor parte de nuestra atención.
 
 La media móvil simple
 
-La media móvil simple, o media aritmética, es la que usa la mayoría de los
-analistas técnicos, pero hay quien cuestiona su utilidad en dos puntos. La
-primera crítica es que sólo se toma en consideración el período cubierto
-por la media (los últimos 10 días, por ejemplo). La segunda crítica es que
-la media móvil simple le da el mismo peso al precio de cada día. En un
-promedio de 10 días, el último día tiene el mismo peso que el primero
-para el cálculo. Al precio de cada día se le asigna una ponderación del 10
-por ciento. En una media de 5 días, cada día tendría una ponderación
-
-226
+La media móvil simple, o media aritmética, es la que usa la mayoría de los analistas técnicos, pero hay quien cuestiona su utilidad en dos puntos. La primera crítica es que sólo se toma en consideración el período cubierto por la media (los últimos 10 días, por ejemplo). La segunda crítica es que la media móvil simple le da el mismo peso al precio de cada día. En un promedio de 10 días, el último día tiene el mismo peso que el primero para el cálculo. Al precio de cada día se le asigna una ponderación del 10

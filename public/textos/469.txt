@@ -1,60 +1,7 @@
-Indicadores bursátiles 469
+más oscura) a menudo indica los puntos de inflexión.
 
-cada barra de precio se representa como un rectángulo, y la altura del mis-
-mo mide la banda de fluctuación del día. El ancho del rectángulo lo de-
-termina el volumen de ese mismo día, y cuanto mayor es el volumen, más
-ancho es el rectángulo. Los días con volámenes menores se reflejan en
-rectángulos más estrechos. (Ver figura 18.9).
+cada barra de precio se representa como un rectángulo, y la altura del mismo mide la banda de fluctuación del día. El ancho del rectángulo lo determina el volumen de ese mismo día, y cuanto mayor es el volumen, más ancho es el rectángulo. Los días con volúmenes menores se reflejan en rectángulos más estrechos. (Ver figura 18.9).
 
-Por regla, una ruptura alcista del precio debería ir siempre acompañada
-por una explosión de operaciones, o sea que en un gráfico de equivolu-
-men, el rectángulo que representa el volumen debería ser notoriamente
-más ancho. El gráfico de equivolumen combina el análisis de precio y vo-
-lumen en un solo gráfico y facilita mucho la comparación entre ambos va-
-lores. En una tendencia al alza, por ejemplo, los días que suben dan rec-
-tángulos más anchos y los que bajan dan rectángulos más estrechos. El
-gráfico de equivolumen se puede aplicar a los índices de mercado así
+Por regla, una ruptura alcista del precio debería ir siempre acompañada por una explosión de operaciones, o sea que en un gráfico de equivolu- men, el rectángulo que representa el volumen debería ser notoriamente más ancho. El gráfico de equivolumen combina el análisis de precio y volumen en un solo gráfico y facilita mucho la comparación entre ambos valores. En una tendencia al alza, por ejemplo, los días que suben dan rectángulos más anchos y los que bajan dan rectángulos más estrechos. El gráfico de equivolumen se puede aplicar a los índices de mercado así
 
-GRÁFICO DE EQUIVOLUMEN (INTEL)
-
-101
-
-100
-99
-8
-97
-6
-95
-94
-s3
-92
-91
-0
-89
-ss
-87
-86
-85
-84
-83
-82
-81
-80
-79
-78
-77
-76
-75
-74
-73
-72
-Al
-70'
-689
-
-Figura 18.9  Los gráficos equivolumen combinan precio y volumen. El ancho de
-cada rectángulo (barra diaria) lo determina el volumen. Los rectángulos más am-
-plios indican mayor volumen. Los rectángulos comenzaron a ampliarse durante la
-última venta de Íntel, una señal negativa.
-
-469
+Figura 18.9 Los gráficos equivolumen combinan precio y volumen. El ancho de cada rectángulo (barra diaria) lo determina el volumen. Los rectángulos más amplios indican mayor volumen. Los rectángulos comenzaron a ampliarse durante
